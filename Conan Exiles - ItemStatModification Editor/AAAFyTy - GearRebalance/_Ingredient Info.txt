@@ -1,0 +1,111 @@
+Lining -> Metal -> Leather -> Fur -> Silk -> Bone -> Horn -> Twine -> Plant Fiber
+
+War-Axe: 1 Long Handle, 20 Steel Bar
+Shield: 1 Shield Frame, 30 Steel Bar
+Pike: 1 Long Handle, 10 Steel Bar
+Bow: 1 Sturdy String, 4 Shaped Wood
+Warhammer: 1 Long Handle, 40 Steel Bar
+Mace: 1 Short Handle, 15 Steel Bar
+Poniards: 1 Dagger Handle, 10 Steel Bar
+Greatsword: 1 Long Handle, 35 Steel Bar
+Sword: 1 Short Handle, 20 Steel Bar
+Great Axe: 1 Long Handle, 30 Steel Bar
+
+War-Axe: 1 Long Handle, 
+Shield: 1 Shield Frame, 
+Pike: 1 Long Handle, 
+Bow: 1 Sturdy String, 
+Warhammer: 1 Long Handle, 
+Mace: 1 Short Handle, 
+Poinards: 2 Dagger Handle, 
+Greatsword: 1 Long Handle, 
+Sword: 1 Short Handle, 
+
+10001 - Stone
+10011 - Wood
+18025 - Dry Wood
+10005 - Bark
+10012 - Branch
+18030 - Resin
+
+16021 - Shaped Wood
+11108 - Insulated Wood
+
+10021 - Bone
+11078 - Bonemeal
+10022 - Dragonbone
+10023 - Dragonhorn
+
+11051 - Crystal
+11551 - Glass
+12001 - Plant Fiber
+14174 - Twine
+12513 - Silk
+12515 - Layered Silk
+14171 - Brimstone
+14172 - Tar
+15173 - Steelfire
+11070 - Alchemical Base
+80532 - Witchfire Powder
+18040 - Ice
+18041 - Black Ice
+
+12011 - Hide
+12012 - Thick Hide
+12013 - Reptile Hide
+11057 - Rhino Hide
+11056 - Hyena Pelt
+11059 - Elephant Hide
+18052 - Fur
+11060 - Feline Pelt
+82041 - Sabretooth Head
+11061 - Bear Pelt
+82038 - Brown Bear Head
+11062 - Chitin
+11063 - Bat Skin
+11069 - Wolf Pelt
+82031 - Wolf Head
+
+12511 - Leather
+12512 - Thick Leather
+12516 - Hardened Leather
+
+11071 - Ivory
+11072 - Claws
+18051 - Horn
+11056 - Feather
+
+11118 - Dagger Handle
+11114 - Short Handle
+11120 - Throwing Axe Handle
+11115 - Long Handle
+11119 - Spear Handle
+
+11116 - Shield Frame
+11117 - Sturdy String
+
+11501 - Iron Bar
+11502 - Steel Bar
+18062 - Hardened Steel Bar
+14152 - Composite Obsidian
+18061 - Star Metal Bar
+11054 - Gold Bar
+11055 - Silver Bar
+
+52921 - Light Helmet Padding
+52922 - Light Chest Padding
+52932 - Light Gloves Lining
+52933 - Light Legging Lining
+52934 - Light Boot Lining
+
+52911 - Medium Helmet Padding
+52912 - Medium Chest Padding
+52913 - Medium Gauntlet Lining
+52914 - Medium Legging Lining
+52915 - Medium Boot Lining
+
+52916 - Heavy Helmet Padding
+52917 - Heavy Chest Padding
+52918 - Heavy Gauntlet Lining
+52919 - Heavy Legging Lining
+52920 - Heavy Boot Lining

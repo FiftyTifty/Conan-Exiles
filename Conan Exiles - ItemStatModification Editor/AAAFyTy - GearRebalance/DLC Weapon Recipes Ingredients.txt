@@ -1,0 +1,76 @@
+Time To Craft: 60
+Tier: 4
+CraftXP: 1000
+Crafting Station for Weapons: Armorer Bench 89301
+
+=Blood And Sand=
+Bloodletter War-Axe: 1 Long Handle, 18 Steel Bar, 2 Gold Bar
+Bloodletter Shield: 1 Shield Frame, 20 Steel Bar, 20 Gold Bar
+Bloodletter Pike: 1 Long Handle, 7 Steel Bar, 3 Gold Bar
+Bloodletter Bow: 1 Sturdy String, 1 Steel Bar, 1 Gold Bar, 2 Shaped Wood
+Bloodletter Warhammer: 1 Long Handle, 38 Steel Bar, 2 Gold Bar
+Bloodletter Hammer: 1 Short Handle, 14 Steel bar, 1 Gold Bar
+Bloodletter Poinards: 2 Dagger Handle, 2 Steel Bar, 2 Gold Bar
+Bloodletter Greatsword: 1 Long Handle, 33 Steel bar, 2 Gold Bar
+Bloodletter Sword: 1 Short Handle, 18 Steel Bar, 2 Gold Bar
+=Blood And Sand=
+
+=Jewel of the West=
+Aquilonian War-Axe: 1 Long Handle, 15 Hardened Steel Bar, 5 Gold Bar
+Aquilonian Shield: 1 Shield Frame, 30 Gold bar
+Aquilonian Pike: 1 Long Handle, 7 Hardened Steel bar, 3 Steel Bar
+Bossonian Bow: 1 Sturdy String, 3 Steel Bar, 3 Shaped Wood
+Aquilonian Warhammer: 1 Long Handle, 30 Steel Bar, 10 Gold Bar
+Aquilonian Mace: 1 Short Handle, 5 Hardened Steel bar, 2 Gold Bar
+Aquilonian Poniards: 1 Dagger Handle, 3 Steel Bar, 2 Gold Bar
+Aquilonian Greatsword: 1 Long Handle, 2 Hardened Steel Bar, 20 Steel Bar, 1 Gold Bar
+Aquilonian Longsword: 1 Short Handle, 2 Hardened Steel Bar, 18 Steel bar,
+=Jewel of the West=
+
+=Seekers of the Dawn=
+Yamatai War-Axe: 1 Long Handle, 17 Steel Bar, 3 Gold Bar
+Yamatai Shield: 1 Shield Frame, 30 Gold Bar
+Naginata: 1 Long Handle, 8 Steel Bar, 2 Gold Bar
+Yamatai Bow: 1 Sturdy String, 4 Gold Bar, 4 Shaped Wood,
+Yamatai  Warhammer: 1 Long Handle, 38 Hardened Steel Bar, 2 Gold Bar
+Yamatai Tetsubo: 1 Short Handle, 8 Gold Bar
+Yamatai Sai: 2 Dagger Handle, 2 Steel Bar, 1 Gold Bar
+Yamatai Katana: 1 Long Handle, 
+Yamatai Assassins Blade: 1 Short Handle, 19 Hardened Steel, 1 Gold Bar
+=Seekers of the Dawn=
+
+=The Imperial East=
+Khitan War-Axe: 1 Long Handle, 4 Hardened Steel Bar, 16 Gold Bar
+Khitan Shield: 1 Shield Frame, 30 Gold Bar
+Khitan Quiang: 1 Long Handle, 10 Hardened Steel Bar
+Khitan Bow: 1 Sturdy String, 2 Gold Bar, 4 Shaped Wood
+Khitan Warclub: 1 Long Handle, 40 Hardened Steel Bar
+Khitan Mace: 1 Short Handle, 15 Steel Bar
+Khitan Dual-dao: 2 Dagger Handle, 10 Hardened Steel Bar
+Khitan Great Jian: 1 Long Handle, 29 Steel Bar, 3 Hardened Steel Bar, 2 Gold Bar
+Khitan Jian: 1 Short Handle, 5 Steel Bar, 10 Hardened Steel Bar, 5 Gold Bar
+=The Imperial East=
+
+=The Savage Frontier=
+Pictish War-Axe: 1 Long Handle, 18 Hardened Steel bar, 4 Shaped Wood
+Pictish Shield: 1 Shield Frame, 1 Sabretooth Head, 26 Thick Leather, 4 Shaped Wood
+Pictish Longspear: 1 Long Handle, 2 Composite Obsidian, 4 Silk, 4 Twine
+Pictish Bow: 1 Sturdy String, 4 Shaped Wood
+Pictish Warhammer: 1 Long Handle, 36 Hardened Steel Bar, 3 Silk, 1 Bone
+Pictish Mace: 1 Short Handle, 12 Hardened Steel Bar, 3 Bone
+Pictish Poinards: 2 Dagger Handle, 2 Gold Bar, 2 Leather, 6 Bone
+Pictish Greatsword: 1 Long Handle, 10 Thick Leather, 40 Bone
+Pictish Sword: 1 Short Handle, 2 Composite Obsidian, 10 Thick Leather, 10 Bone
+=The Savage Frontier=
+
+=Treasures of Turan=
+Turanian War-Axe: 1 Long Handle, 5 Steel Bar, 3 Hardened Steel Bar, 12 Gold Bar
+Turanian Shield: 1 Shield Frame, 24 Hardened Steel Bar, 6 Gold Bar
+Turanian Pike: 1 Long Handle, 5 Steel Bar, 5 Gold Bar
+Turanian Bow: 1 Sturdy String, 4 Hardened Steel Bar, 4 Gold Bar
+Turanian Warhammer: 1 Long Handle, 35 Hardened Steel Bar, 5 Gold Bar
+Turanian Mace: 1 Short Handle, 10 Hardened Steel Bar, 2 Gold Bar
+Turanian Poinards: 2 Dagger Handle, 2 Hardened Steel bar, 2 Gold Bar
+Turanian Greatsword: 1 Long Handle, 30 Steel Bar, 2 Gold Bar
+Turanian Sword: 1 Short Handle, 16 Steel bar, 2 Gold Bar
+=Treasures of Turan=

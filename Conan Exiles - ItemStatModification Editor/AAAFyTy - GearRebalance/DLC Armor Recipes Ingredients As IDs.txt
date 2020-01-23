@@ -1,0 +1,157 @@
+Time To Craft: 60
+Tier: 4
+CraftXP: 1000
+
+Any Armorer Bench 89000
+Armorer Bench 89201
+Improved Armorer's Bench 18523
+
+=Blood And Sand=
+5695 Assassin Mask: 1 52921, 2 18062, 5 12513
+5696 Assassin Chestpiece: 1 52922, 5 18062, 2 12511, 10 12513
+5697 Assassin Gloves: 2 52932, 2 18062, 10 12513
+5698 Assassin Leggings: 1 52933, 5 18062, 5 12511, 10 12513
+5699 Assassin Boots: 2 52934, 3 18062, 2 11502, 5 12511
+
+5700 Bear Shaman Headpiece: 1 52911, 1 11054, 1 82038, 5 12511
+5701 Bear Shaman Chestpiece: 1 52912, 15 12511, 2 18052, 5 19921
+5702 Bear Shaman Gloves: 2 52913, 10 12511, 1 18052, 2 19921
+5703 Bear Shaman Tasset: 1 52914, 20 12511, 1 18052, 5 12513,
+5704 Bear Shaman Boots: 2 52915, 10 12511, 2 19921, 20 12001
+
+5705 Barbarian Helmet: 1 52916, 10 11054, 2 18051
+5706 Barbarian Chestplate: 1 52917, 10 12512, 5 11054
+5707 Barbarian Gauntlets: 2 52918, 5 12512, 2 11054
+5708 Barbarian Leggings: 1 52919, 10 12512, 1 11054, 10 12513
+5709 Barbarian Boots: 2 52920, 5 12512, 2 11054, 20 12001
+=Blood And Sand=
+
+=Conan's Royal Armor=
+8006 Royal Circlet: 1 52911, 2 11054
+8007 Royal Breastplate: 1 52912, 2 11054, 10 12512
+8008 Royal Gauntlets: 2 52913, 3 11054
+8009 Royal Tassets: 1 52914, 6 11054, 10 12512
+8010 Royal Greaves: 2 52915, 5 11054, 10 12512
+=Conan's Royal Armor=
+
+=Debaucheries of Derketo=
+4480 Dark Templar Helmet: 1 52916, 10 11502, 5 12513
+4481 Dark Templar Chest: 1 52917, 20 11502, 3 11054
+4482 Dark Templar Gauntlets: 2 52918, 15 11502, 2 11054, 10 12513
+4483 Dark Templar Legplates: 1 52919, 20 11502, 3 11054, 1 12513
+4484 Dark Templar Sabatons: 2 52920, 4 11054, 10 12511
+
+4485 Guardian Helmet: 1 52916, 10 11054, 2 18051
+4486 Guardian Chest: 1 52917, 20 11054
+4487 Guardian Gauntlets: 2 52918, 2 11054, 8 11055, 5 12511
+4488 Guardian Legplates: 1 52919, 10 11054, 5 12513
+4489 Guardian Sabatons: 2 52920, 2 11054, 8 11055
+=Debaucheries of Derketo=
+
+=Jewel of the West=
+7155 Aquilonian Scout Headgear: 1 52921, 10 12511
+7156 Aquilonian Scout Vest: 1 52922, 1 11054, 15 12511, 10 12513
+7157 Aquilonian Scout Wraps: 2 52932, 1 11054, 10 12511
+7158 Aquilonian Scout Pteruges: 1 52933, 1 11054, 20 12513
+7159 Aquilonian Scout Sandals: 2 52934, 1 11054, 5 12511, 20 12001
+
+7160 Aquilonian Infantry Helm: 1 52911, 1 11054, 10 12512
+7161 Aquilonian Infantry Cuirass: 1 52912, 2 11054, 20 12512
+7162 Aquilonian Infantry Bracers: 2 52913, 2 11054, 5 12512, 5 12511
+7163 Aquilonian Infantry Pteruges: 1 52914, 3 11054, 20 12512
+7164 Aquilonian Infantry Sandals: 2 52915, 2 11054, 10 12512, 20 12001
+
+7165 Black Dragon Helm: 1 52916, 5 18062, 5 11054, 10 11056
+7166 Black Dragon Cuirass: 1 52917, 15 18062, 5 11054, 5 12512
+7167 Black Dragon Gauntlets: 2 52918, 10 18062, 2 11054, 5 12512
+7168 Black Dragon Pteruges: 1 52919, 5 11054, 20 12512, 20 12513
+7169 Black Dragon Sandals: 2 52920, 5 18062, 2 11054, 5 12512
+=Jewel of the West=
+
+=Seekers of the Dawn=
+3155 Yamatai Footsoldier Hat: 1 52921, 5 12513, 20 12001, 1 14174
+3156 Yamatai Footsoldier Chestpiece: 1 52922, 1 11502, 20 12513, 5 14174
+3157 Yamatai Footsoldier Gloves: 2 52932, 2 12511, 2 12513, 5 14174
+3158 Yamatai Footsoldier Leggings: 1 52933, 25 12513, 5 14174
+3159 Yamatai Footsoldier Sabatons: 2 52934, 10 12513, 20 12001, 5 14174
+
+3160 Yamatai Demon Mask: 1 52911, 5 11502, 1 18052
+3161 Yamatai Demon Chestpiece: 1 52912, 20 12513, 1 11502, 20 12511
+3162 Yamatai Demon Gloves: 2 52913, 10 12511, 5 12513
+3163 Yamatai Demon Leggings: 1 52914, 25 12513, 20 12001
+3164 Yamatai Demon Sabatons: 2 52915, 10 12511, 4 14174
+
+3165 Yamatai Warlord Helmet: 1 52916, 10 18062, 3 11054, 2 14174
+3166 Yamatai Warlord Chestpiece: 1 52917, 15 18062, 5 11502, 20 12513
+3167 Yamatai Warlord Gloves: 2 52918, 10 18062, 2 11502, 2 12513
+3168 Yamatai Warlord Leggings: 1 52919, 15 18062, 10 12512, 10 12513
+3169 Yamatai Warlord Sabatons: 2 52920, 10 18062, 5 12513, 20 12001
+=Seekers of the Dawn=
+
+=The Imperial East=
+8155 Khitan Mercenary Headband: 1 52921,  1 11054, 5 12511
+8156 Khitan Mercenary Cuirass: 1 52922, 1 11054, 20 12511, 20 12513
+8157 Khitan Mercenary Bracers: 2 52932, 10 12511, 2 12513
+8158 Khitan Mercenary Tasset: 1 52933, 1 11054, 20 12511, 20 12513
+8159 Khitan Mercenary Footgear: 2 52934, 10 12511
+
+8160 Khitan Captain Helm: 1 52911, 2 11054, 10 12511, 5 12513
+8161 Khitan Captain Dingjia: 1 52912, 3 11054, 10 12511, 10 12513
+8162 Khitan Captain Bracers: 2 52913, 1 11054, 10 12511, 4 12513
+8163 Khitan Captain Tasset: 1 52914, 2 11054, 10 12511, 10 12513
+8164 Khitan Captain Boots: 2 52915, 1 11054, 10 12511
+
+8165 Khitan Imperial Helm: 1 52916, 5 11054, 5 12512, 5 12513
+8166 Khitan Imperial Breastplate: 1 52917, 20 11054, 10 2512, 5 12513
+8167 Khitan Imperial Bracers: 2 52918, 5 11054, 4 12513
+8168 Khitan Imperial Tasset: 1 52919, 20 11054, 10 12512, 12 12513
+8169 Khitan Imperial Boots: 2 52920, 10 12512, 5 12511
+=The Imperial East=
+
+=The Riddle of Steel=
+8415 Reaver Helmet: 1 52916, 15 18062
+8416 Ravager Helmet: 1 52911, 5 18062, 2 18051
+8417 Steppes Helmet: 1 52921, 5 18052, 10 11502
+8418 Kings Guard Helmet: 1 52911, 2 11054, 5 11502
+8419 Setite Cult Helmet: 1 52916, 10 18062
+=The Riddle of Steel=
+
+=The Savage Frontier=
+Pictish Wizard Mask: 1 52921, 5 12513, 5 19921
+Pictish Wizard Robe: 1 52922, 20 12011, 2 12511, 20 11056
+Pictish Wizard Wraps: 2 52932, 10 12011
+Pictish Wizard Skirt: 1 52933, 10 12011, 2 12511, 20 12513
+Pictish Wizard Moccasins: 2 52934 10 12011, 2 12511, 10 11056
+
+Pictish Brave Headgear: 1 52911, 1 82031
+Pictish Brave Tunic: 1 52912, 5 12511, 20 11069, 5 19921
+Pitcish Brave Wristwraps: 2 52913, 10 12511, 2 11069
+Pictish Brave Breechclout: 1 52914, 20 12511, 10 12513, 10 19921
+Pictish Brave Moccasins: 2 52915, 10 12511, 2 11069
+
+Pictish Warchief Headdress: 1 52916, 2 11054, 5 11061, 1 82031
+Pictish Warchief Chestpiece: 1 52917, 15 12512, 10 11061, 5 11054
+Pictish Warchief Gauntlets: 2 52918, 3 11054, 2 11061
+Pictish Warchief Leggings: 1 52919, 10 12512, 15 11061
+Pictish Warchief Boots: 2 52920, 4 11054, 5 11061
+=The Savage Frontier=
+
+=Treasures of Turan=
+Turanian Scout Helmet: 1 52921, 15 12513
+Turanian Scout Chestpiece: 1 52922, 1 11054, 15 12513, 15 12511
+Turanian Scout Gloves: 2 52932, 10 12511
+Turanian Scout Leggings: 1 52933, 1 11054, 25 12513, 10 12511
+Turanian Scout Boots: 2 52934, 1 11054, 15 12511
+
+Turanian Mercenary Headgear: 1 52911, 2 11054, 10 12513, 10 12511
+Turanian Mercenary Chestguard: 1 52912, 1 11054, 20 12513, 20 12511
+Turanian Mercenary Gauntlets: 2 52913, 2 11054, 10 12511
+Turanian Mercenary Leg-guards: 1 52914, 1 11054, 25 12511, 25 12513
+Turanian Mercenary Boots: 2 52915, 2 11054, 20 12511
+
+Turanian Phalanx Helm: 1 52916, 3 11054, 10 11502, 20 12513
+Turanian Phalanx Chestguard: 1 52917, 10 18062, 15 11502, 5 11054
+Turanian Phalanx Guantlets: 2 52918, 5 18062, 2 11054, 10 12512
+Turanian Phalanx Leg-guards: 1 52919, 15 11502, 2 11054, 20 12512
+Turanian Phalanx Boots: 2 52920, 10 12512, 2 11054
+=Treasures of Turan=

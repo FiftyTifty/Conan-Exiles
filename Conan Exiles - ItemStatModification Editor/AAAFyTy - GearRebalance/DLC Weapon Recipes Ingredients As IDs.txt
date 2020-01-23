@@ -1,0 +1,91 @@
+Time To Craft: 60
+Tier: 4
+CraftXP: 1000
+
+Blacksmith Bench 89301
+Improved Blacksmith's Bench 89302
+
+Carpenter's Bench 89401
+Improved Carpenter's Bench 89402
+
+=Blood And Sand=
+5587 Bloodletter War-Axe: 1 11115, 18 11502, 2 11054 
+5543 Bloodletter Shield: 1 11116, 20 11502, 20 11054 
+5542 Bloodletter Pike: 1 11115, 7 11502, 3 11054 
+5541 Bloodletter Bow: 1 11117, 1 11502, 1 11054, 2 16021
+5540 Bloodletter Hammer: 1 11115, 38 11502, 2 11054 
+5539 Bloodletter Mace: 1 11114, 14 11502, 1 11054 
+5538 Bloodletter Poinards: 2 11118, 2 11502, 2 11054 
+5537 Bloodletter Two-Handed Sword: 1 11115, 33 11502, 2 11054 
+5536 Bloodletter Sword: 1 11114, 18 11502, 2 11054
+5740 Twin-Bladed Short Sword: 1 11114, 19 11502, 1 11054
+5743 Curved Short Sword: 1 11114, 8 18062, 8 11052, 4 11054
+5746 Spiked Short Sword: 1 11114, 10 18062, 10 11054
+5749 Hooked Short Sword: 1 11114, 18 18062, 1 11054
+5575 Bloodletter Short Sword: 1 11114, 20 18062
+5581 Bloodletter Great Axe: 1 11115, 5 11502, 30 11054
+5752 Jagged Great Axe: 1 11115, 30 11502, 5 11055
+5755 Reaver's Great Axe: 1 11115, 40 18062
+5758 Barbaric Great Axe: 1 11115, 36 11502, 2 11055
+5761 Great Axe of the North: 1 11115, 4 11502, 18 11055
+=Blood And Sand=
+
+=Jewel of the West=
+7275 Aquilonian War-Axe: 1 11115, 15 18062, 5 11054 
+7243 Aquilonian Shield: 1 11116, 20 11054 
+7242 Aquilonian Pike: 1 11115, 7 18062, 3 11502
+7241 Bossonian Bow: 1 11117, 3 11502, 3 16021
+7240 Aquilonian Warhammer: 1 11115, 30 11502, 10 11054 
+7239 Aquilonian Mace: 1 11114, 5 18062, 2 11054 
+7238 Aquilonian Poniards: 1 11118, 3 11502, 2 11054 
+7237 Aquilonian Greatsword: 1 11115, 2 18062, 20 11502, 1 11054 
+7236 Aquilonian Longsword: 1 11114, 2 18062, 18 11502,
+=Jewel of the West=
+
+=Seekers of the Dawn=
+3277 Yamatai War-Axe: 1 11115, 17 11502, 3 11054 
+3243 Yamatai Shield: 1 11116, 30 11054 
+3242 Naginata: 1 11115, 8 11502, 2 11054 
+3241 Yamatai Bow: 1 11117, 4 11054 , 4 16021,
+3240 Yamatai  Warhammer: 1 11115, 38 18062, 2 11054 
+3239 Yamatai Tetsubo: 1 11114, 8 11054 
+3238 Yamatai Sai: 2 11118, 2 11502, 1 11054
+Yamatai Katana: 1 11115, 15 18062, 5 11502
+3236 Yamatai Assassins Blade: 1 11114, 19 11502, 1 11054 
+=Seekers of the Dawn=
+
+=The Imperial East=
+8275 Khitan War-Axe: 1 11115, 4 18062, 16 11054 
+8243 Khitan Shield: 1 11116, 30 11054 
+8242 Khitan Quiang: 1 11115, 10 18062
+8241 Khitan Bow: 1 11117, 2 11054, 4 16021
+8240 Khitan Warclub: 1 11115, 40 18062
+8239 Khitan Mace: 1 11114, 15 11502
+8238 Khitan Dual-dao: 2 11118, 10 18062
+8237 Khitan Great Jian: 1 11115, 29 11502, 3 18062, 2 11054 
+8236 Khitan Jian: 1 11114, 5 11502, 10 18062, 5 11054 
+=The Imperial East=
+
+=The Savage Frontier=
+6275 Pictish War-Axe: 1 11115, 18 18062, 4 16021
+6243 Pictish Shield: 1 11116, 1 82041, 26 12512, 4 16021
+6242 Pictish Longspear: 1 11115, 2 14152, 4 12513, 4 14174
+6241 Pictish Bow: 1 11117, 4 16021
+6240 Pictish Warhammer: 1 11115, 36 18062, 3 12513, 1 10021
+6239 Pictish Club: 1 11114, 12 18062, 3 10021
+6238 Pictish Daggers: 2 11118, 2 11054 , 2 12511, 6 10021
+6237 Pictish Greatsword: 1 11115, 10 12512, 40 10021
+6236 Pictish Longsword: 1 11114, 2 14152, 10 12512, 10 10021
+=The Savage Frontier=
+
+=Treasures of Turan=
+5275 Turanian War-Axe: 1 11115, 5 11502, 3 18062, 12 11054 
+5243 Turanian Shield: 1 11116, 24 18062, 6 11054 
+5242 Turanian Pike: 1 11115, 5 11502, 5 11054 
+5241 Turanian Bow: 1 11117, 4 18062, 4 11054 
+5240 Turanian Warhammer: 1 11115, 35 18062, 5 11054 
+5239 Turanian Mace: 1 11114, 10 18062, 2 11054 
+5238 Turanian Daggers: 2 11118, 2 18062, 2 11054 
+5237 Turanian Greatsword: 1 11115, 30 11502, 2 11054 
+5236 Turanian Sword: 1 11114, 16 11502, 2 11054 
+=Treasures of Turan=

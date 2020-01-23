@@ -1,0 +1,126 @@
+Time To Craft: 60
+Tier: 4
+CraftXP: 1000
+Crafting Station for Armors: Armorer Bench 18523
+
+=Blood And Sand=
+Assassin Mask: 1 Light Helmet Padding, 2 Hardened Steel Bar, 5 Silk
+Assassin Chestpiece: 1 Light Chest Padding, 5 Hardened Steel Bar, 2 Leather, 10 Silk
+Assassin Gloves: 2 Light Gloves Lining, 2 Hardened Steel Bar, 10 Silk
+Assassin Leggings: 1 Light Legging Lining, 5 Hardened Steel Bar, 5 Leather, 10 Silk
+Assassin Boots: 1 Light Boot Lining, 3 Hardened Steel bar, 2 Steel Bar, 5 Leather
+
+Bear Shaman Headpiece: 1 Medium Helmet Padding, 1 Gold Bar, 1 Brown Bear Head, 5 Leather
+Bear Shaman Chestpiece: 1 Medium Chest Padding, 15 Leather, 2 Fur, 5 Bone
+Bear Shaman Gloves: 2 Medium Gauntlet Lining, 10 Leather, 1 Fur, 2 Bone
+Bear Shaman Tasset: 1 Medium Legging Lining, 20 Leather, 1 Fur, 5 Silk,
+Bear Shaman Boots: 2 Medium Boot Lining, 10 Leather, 2 Bone, 20 Plant Fiber
+
+Barbarian Helmet: 1 Heavy Helmet Padding, 10 Gold Bar, 2 Horn
+Barbarian Chestplate: 1 Heavy Chest Padding, 10 Thick Leather, 5 Gold Bar
+Barbarian Gauntlets: 2 Heavy Gauntlet Lining, 5 Thick Leather, 2 Gold Bar
+Barbarian Leggings: 1 Heavy Legging Lining, 10 Thick Leather, 1 Gold Bar, 10 Silk
+Barbarian Boots: 2 Heavy Boot Lining, 5 Thick Leather, 2 Gold Bar, 20 Plant Fiber
+=Blood And Sand=
+
+=Conan's Royal Armor=
+Royal Circlet: 1 Medium Helmet Padding, 2 Gold Bar
+Royal Breastplate: 1 Medium Chest Padding, 2 Gold Bar, 10 Thick Leather
+Royal Gauntlets: 2 Medium Gauntlet Lining, 3 Gold Bar
+Royal Tassets: 1 Medium Legging Lining, 6 Gold Bar, 10 Thick Leather
+Royal Greaves: 2 Medium Boot Lining, 5 Gold Bar, 10 Thick Leather
+=Conan's Royal Armor=
+
+=Debaucheries of Derketo=
+Dark Templar Helmet: Heavy Helmet Padding, 10 Steel Bar, 5 Silk
+Dark Templar Chest: Heavy Chest Padding, 20 Steel Bar, 3 Gold Bar
+Dark Templar Gauntlets: Heavy Gauntlet Lining, 5 Steel Bar, 2 Gold Bar, 5 Leather, 10 Silk
+Dark Templar Legplates: Heavy Legging Lining, 10 Steel Bar, 3 Gold Bar, 10 Leather, 1 Silk
+Dark Templar Sabatons: Heavy Boot Lining, 4 Gold Bar, 10 Leather
+
+Guardian Helmet: Heavy Helmet Padding, 10 Gold Bar, 2 Horn
+Guardian Chest: Heavy Chest Padding, 20 Gold Bar
+Guardian Gauntlets: 2 Heavy Gauntlet Lining, 2 Gold Bar, 8 Silver Bar, 5 Leather
+Guardian Legplates: Heavy Legging Lining, 10 Gold Bar, 5 Silk
+Guardian Sabatons: 2 Heavy Boot Lining, 2 Gold Bar, 8 Silver Bar
+=Debaucheries of Derketo=
+
+=Jewel of the West=
+Aquilonian Scout Headgear: 1 Light Helmet Padding, 10 Leather
+Aquilonian Scout Vest: 1 Light Chest Padding, 1 Gold Bar, 15 Leather, 10 Silk
+Aquilonian Scout Wraps: 2 Light Gloves Lining, 1 Gold Bar, 10 Leather
+Aquilonian Scout Pteruges: 1 Light Legging Lining, 1 Gold Bar, 20 Silk
+Aquilonian Scout Sandals: 2 Light Boot Lining, 1 Gold Bar, 5 Leather, 20 Plant Fiber
+
+Aquilonian Infantry Helm: 1 Medium Helmet Padding, 1 Gold Bar, 10 Thick Leather
+Aquilonian Infantry Cuirass: 1 Medium Chest Padding, 2 Gold Bar, 20 Thick Leather
+Aquilonian Infantry Bracers: 2 Medium Gauntlet Lining, 2 Gold Bar, 5 Thick Leather, 5 leather
+Aquilonian Infantry Pteruges: 1 Medium Leggining Lining, 3 Gold bar, 20 Thick Leather
+Aquilonian Infantry Sandals: 2 Medium Boot Lining, 2 Gold Bar, 10 Thick Leather, 20 Plant Fiber
+
+Black Dragon Helm: 1 Heavy Helmet Padding, 5 Hardened Steel Bar, 5 Gold Bar, 10 Feather
+Black Dragon Cuirass: 1 Heavy Chest Padding, 15 Hardened Steel Bar, 5 Gold Bar, 5 Thick Leather
+Black Dragon Gauntlets: 2 Heavy Gauntlet Lining, 10 Hardened Steel Bar, 2 Gold Bar, 5 Thick leather
+Black Dragon Pteruges: 1 Heavy Legging Lining, 5 Gold Bar, 20 Thick Leather, 20 Silk
+Black Dragon Sandals: 2 Heavy Boot Lining, 5 Hardened Steel Bar, 2 Gold Bar, 5 Thick Leather
+=Jewel of the West=
+
+=Seekers of the Dawn=
+Yamatai Footsoldier Hat: 1 Light Helmet Padding, 5 Silk, 20 Plant Fiber, 1 Twine
+Yamatai Footsoldier Chestpiece: 1 Light Chest Padding, 1 Steel bar, 20 Silk, 5 Twine,
+Yamatai Footsoldier Gloves: 2 Light Gloves Lining 2 Leather, 2 Silk, 5 Twine
+Yamatai Footsoldier Leggings: 1 Light Legging Lining, 25 Silk, 5 Twine
+Yamatai Footsoldier Sabatons: 2 Light Boot Lining, 10 Silk, 20 Plant Fiber, 5 Twine
+
+Yamatai Demon Mask: 1 Medium Helmet Padding, 5 Steel Bar, 1 Wolf Pelt
+Yamatai Demon Chestpiece: 1 Medium Chest Padding, 20 Silk, 1 Steel Bar, 20 Leather
+Yamatai Demon Gloves: 2 Medium Gauntlet Lining, 10 Leather, 5 Silk
+Yamatai Demon Leggings: 1 Medium Legging Lining, 25 Silk, 20 Plant Fiber
+Yamatai Demon Sabatons: 2 Medium Boot Lining, 10 Leather, 4 Twine
+
+Yamatai Warlord Helmet: 1 Heavy Helmet Padding, 10 Hardened Steel Bar, 3 Gold Bar, 2 Twine
+Yamatai Warlord Chestpiece: 1 Heavy Chest Padding, 15 Hardened Steel Bar, 5 Steel Bar, 20 Silk
+Yamatai Warlord Gloves: 2 Heavy Gauntlet Lining, 10 Hardened Steel Bar, 2 Steel Bar, 2 Silk
+Yamatai Warlord Leggings: 1 Heavy Legging Lining, 15 Hardened Steel Bar, 10 Thick Leather, 10 Silk
+Yamatai Warlord Sabatons: 2 Heavy Boot Lining, 10 Hardned Steel, 5 Silk, 20 Plant Fiber
+=Seekers of the Dawn=
+
+=The Savage Frontier=
+Pictish Wizard Mask: 1 Light Helmet Padding, 5 Silk, 5 Bone
+Pictish Wizard Robe: 1 Light Chest Padding, 20 Hide, 2 Leather, 20 Feather
+Pictish Wizard Wraps: 2 Light Gloves Lining, 10 Hide
+Pictish Wizard Skirt: 1 Light Legging Lining, 10 Hide, 2 Leather, 20 Silk
+Pictish Wizard Moccasins: 2 Light Boot Lining 10 Hide, 2 Leather, 10 feather
+
+Pictish Brave Headgear: 1 Medium Helmet Padding, 1 Wolf Head
+Pictish Brave Tunic: 1 Medium Chest Padding, 5 Leather, 20 Wolf Pelt, 5 Bone
+Pitcish Brave Wristwraps: 2 Medium Gauntlet Lining, 10 Leather, 2 Wolf Pelt
+Pictish Brave Breechclout: 1 Medium Legging Lining, 20 Leather, 10 Silk, 10 Bone
+Pictish Brave Moccasins: 2 Medium Boot Lining, 10 Leather, 2 Wolf Pelt
+
+Pictish Warchief Headdress: 1 Heavy Helmet Padding, 2 Gold Bar, 5 Bear Pelt, 1 Wolf Head
+Pictish Warchief Chestpiece: 1 Heavy Chest Padding, 15 Thick Leather, 10 Bear Pelt, 5 Gold Bar
+Pictish Warchief Gauntlets: 2 Heavy Gauntlet Lining, 3 Gold Bar, 2 Bear Pelt
+Pictish Warchief Leggings: 1 Heavy Legging Lining, 10 Thick Leather, 15 Bear Pelt
+Pictish Warchief Boots: 2 Heavy Boot Lining, 4 Gold Bar, 5 Bear Pelt
+=The Savage Frontier=
+
+=Treasures of Turan=
+Turanian Scout Helmet: 1 Light Helmet Padding, 15 Silk
+Turanian Scout Chestpiece: 1 Light Chest Padding, 1 Gold Bar, 15 Silk, 15 Leather
+Turanian Scout Gloves: 2 Light Gloves Lining, 10 Leather
+Turanian Scout Leggings: Light Legging Lining, 1 Gold Bar, 25 Silk, 10 Leather
+Turanian Scout Boots: 2 Light Boot Lining, 1 Gold Bar, 15 Leather
+
+Turanian Mercenary Headgear: 1 Medium Helmet Padding, 2 Gold Bar, 10 Silk, 10 Leather
+Turanian Mercenary Chestguard: 1 Medium Chest Padding, 1 Gold Bar, 20 Silk, 20 Leather
+Turanian Mercenary Gauntlets: 2 Medium Gauntlet Lining, 2 Gold Bar, 10 Leather
+Turanian Mercenary Leg-guards: 1 Medium Legging Lining, 1 Gold Bar, 25 Leather, 25 Silk
+Turanian Mercenary Boots: 2 Medium Boot Lining, 2 Gold Bar, 20 Leather
+
+Turanian Phalanx Helm: 1 Heavy Helmet Padding, 3 Gold Bar, 10 Steel Bar, 20 Silk
+Turanian Phalanx Chestguard: 1 Heavy Chest Padding, 10 Hardened Steel Bar, 15 Steel Bar, 5 Gold Bar
+Turanian Phalanx Guantlets: 2 Heavy Gauntlet Lining, 5 Hardened Steel Bar, 2 Gold Bar, 10 Thick Leather
+Turanian Phalanx Leg-guards: Heavy Legging Lining, 15 Steel Bar, 2 Gold Bar, 10 Thick Leather, 15 Silk
+Turanian Phalanx Boots: 2 Heavy Boot Lining, 10 Thick Leather, 2 Gold Bar
+=Treasures of Turan=
