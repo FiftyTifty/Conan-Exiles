@@ -1,0 +1,15 @@
+ThrallCraftingSpeed
+ThrallCraftingCost
+ThrallCraftingFuel
+ThrallEntertainerPotency
+DamageModifierMelee
+DamageModifierRanged
+NaturalArmor
+ThrallCorruptionCleansePotency
+ThrallCorruptionCleanseLimit
+Armor
+EncumbranceWeight
+KilledXPModifier
+CurrentEncumbrance
+Temperature Modification
+PenisScaleModifier

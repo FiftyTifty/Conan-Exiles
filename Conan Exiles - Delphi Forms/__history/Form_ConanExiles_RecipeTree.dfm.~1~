@@ -1,0 +1,7 @@
+object Form_ConanExiles_RecipeTree: TForm_ConanExiles_RecipeTree
+  Left = 0
+  Top = 0
+  Width = 320
+  Height = 240
+  TabOrder = 0
+end

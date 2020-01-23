@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/28 21:47:31.000.918,=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 21:48:00.000.693,H:\Documents\Embarcadero\Studio\Projects\Unit1.pas=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 21:48:00.000.693,H:\Documents\Embarcadero\Studio\Projects\Unit1.dfm=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Unit1.dfm</Transaction>
+    <Transaction>2019/10/28 21:48:10.000.887,H:\Documents\Embarcadero\Studio\Projects\Project1.dproj=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\ConanExilesItemStatModificationEditor.dproj</Transaction>
+    <Transaction>2019/10/28 21:52:39.000.843,=H:\Documents\Embarcadero\Studio\Projects\_Library - delphi-json-master\djson.pas</Transaction>
+    <Transaction>2019/10/28 22:54:49.000.623,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Unit2.pas</Transaction>
+    <Transaction>2019/10/29 00:48:48.000.800,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Form_ConanExiles_ItemStatModification_Entry.pas</Transaction>
+    <Transaction>2019/10/29 01:08:52.000.676,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - Delphi Forms\Form_ConanExiles_ItemStatModification_Entry.pas</Transaction>
+    <Transaction>2019/11/01 20:56:06.000.106,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\fytyConanExilesTypes.pas</Transaction>
+    <Transaction>2019/11/01 20:56:20.000.293,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\fytyConanExilesTypesFunctions.pas</Transaction>
+    <Transaction>2019/11/01 21:04:57.000.718,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\fytyConanExilesTypes.pas=</Transaction>
+    <Transaction>2019/11/01 21:05:00.000.033,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\fytyConanExilesTypesFunctions.pas=</Transaction>
+    <Transaction>2019/11/01 21:11:21.000.601,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - API\fytyConanExilesTypes.pas</Transaction>
+    <Transaction>2019/11/01 21:11:34.000.119,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - API\fytyConanExilesTypesFunctions.pas</Transaction>
+  </Transactions>
+</BorlandProject>

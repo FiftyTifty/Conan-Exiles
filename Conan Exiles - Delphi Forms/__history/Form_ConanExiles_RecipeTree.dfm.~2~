@@ -1,0 +1,15 @@
+object Form_ConanExiles_RecipeTree: TForm_ConanExiles_RecipeTree
+  Left = 0
+  Top = 0
+  Width = 512
+  Height = 610
+  TabOrder = 0
+  object TreeView1: TTreeView
+    Left = 3
+    Top = 3
+    Width = 506
+    Height = 604
+    Indent = 19
+    TabOrder = 0
+  end
+end

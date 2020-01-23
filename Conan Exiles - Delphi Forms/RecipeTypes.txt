@@ -1,0 +1,12 @@
+Armor
+Building Item
+Category Count
+Consumable
+Crafting Stations
+Decoration
+Material
+Pet Item
+Tools
+Utility
+Warpaints
+Weapon

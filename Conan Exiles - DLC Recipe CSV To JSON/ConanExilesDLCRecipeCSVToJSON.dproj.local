@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/21 07:22:36.000.463,=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/21 07:23:40.000.433,H:\Documents\Embarcadero\Studio\Projects\ConanExilesDLCRecipeCSVToJSON.dproj=H:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/10/21 07:24:16.000.828,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Nvv.IO.CSV.Delphi.NvvCSVClasses.pas</Transaction>
+    <Transaction>2019/10/21 07:24:16.000.787,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\fytyConanExilesTypes.pas</Transaction>
+    <Transaction>2019/10/21 07:24:16.000.819,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\fytyConanExilesTypesFunctions.pas</Transaction>
+    <Transaction>2019/10/21 07:37:35.000.260,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Recipe CSV To JSON\Unit1.pas=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/21 07:37:35.000.260,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Recipe CSV To JSON\Unit1.dfm=H:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/21 07:37:42.000.702,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Recipe CSV To JSON\ConanExilesDLCRecipeCSVToJSON.dproj=H:\Documents\Embarcadero\Studio\Projects\ConanExilesDLCRecipeCSVToJSON.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

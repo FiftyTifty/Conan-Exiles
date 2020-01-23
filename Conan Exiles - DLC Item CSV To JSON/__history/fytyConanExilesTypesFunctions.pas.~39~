@@ -1,0 +1,89 @@
+unit fytyConanExilesTypesFunctions;
+
+interface
+
+uses Vcl.Dialogs, fytyConanExilesTypes;
+
+const
+    //NSLOCTEXT(\"\", \"ItemTable_4150_Name\", \"Sign (Alchemist)\")
+    strNamePrefix = 'NSLOCTEXT("", "ItemTable_';
+    strNameMiddle = '_Name", "';
+    strNameSuffix = '")';
+    //NSLOCTEXT(\"\", \"ItemTable_4150_ShortDesc\", \"A sign made out of wood\")
+    strShortDescPrefix = 'NSLOCTEXT("", "ItemTable_';
+    strShortDescMiddle = '_ShortDesc", "';
+    strShortDescSuffix = '")';
+    //NSLOCTEXT(\"\", \"ItemTable_4150_LongDesc\", \"established for centuries.\")
+    strLongDescPrefix = 'NSLOCTEXT("", "ItemTable_';
+    strLongDescMiddle = '_LongDesc", "';
+    strLongDescSuffix = '")';
+
+function InitializeCEItem(ceitemInput: CEItem; strRowName, strName, strShortDesc, strLongDesc: string): CEItem;
+function InitializeCERecipe(cerecipeInput: CERecipe; strRowName): CERecipe;
+
+implementation
+
+  function InitializeCEItem(ceitemInput: CEItem; strRowName, strName, strShortDesc, strLongDesc: string): CEItem;
+  begin
+
+    //ShowMessage('Started initializing!');
+    ceitemInput.RowName := strRowName;
+    ceitemInput.Name := strNamePrefix + strRowName + strNameMiddle + strName + strNameSuffix;
+    ceitemInput.ShortDesc := strShortDescPrefix + strRowName + strShortDescMiddle + strShortDesc + strShortDescSuffix;
+    ceitemInput.LongDesc := strLongDescPrefix + strRowName + strLongDescMiddle + strLongDesc + strLongDescSuffix;
+    //ShowMessage('Set RowName, Name, ShortDesc, LongDesc');
+
+    ceitemInput.Icon := 'None';
+    ceitemInput.ItemClass := 'None';
+    ceitemInput.BuildingClass := 'None';
+    ceitemInput.VisualObject := 'None';
+
+    ceitemInput.ActionBlueprint_Use := 'None';
+    ceitemInput.GUICategory := 'Weapon';
+    ceitemInput.WeaponType := 'None';
+    ceitemInput.WeaponArcheType := 'None';
+    ceitemInput.DamageTier := 'Default';
+    //ShowMessage('Set ActionBlueprint_Use, GUICategory, WeaponType, WeaponArcheType, DamageTier');
+
+    ceitemInput.VisualStaticMesh := 'None';
+    ceitemInput.VisualSkeletalMesh := 'None';
+    ceitemInput.VisualDestructibleMesh := 'None';
+    //ShowMessage('Set VisualStaticMesh, VisualSkeletalMesh, VisualDestructibleMesh');
+
+    ceitemInput.FirstModifier := 'None';
+    ceitemInput.SecondModifier := 'None';
+    ceitemInput.ThirdModifier := 'None';
+    ceitemInput.FourthModifier := 'None';
+
+    ceitemInput.AvatarType := 'None';
+
+    ceitemInput.DyeColourID := -1;
+    ceitemInput.WarPaintID := -1;
+    //ShowMessage('Set AvatarType, DyeColourID, WarPaintID');
+
+    ceitemInput.DLCPackage := 'None';
+    ceitemInput.SpawnTemplateID := 'None';
+    //ShowMessage('Set DLCPackage, SpawnTemplateID');
+
+    Result := ceitemInput;
+
+  end;
+
+  function InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string): CERecipe;
+  begin
+
+    cerecipeInput.RowName := strRowName;
+    cerecipeInput.RecipeName := strName;
+    cerecipeInput.ShortDesc := 'None';
+
+    cerecipeInput.RecipeType := 'Armor';
+
+    cerecipeInput.Icon := 'None';
+    cerecipeInput.BuildingModule := 'None';
+    cerecipeInput.MapMarkerIcon := 'None';
+    cerecipeInput.ExilesJourneyTrigger := 'None';
+    cerecipeInput.DLCPackage := 'None';
+
+  end;
+
+end.

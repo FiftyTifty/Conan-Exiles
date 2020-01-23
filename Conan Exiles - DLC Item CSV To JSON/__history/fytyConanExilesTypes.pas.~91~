@@ -1,0 +1,293 @@
+unit fytyConanExilesTypes;
+
+interface
+
+uses
+  REST.Json.Types;
+
+type
+
+  CEItem = class
+  public
+    [JsonName('RowName')]
+    RowName : string;
+    [JsonName('Name')]
+    Name : string;
+    [JsonName('ShortDesc')]
+    ShortDesc : string;
+    [JsonName('LongDesc')]
+    LongDesc : string;
+    [JsonName('Icon')]
+    Icon : string;
+    [JsonName('ItemClass')]
+    ItemClass : string;
+    [JsonName('BuildingClass')]
+    BuildingClass : string;
+    [JsonName('VisualObject')]
+    VisualObject : string;
+    [JsonName('ActionBlueprint_Use')]
+    ActionBlueprint_Use : string;
+    [JsonName('MaxStackSize')]
+    MaxStackSize : FixedUInt;
+    [JsonName('EquipLocation')]
+    EquipLocation : FixedUInt;
+    [JsonName('GUICategory')]
+    GUICategory : string;
+    [JsonName('ArmourValue')]
+    ArmourValue : FixedUInt;
+    [JsonName('ArmorType')]
+    ArmorType : FixedUInt;
+    [JsonName('SoundPhysicalSurface')]
+    SoundPhysicalSurface : FixedUInt;
+    [JsonName('WeaponType')]
+    WeaponType : string;
+    [JsonName('WeaponArcheType')]
+    WeaponArcheType : string;
+    [JsonName('CompatableAmmunitions')]
+    CompatableAmmunitions : array of FixedUInt;
+    [JsonName('SoundTransmitterType')]
+    SoundTransmitterType : FixedUInt;
+    [JsonName('KnockbackResponseWeapon')]
+    KnockbackResponseWeapon : boolean;
+    [JsonName('WeaponStaminaAttackSingleBasic')]
+    WeaponStaminaAttackSingleBasic : FixedUInt;
+    [JsonName('WeaponStaminaAttackSingleSpecial')]
+    WeaponStaminaAttackSingleSpecial : FixedUInt;
+    [JsonName('WeaponStaminaAttackDualBasic')]
+    WeaponStaminaAttackDualBasic : FixedUInt;
+    [JsonName('WeaponStaminaAttackDualSpecial')]
+    WeaponStaminaAttackDualSpecial : FixedUInt;
+    [JsonName('WeaponStaminaHeavyChargedRegenModifier')]
+    WeaponStaminaHeavyChargedRegenModifier : FixedUInt;
+    [JsonName('WeaponSpeedHeavyChargedModifier')]
+    WeaponSpeedHeavyChargedModifier : FixedUInt;
+    [JsonName('EncumbranceWeight')]
+    EncumbranceWeight : Single;
+    [JsonName('ConeAngle')]
+    ConeAngle : FixedUInt;
+    [JsonName('ConeMaxDistance')]
+    ConeMaxDistance : FixedUInt;
+    [JsonName('DamageHealthLight_OnHit')]
+    DamageHealthLight_OnHit : FixedUInt;
+    [JsonName('DamageHealthHeavy_OnHit')]
+    DamageHealthHeavy_OnHit : FixedUInt;
+    [JsonName('DamageStaminaLight_OnHit')]
+    DamageStaminaLight_OnHit : FixedUInt;
+    [JsonName('DamageStaminaHeavy_OnHit')]
+    DamageStaminaHeavy_OnHit : FixedUInt;
+    [JsonName('DamageHealthLight_OnBlock')]
+    DamageHealthLight_OnBlock : FixedUInt;
+    [JsonName('DamageHealthHeavy_OnBlock')]
+    DamageHealthHeavy_OnBlock : FixedUInt;
+    [JsonName('DamageStaminaLight_OnBlock')]
+    DamageStaminaLight_OnBlock : FixedUInt;
+    [JsonName('DamageStaminaHeavy_OnBlock')]
+    DamageStaminaHeavy_OnBlock : FixedUInt;
+    [JsonName('HarvestDamage')]
+    HarvestDamage : FixedUInt;
+    [JsonName('WeaponUsage')]
+    WeaponUsage : FixedUInt;
+    [JsonName('MaxAttackReach')]
+    MaxAttackReach : FixedUInt;
+    [JsonName('MinAttackReach')]
+    MinAttackReach : FixedUInt;
+    [JsonName('MinAttackDistance')]
+    MinAttackDistance : FixedUInt;
+    [JsonName('WeaponEffectWidth')]
+    WeaponEffectWidth : FixedUInt;
+    [JsonName('WeaponEffectHeight')]
+    WeaponEffectHeight : FixedUInt;
+    [JsonName('ItemTier')]
+    ItemTier : FixedUInt;
+    [JsonName('ArmorPen')]
+    ArmorPen : FixedUInt;
+    [JsonName('DamageConcussiveLightOnHit')]
+    DamageConcussiveLightOnHit : FixedUInt;
+    [JsonName('DamageConcussiveHeavyOnHit')]
+    DamageConcussiveHeavyOnHit : FixedUInt;
+    [JsonName('DamageConcussiveLightOnBlock')]
+    DamageConcussiveLightOnBlock : FixedUInt;
+    [JsonName('DamageConcussiveHeavyOnBlock')]
+    DamageConcussiveHeavyOnBlock : FixedUInt;
+    [JsonName('DamageTier')]
+    DamageTier : string;
+    [JsonName('CoolDownTime')]
+    CoolDownTime : FixedUInt;
+    [JsonName('ReuseTime')]
+    ReuseTime : FixedUInt;
+    [JsonName('SelectionWeight')]
+    SelectionWeight : FixedUInt;
+    [JsonName('KnockbackOffenseBasic')]
+    KnockbackOffenseBasic : FixedUInt;
+    [JsonName('KnockbackOffenseSpecial')]
+    KnockbackOffenseSpecial : FixedUInt;
+    [JsonName('KnockbackOffenseBasicOnBlock')]
+    KnockbackOffenseBasicOnBlock : FixedUInt;
+    [JsonName('KnockbackOffenseSpecialOnBlock')]
+    KnockbackOffenseSpecialOnBlock : FixedUInt;
+    [JsonName('KnockbackDefense')]
+    KnockbackDefense : FixedUInt;
+    [JsonName('VisualStaticMesh')]
+    VisualStaticMesh : string;
+    [JsonName('VisualSkeletalMesh')]
+    VisualSkeletalMesh : string;
+    [JsonName('VisualDestructibleMesh')]
+    VisualDestructibleMesh : string;
+    [JsonName('WeaponStatusDefault')]
+    WeaponStatusDefault : FixedUInt;
+    [JsonName('WeaponStatusCurrent')]
+    WeaponStatusCurrent : FixedUInt;
+    [JsonName('WeaponStatusDecrement')]
+    WeaponStatusDecrement : FixedUInt;
+    [JsonName('PerishRate')]
+    PerishRate : FixedUInt;
+    [JsonName('PerishTo')]
+    PerishTo : FixedUInt;
+    [JsonName('MaxDurability')]
+    MaxDurability : FixedUInt;
+    [JsonName('RepairItem1')]
+    RepairItem1 : FixedUInt;
+    [JsonName('RepairItem1_Amount')]
+    RepairItem1_Amount : FixedUInt;
+    [JsonName('RepairItem1_Weight')]
+    RepairItem1_Weight : FixedUInt;
+    [JsonName('RepairItem2')]
+    RepairItem2 : FixedUInt;
+    [JsonName('RepairItem2_Amount')]
+    RepairItem2_Amount : FixedUInt;
+    [JsonName('RepairItem2_Weight')]
+    RepairItem2_Weight : FixedUInt;
+    [JsonName('RepairItem3')]
+    RepairItem3 : FixedUInt;
+    [JsonName('RepairItem3_Amount')]
+    RepairItem3_Amount : FixedUInt;
+    [JsonName('RepairItem3_Weight')]
+    RepairItem3_Weight : FixedUInt;
+    [JsonName('AffectedByDamageTiers')]
+    AffectedByDamageTiers : FixedUInt;
+    [JsonName('BuildingPieceScore')]
+    BuildingPieceScore : FixedUInt;
+    [JsonName('BuildingMaxHealth')]
+    BuildingMaxHealth : FixedUInt;
+    [JsonName('RepairXP')]
+    RepairXP : FixedUInt;
+    [JsonName('FirstModifier')]
+    FirstModifier : string;
+    [JsonName('SecondModifier')]
+    SecondModifier : string;
+    [JsonName('ThirdModifier')]
+    ThirdModifier : string;
+    [JsonName('FourthModifier')]
+    FourthModifier : string;
+    [JsonName('FoodAmount')]
+    FoodAmount : FixedUInt;
+    [JsonName('DrinkAmount')]
+    DrinkAmount : FixedUInt;
+    [JsonName('BurnTime')]
+    BurnTime : FixedUInt;
+    [JsonName('ItemFlags')]
+    ItemFlags : FixedUInt;
+    [JsonName('ItemContainerSize')]
+    ItemContainerSize : FixedUInt;
+    [JsonName('AvatarType')]
+    AvatarType : string;
+    [JsonName('DyeColourID')]
+    DyeColourID : LongInt;
+    [JsonName('WarPaintID')]
+    WarPaintID : LongInt;
+    [JsonName('StaminaCostMultiplier')]
+    StaminaCostMultiplier : FixedUInt;
+    [JsonName('StaminaClimbingCostMultiplier')]
+    StaminaClimbingCostMultiplier : FixedUInt;
+    [JsonName('LeavesGhostItem')]
+    LeavesGhostItem : Boolean;
+    [JsonName('DLCPackage')]
+    DLCPackage : string;
+    [JsonName('SpawnTemplateID')]
+    SpawnTemplateID : string;
+  end;
+
+  CERecipe = class
+    [JsonName('RowName')]
+    RowName : string;
+    [JsonName('RecipeName')]
+    RecipeName : string;
+    [JsonName('ShortDesc')]
+    ShortDesc : string;
+    [JsonName('TimeToCraft')]
+    TimeToCraft : FixedUInt;
+    [JsonName('Tier')]
+    Tier : FixedUInt;
+    [JsonName('CraftXP')]
+    CraftXP : FixedUInt;
+    [JsonName('CraftingStations')]
+    CraftingStations : FixedUInt;
+    [JsonName('RequiredFuel')]
+    RequiredFuel : FixedUInt;
+    [JsonName('Icon')]
+    Icon : string;
+    [JsonName('BuildingModule')]
+    BuildingModule : string;
+    [JsonName('DestroyStationOnComplete')]
+    DestroyStationOnComplete : boolean;
+    [JsonName('RecipeItemFlags')]
+    RecipeItemFlags : FixedUInt;
+    [JsonName('Ingredient1ID')]
+    Ingredient1ID : FixedUInt;
+    [JsonName('Ingredient1Quantity')]
+    Ingredient1Quantity : FixedUInt;
+    [JsonName('Ingredient2ID')]
+    Ingredient2ID : FixedUInt;
+    [JsonName('Ingredient2Quantity')]
+    Ingredient2Quantity : FixedUInt;
+    [JsonName('Ingredient3ID')]
+    Ingredient3ID : FixedUInt;
+    [JsonName('Ingredient3Quantity')]
+    Ingredient3Quantity : FixedUInt;
+    [JsonName('Ingredient4ID')]
+    Ingredient4ID : FixedUInt;
+    [JsonName('Ingredient4Quantity')]
+    Ingredient4Quantity : FixedUInt;
+    [JsonName('CatalystID')]
+    CatalystID : FixedUInt;
+    [JsonName('Result1ID')]
+    Result1ID : FixedUInt;
+    [JsonName('Result1Quantity')]
+    Result1Quantity : FixedUInt;
+    [JsonName('Result2ID')]
+    Result2ID : FixedUInt;
+    [JsonName('Result2Quantity')]
+    Result2Quantity : FixedUInt;
+    [JsonName('Result3ID')]
+    Result3ID : FixedUInt;
+    [JsonName('Result3Quantity')]
+    Result3Quantity : FixedUInt;
+    [JsonName('Result4ID')]
+    Result4ID : FixedUInt;
+    [JsonName('Result4Quantity')]
+    Result4Quantity : FixedUInt;
+    [JsonName('Result1Weight')]
+    Result1Weight : FixedUInt;
+    [JsonName('Result2Weight')]
+    Result2Weight : FixedUInt;
+    [JsonName('Result3Weight')]
+    Result3Weight : FixedUInt;
+    [JsonName('Result4Weight')]
+    Result4Weight : FixedUInt;
+    [JsonName('ThrallRecipeFeatRequirement')]
+    ThrallRecipeFeatRequirement : FixedUInt;
+    [JsonName('IsThrallMachineRecipe')]
+    IsThrallMachineRecipe : boolean;
+    [JsonName('IsRecipeEnabled')]
+    IsRecipeEnabled : boolean;
+    [JsonName('MapMarkerIcon')]
+    MapMarkerIcon : string;
+    [JsonName('ExilesJourneyTrigger')]
+    ExilesJourneyTrigger : string;
+    [JsonName('DLCPackage')]
+    DLCPackage : string;
+  end;
+
+implementation
+
+end.

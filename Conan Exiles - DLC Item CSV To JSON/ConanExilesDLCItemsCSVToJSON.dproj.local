@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/07 04:12:45.000.126,=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/07 04:13:08.000.894,C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Unit1.pas=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/07 04:13:08.000.894,C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Unit1.dfm=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/07/07 04:13:16.000.075,C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Project1.dproj=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/07/07 19:32:03.000.283,C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Project1.dproj=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\ConanExilesDLCItemsCSVToJSON.dproj</Transaction>
+    <Transaction>2019/07/08 13:27:12.000.542,=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Unit2.pas</Transaction>
+    <Transaction>2019/07/08 13:27:24.000.053,C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Unit2.pas=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\fytyConanExilesTypes.pas</Transaction>
+    <Transaction>2019/07/08 15:47:09.000.379,=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Unit2.pas</Transaction>
+    <Transaction>2019/07/08 15:47:27.000.564,C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\Unit2.pas=C:\Users\CJW7\Documents\Embarcadero\Studio\Projects\Conan Exiles - DLC Item CSV To JSON\fytyConanExilesTypesFunctions.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,210 @@
+unit fytyConanExilesTypesFunctions;
+
+interface
+
+uses Vcl.Dialogs, System.Classes, VCL.Forms, Generics.Collections, fytyConanExilesTypes,
+  Form_ConanExiles_ItemStatModification_Entry;
+
+const
+    //NSLOCTEXT(\"\", \"ItemTable_4150_Name\", \"Sign (Alchemist)\")
+    strNamePrefix = 'NSLOCTEXT("", "ItemTable_';
+    strNameMiddle = '_Name", "';
+    strNameSuffix = '")';
+    //NSLOCTEXT(\"\", \"ItemTable_4150_ShortDesc\", \"A sign made out of wood\")
+    strShortDescPrefix = 'NSLOCTEXT("", "ItemTable_';
+    strShortDescMiddle = '_ShortDesc", "';
+    strShortDescSuffix = '")';
+    //NSLOCTEXT(\"\", \"ItemTable_4150_LongDesc\", \"established for centuries.\")
+    strLongDescPrefix = 'NSLOCTEXT("", "ItemTable_';
+    strLongDescMiddle = '_LongDesc", "';
+    strLongDescSuffix = '")';
+
+    strItemModOperatorID = ',OperatorID=Add,StatID=';
+    strItemModValue = ',ModificationValue=';
+    strItemModEndOfString = ')"';
+
+function InitializeCEItem(ceitemInput: CEItem; strRowName, strName, strShortDesc, strLongDesc: string): CEItem;
+
+function InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string): CERecipe;
+
+  /// <summary> [0] = 'True' or 'False' if entry is a float
+  /// [1] = The StatID
+  /// [2] = The Value
+  /// </summary>
+function ParseItemStatModificationString(strSource: string): TArray<string>;
+
+function CreateItemStatModificationString(bIsFloat: boolean; strStatID, strValue: string): string;
+
+procedure InitializeForm_ItemStatModificationEntry(formEntry: TForm_ConanExiles_ItemStatModification_Entry;
+  strarrayValuesToSet: TArray<string>; tstrlistFloatIDs: TStringList);
+
+procedure EnableForm_ItemStatModificationEntry(formEntry: TForm_ConanExiles_ItemStatModification_Entry);
+
+implementation
+
+  function InitializeCEItem(ceitemInput: CEItem; strRowName, strName, strShortDesc, strLongDesc: string): CEItem;
+  begin
+
+    //ShowMessage('Started initializing!');
+    ceitemInput.RowName := strRowName;
+    ceitemInput.Name := strNamePrefix + strRowName + strNameMiddle + strName + strNameSuffix;
+    ceitemInput.ShortDesc := strShortDescPrefix + strRowName + strShortDescMiddle + strShortDesc + strShortDescSuffix;
+    ceitemInput.LongDesc := strLongDescPrefix + strRowName + strLongDescMiddle + strLongDesc + strLongDescSuffix;
+    //ShowMessage('Set RowName, Name, ShortDesc, LongDesc');
+
+    ceitemInput.Icon := 'None';
+    ceitemInput.ItemClass := 'None';
+    ceitemInput.BuildingClass := 'None';
+    ceitemInput.VisualObject := 'None';
+
+    ceitemInput.ActionBlueprint_Use := 'None';
+    ceitemInput.GUICategory := 'Weapon';
+    ceitemInput.WeaponType := 'None';
+    ceitemInput.WeaponArcheType := 'None';
+    ceitemInput.DamageTier := 'Default';
+    //ShowMessage('Set ActionBlueprint_Use, GUICategory, WeaponType, WeaponArcheType, DamageTier');
+
+    ceitemInput.VisualStaticMesh := 'None';
+    ceitemInput.VisualSkeletalMesh := 'None';
+    ceitemInput.VisualDestructibleMesh := 'None';
+    //ShowMessage('Set VisualStaticMesh, VisualSkeletalMesh, VisualDestructibleMesh');
+
+    ceitemInput.FirstModifier := 'None';
+    ceitemInput.SecondModifier := 'None';
+    ceitemInput.ThirdModifier := 'None';
+    ceitemInput.FourthModifier := 'None';
+
+    ceitemInput.AvatarType := 'None';
+
+    ceitemInput.DyeColourID := -1;
+    ceitemInput.WarPaintID := -1;
+    //ShowMessage('Set AvatarType, DyeColourID, WarPaintID');
+
+    ceitemInput.DLCPackage := 'None';
+    ceitemInput.SpawnTemplateID := 'None';
+    //ShowMessage('Set DLCPackage, SpawnTemplateID');
+
+    Result := ceitemInput;
+
+  end;
+
+  function InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string): CERecipe;
+  begin
+
+    cerecipeInput.RowName := strRowName;
+    cerecipeInput.RecipeName := strName;
+    cerecipeInput.ShortDesc := 'None';
+
+    cerecipeInput.RecipeType := 'Armor';
+
+    cerecipeInput.Icon := 'None';
+    cerecipeInput.BuildingModule := 'None';
+    cerecipeInput.MapMarkerIcon := 'None';
+    cerecipeInput.ExilesJourneyTrigger := 'None';
+    cerecipeInput.DLCPackage := 'None';
+
+  end;
+
+  function ParseItemStatModificationString(strSource: string): TArray<string>;
+  var
+    iPosStatID, iPosStatIDEnd, iPosValue, iPosValueEnd: integer;
+  begin
+
+    SetLength(Result, 3);
+
+    if Pos('True', strSource) > 0 then
+      Result[0] := 'True'
+    else
+      Result[0] := 'False';
+
+    iPosStatID := Length(strItemModOperatorID) + Pos(strItemModOperatorID, strSource);
+    iPosStatIDEnd := Pos(strItemModValue, strSource);
+
+    Result[1] := Copy(strSource, iPosStatID, (iPosStatIDEnd - iPosStatID));
+
+    iPosValue := Length(strItemModValue) + Pos(strItemModValue, strSource);
+    iPosValueEnd := Pos(strItemModEndOfString, strSource);
+
+    Result[2] := Copy(strSource, iPosValue, (iPosValueEnd - iPosValue));
+
+  end;
+
+  function CreateItemStatModificationString(bIsFloat: boolean; strStatID, strValue: string): string;
+  var
+    strIsFloat: string;
+  begin
+
+    if bIsFloat then begin
+
+      strIsFloat := '"(IsFloatStatModification=True,OperatorID=Add,';
+      strStatID := 'StatID=' + strStatID + ',';
+      strValue := 'ModificationValue=' + strValue;
+
+    end
+
+    else begin
+
+      strIsFloat := '"(IsFloatStatModification=False,OperatorID=Add,';
+      strStatID := 'StatID=' + strStatID + ',';
+      strValue := 'ModificationValue=' + strValue;
+
+    end;
+
+    Result := strIsFloat + strStatID + strValue;
+
+  end;
+
+  procedure EnableForm_ItemStatModificationEntry(formEntry: TForm_ConanExiles_ItemStatModification_Entry);
+  begin
+
+    formEntry.formGroup.Visible := true;
+    formEntry.formGroup.Enabled := true;
+
+    formEntry.formValue.Visible := true;
+    formEntry.formValue.Enabled := true;
+
+    formEntry.formIsFloat.Visible := true;
+    formEntry.formIsFloat.Enabled := true;
+
+    formEntry.formFloatStats.Visible := true;
+    formEntry.formFloatStats.Enabled := true;
+
+    formEntry.formIntStats.Visible := false;
+    formEntry.formIntStats.Enabled := false;
+
+  end;
+
+  procedure InitializeForm_ItemStatModificationEntry(formEntry: TForm_ConanExiles_ItemStatModification_Entry;
+  strarrayValuesToSet: TList<string>; tstrlistFloatIDs: TStringList);
+var
+  iStatIndex: integer;
+begin
+
+  if strarrayValuesToSet[0] = 'True' then begin
+
+    formEntry.formIsFloat.Checked := true;
+    formEntry.formIntStats.Visible := false;
+    formEntry.formFloatStats.Visible := true;
+
+    iStatIndex := tstrlistFloatIDs.IndexOf(strarrayValuesToSet[1]);
+    formEntry.formFloatStats.ItemIndex := iStatIndex;
+
+    formEntry.formValue.Text := strarrayValuesToSet[2];
+
+  end
+  else begin
+
+    formEntry.formIsFloat.Checked := false;
+    formEntry.formIntStats.Visible := true;
+    formEntry.formFloatStats.Visible := false;
+
+    iStatIndex := tstrlistFloatIDs.IndexOf(strarrayValuesToSet[1]);
+    formEntry.formFloatStats.ItemIndex := iStatIndex;
+
+    formEntry.formValue.Text := strarrayValuesToSet[2];
+
+  end;
+
+end;
+
+end.

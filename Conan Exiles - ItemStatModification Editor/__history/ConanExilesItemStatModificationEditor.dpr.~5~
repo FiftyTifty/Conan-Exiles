@@ -1,0 +1,16 @@
+program ConanExilesItemStatModificationEditor;
+
+uses
+  Vcl.Forms,
+  Unit1 in 'Unit1.pas' {Form1},
+  djson in '..\_Library - delphi-json-master\djson.pas',
+  Form_ConanExiles_ItemStatModification_Entry in '..\Conan Exiles - Delphi Forms\Form_ConanExiles_ItemStatModification_Entry.pas' {Form_ConanExiles_ItemStatModification_Entry: TFrame};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

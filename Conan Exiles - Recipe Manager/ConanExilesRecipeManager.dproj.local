@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/26 23:28:31.000.350,=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/26 23:47:35.000.479,H:\Documents\Embarcadero\Studio\Projects\Unit1.dfm=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - Recipe Manager\MainWindow.dfm</Transaction>
+    <Transaction>2019/10/26 23:47:35.000.479,H:\Documents\Embarcadero\Studio\Projects\Unit1.pas=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - Recipe Manager\MainWindow.pas</Transaction>
+    <Transaction>2019/10/26 23:47:45.000.438,H:\Documents\Embarcadero\Studio\Projects\Project1.dproj=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - Recipe Manager\ConanExilesRecipeManager.dproj</Transaction>
+    <Transaction>2019/10/27 01:38:54.000.862,=H:\Documents\Embarcadero\Studio\Projects\_Library - delphi-json-master\djson.pas</Transaction>
+  </Transactions>
+</BorlandProject>
