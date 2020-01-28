@@ -2,7 +2,7 @@ unit fytyConanExilesTypesFunctions;
 
 interface
 
-uses Vcl.Dialogs, System.Classes, VCL.Forms, Generics.Collections, fytyConanExilesTypes,
+uses Vcl.Dialogs, System.Classes, VCL.Forms, Generics.Collections, sysutils, fytyConanExilesTypes,
   Form_ConanExiles_ItemStatModification_Entry;
 
 const
@@ -21,17 +21,17 @@ const
 
     strItemModOperatorID = ',OperatorID=Add,StatID=';
     strItemModValue = ',ModificationValue=';
-    strItemModEndOfString = ')"';
+    strItemModEndOfString = ')';
 
 function InitializeCEItem(ceitemInput: CEItem; strRowName, strName, strShortDesc, strLongDesc: string): CEItem;
 
 function InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string): CERecipe;
 
-  /// <summary> [0] = 'True' or 'False' if entry is a float
+  /// <summary> [0] = 'True' if float, 'False' if integer
   /// [1] = The StatID
   /// [2] = The Value
   /// </summary>
-function ParseItemStatModificationString(strSource: string): TArray<string>;
+procedure ParseItemStatModificationString(strSource: string; tstrlistDest: TStringList);
 
 function CreateItemStatModificationString(bIsFloat: boolean; strStatID, strValue: string): string;
 
@@ -105,27 +105,30 @@ implementation
 
   end;
 
-  function ParseItemStatModificationString(strSource: string): TArray<string>;
+  procedure ParseItemStatModificationString(strSource: string; tstrlistDest: TStringList);
   var
     iPosStatID, iPosStatIDEnd, iPosValue, iPosValueEnd: integer;
   begin
 
-    SetLength(Result, 3);
-
     if Pos('True', strSource) > 0 then
-      Result[0] := 'True'
+      tstrlistDest.Add('True')
     else
-      Result[0] := 'False';
+      tstrlistDest.Add('False');
 
     iPosStatID := Length(strItemModOperatorID) + Pos(strItemModOperatorID, strSource);
     iPosStatIDEnd := Pos(strItemModValue, strSource);
+    //ShowMessage('StatID position in string is: ' + IntToStr(iPosStatID));
+    //ShowMessage('StatID end position in string is: ' + IntToStr(iPosStatIDEnd));
 
-    Result[1] := Copy(strSource, iPosStatID, (iPosStatIDEnd - iPosStatID));
+    tstrlistDest.Add(Copy(strSource, iPosStatID, (iPosStatIDEnd - iPosStatID)));
 
     iPosValue := Length(strItemModValue) + Pos(strItemModValue, strSource);
     iPosValueEnd := Pos(strItemModEndOfString, strSource);
 
-    Result[2] := Copy(strSource, iPosValue, (iPosValueEnd - iPosValue));
+    //ShowMessage('Value position in string is: ' + IntToStr(iPosValue));
+    //ShowMessage('Value end position in string is: ' + IntToStr(iPosValueEnd));
+
+    tstrlistDest.Add(Copy(strSource, iPosValue, (iPosValueEnd - iPosValue)));
 
   end;
 

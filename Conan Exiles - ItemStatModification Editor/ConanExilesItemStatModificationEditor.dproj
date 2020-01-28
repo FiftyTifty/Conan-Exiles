@@ -102,7 +102,6 @@
             <Form>formWindow</Form>
             <FormType>dfm</FormType>
         </DCCReference>
-        <DCCReference Include="..\_Library - delphi-json-master\djson.pas"/>
         <DCCReference Include="..\Conan Exiles - Delphi Forms\Form_ConanExiles_ItemStatModification_Entry.pas">
             <Form>Form_ConanExiles_ItemStatModification_Entry</Form>
             <FormType>dfm</FormType>
@@ -110,6 +109,7 @@
         </DCCReference>
         <DCCReference Include="..\Conan Exiles - API\fytyConanExilesTypes.pas"/>
         <DCCReference Include="..\Conan Exiles - API\fytyConanExilesTypesFunctions.pas"/>
+        <DCCReference Include="..\_Library - delphi-json-master\djson.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
@@ -840,6 +840,7 @@
                 <Platform value="Win32">True</Platform>
                 <Platform value="Win64">False</Platform>
             </Platforms>
+            <ModelSupport>False</ModelSupport>
         </BorlandProject>
         <ProjectFileVersion>12</ProjectFileVersion>
     </ProjectExtensions>

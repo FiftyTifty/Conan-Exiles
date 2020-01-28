@@ -5,7 +5,8 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Generics.Collections,
   Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
-  djson, Vcl.ComCtrls, Vcl.StdCtrls, fytyConanExilesTypes, fytyConanExilesTypesFunctions, Form_ConanExiles_ItemStatModification_Entry;
+  djson, Vcl.ComCtrls, Vcl.StdCtrls, fytyConanExilesTypes, fytyConanExilesTypesFunctions,
+  Form_ConanExiles_ItemStatModification_Entry;
 
 type
   TformWindow = class(TForm)
@@ -32,6 +33,8 @@ type
     procedure IsFloatClick(
       Sender: TObject);
     procedure formTreeChange(Sender: TObject; Node: TTreeNode);
+    procedure formEnabledClick(
+      Sender: TObject);
   private
     { Private declarations }
   public
@@ -43,6 +46,7 @@ const
 
 var
   formWindow: TformWindow;
+  listEntries: TList<TForm_ConanExiles_ItemStatModification_Entry>;
   tstrlistFloatIDs, tstrlistFloatNames, tstrlistIntIDs, tstrlistIntNames,
   tstrlistItemIDs, tstrlistItemNames: TStringList;
   djsonDataTable: TDJSON;
@@ -59,6 +63,7 @@ begin
    tstringsOutput.StrictDelimiter := True; // Requires D2006 or newer.
    tstringsOutput.DelimitedText   := Str;
 end;
+
 
 procedure TformWindow.buttonLoadClick(Sender: TObject);
 var
@@ -77,6 +82,8 @@ begin
 
   if listCEItemStatModification.Count > 0 then
     listCEItemStatModification.Clear;
+
+  ShowMessage('Cleared pre-existing modifications!');
 
   for djsonEntry in djsonDataTable do begin
 
@@ -137,49 +144,130 @@ begin
 
   listCEItemStatModification := TList<CEItemStatModification>.Create;
 
+  listEntries := TList<TForm_ConanExiles_ItemStatModification_Entry>.Create;
+  listEntries.Add(Form_ConanExiles_ItemStatModification_Entry0);
+  listEntries.Add(Form_ConanExiles_ItemStatModification_Entry1);
+  listEntries.Add(Form_ConanExiles_ItemStatModification_Entry2);
+  listEntries.Add(Form_ConanExiles_ItemStatModification_Entry3);
+  listEntries.Add(Form_ConanExiles_ItemStatModification_Entry4);
+  listEntries.Add(Form_ConanExiles_ItemStatModification_Entry5);
+  listEntries.Add(Form_ConanExiles_ItemStatModification_Entry6);
+
+
 end;
 
 
 procedure TformWindow.formTreeChange(Sender: TObject; Node: TTreeNode);
 var
-  ceismFromNode: ptrCEItemStatModification;
-  iNumControls, iCounter, iNumEntries, iNumModifications,
-  iCounterModifications: integer;
-  controlEntry: TComponent;
+  ceismFromNode: CEItemStatModification;
+  iNumControls, iCounter, iNumEntries, iNumModifications: integer;
+  tstrlistParsedModification: TStringList;
   formEntry: TForm_ConanExiles_ItemStatModification_Entry;
 begin
 
 
-  ShowMessage('Loading TTreeNode');
+  //ShowMessage('Loading TTreeNode');
   ceismFromNode := formTree.Selected.Data;
   ShowMessage(ceismFromNode.RowName);
 
-  ShowMessage('Getting number of Item Stat Modifications!');
+  //ShowMessage('Getting number of Item Stat Modifications!');
   iNumModifications := ceismFromNode.Modifications.Count;
 
   if iNumModifications > 7 then begin
-    ShowMessage('There are more than seven entries for the Item Stat Modification! Aborting loading the modification!');
+    ShowMessage('There are more than 7 modifications! Aborting loading!');
     exit;
   end;
 
   ShowMessage('There are less than 8 modifications!');
-  iCounter := 0;
-  iCounterModifications := 0;
-  iNumControls := formGroupEdit.ControlCount;
+  tstrlistParsedModification := TStringList.Create;
 
-  ShowMessage('Now iterating through the form entries!');
-  for iCounter := 0 to iNumControls - 1 do begin
-    ShowMessage('Looping through every entry!');
+  ShowMessage('Now iterating through ' + IntToStr(iNumModifications) + ' form entries!');
+  //for iCounter := 0 to iNumControls - 1 do begin
+  for iCounter := 0 to iNumModifications - 1 do begin
+    //ShowMessage('Looping through every entry!');
 
-    controlEntry := formGroupEdit.Controls[iCounter];
+    formEntry := listEntries[iCounter];
+    //ShowMessage(ceismFromNode.Modifications[iCounter]);
 
-    if controlEntry is TForm_ConanExiles_ItemStatModification_Entry then begin
+    ParseItemStatModificationString(ceismFromNode.Modifications[iCounter], tstrlistParsedModification);
 
-      formEntry := TForm_ConanExiles_ItemStatModification_Entry(controlEntry);
+    formEntry.formEnabled.Checked := true;
 
-      InitializeForm_ItemStatModificationEntry(formEntry, ceismFromNode.Modifications, tstrlistFloatIDs);
+    formEntry.Enabled := true;
+    formEntry.Visible := true;
+    formEntry.formGroup.Enabled := true;
+    formEntry.formGroup.Visible := true;
+
+    //ShowMessage(tstrlistParsedModification[0]);
+    //ShowMessage(tstrlistParsedModification[1]);
+    //ShowMessage(tstrlistParsedModification[2]);
+
+    if tstrlistParsedModification[0] = 'True' then begin
+
+      formEntry.formFloatStats.Visible := true;
+      formEntry.formFloatStats.Enabled := true;
+
+      formEntry.formIsFloat.Checked := true;
+
+      formEntry.formIntStats.Visible := false;
+      formEntry.formIntStats.Enabled := false;
+
+      formEntry.formFloatStats.ItemIndex := tstrlistFloatIDs.IndexOf(tstrlistParsedModification[1]);
+      formEntry.formValue.Text := tstrlistParsedModification[2];
+
+    end
+    else begin
+
+      formEntry.formFloatStats.Visible := false;
+      formEntry.formFloatStats.Enabled := false;
+
+      formEntry.formIsFloat.Checked := false;
+
+      formEntry.formIntStats.Visible := true;
+      formEntry.formIntStats.Enabled := true;
+
+      formEntry.formFloatStats.ItemIndex := tstrlistIntIDs.IndexOf(tstrlistParsedModification[1]);
+      formEntry.formValue.Text := tstrlistParsedModification[2];
 
     end;
+
+  end;
+
+  tstrlistParsedModification.Free;
+  //ShowMessage('Finished looping through every entry!');
+
+end;
+
+procedure formEnabledClick(
+  Sender: TObject);
+var
+  formCheckBox: TCheckBox;
+  formEntry: TForm_ConanExiles_ItemStatModification_Entry;
+begin
+
+  formCheckBox := sender as TCheckBox;
+  formEntry := formCheckbox.Owner as TForm_ConanExiles_ItemStatModification_Entry;
+
+  if formCheckBox.Checked then
+    formEntry.formGroup.Visible := true
+  else
+    formEntry.formGroup.Visible := false;
+
+end;
+
+procedure IsFloatToggle(formEntry: TForm_ConanExiles_ItemStatModification_Entry; bIsFloat: boolean);
+begin
+
+  if bIsFloat = true then begin
+    formEntry.formIsFloat.Checked := true;
+    formEntry.formIntStats.Visible := false;
+    formEntry.formFloatStats.Visible := true;
+
+  end
+  else begin
+    formEntry.formIsFloat.Checked := false;
+    formEntry.formIntStats.Visible := true;
+    formEntry.formFloatStats.Visible := false;
 
   end;
 
@@ -197,13 +285,19 @@ begin
 
   if formCheckBox.Checked then begin
 
+    formEntry.formIntStats.Enabled := false;
     formEntry.formIntStats.Visible := false;
+
     formEntry.formFloatStats.Visible := true;
+    formEntry.formFloatStats.Enabled := true;
 
   end
   else begin
 
+    formEntry.formIntStats.Enabled := false;
     formEntry.formIntStats.Visible := true;
+
+    formEntry.formFloatStats.Enabled := true;
     formEntry.formFloatStats.Visible := false;
 
   end;

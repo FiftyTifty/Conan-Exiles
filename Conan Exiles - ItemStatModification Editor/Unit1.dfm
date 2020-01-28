@@ -31,6 +31,9 @@ object formWindow: TformWindow
       TabOrder = 0
       ExplicitLeft = 3
       ExplicitTop = 23
+      inherited formEnabled: TCheckBox
+        OnClick = formEnabledClick
+      end
       inherited formGroup: TGroupBox
         Enabled = False
         Visible = False
@@ -49,9 +52,11 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 1
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 138
+      inherited formEnabled: TCheckBox
+        OnClick = formEnabledClick
+      end
       inherited formGroup: TGroupBox
         Left = -3
         ExplicitLeft = -3
@@ -69,8 +74,10 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 2
-      Visible = False
       ExplicitTop = 253
+      inherited formEnabled: TCheckBox
+        OnClick = formEnabledClick
+      end
       inherited formGroup: TGroupBox
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
@@ -86,9 +93,11 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 3
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 368
+      inherited formEnabled: TCheckBox
+        OnClick = formEnabledClick
+      end
       inherited formGroup: TGroupBox
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
@@ -104,8 +113,12 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 4
-      Visible = False
       ExplicitTop = 483
+      inherited formEnabled: TCheckBox
+        Top = 0
+        OnClick = formEnabledClick
+        ExplicitTop = 0
+      end
       inherited formGroup: TGroupBox
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
@@ -122,9 +135,11 @@ object formWindow: TformWindow
       Height = 109
       Enabled = False
       TabOrder = 5
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 598
+      inherited formEnabled: TCheckBox
+        OnClick = formEnabledClick
+      end
       inherited formGroup: TGroupBox
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
@@ -144,6 +159,7 @@ object formWindow: TformWindow
       ExplicitTop = 713
       inherited formEnabled: TCheckBox
         Visible = False
+        OnClick = formEnabledClick
       end
       inherited formGroup: TGroupBox
         Enabled = False
@@ -163,6 +179,7 @@ object formWindow: TformWindow
     Top = 24
     Width = 449
     Height = 936
+    HideSelection = False
     Indent = 19
     TabOrder = 1
     OnChange = formTreeChange
