@@ -34,6 +34,7 @@ object formWindow: TformWindow
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -65,6 +66,7 @@ object formWindow: TformWindow
       end
       inherited formGroup: TGroupBox
         Left = -3
+        Visible = False
         ExplicitLeft = -3
         inherited formIntStats: TComboBox
           ItemIndex = 0
@@ -94,6 +96,7 @@ object formWindow: TformWindow
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -123,6 +126,7 @@ object formWindow: TformWindow
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -153,6 +157,7 @@ object formWindow: TformWindow
         ExplicitTop = 0
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -183,6 +188,7 @@ object formWindow: TformWindow
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
