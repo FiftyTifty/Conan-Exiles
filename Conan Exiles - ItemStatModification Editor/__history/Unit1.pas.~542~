@@ -33,7 +33,7 @@ type
     procedure IsFloatClick(
       Sender: TObject);
     procedure formTreeChange(Sender: TObject; Node: TTreeNode);
-    procedure Form_ConanExiles_ItemStatModification_Entry0formEnabledClick(
+    procedure formEnabledClick(
       Sender: TObject);
   private
     { Private declarations }
@@ -238,34 +238,20 @@ begin
 
 end;
 
-procedure TformWindow.Form_ConanExiles_ItemStatModification_Entry0formEnabledClick(
+procedure formEnabledClick(
   Sender: TObject);
 var
   formCheckBox: TCheckBox;
-  formEntry, formNextEntry: TForm_ConanExiles_ItemStatModification_Entry;
-  iEntryIndex: integer;
+  formEntry: TForm_ConanExiles_ItemStatModification_Entry;
 begin
 
   formCheckBox := sender as TCheckBox;
   formEntry := formCheckbox.Owner as TForm_ConanExiles_ItemStatModification_Entry;
-  iEntryIndex := listEntries.IndexOf(formEntry);
 
-  if formCheckBox.Checked then begin
-
-    formEntry.formGroup.Visible := true;
-
-    if iEntryIndex < 6 then begin
-
-      formEntry := listEntries[iEntryIndex + 1];
-      formEntry.formEnabled.Checked := false;
-      formEntry.formGroup.Visible := true;
-
-    end;
-
-  end
-  else begin
-    formEntry.formGroup.Visible := true;
-  end;
+  if formCheckBox.Checked then
+    formEntry.formGroup.Visible := true
+  else
+    formEntry.formGroup.Visible := false;
 
 end;
 

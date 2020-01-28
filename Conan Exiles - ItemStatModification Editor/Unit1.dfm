@@ -27,16 +27,22 @@ object formWindow: TformWindow
       Top = 23
       Width = 342
       Height = 109
-      Enabled = False
       TabOrder = 0
       ExplicitLeft = 3
       ExplicitTop = 23
       inherited formEnabled: TCheckBox
-        OnClick = formEnabledClick
+        OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
-        Enabled = False
-        Visible = False
+        inherited formIntStats: TComboBox
+          ItemIndex = 0
+          Text = 'Health Max'
+          Visible = True
+        end
+        inherited formFloatStats: TComboBox
+          ItemIndex = 0
+          Text = 'Thrall Crafting Speed'
+        end
         inherited formValue: TEdit
           NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
@@ -55,11 +61,20 @@ object formWindow: TformWindow
       ExplicitLeft = 3
       ExplicitTop = 138
       inherited formEnabled: TCheckBox
-        OnClick = formEnabledClick
+        OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
         Left = -3
         ExplicitLeft = -3
+        inherited formIntStats: TComboBox
+          ItemIndex = 0
+          Text = 'Health Max'
+          Visible = True
+        end
+        inherited formFloatStats: TComboBox
+          ItemIndex = 0
+          Text = 'Thrall Crafting Speed'
+        end
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
         end
@@ -76,9 +91,18 @@ object formWindow: TformWindow
       TabOrder = 2
       ExplicitTop = 253
       inherited formEnabled: TCheckBox
-        OnClick = formEnabledClick
+        OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        inherited formIntStats: TComboBox
+          ItemIndex = 0
+          Text = 'Health Max'
+          Visible = True
+        end
+        inherited formFloatStats: TComboBox
+          ItemIndex = 0
+          Text = 'Thrall Crafting Speed'
+        end
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
         end
@@ -96,9 +120,18 @@ object formWindow: TformWindow
       ExplicitLeft = 3
       ExplicitTop = 368
       inherited formEnabled: TCheckBox
-        OnClick = formEnabledClick
+        OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        inherited formIntStats: TComboBox
+          ItemIndex = 0
+          Text = 'Health Max'
+          Visible = True
+        end
+        inherited formFloatStats: TComboBox
+          ItemIndex = 0
+          Text = 'Thrall Crafting Speed'
+        end
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
         end
@@ -116,10 +149,19 @@ object formWindow: TformWindow
       ExplicitTop = 483
       inherited formEnabled: TCheckBox
         Top = 0
-        OnClick = formEnabledClick
+        OnClick = IsEnabledClick
         ExplicitTop = 0
       end
       inherited formGroup: TGroupBox
+        inherited formIntStats: TComboBox
+          ItemIndex = 0
+          Text = 'Health Max'
+          Visible = True
+        end
+        inherited formFloatStats: TComboBox
+          ItemIndex = 0
+          Text = 'Thrall Crafting Speed'
+        end
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
         end
@@ -138,9 +180,18 @@ object formWindow: TformWindow
       ExplicitLeft = 3
       ExplicitTop = 598
       inherited formEnabled: TCheckBox
-        OnClick = formEnabledClick
+        OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        inherited formIntStats: TComboBox
+          ItemIndex = 0
+          Text = 'Health Max'
+          Visible = True
+        end
+        inherited formFloatStats: TComboBox
+          ItemIndex = 0
+          Text = 'Thrall Crafting Speed'
+        end
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
         end
@@ -159,11 +210,19 @@ object formWindow: TformWindow
       ExplicitTop = 713
       inherited formEnabled: TCheckBox
         Visible = False
-        OnClick = formEnabledClick
+        OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
-        Enabled = False
         Visible = False
+        inherited formIntStats: TComboBox
+          ItemIndex = 0
+          Text = 'Health Max'
+          Visible = True
+        end
+        inherited formFloatStats: TComboBox
+          ItemIndex = 0
+          Text = 'Thrall Crafting Speed'
+        end
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
         end

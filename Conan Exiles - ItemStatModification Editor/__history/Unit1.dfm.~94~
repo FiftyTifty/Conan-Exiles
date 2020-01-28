@@ -49,7 +49,6 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 1
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 138
       inherited formGroup: TGroupBox
@@ -69,7 +68,6 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 2
-      Visible = False
       ExplicitTop = 253
       inherited formGroup: TGroupBox
         inherited formValue: TEdit
@@ -86,7 +84,6 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 3
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 368
       inherited formGroup: TGroupBox
@@ -104,8 +101,11 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 4
-      Visible = False
       ExplicitTop = 483
+      inherited formEnabled: TCheckBox
+        Top = 0
+        ExplicitTop = 0
+      end
       inherited formGroup: TGroupBox
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
@@ -122,7 +122,6 @@ object formWindow: TformWindow
       Height = 109
       Enabled = False
       TabOrder = 5
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 598
       inherited formGroup: TGroupBox
@@ -156,21 +155,14 @@ object formWindow: TformWindow
         end
       end
     end
-    object buttonApply: TButton
-      Left = 256
-      Top = 864
-      Width = 75
-      Height = 25
-      Caption = 'Apply'
-      TabOrder = 7
-    end
   end
   object formTree: TTreeView
     AlignWithMargins = True
     Left = 372
-    Top = 8
+    Top = 24
     Width = 449
-    Height = 952
+    Height = 936
+    HideSelection = False
     Indent = 19
     TabOrder = 1
     OnChange = formTreeChange
@@ -221,5 +213,13 @@ object formWindow: TformWindow
     Height = 25
     Caption = 'Save'
     TabOrder = 5
+  end
+  object buttonApply: TButton
+    Left = 1094
+    Top = 880
+    Width = 75
+    Height = 25
+    Caption = 'Apply'
+    TabOrder = 6
   end
 end

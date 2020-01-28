@@ -33,7 +33,7 @@ type
     procedure IsFloatClick(
       Sender: TObject);
     procedure formTreeChange(Sender: TObject; Node: TTreeNode);
-    procedure formEnabledClick(
+    procedure IsEnabledClick(
       Sender: TObject);
   private
     { Private declarations }
@@ -238,7 +238,7 @@ begin
 
 end;
 
-procedure formEnabledClick(
+procedure TFormWindow.IsEnabledClick(
   Sender: TObject);
 var
   formCheckBox: TCheckBox;
@@ -294,10 +294,10 @@ begin
   end
   else begin
 
-    formEntry.formIntStats.Enabled := false;
+    formEntry.formIntStats.Enabled := true;
     formEntry.formIntStats.Visible := true;
 
-    formEntry.formFloatStats.Enabled := true;
+    formEntry.formFloatStats.Enabled := false;
     formEntry.formFloatStats.Visible := false;
 
   end;

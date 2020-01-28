@@ -32,7 +32,7 @@ object formWindow: TformWindow
       ExplicitLeft = 3
       ExplicitTop = 23
       inherited formEnabled: TCheckBox
-        OnClick = Form_ConanExiles_ItemStatModification_Entry0formEnabledClick
+        OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
         Enabled = False
@@ -52,7 +52,6 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 1
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 138
       inherited formGroup: TGroupBox
@@ -72,7 +71,6 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 2
-      Visible = False
       ExplicitTop = 253
       inherited formGroup: TGroupBox
         inherited formValue: TEdit
@@ -89,7 +87,6 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 3
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 368
       inherited formGroup: TGroupBox
@@ -107,8 +104,11 @@ object formWindow: TformWindow
       Width = 342
       Height = 109
       TabOrder = 4
-      Visible = False
       ExplicitTop = 483
+      inherited formEnabled: TCheckBox
+        Top = 0
+        ExplicitTop = 0
+      end
       inherited formGroup: TGroupBox
         inherited formValue: TEdit
           OnKeyPress = CEValueOnKeyPress
@@ -125,7 +125,6 @@ object formWindow: TformWindow
       Height = 109
       Enabled = False
       TabOrder = 5
-      Visible = False
       ExplicitLeft = 3
       ExplicitTop = 598
       inherited formGroup: TGroupBox
