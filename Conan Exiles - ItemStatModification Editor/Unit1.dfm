@@ -215,7 +215,6 @@ object formWindow: TformWindow
       ExplicitLeft = 3
       ExplicitTop = 713
       inherited formEnabled: TCheckBox
-        Visible = False
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox

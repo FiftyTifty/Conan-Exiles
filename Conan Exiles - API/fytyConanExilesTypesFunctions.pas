@@ -110,10 +110,13 @@ implementation
     iPosStatID, iPosStatIDEnd, iPosValue, iPosValueEnd: integer;
   begin
 
-    if Pos('True', strSource) > 0 then
+    //ShowMessage(IntToStr(Pos('True', strSource)));
+    if (Pos('True', strSource) > 0) then
       tstrlistDest.Add('True')
     else
       tstrlistDest.Add('False');
+
+    //ShowMessage(tstrlistDest[0]);
 
     iPosStatID := Length(strItemModOperatorID) + Pos(strItemModOperatorID, strSource);
     iPosStatIDEnd := Pos(strItemModValue, strSource);

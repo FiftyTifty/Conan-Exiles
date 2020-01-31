@@ -78,12 +78,12 @@ begin
 
   iCounter := 0;
 
-  ShowMessage('Starting loop!');
+  //ShowMessage('Starting loop!');
 
   if listCEItemStatModification.Count > 0 then
     listCEItemStatModification.Clear;
 
-  ShowMessage('Cleared pre-existing modifications!');
+  //ShowMessage('Cleared pre-existing modifications!');
 
   for djsonEntry in djsonDataTable do begin
 
@@ -106,14 +106,18 @@ begin
     listCEItemStatModification.Add(ceismToAdd);
     //ShowMessage('Added ItemStatModification to master list! ' + listCEItemStatModification[0].RowName);
 
-    formTree.Items.AddChildObject(nil, djsonEntry['RowName'].AsString, listCEItemStatModification.Items[iCounter]);
+    treeEntry := formTree.Items.AddChildObject(nil, djsonEntry['RowName'].AsString, listCEItemStatModification.Items[iCounter]);
     //ShowMessage('Added tree node!');
+    if tstrlistItemIDs.IndexOf(treeEntry.Text) >= 0 then
+      treeEntry.Text := treeEntry.Text + ' - ' + tstrlistItemNames[(tstrlistItemIDs.IndexOf(treeEntry.Text))]
+    else
+    //ShowMessage(treeEntry.text);
 
     Inc(iCounter);
 
   end;
 
-  ShowMessage('Finished loop');
+  //ShowMessage('Finished loop');
 
 end;
 
@@ -156,6 +160,23 @@ begin
 
 end;
 
+procedure ResetAllEntries;
+var
+  iCounter: integer;
+  formEntry: TForm_ConanExiles_ItemStatModification_Entry;
+begin
+
+  for iCounter := 0 to listEntries.Count - 1 do begin
+    formEntry := listEntries[iCounter];
+
+    formEntry.formEnabled.Checked := false;
+    formEntry.formGroup.Visible := false;
+    formEntry.formIntStats.ItemIndex := 0;
+    formEntry.formFloatStats.ItemIndex := 0;
+    formEntry.formValue.Text := '';
+  end;
+
+end;
 
 procedure TformWindow.formTreeChange(Sender: TObject; Node: TTreeNode);
 var
@@ -167,8 +188,10 @@ begin
 
 
   //ShowMessage('Loading TTreeNode');
-  ceismFromNode := formTree.Selected.Data;
-  ShowMessage(ceismFromNode.RowName);
+
+  ResetAllEntries();
+  ceismFromNode := Node.Data;
+  //ShowMessage(ceismFromNode.RowName);
 
   //ShowMessage('Getting number of Item Stat Modifications!');
   iNumModifications := ceismFromNode.Modifications.Count;
@@ -178,16 +201,16 @@ begin
     exit;
   end;
 
-  ShowMessage('There are less than 8 modifications!');
+  //ShowMessage('There are less than 8 modifications!');
   tstrlistParsedModification := TStringList.Create;
 
-  ShowMessage('Now iterating through ' + IntToStr(iNumModifications) + ' form entries!');
+  //ShowMessage('Now iterating through ' + IntToStr(iNumModifications) + ' form entries!');
   //for iCounter := 0 to iNumControls - 1 do begin
   for iCounter := 0 to iNumModifications - 1 do begin
     //ShowMessage('Looping through every entry!');
 
     formEntry := listEntries[iCounter];
-    //ShowMessage(ceismFromNode.Modifications[iCounter]);
+    ShowMessage(ceismFromNode.Modifications[iCounter]);
 
     ParseItemStatModificationString(ceismFromNode.Modifications[iCounter], tstrlistParsedModification);
 
@@ -198,9 +221,9 @@ begin
     formEntry.formGroup.Enabled := true;
     formEntry.formGroup.Visible := true;
 
-    //ShowMessage(tstrlistParsedModification[0]);
-    //ShowMessage(tstrlistParsedModification[1]);
-    //ShowMessage(tstrlistParsedModification[2]);
+    ShowMessage(tstrlistParsedModification[0]);
+    ShowMessage(tstrlistParsedModification[1]);
+    ShowMessage(tstrlistParsedModification[2]);
 
     if tstrlistParsedModification[0] = 'True' then begin
 
@@ -226,10 +249,14 @@ begin
       formEntry.formIntStats.Visible := true;
       formEntry.formIntStats.Enabled := true;
 
-      formEntry.formFloatStats.ItemIndex := tstrlistIntIDs.IndexOf(tstrlistParsedModification[1]);
+      formEntry.formIntStats.ItemIndex := tstrlistIntIDs.IndexOf(tstrlistParsedModification[1]);
       formEntry.formValue.Text := tstrlistParsedModification[2];
 
     end;
+
+    tstrlistParsedModification.Delete(2);
+    tstrlistParsedModification.Delete(1);
+    tstrlistParsedModification.Delete(0);
 
   end;
 
