@@ -95,8 +95,8 @@ begin
     //ShowMessage('Created CEItemStatModification!');
 
     for djsonISMod in djsonEntry['Modifications'] do begin
-      ShowMessage(djsonISMod.AsString);
-      //ceismToAdd.Modifications.Add(djsonISMod.AsString);
+      //ShowMessage(djsonISMod.AsString);
+      ceismToAdd.Modifications.Add(djsonISMod.AsString);
     end;
 
     //ShowMessage('Added modifications to string array');
