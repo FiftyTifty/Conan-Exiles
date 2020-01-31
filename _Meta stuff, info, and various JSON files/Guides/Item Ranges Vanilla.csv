@@ -1,0 +1,3673 @@
+RowName,Name
+4150,Sign Alchemist
+4151,Sign Blacksmith
+4152,Sign Armorsmith
+4153,Sign Smeltery
+4154,Sign Tannery
+4155,Sign Prison
+4156,Sign Farm
+4157,Sign Cook
+4158,Sign Tavern
+4159,Standing Sign Alchemist
+4160,Standing Sign Blacksmith
+4161,Standing Sign Armorsmith
+4162,Standing Sign Smeltery
+4163,Standing Sign Tannery
+4164,Standing Sign Prison
+4165,Standing Sign Farm
+4166,Standing Sign Cook
+4167,Standing Sign Tavern
+4168,"Standing Waymarker, Left"
+4169,"Standing Waymarker, Right"
+4176,Petrified Egg
+4177,Throne of Skelos
+4180,"Waymarker, Left"
+4181,"Waymarker, Right"
+4189,The Glasser
+4190,Reinforced Stool
+4192,Battle Spatula
+4193,Dead Leg
+4194,Table Leg
+4195,Practice Sword
+4196,Gravedigger
+4197,Practice Great Sword
+4220,Four-Sided Die
+4221,Six-Sided Die
+4222,Eight-Sided Die
+4223,Ten-Sided Die
+4224,Twelve-Sided Die
+4225,Twenty-Sided Die
+4230,Painting
+4231,Painting
+4232,Painting
+4233,Painting
+4234,Painting
+4235,Painting
+4236,Painting
+4237,Painting
+4238,Painting
+4239,Painting
+10001,Stone
+10002,Queen Bee
+10003,Worker Bee
+10005,Bark
+10010,Corrupted Bone
+10011,Wood
+10012,Branch
+10020,Khari Steel
+10021,Bone
+10022,Dragonbone
+10023,Dragonhorn
+10024,Ice Shard
+11001,Ironstone
+11011,Coal
+11012,Tablet of Power
+11013,Essence of Rot
+11016,Inner Sanctum Key
+11017,Key Fragment
+11018,Key to the Arena
+11019,The Warmaker\'s Key
+11020,Bronze Coin
+11021,Black Blood
+11022,Red Crystal
+11023,Blue Crystal
+11024,Green Crystal
+11025,Rare Spices
+11026,Torn Rags
+11027,Tablet of Knowledge
+11028,Blue Feather
+11029,Black Feather
+11030,Obsidian Shard
+11031,Obsidian Gem
+11032,Pouch
+11033,Inert Radium Gem
+11034,Scales
+11035,Volcanic Flower
+11036,Rusted Key
+11037,Key
+11038,Golden Key
+11039,Silver Key
+11040,Glowing Gem
+11041,Glowing Blue Gem
+11042,Glowing Green Gem
+11043,Glowing Red Gem
+11044,Journal
+11045,Insignia of Derketo
+11046,Insignia of Jhebbal Sag
+11047,Insignia of Mitra
+11048,Insignia of Set
+11049,Insignia of Ymir
+11050,Insignia of Yog
+11051,Crystal
+11052,Silverstone
+11053,Goldstone
+11054,Gold Bar
+11055,Silver Bar
+11056,Feather
+11057,Rhino Hide
+11058,Hyena Pelt
+11059,Elephant Hide
+11060,Feline Pelt
+11061,Bear Pelt
+11062,Chitin
+11063,Bat Skin
+11064,Obsidian
+11065,Silver Coin
+11066,Gold Coin
+11067,Silver Dust
+11068,Gold Dust
+11069,Wolf Pelt
+11070,Alchemical Base
+11071,Ivory
+11072,Claws
+11073,Skeleton Key
+11074,Pontoon
+11075,Coin Mold
+11076,Compost
+11077,Potent Compost
+11078,Bonemeal
+11079,Blood
+11080,Frost Lotus Flower
+11081,Frost Lotus Seeds
+11082,Yellow Lotus Seeds
+11083,Purple Lotus Flower
+11084,Purple Lotus Powder
+11085,Purple Lotus Seeds
+11086,Black Lotus Flower
+11087,Black Lotus Powder
+11088,Black Lotus Seeds
+11089,Golden Lotus Flower
+11090,Golden Lotus Seeds
+11091,Grey Lotus Flower
+11092,Grey Lotus Powder
+11093,Grey Lotus Seeds
+11094,Desert Berry-Bush Seeds
+11095,Highlands Berry-Bush Seeds
+11096,Hops Seeds
+11097,Leavening Plant Seeds
+11098,Asura\'s Glory Seeds
+11099,Midnight Blue Flower Seeds
+11100,Orange Phykos Cutting
+11101,Vines
+11102,Raw Ash
+11103,Fragment of Power
+11104,Bracelet Mold
+11105,Anklet Mold
+11106,Circlet Mold
+11107,Earring Mold
+11108,Insulated Wood
+11109,Lupin Seeds
+11110,False Mandrake Seeds
+11111,Sliver of the Unfulfilled 
+11112,Armor Scraps
+11113,Aloe Seeds
+11114,Short Handle
+11115,Long Handle
+11116,Shield Frame
+11117,Sturdy String
+11118,Dagger Handle
+11119,Spear Handle
+11120,Throwing Axe Handle
+11121,Frost Lotus Powder
+11122,Yellow Lotus Powder
+11123,Golden Lotus Powder
+11124,Crimson Lotus Flower
+11125,Crimson Lotus Powder
+11126,Crimson Lotus Seeds
+11127,Albino Bat Demon Blood
+11128,True Indigo Seeds
+11500,Corrupted Stone
+11501,Iron Bar
+11502,Steel Bar
+11504,Scorpion Queen Venom
+11551,Glass
+12001,Plant Fiber
+12003,Gossamer
+12011,Hide
+12012,Thick Hide
+12013,Reptile Hide
+12511,Leather
+12512,Thick Leather
+12513,Silk
+12514,Ichor
+12515,Layered Silk
+12516,Hardened Leather
+13001,Feral Flesh
+13002,Savoury Flesh
+13003,Exotic Flesh
+13011,Egg
+13012,Fat Grub
+13013,Handful of Insects
+13014,Small Scorpion
+13015,Seeds
+13051,Human Flesh
+13052,Eyes of Innocence
+13053,Cooked Human Flesh
+13501,Shredded Roast
+13502,Grilled Steak
+13503,Roasted Haunch
+13540,Gruel
+13550,Devil\'s Bonemeal
+13597,Spoiled Gruel
+13598,Rotten Devil\'s Bonemeal
+13599,Putrid Meat
+13600,Cooked Abysmal Meat
+13601,Arena Ritual Offering
+14001,Aloe Leaves
+14101,Serpent Venom Gland
+14102,Sand Reaper Toxin Gland
+14103,Scorpion Queen Venom Gland
+14149,Hanuman\'s Gift
+14150,Potion of Lost Souls
+14151,Yellow Lotus Blossom
+14152,Composite Obsidian
+14155,Supply Materials
+14156,Supply Materials
+14157,Supply Materials
+14158,Supply Materials
+14171,Brimstone
+14172,Tar
+14173,Steelfire
+14174,Twine
+14175,Dead Woman\'s Hair
+14181,Tomb Dust
+14182,Demon Blood
+14183,Dragonpowder
+14184,Powder of Corruption
+14185,Abysmal Eye
+14186,Abysmal Fang
+14187,Abysmal Flesh
+14190,Grey-flower Lupine
+14191,True Indigo
+14192,Orange Phykos
+14193,Cochineal
+14194,False Mandrake
+14195,Glowing Goop
+14196,Sandbeast Bile Gland
+14197,Glowing Essence
+14199,Asura\'s Glory
+14200,Glass Flask
+14201,Water-filled Glass Flask
+14601,Glass Flask Mold
+14999,Withered Heart
+15001,Human Heart
+15002,Unblemished Human Meat
+15003,Lingering Essence
+15004,Sacred Blood
+15051,XX_Yog Favor
+15052,XX_Set Favor
+15053,XX_Mitra Favor
+15054,xx_Ymir_Favor
+15101,XX_Yog Tribute
+15102,XX_Set Tribute
+15501,Heart of a Hero
+15502,Ancient Rhino Horn
+15503,Ancient Key
+15504,Heart of the Kinscourge
+15505,Staff of the Triumvirate
+15506,Awakened Staff of the Triumvirate
+15507,Diadem of the Giant-kings
+15508,Mask of the Witch Queen
+15509,Tears of Two Races
+15510,The Shining Trapezohedron
+15511,Star of the Champion
+15512,Heart of the Sands Scourgestone
+15513,Essence of the Serpent Ring
+15514,Jagged Scourgestone Piece
+15515,Shattered Scourgestone Piece
+15516,Broken Scourgestone Piece
+15517,The Keystone
+15518,Key to Razma\'s Quarters
+16001,Stone Consolidant
+16002,Iron Reinforcement
+16003,Steel Reinforcement
+16011,Brick
+16012,Hardened Brick
+16021,Shaped Wood
+17001,Dark Dye Colorant
+17002,Light Dye Colorant
+17010,Brown Dye
+17011,Light Brown Dye
+17012,Dark Brown Dye
+17020,Grey Dye
+17021,Light Grey Dye
+17022,Dark Grey Dye
+17030,Cyan Dye
+17031,Light Cyan Dye
+17032,Dark Cyan Dye
+17040,Red Dye
+17041,Light Red Dye
+17042,Dark Red Dye
+17050,Blue Dye
+17051,Light Blue Dye
+17052,Dark Blue Dye
+17060,Green Dye
+17061,Light Green Dye
+17062,Dark Green Dye
+17070,Yellow Dye
+17071,Light Yellow Dye
+17072,Dark Yellow Dye
+17080,Purple Dye
+17081,Light Purple Dye
+17082,Dark Purple Dye
+17090,Orange Dye
+17091,Light Orange Dye
+17092,Dark Orange Dye
+17093,Magenta Dye
+17094,Light Magenta Dye
+17095,Dark Magenta Dye
+17096,Olive Green Dye
+17097,Light Olive Green Dye
+17098,Dark Olive Green Dye
+17099,Ash Dye
+17100,Light Ash Dye
+17101,Dark Ash Dye
+17102,Cimmerian Blue Dye
+17103,Light Cimmerian Blue Dye
+17104,Dark Cimmerian Blue Dye
+17105,Muted Brown Dye
+17106,Light Muted Brown Dye
+17107,Dark Muted Brown Dye
+17108,Tan Dye
+17109,Light Tan Dye
+17110,Dark Tan Dye
+17111,Deep Red Dye
+17112,Midnight Blue Dye
+17113,Abyssal Violet Dye
+17114,Cursed Green Dye
+17115,White Dye
+17116,Black Dye
+18000,Hops
+18001,Leavening Agent
+18002,Honey
+18005,Highland Berries
+18006,Desert Berries
+18007,Shroom Amanita
+18008,Puffball Mushroom
+18010,Unappetizing Fish
+18011,Savory Fish
+18012,Exotic Fish
+18013,Dried Fish
+18014,Dried Meat
+18015,Spicy Dried Fish Combo
+18020,Unappetizing Shellfish
+18021,Savory Shellfish
+18022,Exotic Shellfish
+18025,Dry Wood
+18029,Denizens of the Dark Well
+18030,Resin
+18031,Oil
+18032,Highland Berry Pulp
+18033,Desert Berry Pulp
+18034,Prophecy of the Borne Witch
+18035,The Mastodont\'s Tower
+18036,Blood-stained Nails
+18037,Prince of the Black shores
+18038,The Daughter of Ymir
+18039,Time of the Scaled Lizard
+18040,Ice
+18041,Black Ice
+18050,Fangs
+18051,Horn
+18052,Fur
+18053,Tusks
+18054,Layered Fur
+18060,Star Metal Ore
+18061,Star Metal Bar
+18062,Hardened Steel Bar
+18064,Desert Grog
+18065,Desert Rum
+18066,Jungle Grog
+18067,Jungle Rum
+18068,Curative Mixture
+18069,Rum Runner Vald\'s Secret Recipe
+18070,Phykos Rum
+18071,Absinthe
+18072,Ale
+18073,Highland Wine
+18074,Cactus Wine
+18075,Firewater
+18076,Mead
+18077,Resin Wine
+18078,Wine
+18079,Honeyed Wine
+18080,Desert Wine
+18081,Shroom Beer
+18188,Volatile Gland
+18199,Fish Strips
+18200,Cooked Fish
+18201,Cooked Savory Fish
+18202,Cooked Exotic Fish
+18203,Cooked Shellfish
+18204,Cooked Savory Shellfish
+18205,Cooked Exotic Shellfish
+18206,Bread
+18207,Exotic Feast
+18208,Savory Feast
+18209,Oyster Omelette
+18210,Century Egg
+18211,Purified Water
+18212,Feast to Yog
+18213,Feral Feast
+18214,Bush Jerky
+18215,Corrupting Brew
+18216,Flavored Gruel
+18217,Spiced Haunch
+18218,Feast of Set 
+18219,Spiced Oysters
+18220,Cooked Oyster
+18221,Berry Juice
+18222,Feast of Mitra
+18223,Meaty Mashup
+18224,Soup
+18225,Enhanced Gruel
+18226,Cleansing Brew
+18227,Spiced Tea
+18228,Herbal Tea
+18229,Trail Jerky
+18230,Steak and Eggs
+18231,Spiced Steak
+18232,Savory Jerky
+18233,Meat Strips
+18234,Darfari Bug Soup
+18235,Spiced Soup
+18236,Aloe Soup
+18237,Seed Soup
+18238,Yellow Lotus Soup
+18239,Mushroom Stew
+18240,Roasted Mushrooms
+18241,Mulled Brew
+18242,Cimmerian Meal
+18243,Mushroom Tea
+18244,Hearty Stew
+18245,Demon Blood-Sausage
+18246,Rhino Head Soup
+18247,Lasting Meal
+18248,Spiced Slivers
+18249,Exquisite Stew
+18250,Chili Desert Style
+18251,Hearty Meal
+18252,Bone Broth
+18253,Spiced and Shredded Roast
+18254,Bug Kabob
+18255,Spiced Egg
+18256,Egg Surprise
+18257,Cooked Eggs
+18258,Dried Berries
+18259,Salted Berries
+18260,Feast of Ymir
+18261,Oyster Flesh
+18263,Salt
+18264,Spice
+18265,xx_maxfood
+18266,xx_nofood
+18267,xx_removebuffs
+18268,Honeyglazed Roast
+18269,Honeyed Eggs
+18270,Mystery Meat Soup
+18271,Honeyed Gruel
+18272,Honey Jerky
+18273,Honeybread
+18274,Ice Tea
+18275,Potion of Endowment
+18276,Blood Sausage
+18277,Cooked Pork Rinds
+18278,Cooked Pork Strips
+18279,Raw Pork
+18280,Cooked Pork Dinner
+18281,Lumpy Soup
+18282,Mixed Meat Scraps
+18283,Salted Pork
+18284,Spiced Pork
+18285,Cooked Exquisite Meat
+18286,Exquisite Meat
+18287,Salted Exquisite Meat
+18288,Spiced Exquisite Meat
+18289,Elixir of Sight
+18290,Elixir of Grace
+18291,Black Lotus Potion
+18292,Elixir of Numbing
+18293,Golden Lotus Potion
+18294,Grey Lotus Potion
+18295,Elixir of Enduring
+18296,Purple Lotus Potion
+18297,Elixir of Might
+18298,Elixir of Ingestion
+18299,Elixir of Vigor
+18300,Frost Lotus Potion
+18301,Fish Gill Potion
+18302,Feast of Jhebbal Sag
+18303,Feast of Derketo
+18304,Elixir of Freedom
+18305,Hunter\'s Potion
+18306,Demonic Lure
+18308,Reptile Lure
+18309,Dragon Lure
+18310,Elephant Lure
+18311,Canine Lure
+18312,Imp Lure
+18313,Sand Reaper Lure
+18314,Bird Lure
+18315,Rhinoceros Lure
+18316,Rocknose Lure
+18317,Feline Lure
+18318,Scorpion Lure
+18319,Spider Lure
+18320,Breath of Dagon
+18322,The Sign of Jhebbal Sag
+18350,Honey Whisky
+18351,Pirate Rotgut
+18352,Frenzywine
+18353,Bitter Tea
+18354,Stygian Liquor
+18400,Healing Wraps
+18401,Numbing Wraps
+18402,Midnight Blue Flower
+18500,Beehive
+18501,Improved Beehive
+18502,Fish Trap
+18503,Shellfish Trap
+18504,Fermentation Barrel
+18505,Fluid Press
+18506,Dryer
+18507,Preservation Box
+18508,Improved Preservation Box
+18509,Stove
+18510,Grinder
+18511,Frost Temple Smithy
+18512,Artisan Table
+18514,Torturer\'s Worktable
+18515,Improved Stove
+18518,Volcanic Forge
+18519,Compost Heap
+18520,Crude Planter
+18521,Planter
+18522,Improved Planter
+18523,Improved Armorer\'s Bench
+18524,Altar of the Bat
+18525,Altar of Chaosmouth
+18998,Scorpion Egg-sac
+18999,Dismantling Bench
+19000,Shadebloom
+19001,Animal Pen
+19002,Reinforced Animal Pen
+19003,Armored Animal Pen
+19004,Dung
+19005,Feed Box
+19006,Thrall Pot
+19008,Scorpion Hatchling
+19009,Elephant Calf
+19010,Bear Cub
+19011,Striped Hyena Whelp
+19012,Spotted Hyena Whelp
+19013,Crocodile Hatchling
+19014,Ostrich Chick
+19015,Rhino Calf
+19016,Locust Spawn
+19017,Boar Shoat
+19018,Fawn
+19019,Shaleback Hatchling
+19020,Shaleback Egg
+19021,Spider Egg-sac
+19022,Ostrich Egg
+19023,Shoebill Egg
+19024,Sand Reaper Egg 
+19025,Crocodile Egg
+19026,Rocknose Egg
+19027,Tiger Cub
+19028,Jaguar Cub
+19029,Panther Cub
+19030,Sabretooth Kitten
+19031,Wolf Cub
+19032,Frostwolf Cub
+19033,Spiderling
+19034,Camel Calf
+19035,Pebblenose
+19036,Shoebill Chick
+19037,Lion Cub
+19050,Shadespiced Corrupted Flesh
+19051,Shadespiced Raw Stringy Meat
+19052,Shadespiced Human Flesh
+19053,Shadespiced Raw Succulent Meat
+19054,Shadespiced Fatty Meat
+19055,Shadespiced Perfect Cut of Meat
+19056,Shadespiced Raw Tough Meat
+19057,Shadespiced Oily Fish
+19058,Shadespiced Desert Berries
+19059,Shadespiced Fish
+19060,Shadespiced Highland Berries
+19061,Shadespiced Succulent Fish
+19062,Shadespiced Honey
+19063,Shadespiced Insects
+19064,Shadespiced Fat Grub
+19065,Shadespiced Plant Fiber
+19066,Shadespiced Vines
+19067,Shadespiced Bark
+19068,Shadespiced Rotten Meat
+19069,Shadespiced Amanita Mushrooms
+19070,Shadespiced Puffer Mushrooms
+19071,Shadespiced Rotten Shellfish
+19072,Shadespiced Shellfish
+19073,Shadespiced Succulent Shellfish
+19074,Shadespiced Demon Blood
+19075,Shadespiced Stone
+19076,Shadespiced Crystal
+19077,Shadespiced Iron Ore
+19078,Shadespiced Gold
+19079,Shadespiced Gold Dust
+19080,Shadespiced Silver
+19081,Shadespiced Silver Dust
+19085,Tamed Scorpion
+19086,Tamed Scorpion
+19087,Tamed Scorpion
+19088,Tamed Scorpion
+19089,Unstable Wretch
+19090,Skeleton
+19091,Skeleton Warrior
+19092,Wight
+19093,Legion Warrior
+19094,Undead Kappa
+19095,Undead Hyena
+19096,Undead Monstrosity
+19097,Tamed Lion
+19098,Tamed Lion
+19099,Tamed Elephant
+19100,Tamed Bear
+19101,Tamed Striped Hyena
+19102,Tamed Spotted Hyena
+19103,Crocodile
+19104,Ostrich
+19105,Shoebill
+19106,Rhinoceros
+19107,Sand Reaper
+19108,Sand Reaper
+19109,Sand Reaper
+19110,Rocknose
+19111,Boar
+19112,Gazelle
+19113,Camel
+19114,Shaleback
+19115,Shaleback
+19116,Shaleback
+19117,Shaleback
+19118,Spider
+19119,Spider
+19120,Spider
+19121,Spider
+19122,Spider
+19123,White Tiger
+19124,Greater Sabretooth
+19125,Greater Jaguar
+19126,Greater Wolf
+19127,Greater Bear
+19128,Greater Hyena
+19129,Greater Crocodile
+19130,Ostrich
+19131,Ostrich
+19132,Shoebill
+19133,Shoebill
+19134,White rhinoceros
+19135,Black Rhinoceros
+19136,Greater Rhinoceros
+19137,Sand Reaper Queen
+19138,Greater Rocknose
+19140,Gold-vein Rocknose
+19141,Silver-vein Rocknose
+19142,Greater Boar
+19143,Greater Shaleback
+19144,Demonic Spider
+19145,Wolf
+19146,Jaguar
+19147,Tiger
+19148,Sabretooth
+19149,Panther
+19150,Greater Panther
+19151,Bear Carcass
+19152,Hyena Carcass
+19153,Crocodile Carcass
+19154,Ostrich Carcass
+19155,Shoebill Carcass
+19156,Rhinoceros Carcass
+19157,Sand Reaper Carcass
+19158,Rocknose Carcass
+19159,Boar Carcass
+19160,Gazelle Carcass
+19161,Camel Carcass
+19162,Shaleback Carcass
+19163,Spider Carcass
+19164,Tiger Carcass
+19165,Sabretooth Carcass
+19166,Jaguar Carcass
+19167,Wolf Carcass
+19168,Gold-vein Rocknose Carcass
+19169,Silver-vein Rocknose Carcass
+19170,Panther Carcass
+19171,Elephant Carcass
+19172,Lion Carcass
+19173,Scorpion Carcass
+19174,Grey Ape Carcass
+19175,Gorilla Carcass
+19176,Yeti Carcass
+19500,Flesh of Remembrance
+19501,Potion of Midnight
+19502,Night-Eye Potion
+19503,Potion of Bestial Memory
+19504,Potion of Natural Learning 
+19599,Hooked Sword
+19600,Scales of Dagon
+19605,Infused Aloe Extract
+19606,Silken Wraps
+19607,Ancient Lemurian Sword
+19608,Ancient Lemurian Shield
+19609,Ancient Lemurian Trident
+19610,Improved Shellfish Trap
+19611,Improved Fish Trap
+19615,xx_dagon_trident
+19616,Daggers of Dagon
+19617,Tamed Elephant
+19618,Tamed Mammoth
+20000,XX_Generic Animal Weapon
+20001,XX_Rocknose
+20002,"XX_Rhino, Grey"
+20003,"XX_Hyena, Spotted"
+20004,"XX_Locust, Green"
+20005,XX_Cobra
+20006,"XX_Scorpion, Tiny"
+20007,"XX_Spider, Redmouth"
+20008,XX_Kappa
+20009,XX_Bat Demon
+20010,XX_Imp
+20011,"XX_Rocknose, King"
+20012,"XX_Rhino, White"
+20013,"XX_Rhino, Black"
+20014,"XX_Rhino, King"
+20015,"XX_Scorpion, Medium"
+20016,"XX_Scorpion, Large"
+20017,"XX_Scorpion, King"
+20018,"XX_Kappa, King"
+20019,"XX_Spider, Green"
+20020,"XX_Spider, Brown"
+20021,"XX_Spider, Widow"
+20022,"XX_Skeleton, Serpent Man"
+20023,"XX_Locust, Yellow"
+20024,XX_Rabbit
+20025,"XX_Antelope, Spiral Horns"
+20026,"XX_Antelope, Straight Horns"
+20027,"XX_Antelope, King"
+20028,XX_Camel
+20029,"XX_Kappa, Undead"
+20030,"XX_Rocknose, Molten"
+20031,"XX_Rocknose, King Molten"
+20032,XX_Pikefish
+20033,XX_BigCat_Panther
+20034,XX_BigCat_Sandbeast
+20035,XX_Crocodile
+20036,"XX_Snake, Giant"
+20037,XX_Vulture
+20038,"XX_Hyena, Striped"
+20039,"XX_Hyena, Undead"
+20040,"XX_Kappa, Hatchling"
+20041,"XX_Imp, Explosive"
+20042,XX_Ostrich
+20043,XX_Piranha
+20044,XX_Elephant
+20045,XX_Locust_White
+20046,XX_Komodo
+20047,XX_Rocknose_White
+20048,XX_WereHyena
+20049,XX_Spider_Grey
+20050,XX_Spider_Widow_Blue
+20051,XX_Spider_Widow_Green
+20052,XX_Spider_Widow_Yellow
+20053,XX_Spider_Widow_Red
+20054,XX_Spider_Giant
+20055,XX_Dragon_Undead
+20056,XX_Dragon
+20057,XX_Dragon_Hatchling
+20058,XX_Giant_King_Ghost
+20059,XX_Crocodile_Giant
+20060,XX_Bat_Demon_White
+20061,XX_SewerAbomination
+20062,XX_Wolf
+20063,XX_Wolf_Dire
+20064,XX_Deer
+20065,XX_Elk
+20066,XX_Elk_King
+20067,XX_Mountain_Goat
+20068,XX_Wild_Boar
+20069,XX_Mammoth
+20070,XX_Bear
+20071,xx_giantkingboss
+20072,XX_Sabretooth
+20073,XX_Bear_Black
+20074,XX_Rocknose_King_Boss_Moss
+20075,XX_Rocknose_King_Ice
+20076,XX_Wild_Boar_Boss
+20077,XX_Frost_Giant
+20078,XX_Death_Knight
+20079,XX_Panther
+20080,xx_alpha_snake
+20081,xx_alpha_elephant
+20082,XX_Skeleton_Armor
+20083,XX_Undead_Wight
+20084,XX_Skeleton
+20085,XX_Frost_Giant_Boss
+20086,XX_Frost_Giant_Smith
+20087,XX_DeathKnightMinion
+20088,XX_Frost_Giant_Tutorial
+20089,XX_Elephant_Baby
+20090,XX_Rhino_Baby
+20091,XX_Skeleton_Dregs
+20092,XX_Dragon_Green
+20101,XX_Imp_bc_
+20102,XX_Imp_bc_
+20103,XX_Imp_bc_
+20104,XX_Imp_bc_
+20105,XX_Imp_t_
+20106,XX_ImpKing_bc_
+20107,XX_ImpKing_bc_
+20108,XX_ImpKing_bc_
+20109,XX_ImpKing_bc_
+20121,"XX_Imp, Explosive_bc_"
+20122,"XX_Imp, Explosive_t_"
+20125,XX_KappaUndead_bc_
+20126,XX_KappaUndead_bc_
+20127,XX_KappaUndead_bc_
+20128,XX_KappaUndead_bc_
+20129,XX_KappaUndead_charge_
+20130,XX_KappaUndead_bc_
+20131,XX_KappaUndead_bc_
+20132,XX_KappaUndead_bc_
+20133,XX_KappaUndead_bc_
+20134,XX_KappaUndead_charge_
+20135,XX_Hyena_bc_
+20136,XX_Hyena_bc_
+20137,XX_Hyena_charge_
+20141,XX_Hyena_bc_
+20142,XX_Hyena_bc_
+20143,XX_Hyena_charge_
+20145,XX_Hyena_t_
+20146,XX_HyenaUndead_bc_
+20147,XX_HyenaUndead_bc_
+20148,XX_HyenaUndead_charge_
+20149,XX_Crocodile_bc_
+20150,XX_Crocodile_bc_
+20151,XX_Crocodile_bc_
+20152,XX_Crocodile_bc_
+20157,XX_Komodo_bc_
+20158,XX_Komodo_bc_
+20159,XX_Komodo_bc_
+20160,XX_Komodo_bc_
+20161,XX_Crocodile_bc_
+20162,XX_Crocodile_bc_
+20163,XX_Crocodile_bc_
+20164,XX_Crocodile_bc_
+20165,XX_Crocodile_t_
+20171,XX_Crocodile_Giant_bc_
+20172,XX_Crocodile_Giant_bc_
+20173,XX_Crocodile_Giant_bc_
+20174,XX_Crocodile_Giant_bc_
+20175,XX_Crocodile_Giant_Tailswipe
+20181,XX_Pikefish_bc_
+20201,XX_Piranha_bc_
+20211,XX_SwampKing_Jab_
+20212,XX_SwampKing_Jab_
+20213,XX_SwampKing_Slam
+20214,XX_SwampKing_Spin
+20215,XX_SwampKing_EntanglingRoots
+20216,XX_Kappa_bc_
+20217,XX_Kappa_bc_
+20218,XX_Kappa_bc_
+20219,XX_Kappa_bc_
+20220,XX_Kappa_slam_slow
+20221,XX_Kappa_bc_
+20222,XX_Kappa_bc_
+20223,XX_Kappa_bc_
+20224,XX_Kappa_bc_
+20226,XX_Kappa_t_
+20227,XX_Kappa_charge_
+20228,XX_Kappa_slam_slow
+20231,XX_Kappa_King_bc_
+20232,XX_Kappa_King_bc_
+20233,XX_Kappa_King_bc_
+20234,XX_Kappa_King_bc_
+20235,XX_Kappa_King_charge_
+20241,XX_Locust_bc_
+20242,XX_Locust_bc_
+20243,XX_Locust_t_
+20244,XX_Locust_SprayLine
+20245,XX_Locust_SprayCone
+20246,XX_Locust_Green_bc_
+20247,XX_Locust_Green_bc_
+20248,XX_Locust_Green_SprayLine
+20249,XX_Locust_Green_SprayCone
+20250,XX_Locust_White_bc_
+20251,XX_Locust_White_bc_
+20252,XX_Locust_White_SprayLine
+20253,XX_Locust_White_SprayCone
+20254,XX_Locust_Queen_bc_
+20255,XX_Locust_Queen_bc_
+20256,XX_Locust_Queen_SprayLine
+20257,XX_Locust_Queen_SprayCone
+20258,XX_Locust_Queen_SpecialAttack
+20261,XX_Bat_Demon_bc_
+20262,XX_Bat_Demon_bc_
+20263,XX_Bat_Demon_bc_
+20264,XX_Bat_Demon_t_
+20271,XX_Bat_Demon_White_bc_
+20272,XX_Bat_Demon_White_bc_
+20273,XX_Bat_Demon_White_bc_
+20274,XX_Bat_Demon_White_bc_
+20281,XX_Skeleton_Serpent_Man_bc_
+20282,XX_Skeleton_Serpent_Man_bc_
+20283,XX_Skeleton_Serpent_Man_charge_
+20284,XX_Skeleton_Serpent_Man_t_
+20301,XX_Dragon_bc_
+20302,XX_Dragon_bc_
+20303,XX_Dragon_bc_
+20304,XX_Dragon_Headswipe_Left
+20305,XX_Dragon_Headswipe_Right
+20306,XX_Dragon_Headbutt
+20307,XX_Dragon_Firebreath_Line
+20308,XX_Dragon_Firebreath_Cone
+20309,XX_Dragon_Taunt
+20310,XX_Dragon_Spin_
+20311,XX_Dragon_Undead_bc
+20312,XX_Dragon_Undead_bc
+20313,XX_Dragon_Undead_bc
+20314,XX_Dragon_Undead_bc
+20315,XX_Dragon_Undead_bc
+20316,XX_Dragon_Hatchling_bc
+20317,XX_Dragon_Hatchling_bc
+20318,XX_Dragon_Hatchling_bc
+20319,XX_Dragon_Hatchling_HeadDash
+20320,XX_Dragon_Hatchling_Headswipe_Left
+20321,XX_Dragon_Hatchling_Headswipe_Right
+20331,XX_RocknoseWhite_bc_
+20332,XX_RocknoseWhite_bc_
+20333,XX_RocknoseWhite_bc_
+20341,XX_Rocknose_bc_
+20342,XX_Rocknose_bc_
+20343,XX_Rocknose_bc_
+20344,XX_Rocknose_t_
+20351,XX_RocknoseKing_bc_
+20352,XX_RocknoseKing_bc_
+20353,XX_RocknoseKing_bc_
+20354,XX_RocknoseKing_bc_
+20355,XX_RocknoseKing_t_
+20356,XX_Scorpion_bc_
+20357,XX_Scorpion_bc_
+20358,XX_Scorpion_bc_
+20361,XX_Scorpion_bc_
+20362,XX_Scorpion_bc_
+20363,XX_Scorpion_bc_
+20365,XX_Scorpion_tailspin
+20366,XX_Scorpion_tailspin
+20367,XX_ScorpionLarge_bc_
+20368,XX_ScorpionLarge_bc_
+20369,XX_ScorpionLarge_bc_
+20371,XX_ScorpionLarge_bc_
+20372,XX_ScorpionLarge_bc_
+20373,XX_ScorpionLarge_bc_
+20374,XX_ScorpionKing_bc_
+20375,XX_ScorpionKing_bc_
+20376,XX_ScorpionKing_bc_
+20377,XX_ScorpionKing_Spin
+20381,XX_ScorpionKing_bc_
+20382,XX_ScorpionKing_bc_
+20383,XX_ScorpionKing_bc_
+20384,XX_ScorpionKing_Spin
+20385,XX_Scorpion_burrow
+20386,XX_Spider_bc_
+20387,XX_Spider_bc_
+20391,XX_Spider_bc_
+20392,XX_Spider_bc_
+20393,XX_SpiderGiant_bc_
+20394,XX_SpiderGiant_bc_
+20395,XX_Spider_VenomLauncher
+20396,XX_Spider_VenomProjectile
+20397,XX_Spider_Web
+20398,XX_Spider_Web_Projectile
+20399,XX_Spider_dash
+20400,XX_SpiderGiant_pull
+20421,XX_Cobra_bc_
+20422,XX_Cobra_bc_
+20441,XX_Rhino_CircleRun_L
+20442,XX_Rhino_CircleRun_R
+20443,XX_RhinoBlack_CircleRun_L
+20444,XX_RhinoBlack_CircleRun_R
+20445,XX_RhinoKing_CircleRun_L
+20446,XX_RhinoKing_CircleRun_R
+20447,XX_Rhino_ReptileBoss_CircleRun_L
+20448,XX_Rhino_ReptileBoss_CircleRun_R
+20449,XX_Rhino_Reptile_CircleRun_L
+20450,XX_Rhino_Reptile_CircleRun_R
+20453,XX_Rhino_ReptileBoss_bc_
+20454,XX_Rhino_ReptileBoss_bc_
+20455,XX_Rhino_ReptileBoss_bc_
+20456,XX_Rhino_ReptileBoss_charge_
+20457,XX_Rhino_Reptile_bc_
+20458,XX_Rhino_Reptile_bc_
+20459,XX_Rhino_Reptile_bc_
+20460,XX_Rhino_Reptile_charge_
+20461,XX_Rhino_bc_
+20462,XX_Rhino_bc_
+20463,XX_Rhino_bc_
+20464,XX_Rhino_charge_
+20465,XX_RhinoBlack_bc_
+20466,XX_RhinoBlack_bc_
+20467,XX_RhinoBlack_bc_
+20468,XX_RhinoBlack_charge_
+20471,XX_RhinoKing_bc_
+20472,XX_RhinoKing_bc_
+20473,XX_RhinoKing_bc_
+20474,XX_RhinoKing_charge_
+20475,XX_Ostrich_bc_
+20476,XX_Ostrich_bc_
+20477,XX_Ostrich_bc_
+20478,XX_Ostrich_charge_
+20481,XX_Ostrich_bc_
+20482,XX_Ostrich_bc_
+20483,XX_Ostrich_bc_
+20484,XX_Ostrich_charge_
+20485,XX_Ostrich_t_
+20491,XX_Bull_bc_
+20492,XX_Bull_bc_
+20493,XX_Bull_bc_
+20494,XX_Bull_charge_
+20495,XX_Bull_CircleDash_Left
+20496,XX_Bull_CircleDash_Right
+20497,XX_Bull_charge_
+20498,XX_Bull_charge_
+20499,XX_Elephant_bc_
+20500,XX_Elephant_bc_
+20501,XX_Elephant_bc_
+20502,XX_Elephant_bc_
+20503,xx_Alphaelephant_bc_
+20504,xx_Alphaelephant_bc_
+20505,XX_Elephant_charge
+20506,XX_Alphaelephant_charge
+20507,XX_Elephant_Stomp
+20508,XX_Alphaelephant_Stomp
+20509,XX_Werehyena_charge_
+20510,XX_Mammoth_bc_
+20511,XX_Mammoth_bc_
+20512,XX_Mammoth_charge
+20513,XX_Mammoth_Stomp
+20514,XX_Mammoth_Spin
+20515,XX_Elephant_Stomp_Small
+20516,XX_AlphaElephant_Stomp_Small
+20517,XX_AlphaElephant_Stomp_Small_Left_Sweep
+20518,XX_AlphaElephant_Stomp_Small_Right_Sweep
+20519,XX_Werehyena_bc_
+20520,XX_Werehyena_bc_
+20521,XX_Werehyena_bc_
+20522,XX_Werehyena_bc_
+20523,XX_Werehyena_charge_
+20524,XX_Werehyena_t_
+20531,XX_SnakePeople_Brute_bc_
+20532,XX_SnakePeople_Brute_bc_
+20533,XX_SnakePeople_Brute_charge_
+20534,XX_SnakePeople_Brute_t_
+20540,XX_BigSnake_bc_
+20541,XX_GiantSnake_bc_
+20542,XX_GiantSnake_bc_
+20543,xx_AlphaGiantSnake_bc_
+20544,xx_AlphaGiantSnake_bc_
+20561,XX_Komodo_bc_
+20562,XX_Komodo_bc_
+20563,XX_Komodo_bc_
+20564,XX_Komodo_bc_
+20565,XX_Komodo_t_
+20566,XX_Wolf_bc_
+20567,XX_Wolf_bc_
+20568,XX_Wolf_bc_
+20569,XX_Wolf_charge_
+20581,XX_SewerAbomination_bc_
+20582,XX_SewerAbomination_bc_
+20583,XX_SewerAbomination_bc_
+20584,XX_SewerAbomination_bc_
+20585,XX_SewerAbomination_bc_
+20586,XX_SewerAbomination_bc_
+20591,XX_SewerAbomination_AcidProjectile
+20592,XX_BigCatPanther_bc_
+20593,XX_BigCatPanther_bc_
+20594,XX_BigCatPanther_bc_
+20595,XX_BigCatPanther_bc_
+20596,XX_BigCatPanther_bc_
+20597,XX_BigCatPanther_bc_
+20598,XX_BigCatSandbeast_bc_
+20599,XX_BigCatSandbeast_bc_
+20600,XX_BigCatSandbeast_bc_
+20601,XX_BigCatSandbeast_bc_
+20602,XX_BigCatSandbeast_bc_
+20603,XX_BigCatSandbeast_bc_
+20604,XX_BigCatSandbeast_bc_
+20605,XX_BigCatPanther_t_
+20606,XX_BigCatPanther_Boss_Swipe_L
+20607,XX_BigCatPanther_Boss_Swipe_R
+20610,XX_Wolf_bc_
+20611,XX_Wolf_bc_
+20612,XX_Wolf_bc_
+20613,XX_Wolf_charge_
+20614,XX_Wolf_Dire_bc_
+20615,XX_Wolf_Dire_bc_
+20616,XX_Wolf_Dire_bc_
+20617,XX_Wolf_charge_
+20618,XX_Wolf_sidestep_left
+20619,XX_Wolf_sidestep_right
+20620,XX_Wolf_Bite_
+20621,XX_Wolf_Bite_
+20622,XX_Wolf_Dire_Bite_
+20623,XX_Wolf_Dire_Bite_
+20630,XX_Elk_bc_
+20631,XX_Elk_bc_
+20632,XX_Elk_bc_
+20633,XX_Elk_OverheadSmash
+20636,XX_Elk_King_bc_
+20637,XX_Elk_King_bc_
+20638,XX_Elk_King_bc_
+20639,XX_Elk_King_OverheadSmash
+20640,XX_Kudo_bc_
+20641,XX_Kudo_bc_
+20642,XX_Kudo_bc_
+20643,XX_Kudo_OverheadSmash
+20650,XX_Mountain_Goat_bc_
+20651,XX_Mountain_Goat_OverheadSmash
+20655,XX_Gazeller_Scared
+20656,XX_Gazeller_bc_
+20657,XX_Gazeller_bc_
+20658,XX_Gazeller_bc_
+20660,XX_Wild_Boar_bc_
+20661,XX_Wild_Boar_bc_
+20662,XX_Wild_Boar_charge
+20664,XX_Wild_Boar_Boss_bc_
+20665,XX_Wild_Boar_Boss_bc_
+20666,XX_Wild_Boar_Boss_charge
+20667,XX_Wild_Boar_taunt
+20668,XX_Wild_Boar_Boss_Special
+20669,XX_Wild_Boar_Boss_taunt
+20670,XX_Bear_bc_
+20671,XX_Bear_bc_
+20672,XX_Bear_medium_
+20673,XX_Bear_medium_
+20674,XX_Bear_taunt
+20675,XX_Bear_Black_bc_
+20676,XX_Bear_Black_bc_
+20677,XX_Bear_Black_medium_
+20678,XX_Bear_Black_medium_
+20680,XX_Bear_Black_bc_
+20681,XX_Bear_Black_bc_
+20682,XX_Bear_Black_medium_
+20683,XX_Bear_Black_medium_
+20684,XX_Sabretooth_bc_
+20685,XX_Sabretooth_bc_
+20686,XX_Sabretooth_bc_
+20687,XX_Sabretooth_bc_
+20688,XX_Sabretooth_bc_
+20689,XX_Sabretooth_bc_
+20690,XX_Sabretooth_bc_
+20691,XX_Sabretooth_bc_
+20692,XX_Sabretooth_bc_
+20693,XX_Sabretooth_bc_
+20694,XX_Sabretooth_bc_
+20695,XX_Sabretooth_bc_
+20700,XX_Jaguar_Jab
+20701,XX_Jaguar_Jab
+20702,XX_Jaguar_Overhead
+20703,XX_Jaguar_Sidedash_Left
+20704,XX_Jaguar_Sidedash_Right
+20705,XX_Jaguar_Charge
+20710,XX_Rocknose_King_Boss_Moss_bc_
+20711,XX_Rocknose_King_Boss_Moss_bc_
+20712,XX_Rocknose_King_Boss_Moss_bc_
+20713,XX_Rocknose_King_Boss_Moss_bc_
+20714,XX_Rocknose_King_Boss_Moss_t_
+20721,XX_Rocknose_King_Ice_bc_
+20722,XX_Rocknose_King_Ice_bc_
+20723,XX_Rocknose_King_Ice_bc_
+20724,XX_Rocknose_King_Ice_bc_
+20725,XX_Rocknose_King_Ice_t_
+20730,XX_Frost_Giant_bc_
+20731,XX_Frost_Giant_bc_
+20732,XX_Frost_Giant_bc_
+20733,XX_Frost_Giant_bc_
+20734,XX_Frost_Giant_bc_
+20735,XX_Frost_Giant_bc_
+20736,XX_Frost_Giant_taunt
+20741,XX_Witch_Queen_Statue_Slam
+20742,XX_Witch_Queen_Statue_Stomp
+20743,xx_IronKing_kick
+20744,xx_IronKingKickToOverhand
+20745,xx_IronKingLeap
+20746,xx_IronKingOverhandSequence
+20747,xx_IronKingSpin
+20748,xx_IronKingShedRust
+20750,XX_Death_Knight_bc_
+20751,XX_Death_Knight_bc_
+20752,XX_Death_Knight_bc_
+20753,XX_Death_Knight_bc_
+20754,XX_Death_Knight_bc_
+20755,XX_Death_Knight_bc_
+20760,XX_RavenousWolf_bc_
+20761,XX_RavenousWolf_bc_
+20762,XX_RavenousWolf_bc_
+20763,XX_RavenousWolf_charge_
+20764,XX_RavenousWolf_sidestep_left
+20765,XX_RavenousWolf_sidestep_right
+20766,XX_RavenousWolf_Bite_
+20767,XX_RavenousWolf_Bite_
+20771,XX_Vulture_FlyAway_
+20777,XX_SnakePeople_hordeling_light_
+20778,XX_SnakePeople_hordeling_special
+20779,XX_SnakePeople_hordeling_bow
+20780,XX_SnakePeople_light_
+20781,XX_SnakePeople_light_
+20782,XX_SnakePeople_special
+20783,XX_SnakePeople_bow
+20784,XX_SnakePeople_bow_projectile
+20785,XX_SnakePeople_Illusion_light_
+20786,XX_SnakePeople_Illusion_light_
+20787,XX_SnakePeople_special
+20790,XX_DemonSpider_left
+20791,XX_DemonSpider_Right
+20792,XX_DemonSpider_Mid
+20793,XX_DemonSpider_Special_Buff
+20794,XX_DemonSpider_Special_Poison
+20795,XX_DemonSpider_Special_Web
+20796,XX_DemonSpider_left_Short
+20797,XX_DemonSpider_right_short
+20798,XX_DemonSpider_mid_short
+20800,XX_Yeti_Roar
+20801,XX_Yeti_Smash
+20802,XX_Yeti_Stomp
+20803,XX_Yeti_Throw
+20804,XX_Yeti_JumpSmash
+20805,XX_Yeti_Throw_Projectile
+20806,XX_Yeti_Taunt
+20807,XX_Yeti_Smash_miniboss
+20808,XX_Yeti_Stomp_miniboss
+20809,XX_Yeti_JumpSmash_miniboss
+20810,XX_GreyApe_Roar
+20811,XX_GreyApe_Smash
+20812,XX_GreyApe_Stomp
+20813,XX_GreyApe_Throw
+20814,XX_GreyApe_JumpSmash
+20820,XX_Gorilla_Jab_
+20821,XX_Gorilla_Jab_
+20822,XX_Gorilla_Jab_
+20823,XX_Gorilla_Jab_
+20824,XX_Gorilla_Smash
+20825,XX_Gorilla_Charge
+20826,XX_Gorilla_taunt
+20830,XX_JungleBird_light_
+20831,XX_JungleBird_light_
+20832,XX_JungleBird_light_
+20833,XX_JungleBird_charge
+20838,XX_Children_of_Jhil_bc_
+20839,XX_Children_of_Jhil_bc_
+20840,XX_Salamander_left
+20841,XX_Salamander_mid
+20842,XX_Salamander_right
+20843,XX_Salamander_dash
+20844,XX_Salamander_spit
+20845,XX_Salamander_poison
+20846,XX_Salamander_spit_projectile
+20847,XX_Children_of_Jhil_special_
+20848,XX_Children_of_Jhil_special_
+20849,XX_Children_of_Jhil_special_
+20850,XX_Children_of_Jhil_bc_
+20851,XX_Children_of_Jhil_bc_
+20852,XX_Children_of_Jhil_taunt
+20853,XX_Children_of_Jhil_special_
+20854,XX_Children_of_Jhil_special_
+20855,XX_Children_of_Jhil_special_
+20860,XX_Tiger_White_Jab
+20861,XX_Tiger_White_Jab
+20862,XX_Tiger_White_Overhead
+20863,XX_Tiger_White_Sidedash_Left
+20864,XX_Tiger_White_Sidedash_Right
+20865,XX_Tiger_White_Charge
+20870,XX_Tiger_White_Jab
+20871,XX_Tiger_White_Jab
+20872,XX_Tiger_White_Overhead
+20873,XX_Tiger_White_Sidedash_Left
+20874,XX_Tiger_White_Sidedash_Right
+20875,XX_Tiger_White_Charge
+20876,XX_Tiger_White_Jab
+20877,XX_Tiger_White_Jab
+20878,XX_Tiger_White_Overhead
+20879,XX_Tiger_White_Sidedash_Left
+20880,XX_Tiger_White_Sidedash_Right
+20881,XX_Tiger_White_Charge
+20890,XX_LavaWorm_Bite
+20891,XX_LavaWorm_LavaSpray
+20892,XX_LavaWorm_Spit_
+20893,XX_LavaWorm_Spit_
+20894,XX_LavaWorm_Spit_
+20895,XX_LavaWorm_lavaProjectile
+20899,XX_Ooze_Jab
+20900,XX_Ooze_Jab
+20901,XX_Ooze_Jab
+20902,XX_Ooze_Jab
+20903,XX_Ooze_SelfDestruct
+20910,XX_Werewolf_Attack
+20911,XX_Werewolf_Boss_Attack
+20921,XX_GorillaBoss_Jab_
+20922,XX_GorillaBoss_Jab_
+20923,XX_GorillaBoss_Jab_
+20924,XX_GorillaBoss_Smash
+20925,XX_GorillaBoss_Charge
+20926,XX_GorillaBoss_GroundPound_Single
+20927,XX_GorillaBoss_GroundPound_Multi
+20928,XX_GorillaBoss_Throw
+20929,XX_GorillaBoss_taunt
+20930,xx_Yeti_Smash_Pet
+20931,xx_Yeti_Stomp_Pet
+20932,xx_Yeti_JumpSmash_Pet
+20933,xx_Yeti_Smash_PetAlpha
+20934,xx_Yeti_Stomp_PetAlpha
+20935,xx_Yeti_JumpSmash_PetAlpha
+20936,xx_GreyApe_Smash_Pet
+20937,xx_GreyApe_Stomp_Pet
+20938,xx_GreyApe_Throw_Pet
+20939,xx_GreyApe_JumpSmash_Pet
+20941,XX_DeepOne_Fishpeople_c
+20942,XX_DeepOne_Fishpeople_c
+20943,XX_DeepOne_Fishpeople_c
+20944,XX_DeepOne_Fishpeople_SonicScream
+20945,XX_DeepOne_Fishpeople_PoisonBreath
+20951,XX_DeepOne_Monstrosity_Swipe_c
+20952,XX_DeepOne_Monstrosity_Swipe_c
+20953,XX_DeepOne_Monstrosity_GroundPound
+20954,XX_DeepOne_Monstrosity_PoisonBreath_Standing
+20955,XX_DeepOne_Monstrosity_PoisonBreath_Ground
+20956,XX_DeepOne_Monstrosity_Rake_Charge
+20957,XX_DeepOne_Monstrosity_Rake_Standing
+20970,XX_BigCatPanther_bc_
+20971,XX_BigCatPanther_bc_
+20972,XX_BigCatPanther_bc_
+20973,XX_BigCatPanther_bc_
+20974,XX_BigCatPanther_bc_
+20975,XX_BigCatPanther_bc_
+20980,XX_Jaguar_Jab
+20981,XX_Jaguar_Jab
+20982,XX_Jaguar_Overhead
+20983,XX_Jaguar_Sidedash_Left
+20984,XX_Jaguar_Sidedash_Right
+20985,XX_Jaguar_Charge
+20990,XX_RhinoKing_bc_
+20991,XX_RhinoKing_bc_
+20992,XX_RhinoKing_bc_
+20993,XX_RhinoKing_charge_
+20994,XX_Mammoth_bc_
+20995,XX_Mammoth_bc_
+20996,XX_Mammoth_charge
+20997,XX_Mammoth_Stomp
+20998,XX_Mammoth_Spin
+21000,XX_Camel_Scared
+21001,XX_Camel_Bite
+21015,XX_Bear_bc_
+21016,XX_Bear_bc_
+21017,XX_Bear_medium_
+21018,XX_Bear_medium_
+21019,XX_Kappa_bc_
+21020,XX_Kappa_bc_
+21021,XX_Kappa_bc_
+21022,XX_Kappa_bc_
+21023,XX_GreyApe_Smash
+21024,XX_GreyApe_JumpSmash
+21025,XX_Hyena_bc_
+21026,XX_Hyena_bc_
+21027,XX_Hyena_charge_
+21028,XX_Jaguar_Jab
+21029,XX_Jaguar_Jab
+21030,XX_Jaguar_Overhead
+21031,XX_Jaguar_Sidedash_Left
+21032,XX_Jaguar_Sidedash_Right
+21033,XX_Jaguar_Charge
+21034,XX_Ostrich_bc_
+21035,XX_Ostrich_bc_
+21036,XX_Ostrich_bc_
+21037,XX_Ostrich_charge_
+21038,XX_Kappa_bc_
+21039,XX_Kappa_bc_
+21040,XX_Kappa_bc_
+21041,XX_Kappa_bc_
+21042,XX_Locust_bc_
+21043,XX_Locust_bc_
+21044,XX_Crocodile_bc_
+21045,XX_Crocodile_bc_
+21046,XX_Crocodile_bc_
+21047,XX_Crocodile_bc_
+21048,XX_Rocknose_bc_
+21049,XX_Rocknose_bc_
+21050,XX_Rocknose_bc_
+21051,XX_Sabretooth_bc_
+21052,XX_Sabretooth_bc_
+21053,XX_Sabretooth_bc_
+21054,XX_Sabretooth_bc_
+21055,XX_Sabretooth_bc_
+21056,XX_Sabretooth_bc_
+21057,XX_Tiger_White_Jab
+21058,XX_Tiger_White_Jab
+21059,XX_Tiger_White_Overhead
+21060,XX_Tiger_White_Sidedash_Left
+21061,XX_Tiger_White_Sidedash_Right
+21062,XX_Tiger_White_Charge
+21063,XX_Wolf_Dire_bc_
+21064,XX_Wolf_Dire_bc_
+21065,XX_Wolf_Dire_bc_
+21066,XX_Wolf_charge_
+21067,XX_Wolf_sidestep_left
+21068,XX_Wolf_sidestep_right
+21069,xx_Gorilla_Jab__Pet
+21070,xx_Gorilla_Jab__Pet
+21071,xx_Gorilla_Jab__Pet
+21072,xx_Gorilla_Jab__Pet
+21073,xx_Gorilla_Smash_Pet
+21074,xx_Gorilla_Charge_Pet
+21075,xx_Gorilla_Jab__PetAplha
+21076,xx_Gorilla_Jab__PetAplha
+21077,xx_Gorilla_Jab__PetAplha
+21078,xx_Gorilla_Jab__PetAplha
+21079,xx_Gorilla_Smash_PetAplha
+21080,xx_Gorilla_Charge_PetAplha
+21081,XX_Elephant_bc_
+21082,XX_Elephant_bc_
+21083,XX_Elephant_charge
+21084,XX_Elephant_Stomp
+22000,XX_SmokeDemon_bc_
+22001,XX_SmokeDemon_bc_
+22002,XX_SmokeDemon_bc_
+22003,XX_SmokeDemon_bc_
+22004,XX_SmokeDemon_Summon
+22005,XX_SmokeDemon_Shadowbreath
+22006,XX_SmokeDemon_Smash
+22007,XX_SmokeDemon_Phaseshift__Smash_Sequence
+22008,XX_SmokeDemon_Phaseshift__Summon
+22009,XX_SmokeDemon_Phaseshift__Darkness
+22010,XX_SmokeDemon_Threaten
+22020,XX_SzethTheDrunk_Attack
+22021,XX_SzethTheDrunk_Attack
+22022,XX_SzethTheDrunk_Dash
+22023,XX_SzethTheDrunk_Charge
+22024,XX_SzethTheDrunk_Spin
+22030,Spectral Sword
+29000,Improved Climbing Boots Schematic
+29001,Scroll Kinscourge Statue
+29002,Scroll Serpentmen Statues
+29003,Scroll Kiln
+29004,Scroll Waymarkers
+29005,Scroll Merchant Signs
+29006,Scroll Practice Swords
+29007,Scroll The Glasser
+29008,Scroll Reinforced Stool
+29009,Scroll Battle Spatula
+29010,Scroll Table Leg
+29011,Scroll Gravedigger
+29012,Scroll Dead Leg
+29013,Scroll Petrified Egg
+29014,Scroll Throne of Skelos
+29015,Scroll Venom-Infused Sword
+29016,Scroll Venom-Infused Two-Handed Sword
+29017,Scroll Venom-Infused War-Axe
+29018,Scroll Venom-Infused Daggers
+29019,Scroll Venom-Infused Pike
+29020,Scroll Tablet of Power
+29021,Scroll Decorative Grindstone
+29022,Scroll Bindings of the Dead
+29024,Scroll Skelos Armor
+29026,Scroll Essence Of Rot
+29027,Scroll Faux Taxidermy
+29028,Scroll Havoc and Malice
+29029,Scroll Whirlwind Blades
+29030,Scroll Yoggite Chosen Mask
+29999,Scroll Specialist Ammunition IV
+30000,Scroll
+30001,Scrawled Note
+30002,Leather Journal
+30003,Prayer to Hanuman
+30004,Scribbled Note
+30005,Torn Parchment
+30006,Razma\'s Journal #
+30007,Razma\'s Journal #
+30008,Razma\'s Journal #
+30009,Razma\'s Journal #
+30010,Razma\'s Journal #
+30011,Razma\'s Journal #
+30012,Razma\'s Journal #
+30013,Razma\'s Journal #
+30014,Etched Note
+30015,First Mate\'s Report
+30016,Black Hand Shanty
+30017,Salaceo\'s Instructions
+30019,Priest\'s Journal
+30023,Mercenary\'s Diary Page
+30024,Waterstained Note
+30025,XX_Placeholder_Lore_
+30026,XX_Placeholder_Lore_
+30027,XX_Placeholder_Lore_
+30028,XX_Placeholder_Lore_
+30029,XX_Placeholder_Lore_
+30030,XX_Placeholder_Lore_
+30031,XX_Placeholder_Lore_
+30032,XX_Placeholder_Lore_
+30033,XX_Placeholder_Lore_
+30034,XX_Placeholder_Lore_
+30035,XX_Placeholder_Lore_
+30036,XX_Placeholder_Lore_
+30037,XX_Placeholder_Lore_
+30038,XX_Placeholder_Lore_
+30039,XX_Placeholder_Lore_
+30040,XX_Placeholder_Lore_
+30041,XX_Placeholder_Lore_
+30042,XX_Placeholder_Lore_
+30043,XX_Placeholder_Lore_
+30044,XX_Placeholder_Lore_
+30045,Scroll Khari Weaponry
+30047,Scroll Khari Raider Armor
+30048,Scroll Khari Soldier Armor
+41020,Simple Armor Patch Kit
+41021,Armor Patch Kit
+41022,Advanced Armor Patch Kit
+41023,Master Armor Patch Kit
+41024,Simple Weapon Repair Kit
+41025,Weapon Repair Kit
+41026,Advanced Weapon Repair Kit
+41027,Master Weapon Repair Kit
+41028,Steel Cleaver
+41029,Hardened Steel Cleaver
+41030,Star Metal Cleaver
+41031,Improvised Torch
+41032,Sealed Waterskin
+41033,Torch
+41034,Stone Cleaver
+41035,Glowing Stick
+41036,Iron Cleaver
+41037,Legendary Weapon Repair Kit
+41038,Deep drink Waterskin
+41039,Maw of the Hyena
+41040,Legendary Armor Patch Kit
+41041,Khari Waterskin
+41051,Balanced Weapon Fitting
+41052,Simple Weapon Damage Kit
+41053,Weapon Damage Kit
+41054,Advanced Weapon Damage Kit
+41056,Simple Tool Upgrade Kit
+41057,Tool Upgrade Kit
+41058,Advanced Tool Upgrade Kit
+41059,Simple Blunted Weapon Fitting
+41060,Blunted Weapon Fitting
+41061,Advanced Blunted Weapon Fitting
+41063,Paring Blade
+41064,Simple Reinforcement Kit
+41065,Reinforcement Kit
+41066,Advanced Reinforcement Kit
+41067,Spiked Weapon Fitting
+41068,Armor Reduction Kit
+41069,Thin Armor Plating
+41070,Armor Plating
+41071,Thick Armor Plating
+41072,Simple Armor Rebalance Kit
+41073,Armor Rebalance Kit
+41074,Advanced Armor Rebalance Kit
+41075,Simple Armor Flexibility Kit
+41076,Armor Flexibility Kit
+41077,Advanced Armor Flexibility Kit
+50489,Two-Handed Iron Great Axe
+50490,Exceptional Two-Handed Iron Great Axe
+50491,Flawless Two-Handed Iron Great Axe
+50492,Star Metal Great Axe
+50493,Exceptional Star Metal Great Axe
+50494,Flawless Star Metal Great Axe
+50495,Iron Short Sword
+50496,Exceptional Iron Short Sword
+50497,Flawless Iron Short Sword
+50498,Star Metal Short Sword
+50499,Exceptional Star Metal Short Sword
+50500,Flawless Star Metal Short Sword
+50501,The Shank
+50502,The Predatory Blade
+50503,Maelstrom
+50504,Rage Hammer
+50505,Lying Bastard Sword
+50506,Sword of Crom
+50507,Corrupted Axe
+50508,The Festering One
+50509,Blade of Seven Winds
+50510,Lifeblood Spear
+50511,Drunkard\'s Blade
+50512,Wight Blade
+50513,Quake
+50514,Heated Argument
+50515,Quivering Arrow
+50516,Riptide
+50517,xx_riptide_projectile
+50518,Fangs of the Red Mother
+50519,XX_Thrown Axe
+50520,Final Breath of the Red Mother
+50521,Ghast Sword
+50522,Ghast Axe
+50523,Reach of the Red Mother
+50524,Havoc and Malice
+50525,Whirlwind Blades
+51001,Stone Pick
+51002,Iron Pick
+51003,Steel Pick
+51011,Stone Hatchet
+51012,Iron Hatchet
+51013,Steel Hatchet
+51014,Hardened Steel Hatchet
+51015,Star Metal Hatchet
+51020,Star Metal Pickaxe
+51021,Pickaxe
+51022,Hardened Steel Pick
+51023,Star Metal Pick
+51031,Repair Hammer
+51040,Steel Sickle
+51041,Hardened Steel Sickle
+51042,Star Metal Sickle
+51043,Two-Handed Stone Sword
+51044,Two-Handed Iron Sword
+51045,Exceptional Two-Handed Iron Sword
+51046,Flawless Two-Handed Iron Sword
+51047,Two-Handed Steel Sword
+51048,Exceptional Two-Handed Steel Sword
+51049,Flawless Two-Handed Steel Sword
+51060,Hardened Steel Greatsword
+51061,Exceptional Hardened Steel Greatsword
+51062,Flawless Hardened Steel Greatsword
+51063,Star Metal Great Sword
+51064,Exceptional Star Metal Great Sword
+51065,Flawless Star Metal Great Sword
+51066,Telith\'s Lament
+51067,Hoar-Frost Hatchet
+51068,Glacier-Crack
+51069,Star Metal Sword
+51070,Exceptional Star Metal Sword
+51071,Flawless Star Metal Sword
+51072,Deathbringer Axe
+51073,Spectral Sword
+51074,Spectral Axe
+51075,Telith\'s Sorrow
+51078,Hardened Steel Mace
+51079,Exceptional Hardened Steel Mace
+51080,Flawless Hardened Steel Mace
+51081,Star Metal Mace
+51082,Exceptional Star Metal Mace
+51083,Flawless Star Metal Mace
+51084,Ancient Javelin
+51085,Deathbringer Axe
+51086,Telith\'s Lament
+51087,Ancient Mace
+51088,Sword of the Brood-Guard
+51090,Ancient Pike
+51091,Katana
+51092,Exceptional Katana
+51093,Flawless Katana
+51094,Katana
+51095,Exceptional Katana
+51096,Flawless Katana
+51097,Venom-Infused Sword
+51098,Venom-Infused Two-Handed Sword
+51099,Venom-Infused War-Axe
+51100,Venom-Infused Daggers
+51101,Venom-Infused Pike
+51102,Blunted Javelin
+51103,Blunted Arrow
+51104,Blunted Bolts
+51151,Iron Warhammer
+51152,Stone Maul
+51154,Steel Warhammer
+51155,Ancient Warhammer
+51156,Hardened Steel Hammer
+51157,Exceptional Hardened Steel Hammer
+51158,Flawless Hardened Steel Hammer
+51159,Star Metal Hammer
+51160,Exceptional Star Metal Hammer
+51161,Flawless Star Metal Hammer
+51162,Exceptional Iron Warhammer
+51163,Flawless Iron Warhammer
+51164,Exceptional Steel Warhammer
+51165,Flawless Steel Warhammer
+51166,Exceptional Iron Mace
+51167,Flawless Iron Mace
+51168,Exceptional Hunting Bow
+51169,Flawless Hunting Bow
+51170,Exceptional Heavy Crossbow
+51171,Flawless Heavy Crossbow
+51172,Exceptional Iron Pike
+51173,Flawless Iron Pike
+51174,Exceptional Steel Trident
+51175,Flawless Steel Trident
+51176,Exceptional Falcata
+51177,Flawless Falcata
+51178,Exceptional Cimmerian Battle-axe
+51179,Flawless Cimmerian Battle-axe
+51180,Exceptional Stygian Spear
+51181,Flawless Stygian Spear
+51182,Exceptional Steel Poniards
+51183,Flawless Steel Poniards
+51184,Bone Arrow
+51185,Bone Bolts
+51186,Flanged Iron Mace
+51187,Exceptional Flanged Iron Mace
+51188,Flawless Flanged Iron Mace
+51189,Iron Corseque
+51190,Exceptional Iron Corseque
+51191,Flawless Iron Corseque
+51192,Balanced Iron Javelin
+51193,Exceptional Balanced Iron Javelin
+51194,Flawless Balanced Iron Javelin
+51195,Iron War Axe
+51196,Exceptional Iron War Axe
+51197,Flawless Iron War Axe
+51198,Studded Iron Mace
+51199,Exceptional Studded Iron Mace
+51200,Flawless Studded Iron Mace
+51201,Steel Throwing Axe
+51202,Exceptional Steel Throwing Axe
+51203,Flawless Steel Throwing Axe
+51204,XX_Unarmed Right
+51205,XX_Unarmed Left
+51206,Steel Javelin
+51207,Exceptional Steel Javelin
+51208,Flawless Steel Javelin
+51209,Steel Spear
+51210,Exceptional Steel Spear
+51211,Flawless Steel Spear
+51212,Ancient Axe
+51213,Broken Oar
+51215,Ancient Throwing Axe
+51216,Mandibles of Atlach-Nacha
+51217,Akbitanan Throwing Knife
+51218,XX_ThrowingKnifeAmmo
+51299,Reinforced Steel Truncheon
+51300,Bleached Bone Skinning Knife
+51301,Stone Club
+51302,Iron Mace
+51303,Truncheon
+51304,Mitraen Ankh
+51305,Steel Mace
+51306,Iron Truncheon
+51307,Steel Truncheon
+51308,Stone Skinning Knife
+51309,Iron Skinning Knife
+51310,Steel Skinning Knife
+51311,Hardened Steel Skinning Knife
+51312,Star Metal Skinning Knife
+51313,Serpent-Man Skinning Knife
+51314,Obsidian Skinning Knife
+51315,Exceptional Steel Mace
+51316,Flawless Steel Mace
+51317,Szeth\'s Truncheon
+51388,World Breaker
+51389,Annihilator
+51390,Ymir\'s Targe
+51391,Derketo\'s Voice
+51392,Crom\'s Hammer
+51393,Set\'s Tongue
+51394,Mitra\'s Justice
+51395,Jhebbal Sag\'s Prowl
+51396,Yog\'s Touch
+51397,Mordlun
+51398,Ranissan
+51399,Nortis
+51400,Balias
+51401,Hunting Bow
+51402,Hyrkanian Bow
+51403,Exceptional Hyrkanian Bow
+51404,Flawless Hyrkanian Bow
+51406,Ancient Bow
+51407,Light Hyrkanian Bow
+51408,Exceptional Light Hyrkanian Bow
+51409,Flawless Light Hyrkanian Bow
+51447,Doom
+51448,Staff of Hanuman
+51449,Misha\'s Bite
+51450,Daggers of a Thousand Bites
+51451,Crossbow
+51452,Exceptional Crossbow
+51453,Flawless Crossbow
+51454,Heavy Crossbow
+51455,Blood Letter
+51456,Derketo\'s Kiss
+51457,Blessed Mitraen Ankh
+51458,Blessed Yog Cleaver
+51459,Blessed Setite Ritual Knife
+51460,Blessed Hoar-Frost Hatchet
+51461,Blessed Blood Letter
+51462,Blessed Derketo\'s Kiss
+51463,Foeshatter
+51464,Lusttaker
+51465,The Staff of Epemitreus
+51466,The Tenderizer
+51467,Snakebite
+51468,Claws of Jhebbal Sag
+51469,Star Metal Repair Hammer
+51470,Steel Repair Hammer
+51471,Ivory Arrow
+51472,Ivory Bolts
+51473,Bestial Claws
+51475,Axe of the Gate Guardian
+51476,Obsidian Hammer
+51477,Exceptional Obsidian Hammer
+51478,Flawless Obsidian Hammer
+51479,Obsidian Great Sword
+51480,Exceptional Obsidian Great Sword
+51481,Flawless Obsidian Great Sword
+51482,Obsidian Daggers
+51483,Exceptional Obsidian Daggers
+51484,Flawless Obsidian Daggers
+51485,Obsidian Mace
+51486,Exceptional Obsidian Mace
+51487,Flawless Obsidian Mace
+51488,Obsidian Shield
+51489,Exceptional Obsidian Shield
+51490,Flawless Obsidian Shield
+51491,Obsidian Spear
+51492,Exceptional Obsidian Spear
+51493,Flawless Obsidian Spear
+51494,Obsidian Sword
+51495,Exceptional Obsidian Sword
+51496,Flawless Obsidian Sword
+51497,Carapace Shield
+51498,Exceptional Carapace Shield
+51499,Flawless Carapace Shield
+51500,Shell Shield
+51501,Exceptional Shell Shield
+51502,Flawless Shell Shield
+51503,Obsidian Arrow
+51504,Obsidian Bolts
+51505,xx_Serpentmen_crossbow
+51506,xx_Exceptional_Serpentmen_crossbow
+51507,xx_Flawless_Serpentmen_crossbow
+51508,Serpent-man Shield
+51509,Exceptional Serpent-man Shield
+51510,Flawless Serpent-man Shield
+51511,Serpent-man Daggers
+51512,Exceptional Serpent-man Daggers
+51513,Flawless Serpent-man Daggers
+51514,Serpent-man War Spear
+51515,Exceptional Serpent-man War Spear
+51516,Flawless Serpent-man War Spear
+51517,Serpent-man Sword
+51518,Exceptional Serpent-man Sword
+51519,Flawless Serpent-man Sword
+51520,Serpent-man War-Axe
+51521,Exceptional Serpent-man War-Axe
+51522,Flawless Serpent-man War-Axe
+51523,Serpent-man Warhammer
+51524,Exceptional Serpent-man Warhammer
+51525,Flawless Serpent-man Warhammer
+51526,Serpent-man Mace
+51527,Exceptional Serpent-man Mace
+51528,Flawless Serpent-man Mace
+51529,Serpent-man Arrow
+51530,Serpent-man Bolts
+51531,Tulwar of Amir Khurum
+51532,El\'s Drinker
+51533,The Wightblade
+51534,Dueling Blade of the Hawk
+51535,The Bane of Khosatral Khel
+51536,The Grim
+51537,Heartsblood
+51538,Akbitanan Blades
+51539,Daggers of Nameless Days
+51540,Zhaibar Knives
+51541,Baal-pteor\'s Razor
+51542,Blade of the Adventurer
+51543,The Papyrus Blade
+51544,Jedias Greatsaber
+51545,The Watchblade
+51546,Momentum
+51547,Lovetap
+51548,Aja\'s Bane
+51549,The Unintelligible
+51550,The Brittle Bastard
+51551,Forgelight
+51552,Hanuman\'s Gada
+51553,Bec-de-Corbin
+51554,Baal-pteor\'s Lodestone
+51555,Sledge of Tsotha-lanti
+51556,Eye of the Khan
+51557,Bessie\'s Bow
+51558,Frostshot
+51559,Splinter
+51560,The Huntress
+51561,xx_Legendary_Crossbow_
+51562,xx_Legendary_Crossbow_
+51563,xx_Legendary_Crossbow_
+51564,xx_Legendary_Crossbow_
+51565,xx_Legendary_Crossbow_
+51566,Black Bruargh\'s Fury
+51567,Akbitanan Shield
+51568,Shield of Kutamun
+51569,Mistmourn
+51570,Solspeil
+51571,Warspear of the Black Circle
+51572,Gavain\'s Rusty Pike
+51573,Black Dragon Pike
+51574,The Impaler
+51575,Vaulting Pole
+51576,Reaver\'s Axe
+51577,Axe of the Lion
+51578,Glimmermoon
+51579,Battle-axe of the Berserkers
+51580,Strangely Familiar Axe
+51581,Obsidian Pick
+51582,Obsidian Hatchet
+51583,Obsidian Sickle
+51584,Serpent-man Javelin
+51585,Obsidian Javelin
+51586,Star Metal Bow
+51587,Exceptional Star Metal Bow
+51588,Flawless Star Metal Bow
+51589,Hardened Steel Bow
+51590,Exceptional Hardened Steel Bow
+51591,Flawless Hardened Steel Bow
+51592,Lemurian Pike
+51593,Lemurian Sword
+51594,Stone Spear
+51595,Hardened Steel Javelin
+51596,Exceptional Hardened Steel Javelin
+51597,Flawless Hardened Steel Javelin
+51598,Black Ice Javelin
+51599,Acheronian Two-Handed Sword
+51600,Wooden Shield
+51601,Bone Shield
+51602,Wooden Targe
+51603,Ancient Lemurian Axe
+51604,The Wyrd
+51605,Musashi\'s Black Blade
+51606,Bulwark of Bone
+51607,Scorpion Ward
+51608,Hammer of the Whale
+51609,Shark Bite
+51611,Iron Targe
+51612,Black Blood Pick
+51613,Black Blood Hatchet
+51614,Black Blood Sickle
+51615,Black Blood Skinning Knife
+51621,Steel Heater Shield
+51622,Lantern Shield
+51623,Ancient Shield
+51624,Stygian Shield
+51625,Setite Shield
+51626,Exceptional Steel Heater Shield
+51627,Flawless Steel Heater Shield
+51628,Hardened Steel Shield
+51629,Exceptional Hardened Steel Shield
+51630,Flawless Hardened Steel Shield
+51631,Star Metal Shield
+51632,Exceptional Star Metal Shield
+51633,Flawless Star Metal Shield
+51711,Iron Pike
+51715,Stone Pike
+51721,Steel Trident
+51723,Star Metal Spear
+51724,Exceptional Star Metal Spear
+51725,Flawless Star Metal Spear
+51726,Hardened Steel Spear
+51727,Exceptional Hardened Steel Spear
+51728,Flawless Hardened Steel Spear
+51801,Stone Sword
+51808,Blackheart Blade
+51809,Blackheart Hammer
+51810,Stygian Khopesh
+51811,Iron Broadsword
+51812,Stygian Khopesh
+51813,Ancient Khopesh
+51814,Exceptional Iron Broadsword
+51815,Flawless Iron Broadsword
+51816,Phoenix-engraved Sword
+51817,Serpent-stamped Khopesh
+51818,Exceptional Stygian Khopesh
+51819,Flawless Stygian Khopesh
+51821,Falcata
+51822,Cutlass
+51823,Exceptional Cutlass
+51824,Flawless Cutlass
+51825,Carnage
+51826,Destroyer
+51827,Saw
+51828,Adze
+51829,Carpentry Hammer
+51830,Drum
+51831,Longsword
+51832,Dry Scraper
+51833,Darfari Axe
+51834,Black Tusk Shield
+51836,Exceptional Longsword
+51837,Flawless Longsword
+51841,Hardened Steel Sword
+51842,Exceptional Hardened Steel Sword
+51843,Flawless Hardened Steel Sword
+51844,Hardened Steel War Axe
+51845,Exceptional Hardened Steel War Axe
+51846,Flawless Hardened Steel War Axe
+51850,Darfari Cudgel
+51851,Cimmerian Battle-axe
+51852,Iron Axe
+51853,Darfari Sword
+51854,Yog Cleaver
+51855,Yoggite Cudgel
+51856,Giant\'s Fingerbone
+51901,Executioner\'s Hood
+51902,Setite Ritual Knife
+51903,Reinforced Skelos Cultist Robe
+51904,Reinforced Skelos Cultist Hood
+51905,Reinforced Skelos Cultist Handwraps
+51906,Reinforced Skelos Cultist Sandals
+51907,Reinforced Skelos Cultist Skirt
+51911,Javelin
+51912,Throwing Axe
+51922,Yoggite Bone Spear
+51931,Stygian Spear
+51932,Hardened Steel Throwing Axe
+51933,Exceptional Hardened Steel Throwing Axe
+51934,Flawless Hardened Steel Throwing Axe
+51938,Star Metal Throwing Axe
+51939,Exceptional Star Metal Throwing Axe
+51940,Flawless Star Metal Throwing Axe
+51941,Ancient Two-Handed Sword
+51942,Ancient Daggers
+51943,Black Ice Throwing Axe
+51944,Obsidian Throwing Axe
+51945,Serpent-man Throwing Axe
+51946,Stone Throwing Axe
+51950,Bloodstone Sword
+51951,Stone Daggers
+51952,Iron Poniards
+51953,Steel Poniards
+51955,Exceptional Iron Poniards
+51956,Flawless Iron Poniards
+51957,Abysmal Daggers
+51958,Abysmal Sword
+51959,Hardened Steel Daggers
+51960,Exceptional Hardened Steel Daggers
+51961,Fiber Bindings
+51962,Rawhide Bindings
+51963,Leather Bindings
+51964,Chain Bindings
+51965,Bindings of the Dead
+51966,Flawless Hardened Steel Daggers
+51967,Star Metal Daggers
+51968,Exceptional Star Metal Daggers
+51969,Flawless Star Metal Daggers
+51970,Acheronian Sickle
+51971,Demon-fire Orb
+51972,Grease Orb
+51973,Water Orb
+51974,Gaseous Orb
+51975,Black Ice Longsword
+51976,Black Ice Broadsword
+51977,Black Ice Pick
+51978,Acheronian Pick
+51979,Acheronian Longsword
+51980,Exceptional Acheronian Longsword
+51981,Flawless Acheronian Longsword
+51982,Acheronian Spear
+51983,Exceptional Acheronian Spear
+51984,Flawless Acheronian Spear
+51985,Acheronian War-Axe
+51986,Exceptional Acheronian War-Axe
+51987,Flawless Acheronian War-Axe
+51988,Acheronian Shield
+51989,Exceptional Acheronian Shield
+51990,Flawless Acheronian Shield
+51991,Dragonbone Shield
+51995,Headdress of Jhebbal Sag
+51996,Derketo Acolyte Headpiece
+51997,Derketo Acolyte Robe
+51998,Derketo Acolyte Handwraps
+51999,Derketo Acolyte Skirt
+52000,Derketo Acolyte Sandals
+52001,Light Turban
+52002,Light Chestpiece
+52003,Light Gauntlets
+52004,Light Wrap
+52005,Light Boots
+52006,Skelos Cultist Robe
+52007,Skelos Cultist Hood
+52008,Skelos Cultist Handwraps
+52009,Skelos Cultist Sandals
+52010,Skelos Cultist Skirt
+52011,Medium Cap
+52012,Medium Harness
+52013,Medium Gauntlets
+52014,Medium Tasset
+52015,Medium Boots
+52016,Reptilian Helm
+52017,Reptilian Gauntlets
+52018,Reptilian Chestpiece
+52019,Reptilian Tasset
+52020,Reptilian Boots
+52021,Heavy Helmet
+52022,Heavy Pauldron
+52023,Heavy Gauntlets
+52024,Heavy Tasset
+52025,Heavy Sabatons
+52026,Exceptional Medium Cap
+52027,Exceptional Medium Harness
+52028,Exceptional Medium Gauntlets
+52029,Exceptional Medium Tasset
+52030,Exceptional Medium Boots
+52031,XX_Light Faction Helmet
+52032,XX_Light Faction Chestpiece
+52033,XX_Light Faction Gauntlets
+52034,XX_Light Faction Tasset
+52035,XX_Light Faction Boots
+52036,Exceptional Heavy Helmet
+52037,Exceptional Heavy Pauldron
+52038,Exceptional Heavy Gauntlets
+52039,Exceptional Heavy Tasset
+52040,Exceptional Heavy Sabatons
+52041,XX_Medium Faction Helmet
+52042,XX_Medium Faction Chestpiece
+52043,XX_Medium Faction Gauntlets
+52044,XX_Medium Faction Tasset
+52045,XX_Medium Faction Boots
+52046,Flawless Darfari Watcher Mask
+52047,Flawless Darfari Skin Chestpiece
+52048,Flawless Darfari Skin Bracers
+52049,Flawless Darfari Skin Skirt
+52050,Flawless Darfari Skin Greaves
+52051,XX_Heavy Faction Helmet
+52052,XX_Heavy Faction Chestpiece
+52053,XX_Heavy Faction Gauntlets
+52054,XX_Heavy Faction Tasset
+52055,XX_Heavy Faction Boots
+52056,Flawless Medium Cap
+52057,Flawless Medium Harness
+52058,Flawless Medium Gauntlets
+52059,Flawless Medium Tasset
+52060,Flawless Medium Boots
+52061,Stygian Headdress
+52062,Stygian Vest
+52064,Stygian Shendyt
+52065,Stygian Sandals
+52066,Flawless Heavy Helmet
+52067,Flawless Heavy Pauldron
+52068,Flawless Heavy Gauntlets
+52069,Flawless Heavy Tasset
+52070,Flawless Heavy Sabatons
+52071,Darfari Watcher Mask
+52072,Darfari Skin Chestpiece
+52073,Darfari Skin Bracers
+52074,Darfari Skin Skirt
+52075,Darfari Skin Greaves
+52076,Darfari Speaker Mask
+52080,Bearer Pack
+52081,Sandstorm Breathing Mask
+52092,Chest Wrap
+52094,Loincloth
+52095,Exceptional Darfari Watcher Mask
+52096,Exceptional Darfari Skin Chestpiece
+52097,Exceptional Darfari Skin Bracers
+52098,Exceptional Darfari Skin Skirt
+52099,Exceptional Darfari Skin Greaves
+52100,Mask of the Witch Queen
+52101,Zamorian Dancer Headdress
+52102,Zamorian Dancer Blouse
+52103,Zamorian Dancer Bracelets
+52104,Zamorian Dancer Skirt
+52105,Zamorian Dancer Anklets
+52111,Derketo Dancer Headdress
+52112,Derketo Dancer Blouse
+52113,Derketo Dancer Bracelets
+52114,Derketo Dancer Skirt
+52115,Derketo Dancer Anklets
+52202,Coarse Tunic
+52203,Coarse Handwraps
+52204,Coarse Leggings
+52205,Coarse Footwraps
+52212,Leather Apron
+52213,Leather Workgloves
+52221,Shemite Turban
+52222,Shemite Tunic
+52224,Shemite Leggings
+52225,Shemite Shoes
+52226,Shemite Gloves
+52293,Climbing Gloves
+52295,Climbing Boots
+52296,Reinforced Climbing Gloves
+52297,Reinforced Climbing Boots
+52301,Exceptional Light Turban
+52302,Exceptional Light Chestpiece
+52303,Exceptional Light Gauntlets
+52304,Exceptional Light Wrap
+52305,Exceptional Light Boots
+52306,Stygian Soldier Helm
+52307,Stygian Soldier Mail
+52308,Stygian Soldier Bracers
+52309,Stygian Soldier Tasset
+52310,Stygian Soldier Sandals
+52311,Exceptional Stygian Soldier Helm
+52312,Exceptional Stygian Soldier Mail
+52313,Exceptional Stygian Soldier Bracers
+52314,Exceptional Stygian Soldier Tasset
+52315,Exceptional Stygian Soldier Sandals
+52316,Flawless Stygian Soldier Helm
+52317,Flawless Stygian Soldier Mail
+52318,Flawless Stygian Soldier Bracers
+52319,Flawless Stygian Soldier Tasset
+52320,Flawless Stygian Soldier Sandals
+52401,Flawless Light Turban
+52402,Flawless Light Chestpiece
+52403,Flawless Light Gauntlets
+52404,Flawless Light Wrap
+52405,Flawless Light Boots
+52406,Hyrkanian Raider Helm
+52407,Hyrkanian Raider Brigandine
+52408,Hyrkanian Raider Gauntlets
+52409,Hyrkanian Raider Tasset
+52410,Hyrkanian Raider Boots
+52411,Exceptional Hyrkanian Raider Helm
+52412,Exceptional Hyrkanian Raider Brigandine
+52413,Exceptional Hyrkanian Raider Gauntlets
+52414,Exceptional Hyrkanian Raider Tasset
+52415,Exceptional Hyrkanian Raider Boots
+52416,Flawless Hyrkanian Raider Helm
+52417,Flawless Hyrkanian Raider Brigandine
+52418,Flawless Hyrkanian Raider Gauntlets
+52419,Flawless Hyrkanian Raider Tasset
+52420,Flawless Hyrkanian Raider Boots
+52421,Stygian Raider Mask
+52422,Stygian Raider Chestpiece
+52423,Stygian Raider Bracers
+52424,Stygian Raider Greaves
+52425,Stygian Raider Sandals
+52426,Exceptional Stygian Raider Mask
+52427,Exceptional Stygian Raider Chestpiece
+52428,Exceptional Stygian Raider Bracers
+52429,Exceptional Stygian Raider Greaves
+52430,Exceptional Stygian Raider Sandals
+52431,Flawless Stygian Raider Mask
+52432,Flawless Stygian Raider Chestpiece
+52433,Flawless Stygian Raider Bracers
+52434,Flawless Stygian Raider Greaves
+52435,Flawless Stygian Raider Sandals
+52436,Kambujan Shaman Helm
+52437,Kambujan Shaman Chestpiece
+52438,Kambujan Shaman Gloves
+52439,Kambujan Shaman Wrap
+52440,Kambujan Shaman Boots
+52441,Exceptional Kambujan Shaman Helm
+52442,Exceptional Kambujan Shaman Chestpiece
+52443,Exceptional Kambujan Shaman Gloves
+52444,Exceptional Kambujan Shaman Wrap
+52445,Exceptional Kambujan Shaman Boots
+52446,Flawless Kambujan Shaman Helm
+52447,Flawless Kambujan Shaman Chestpiece
+52448,Flawless Kambujan Shaman Gloves
+52449,Flawless Kambujan Shaman Wrap
+52450,Flawless Kambujan Shaman Boots
+52451,Lemurian Warrior Mask
+52452,Lemurian Warrior Chestpiece
+52453,Lemurian Warrior Gauntlets
+52454,Lemurian Warrior Tasset
+52455,Lemurian Warrior Boots
+52456,Exceptional Lemurian Warrior Mask
+52457,Exceptional Lemurian Warrior Chestpiece
+52458,Exceptional Lemurian Warrior Gauntlets
+52459,Exceptional Lemurian Warrior Tasset
+52460,Exceptional Lemurian Warrior Boots
+52461,Flawless Lemurian Warrior Mask
+52462,Flawless Lemurian Warrior Chestpiece
+52463,Flawless Lemurian Warrior Gauntlets
+52464,Flawless Lemurian Warrior Tasset
+52465,Flawless Lemurian Warrior Boots
+52466,Lemurian Royal Jewelry
+52467,Lemurian Royal Gown
+52468,Lemurian Royal Bracers
+52469,Lemurian Royal Sarong
+52470,Lemurian Royal Slippers
+52471,Exceptional Lemurian Royal Jewelry
+52472,Exceptional Lemurian Royal Gown
+52473,Exceptional Lemurian Royal Bracers
+52474,Exceptional Lemurian Royal Sarong
+52475,Exceptional Lemurian Royal Slippers
+52476,Flawless Lemurian Royal Jewelry
+52477,Flawless Lemurian Royal Gown
+52478,Flawless Lemurian Royal Bracers
+52479,Flawless Lemurian Royal Sarong
+52480,Flawless Lemurian Royal Slippers
+52481,xx_snakerags_robe
+52482,xx_snakerags_robe_cut
+52483,xx_snakerags_robe_nohood
+52484,xx_snakerags_robe_king
+52494,Hook Right Fitting
+52495,Buccaneer Peg Leg Right Fitting
+52496,Black Hand Earrings
+52497,Hook Left Fitting
+52498,Buccaneer Peg Leg Left Fitting
+52499,Black Hand Boots
+52500,Eye Patch
+52501,Setite Mask
+52502,Setite Choker
+52504,Setite Shendyt
+52505,Setite Sandals
+52509,Mask of the Witch Doctor
+52510,Yoggite Chosen Mask
+52511,Yoggite Watcher Mask
+52512,Yoggite Skin Chestpiece 
+52513,Yoggite Skin Bracers
+52514,Yoggite Skin Skirt
+52515,Yoggite Skin Greaves
+52516,Flawless Hyena Skull Helmet
+52517,Flawless Hyena-fur Chestpiece
+52518,Flawless Hyena-fur Gloves
+52519,Flawless Hyena-fur Wrap
+52520,Flawless Hyena-fur Boots
+52522,Mitraen Tunic
+52523,Mitraen Gloves
+52524,Mitraen Breeches
+52525,Mitraen Shoes
+52526,Flawless Relic Hunter Turban
+52527,Flawless Relic Hunter Shirt
+52528,Flawless Relic Hunter Gloves
+52529,Flawless Relic Hunter Trousers
+52530,Flawless Relic Hunter Boots
+52532,Black Hand Vest
+52534,Black Hand Trousers
+52535,Exceptional Relic Hunter Turban
+52536,Exceptional Relic Hunter Shirt
+52537,Exceptional Relic Hunter Gloves
+52538,Exceptional Relic Hunter Trousers
+52539,Exceptional Relic Hunter Boots
+52541,Relic Hunter Turban
+52542,Relic Hunter Shirt
+52543,Relic Hunter Gloves
+52544,Relic Hunter Trousers
+52545,Relic Hunter Boots
+52546,Exceptional Hyena Skull Helmet
+52547,Exceptional Hyena-fur Chestpiece
+52548,Exceptional Hyena-fur Gloves
+52549,Exceptional Hyena-fur Wrap
+52550,Exceptional Hyena-fur Boots
+52551,Hyena Skull Helmet
+52552,Hyena-fur Chestpiece
+52553,Hyena-fur Gloves
+52554,Hyena-fur Wrap
+52555,Hyena-fur Boots
+52556,Vanir Heavy Helmet
+52557,Vanir Heavy Pauldron
+52558,Vanir Heavy Gauntlets
+52559,Vanir Heavy Tasset
+52560,Vanir Heavy Boots
+52561,Cimmerian Steel Helmet
+52562,Cimmerian Steel Pauldron
+52563,Cimmerian Steel Gauntlets
+52564,Cimmerian Steel Tasset
+52565,Cimmerian Steel Boots
+52566,Cimmerian Fur Helmet
+52567,Cimmerian Fur Harness
+52568,Cimmerian Fur Gauntlets
+52569,Cimmerian Fur Tasset
+52570,Cimmerian Fur Boots
+52571,Exceptional Vanir Heavy Helmet
+52572,Exceptional Vanir Heavy Pauldron
+52573,Exceptional Vanir Heavy Gauntlets
+52574,Exceptional Vanir Heavy Tasset
+52575,Exceptional Vanir Heavy Boots
+52576,Exceptional Cimmerian Steel Helmet
+52577,Exceptional Cimmerian Steel Pauldron
+52578,Exceptional Cimmerian Steel Gauntlets
+52579,Exceptional Cimmerian Steel Tasset
+52580,Exceptional Cimmerian Steel Boots
+52581,Exceptional Cimmerian Fur Helmet
+52582,Exceptional Cimmerian Fur Harness
+52583,Exceptional Cimmerian Fur Gauntlets
+52584,Exceptional Cimmerian Fur Tasset
+52585,Exceptional Cimmerian Fur Boots
+52586,Flawless Vanir Heavy Helmet
+52587,Flawless Vanir Heavy Pauldron
+52588,Flawless Vanir Heavy Gauntlets
+52589,Flawless Vanir Heavy Tasset
+52590,Flawless Vanir Heavy Boots
+52591,Flawless Cimmerian Steel Helmet
+52592,Flawless Cimmerian Steel Pauldron
+52593,Flawless Cimmerian Steel Gauntlets
+52594,Flawless Cimmerian Steel Tasset
+52595,Flawless Cimmerian Steel Boots
+52596,Flawless Cimmerian Fur Helmet
+52597,Flawless Cimmerian Fur Harness
+52598,Flawless Cimmerian Fur Gauntlets
+52599,Flawless Cimmerian Fur Tasset
+52600,Flawless Cimmerian Fur Boots
+52601,Heavy Plated Helmet
+52602,Horned Heavy Plated Helmet
+52603,Silent Legion Helmet
+52604,Silent Legion Pauldron
+52605,Silent Legion Gauntlets
+52606,Silent Legion Tasset
+52607,Silent Legion Boots
+52608,Heavy Leather Helmet
+52610,Winter\'s Majesty
+52611,Ymir\'s Aegis
+52612,Ymir\'s Might
+52613,Ymir\'s Shanks
+52614,Ymir\'s Stride
+52615,Vanir Fur Cap
+52616,Vanir Fur Harness
+52617,Vanir Fur Gauntlets
+52618,Vanir Fur Tasset
+52619,Vanir Fur Boots
+52620,Exceptional Vanir Fur Cap
+52621,Exceptional Vanir Fur Harness
+52622,Exceptional Vanir Fur Gauntlets
+52623,Exceptional Vanir Fur Tasset
+52624,Exceptional Vanir Fur Boots
+52625,Flawless Vanir Fur Cap
+52626,Flawless Vanir Fur Harness
+52627,Flawless Vanir Fur Gauntlets
+52628,Flawless Vanir Fur Tasset
+52629,Flawless Vanir Fur Boots
+52630,Aquilonian Helmet
+52631,Aquilonian Chestplate
+52632,Aquilonian Bracers
+52633,Aquilonian Tasset
+52634,Aquilonian Sandals
+52635,Exceptional Aquilonian Helmet
+52636,Exceptional Aquilonian Chestplate
+52637,Exceptional Aquilonian Bracers
+52638,Exceptional Aquilonian Tasset
+52639,Exceptional Aquilonian Sandals
+52640,Flawless Aquilonian Helmet
+52641,Flawless Aquilonian Chestplate
+52642,Flawless Aquilonian Bracers
+52643,Flawless Aquilonian Tasset
+52644,Flawless Aquilonian Sandals
+52896,Perfected Medium Helmet Padding
+52897,Perfected Medium Chest Padding
+52898,Perfected Medium Gauntlet Lining
+52899,Perfected Medium Legging Lining
+52900,Perfected Medium Boot Lining
+52901,Perfected Heavy Helmet Padding
+52902,Perfected Heavy Chest Padding
+52903,Perfected Heavy Gauntlet Lining
+52904,Perfected Heavy Legging Lining
+52905,Perfected Heavy Boot Lining
+52906,Perfected Light Helmet Padding
+52907,Perfected Light Chest Padding
+52908,Perfected Light Gloves Lining
+52909,Perfected Light Legging Lining
+52910,Perfected Light Boot Lining
+52911,Medium Helmet Padding
+52912,Medium Chest Padding
+52913,Medium Gauntlet Lining
+52914,Medium Legging Lining
+52915,Medium Boot Lining
+52916,Heavy Helmet Padding
+52917,Heavy Chest Padding
+52918,Heavy Gauntlet Lining
+52919,Heavy Legging Lining
+52920,Heavy Boot Lining
+52921,Light Helmet Padding
+52922,Light Chest Padding
+52932,Light Gloves Lining
+52933,Light Legging Lining
+52934,Light Boot Lining
+52935,Zamorian Thief Hood
+52936,Zamorian Thief Chest
+52937,Zamorian Thief Gauntlets
+52938,Zamorian Thief Breeches
+52939,Zamorian Thief Boots
+52940,Exceptional Zamorian Thief Hood
+52941,Exceptional Zamorian Thief Chest
+52942,Exceptional Zamorian Thief Gauntlets
+52943,Exceptional Zamorian Thief Breeches
+52944,Exceptional Zamorian Thief Boots
+52945,Flawless Zamorian Thief Hood
+52946,Flawless Zamorian Thief Chest
+52947,Flawless Zamorian Thief Gauntlets
+52948,Flawless Zamorian Thief Breeches
+52949,Flawless Zamorian Thief Boots
+52950,Hyperborean Slaver Waistguard
+52951,Hyperborean Slaver Bracers
+52952,Exceptional Hyperborean Slaver Waistguard
+52953,Exceptional Hyperborean Slaver Bracers
+52954,Flawless Hyperborean Slaver Waistguard
+52955,Flawless Hyperborean Slaver Bracers
+52956,Hyperborean Slaver Loincloth
+52957,Hyperborean Slaver Helmet
+52958,Hyperborean Slaver Boots
+52959,Exceptional Hyperborean Slaver Loincloth
+52960,Exceptional Hyperborean Slaver Helmet
+52961,Exceptional Hyperborean Slaver Boots
+52962,Flawless Hyperborean Slaver Loincloth
+52963,Flawless Hyperborean Slaver Helmet
+52964,Flawless Hyperborean Slaver Boots
+52965,Exceptional Shemite Turban
+52966,Exceptional Shemite Tunic
+52967,Exceptional Shemite Leggings
+52968,Exceptional Shemite Shoes
+52969,Exceptional Shemite Gloves
+52970,Flawless Shemite Turban
+52971,Flawless Shemite Tunic
+52972,Flawless Shemite Leggings
+52973,Flawless Shemite Shoes
+52974,Flawless Shemite Gloves
+52975,Vanir Settler Jewelry
+52976,Vanir Settler Vest
+52977,Vanir Settler Gloves
+52978,Vanir Settler Breechclout
+52979,Vanir Settler Boots
+52980,Exceptional Vanir Settler Jewelry
+52981,Exceptional Vanir Settler Vest
+52982,Exceptional Vanir Settler Gloves
+52983,Exceptional Vanir Settler Breechclout
+52984,Exceptional Vanir Settler Boots
+52985,Flawless Vanir Settler Jewelry
+52986,Flawless Vanir Settler Vest
+52987,Flawless Vanir Settler Gloves
+52988,Flawless Vanir Settler Breechclout
+52989,Flawless Vanir Settler Boots
+52990,Rusted Helmet
+52991,Rusted Chestpiece
+52992,Rusted Gauntlets
+52993,Rusted Leggings
+52994,Rusted Boots
+52995,Godbreaker Helmet
+52996,Godbreaker Plate
+52997,Godbreaker Grips
+52998,Godbreaker Leggings
+52999,Godbreaker Boots
+53001,Aloe Extract
+53011,Violet Curative
+53101,Yellow Lotus Potion
+53102,Breathing Potion
+53201,Reaper Poison
+53202,Demon\'s Bane
+53203,Scorpion Queen Poison
+53501,Purified Flesh
+53502,Ambrosia 
+53503,Set Antidote
+53511,Flinthead Bolts
+53512,Ironhead Bolts
+53513,Razor Bolts
+53514,Fire Bolts
+53520,Warpaint - Black Hand
+53521,Warpaint - Forgotten Clan
+53522,Warpaint - Darfari Cannibals
+53523,Warpaint - Dogs of the Desert
+53524,Warpaint - Ymir\'s Children
+53525,Warpaint - Relic Hunters
+53526,Warpaint - Heirs of the North
+53527,Warpaint - Strength
+53528,Warpaint - Agility
+53529,Warpaint - Vitality
+53530,Warpaint - Accuracy
+53531,Warpaint - Grit
+53532,Warpaint - Support
+53533,Warpaint - Determination
+53548,Sloughing Fluid
+53549,Inking Brush
+53550,Warpaint - Lemurian Remnant
+53551,Warpaint - Votaries of Skelos
+53611,Flinthead Arrow
+53612,Ironhead Arrow
+53613,Razor Arrow
+53614,Steel Arrow
+53615,Healing Arrow
+53616,Ancient Arrow
+53617,Explosive Arrow
+53618,Light Arrow
+53619,Poison Arrow
+53620,Oil Arrow
+53621,Firespark Arrow
+53622,Acid Arrow
+53623,Smoke Arrow
+53625,xx_SpecialAmmo_Bolt_Light
+53626,xx_SpecialAmmo_Bolt_Poison
+53627,xx_SpecialAmmo_Bolt_Tar
+53651,Snake Arrow
+53652,Abysmal Arrow
+53653,Abysmal Bolts
+53654,Hardened Steel Arrow
+53655,Hardened Steel Bolts
+53656,Star Metal Arrow
+53657,Star Metal Bolts
+53658,Ice Shard Arrow
+53659,Ice Shard Bolts
+53700,XX_Thrown Javelin
+53701,XX_Thrown Spear
+53702,XX_Thrown Axe
+53703,XX_Thrown Spear
+53704,XX_Orb_Fire_Projectile
+53705,XX_Orb_Fire_Projectile_Held
+53706,XX_Orb_Grease_Projectile
+53707,XX_Orb_Grease_Projectile_Held
+53708,XX_Orb_Water_Projectile
+53709,XX_Orb_Water_Projectile_Held
+53710,XX_Orb_Gas_Projectile
+53711,XX_Orb_Gas_Projectile_Held
+53712,Severed Arm
+53713,Severed Leg
+53714,xx_ancient_javelin_projectile
+53715,xx_knockout_javelin_projectile
+53716,xx_impr_iron_javelin_projectile
+53717,xx_steel_javelin_projectile
+53718,xx_serpentmen_javelin_projectile
+53719,xx_obsidian_javelin_projectile
+53720,XX_Thrown Axe
+53721,XX_Thrown Axe
+53722,XX_Thrown Axe
+53723,XX_Thrown Axe
+53724,XX_Thrown Axe
+53725,XX_Thrown Axe
+53726,XX_Thrown Axe
+53727,XX_Thrown Axe
+53728,xx_stone_javelin_projectile
+53729,xx_hardenedsteel_javelin_projectile
+53730,xx_exceptional_hardenedsteel_javelin_projectile
+53731,xx_flawless_hardenedsteel_javelin_projectile
+53732,xx_blackice_javelin_projectile
+53733,xx_dragonbone_javelin_projectile
+53734,XX_Thrown Axe
+53735,Dragonbone Throwing Axe
+53736,Dragonbone Javelin
+53997,Brutish Daggers
+53998,Dragonbone Daggers
+53999,Dragonbone Two-Handed Sword
+54000,Dragonbone War Axe
+54001,Dragonbone Spear
+54002,Dragonbone Maul
+54003,Dragonbone Bow
+54004,Dragonbone Arrow
+54005,Dragonbone Sword
+54006,Executioner\'s Axe
+54007,Executioner\'s Blade
+55001,True Name of Set
+55002,True Name of Yog
+55003,True Name of Mitra
+55004,True Name of Ymir
+55005,True Name of Derketo
+55006,True Name of Jhebbal Sag
+55100,Manifestation of Zeal
+60001,Eyes of Hanuman
+70001,Snake Idol
+80101,Bed
+80102,Bed - Folded
+80103,Bed - Stygian
+80104,Double bed
+80105,Nordheimer Bed
+80111,Rawhide Bedroll
+80112,Fiber Bedroll
+80131,Water Well
+80132,Large Water Well
+80151,Training Dummy
+80152,Archery Target
+80171,Spike
+80201,Table
+80202,Table - Round
+80203,Rock Slab
+80204,Table - Rectangle Variation
+80205,Low Wooden Table
+80206,Table - Rectangle Variation
+80207,Table - Long
+80208,Small Crate
+80209,Small Crate
+80210,Simple Palisade
+80211,Wall Palisade
+80212,Large Crate
+80213,Cage
+80214,Large Cage
+80215,Darfari Cage
+80216,Stygian Plate
+80217,Wooden Fence
+80218,Ancient Brazier
+80219,Ancient Brazier
+80251,Square Stool
+80252,Round Stool
+80253,Woven Stool
+80261,Chair
+80262,Wooden Chair
+80263,Comfortable Chair 
+80271,Log Bench
+80272,Wooden Bench
+80281,Stone Throne
+80301,Wooden Signpost
+80302,Wall Sign
+80303,Battle Standard
+80311,Papyrus Scroll
+80312,Decorative Bowl
+80313,Note
+80314,Journal
+80315,Note
+80316,Note
+80317,Decorative Planter Frost Lotus
+80318,Decorative Planter Yellow Lotus
+80319,Decorative Planter Purple Lotus
+80320,Decorative Planter Black Lotus
+80321,Decorative Planter Golden Lotus
+80322,Decorative Planter Grey Lotus
+80323,Decorative Planter Desert Bush
+80324,Decorative Planter Highland Bush
+80325,Decorative Planter Hops
+80326,Decorative Planter Leavening
+80327,Decorative Planter Asura\'s Glory
+80328,Decorative Planter Midnight Blue
+80329,Decorative Planter Orange Phykos
+80330,Decorative Planter Lupin
+80331,Decorative Planter False Mandrake
+80332,Decorative Planter Aloe
+80501,Standing Torch
+80502,Protected Torch 
+80503,Stygian Tripod Brazier
+80504,Set Brazier
+80505,Iron Brazier
+80506,Wall Brazier
+80507,Hanging Brazier
+80508,Hanging Brazier
+80509,Cimmerian Brazier
+80511,Bracketed Torch
+80515,Wall Lantern
+80521,Candle Stub
+80522,White Candle
+80523,Black Candle
+80524,Black Candle Stub
+80525,Candleholder
+80531,Radium Gem
+80532,Witchfire Powder
+80533,Radium Gem Standing Torch
+80534,xx_Radium_Gem_Hanging_Torch
+80535,Radium Wall Torch
+80536,Witchfire Standing Torch
+80537,xx_Witchfire_Hanging_Torch
+80538,Witchfire Wall Torch
+80539,Glowing Standing Torch
+80540,Glowing Wall Torch
+80551,Tapestry
+80552,Tapestry
+80553,Decorative Grindstone
+80571,Awning
+80601,Carpet
+80621,Hide Rug
+80622,Large Carpet
+80623,Blue Stygian Carpet
+80624,Green Stygian Carpet
+80625,Orange Stygian Carpet
+80631,Pillow
+80632,Pillow
+80633,Pillow
+80634,Pillow
+80643,Ceramic Jug
+80644,Ceramic Jar
+80645,Crude Wooden Bowl
+80646,Wooden Bowl
+80647,Flagon
+80648,Ornate Ceramic Jug
+80649,Iron Bowl
+80650,Iron Jug
+80651,Earthenware Jug
+80661,Iron Pot
+80662,Mortarium
+80663,Iron Pan
+80664,Large Earthenware Jug
+80665,Large Earthenware Jug
+80666,Large Earthenware Jug
+80667,Iron Bowl
+80668,Iron Bowl
+80669,Iron Bowl
+80670,Small Barrel
+80671,Barrel
+80673,Ale Keg
+80695,Shelf
+80697,Statuette of the Warmaker
+80698,Statuette of the Archivist
+80699,Statuette of the Priest King
+80700,Iron Mug
+80701,Stygian Flag
+80702,Iron Tankard
+80703,Iron Pitcher
+80704,Iron Decanter
+80705,Iron Plate
+80706,Iron Plate
+80707,Wooden Bowl
+80708,Wooden Bowl
+80709,Wooden Bowl
+80721,Small Banner
+80722,Medium Banner
+80733,Large Banner
+80734,Darfari Banner
+80735,Darfari Banner
+80736,Darfari Banner
+80737,Dogs of the Desert Banner
+80738,Black Hand Banner
+80739,Relic Hunter Banner
+80740,Darfari Banner
+80741,Skeletal Decoration
+80742,Fireplace and Hearth
+80743,Cupboard
+80744,Stygian Brazier
+80745,Cauldron
+80746,Tea Pot
+80747,Stygian Earthenware Jug
+80748,Stygian Metal Jug
+80749,Stygian Drum
+80750,Stygian Brazier
+80751,Gong
+80752,Horn
+80753,Darfari Wind Chimes
+80754,Drum 
+80755,Large Darfari Wind Chimes
+80756,Bed - Stygian
+80757,Statue of Ymir
+80758,Nordheimer Horn
+80759,Incense
+80760,Drinking Horn
+80761,Ivory Drinking Horn
+80762,Ivory Warhorn
+80763,Crossed Weapons Display Rack
+80764,Weapon Display Pedestal
+80765,Simple Tent
+80766,Black Hand Tent - Scallop
+80767,Black Hand Tent - Mainsail
+80768,Black Hand Tent - Lateen
+80769,Black Hand Tent - Gaff Rig
+80770,Large Red Shadecloth
+80771,Small Red Shadecloth
+80772,"Awning, Blue"
+80773,"Awning, Red"
+80774,"Awning, Green"
+80811,Ladder
+80851,Wooden Box
+80852,Large Chest
+80853,Vault
+80901,Explosive Jar
+80911,Iron Leg-hold Trap
+80912,Spike Trap
+80913,Wooden Leg-hold Trap
+80914,Vapor Trap
+80915,Exploding Trap
+80945,Pleasure Place of Derketo
+80946,Pleasure Dome of Derketo
+80947,Pleasure Palace of Derketo
+80948,Bower of Jhebbal Sag
+80949,Retreat of Jhebbal Sag
+80950,Grove of Jhebbal Sag
+80951,Sepulcher of Set
+80952,Altar of Set
+80953,Sanctum of Set
+80961,Pit of Yog
+80962,Rift of Yog
+80963,Abyss of Yog 
+80971,Shrine of Mitra
+80972,Sanctuary of Mitra
+80973,Temple of Mitra
+80974,Altar of Ymir
+80975,Statue of Refreshment
+80976,Statue of Guidance
+80977,Blooded Altar of Ymir
+80978,Exalted Altar of Ymir
+80986,Cooked Anglerfish
+80987,Cooked Catfish
+80988,Cooked Dogfish
+80989,Cooked Grouper
+80990,Cooked Moray Eel
+80991,Anglerfish
+80992,Catfish
+80993,Dogfish
+80994,Grouper
+80995,Moray Eel
+80996,Anglerfish Trophy
+80997,Catfish Trophy
+80998,Dogfish Trophy
+80999,Groper Trophy
+81000,Moray Eel Trophy
+81001,White Rhino Head Trophy
+81002,Black Rhino Head Trophy
+81003,Rhino King Head Trophy
+81004,Grey Rhino Head Trophy
+81005,Gazelle Head Trophy
+81006,Kudo Head Trophy
+81007,Antelope Head Trophy
+81008,Rocknose Head Trophy
+81009,King Rocknose Head Trophy
+81010,Shaleback Hatchling Decoration
+81011,Bat Demon Head Trophy
+81012,Crocodile Head Trophy
+81013,Hyena Head Trophy
+81014,Shaleback Head Trophy
+81015,Shaleback King Head Trophy
+81016,Demonic Shaleback Head Trophy
+81017,Undead Hyena Head Trophy
+81018,Skeletal Serpentman Head Trophy
+81019,Kingslayer Polearm
+81020,Kingslayer Daggers
+82001,White Rhino Head
+82002,Black Rhino Head
+82003,Rhino King Head
+82004,Grey Rhino Head
+82005,Gazelle Head
+82006,Kudo Head
+82007,Antelope Head
+82008,Rocknose Head
+82009,King Rocknose Head
+82010,Bat Demon Head
+82011,Crocodile Head
+82012,Hyena Head
+82013,Shaleback Head
+82014,Shaleback King Head
+82015,Demonic Shaleback Head
+82016,Undead Hyena Head
+82017,Skeletal Serpentman Head
+82018,Elk King Head
+82019,Black Bear Trophy
+82020,Black Bear Head
+82021,Deer Trophy
+82022,Deer Head
+82023,Mammoth Trophy
+82024,Mammoth Head
+82025,Mountain Goat Trophy
+82026,Mountain Goat Head
+82027,Wild Boar Trophy
+82028,Wild Boar Head
+82030,Wolf Trophy
+82031,Wolf Head
+82032,Dire Wolf Trophy
+82033,Dire Wolf Head
+82034,Elk Trophy
+82035,Elk Head
+82036,Elk King Trophy
+82037,Brown Bear Trophy
+82038,Brown Bear Head
+82039,Panther Head
+82040,Panther Trophy
+82041,Sabretooth Head
+82042,Sabretooth Trophy
+82043,Red Dragon Head
+82044,Green Dragon Head
+82045,Red Dragon Trophy
+82046,Green Dragon Trophy
+82047,Shoebill Head
+82048,Demonic Spider Head
+82049,Salamander Head
+82050,Jaguar Head
+82051,Tiger Head
+82052,Gray Ape Head
+82053,Shoebill Trophy
+82054,Demon Spider Trophy
+82055,Salamander Trophy
+82056,Jaguar Trophy
+82057,Tiger Trophy
+82058,Gray Ape Trophy
+82059,Ugly Fish Trophy
+82060,Fish Trophy
+82061,Rare Fish Trophy
+82072,Shoebill Head
+82073,Shoebill Head
+82075,Shoebill Trophy
+82076,Shoebill Trophy
+82110,Taxidermied Yeti
+82111,Iron Plinth Display
+82112,Taxidermied Bat-demon
+82113,Taxidermied Bear
+82114,Taxidermied Boar
+82115,Taxidermied Crocodile
+82116,Taxidermied Deer
+82117,Taxidermied Elk
+82118,Taxidermied Elk King
+82119,Taxidermied Gazelle
+82120,Taxidermied Mountain Goat
+82121,Taxidermied Gorilla
+82122,Taxidermied Hyena
+82123,Taxidermied Imp
+82124,Taxidermied Jaguar
+82125,Taxidermied Shoebill
+82126,Taxidermied Shaleback
+82127,Taxidermied Komodo
+82128,Taxidermied Kudo
+82129,Taxidermied Lion
+82130,Taxidermied Sand Reaper
+82131,Taxidermied Ostrich
+82132,Taxidermied Panther
+82133,Taxidermied Rocknose
+82134,Taxidermied Sabretooth
+82135,Taxidermied Scorpion
+82136,Taxidermied Spider
+82137,Taxidermied Salamander
+82138,Taxidermied Tiger
+82139,Taxidermied Wolf
+83000,Decorative Metal skull
+83001,Kinscourge Statue
+83002,Serpentmen Statue
+83003,Serpentmen Statue
+83004,Serpentmen Statue
+83005,Serpentmen Statue
+83006,Serpentmen Statue
+83007,Improved Furnace Kiln
+88884,Bone Pile 
+88885,Bone Pile 
+88887,Impaled Skull
+88888,Impaled Skull
+88889,Impaled Skull
+88890,Weathered Skull
+88891,Shaleback Hatchling Shell
+88892,Impaled Skull
+88893,Vanir Totem
+88894,Vanir Totem
+88895,Vanir Totem
+88896,Vanir Totem
+88897,Stygian Earthenware Jug
+88898,Stygian Earthenware Jug
+88899,Folding Screen
+88900,Stygian Table
+88901,Round Stygian Table
+88902,Triple-Slot Weapon Display Rack
+88903,Single-Slot Weapon Display Rack
+88904,Shield Display Rack
+89001,Campfire
+89010,Bonfire
+89011,Large Campfire
+89101,Furnace
+89102,Improved Furnace
+89103,Firebowl Cauldron
+89104,Tannery
+89105,Improved Tannery
+89106,Improved Firebowl Cauldron
+89201,Armorer\'s Bench
+89301,Blacksmith\'s Bench
+89302,Improved Blacksmith\'s Bench
+89401,Carpenter\'s Bench
+89402,Improved Carpenter\'s Bench
+89801,Siege Foundation
+89811,Trebuchet Base
+89812,Trebuchet Frame
+89813,Trebuchet
+89851,Siege Boulder
+89852,Demon-Fire Barrage
+89853,XX_Rotting Corpse
+89911,Lesser Wheel of Pain
+89912,Wheel of Pain
+89913,Greater Wheel of Pain
+89919,XX_Wheel of Pain Instant DEV
+90000,Map-Room
+90001,Sandstone Foundation
+90002,Sandstone Wall
+90003,Sandstone Ceiling
+90004,Sandstone Doorframe
+90005,Sandstone Stairs
+90006,Sandstone Wedge
+90007,Sandstone Frame
+90008,Simple Wooden Door
+90009,Sandstone Pillar
+90010,Sandstone Fence
+90011,Sandstone Wedge Foundation
+90013,Thatch Sloped Roof
+90014,Thatch Wedge Sloped Roof
+90015,Left-sloping Sandstone Wall
+90017,Right-sloping Sandstone Wall
+90018,Inverted Thatch Wedge Sloped Roof
+90020,Sandstone Fence Foundation
+90023,Thatch Sloped Roof Corner
+90024,Wooden Sloped Roof Corner
+90025,Reinforced Wooden Sloped Roof Corner
+90026,Inverted Thatch Sloped Roof Corner
+90027,Inverted Wooden Sloped Roof Corner
+90028,Inverted Reinforced Wooden Sloped Roof Corner
+90029,Thatch Rooftop End
+90030,Wooden Rooftop End
+90031,Reinforced Wooden Rooftop End
+90032,Thatch Rooftop
+90033,Wooden Rooftop
+90034,Reinforced Wooden Rooftop
+90035,Thatch Rooftop Corner
+90036,Wooden Rooftop Corner
+90037,Reinforced Wooden Rooftop Corner
+90038,Thatch Rooftop Junction
+90039,Wooden Rooftop Junction
+90040,Reinforced Wooden Rooftop Junction
+90041,Thatch Rooftop Intersection
+90042,Wooden Rooftop Intersection
+90043,Reinforced Wooden Rooftop Intersection
+90044,Thatch Rooftop Cap
+90045,Wooden Rooftop Cap
+90046,Reinforced Wooden Rooftop Cap
+90047,Thatched Awning
+90048,Thatched Awning Corner
+90049,Insulated Wooden Sloped Roof Corner
+90050,Black Ice-Reinforced Sloped Roof Corner
+90051,Inverted Insulated Wooden Sloped Roof Corner
+90052,Inverted Black Ice-Reinforced Sloped Roof Corner
+90053,Insulated Wood Rooftop End
+90054,Black Ice-Reinforced Rooftop End
+90055,Insulated Wood Rooftop
+90056,Black Ice-Reinforced Rooftop
+90057,Insulated Wood Rooftop Corner
+90058,Black Ice-Reinforced Rooftop Corner
+90059,Insulated Wood Rooftop Junction
+90060,Black Ice-Reinforced Rooftop Junction
+90061,Insulated Wood Rooftop Intersection
+90062,Black Ice-Reinforced Rooftop Intersection
+90063,Insulated Wood Rooftop Cap
+90064,Black Ice-Reinforced Rooftop Cap
+90065,Wooden Awning
+90066,Wooden Awning Corner
+90067,Reinforced Wooden Awning
+90068,Reinforced Wooden Awning Corner
+90069,Sandstone Stairs Corner
+90070,Stonebrick Stairs Corner
+90071,Reinforced Stone Stairs Corner
+90072,Insulated Wooden Stairs Corner
+90073,Black Ice-Reinforced Wooden Stairs Corner
+90074,Insulated Wood Awning
+90075,Insulated Wood Awning Corner
+90076,Black Ice-Reinforced Awning
+90077,Black Ice-Reinforced Awning Corner
+90078,Stonebrick Stairs
+90079,Reinforced Stone Stairs
+90080,Insulated Wooden Stairs
+90081,Black Ice-Reinforced Wooden Stairs
+90101,Stonebrick Foundation
+90102,Stonebrick Wall
+90103,Stonebrick Ceiling
+90104,Stonebrick Doorframe
+90105,Stonebrick Stairs rail
+90106,Stonebrick Wedge
+90107,Stonebrick Frame
+90108,Reinforced Wooden Door
+90109,Stonebrick Pillar
+90110,Stonebrick Fence
+90111,Stonebrick Wedge Foundation
+90113,Wooden Sloped Roof
+90114,Wooden Wedge Sloped Roof
+90115,Left-sloping Stonebrick Wall
+90117,Right-sloping Stonebrick Wall
+90118,Inverted Wooden Wedge Sloped Roof
+90120,Stonebrick Fence Foundation
+90121,Stonebrick Gateway
+90122,Stonebrick Gate
+90201,Reinforced Stone Foundation
+90202,Reinforced Stone Wall
+90203,Reinforced Stone Ceiling
+90204,Reinforced Stone Doorframe
+90205,Reinforced Stone Stairs rail
+90206,Reinforced Stone Wedge
+90207,Reinforced Stone Frame
+90208,Heavy Reinforced Door
+90209,Reinforced Stone Pillar
+90210,Reinforced Stone Fence
+90211,Reinforced Stone Wedge Foundation
+90213,Tiled Sloped Roof
+90214,Tiled Wedge Sloped Roof
+90215,Left-sloping Reinforced Stone Wall
+90217,Right-sloping Reinforced Stone Wall
+90218,Inverted Tiled Wedge Sloped Roof
+90220,Reinforced Stone Fence Foundation
+90221,Reinforced Stone Gateway
+90222,Reinforced Stone Gate
+90223,Reinforced Stone Crenelated Wall
+90224,Drawbridge
+90225,Elevator Vertical
+90226,Elevator Horizontal
+90227,Siege Cauldron
+90229,Heavy Reinforced Door
+90230,Heavy Reinforced Door
+90231,Reinforced Hatch Door
+90243,Insulated Wooden Foundation
+90244,Insulated Wooden Wall
+90245,Insulated Wooden Ceiling
+90246,Insulated Wooden Doorframe
+90247,Insulated Wooden Stairs rail
+90248,Insulated Wooden Wedge
+90249,Insulated Wooden Frame
+90250,Insulated Wooden Door
+90251,Insulated Wooden Pillar
+90252,Insulated Wooden Fence
+90253,Insulated Wooden Wedge Foundation
+90254,Tiled Sloped Insulated Wooden Roof
+90255,Tiled Wedge Insulated Wooden Sloped Roof
+90256,Left-sloping Insulated Wooden Wall
+90257,Right-sloping Insulated Wooden Wall
+90258,Inverted Tiled Wedge Insulated Wooden Sloped Roof
+90260,Insulated Wooden Fence Foundation
+90261,Insulated Wooden Gateway
+90262,Insulated Wooden Gate
+90263,Black Ice-Reinforced Wooden Foundation
+90264,Black Ice-Reinforced Wooden Wall
+90265,Black Ice-Reinforced Wooden Ceiling
+90266,Black Ice-Reinforced Wooden Doorframe
+90267,Black Ice-Reinforced Wooden Stairs rail
+90268,Black Ice-Reinforced Wooden Wedge
+90269,Black Ice-Reinforced Wooden Frame
+90270,Black Ice-Reinforced Wooden Door
+90271,Black Ice-Reinforced Wooden Pillar
+90272,Black Ice-Reinforced Wooden Fence
+90273,Black Ice-Reinforced Wooden Wedge Foundation
+90274,Tiled Sloped Black Ice-Reinforced Wooden Roof
+90275,Tiled Wedge Black Ice-Reinforced Wooden Sloped Roof
+90276,Left-sloping Black Ice-Reinforced Wooden Wall
+90277,Right-sloping Black Ice-Reinforced Wooden Wall
+90278,Inverted Tiled Wedge Black Ice-Reinforced Wooden Sloped Roof
+90280,Black Ice-Reinforced Wooden Fence Foundation
+90281,Black Ice-Reinforced Wooden Gateway
+90282,Black Ice-Reinforced Wooden Gate
+90283,Black Ice-Reinforced Crenelated Wall
+90284,Sandstone Hatch Frame
+90285,Stonebrick Hatch Frame
+90286,Reinforced Stone Hatch Frame
+90287,Insulated Wood Hatch Frame
+90288,Black Ice-Reinforced Hatch Frame
+90289,Crude Hatch Door
+90290,Hatch Door
+90291,Reinforced Hatch Door
+90292,Insulated Hatch Door
+90293,Black Ice-Reinforced Hatch Door
+90294,Left-sloping Inverted Sandstone Wall
+90295,Left-sloping Inverted Stonebrick Wall
+90296,Left-sloping Inverted Reinforced Stone Wall
+90297,Left-sloping Inverted Insulated Wood Wall
+90298,Left-sloping Inverted Black Ice-Reinforced Wall
+90299,Right-sloping Inverted Sandstone Wall
+90300,Right-sloping Inverted Stonebrick Wall
+90301,Right-sloping Inverted Reinforced Stone Wall
+90302,Right-sloping Inverted Insulated Wood Wall
+90303,Right-sloping Inverted Black Ice-Reinforced Wall
+90304,Vertical Decorative Beam
+90305,Diagonal Decorative Beam
+90306,Sandstone Ramp
+90307,Sandstone Ramp Corner
+90308,Stonebrick Ramp
+90309,Stonebrick Ramp Corner
+90310,Reinforced Stone Ramp
+90311,Reinforced Stone Ramp Corner
+90312,Insulated Wooden Ramp
+90313,Insulated Wooden Ramp Corner
+90314,Black Ice-Reinforced Ramp
+90315,Black Ice-Reinforced Ramp Corner
+90316,Sandstone Wall Cap
+90317,Stonebrick Wall Cap
+90318,Reinforced Stone Wall Cap
+90319,Insulated Wood Wall Cap
+90320,Black Ice-Reinforced Wall Cap
+90323,Pontoon Foundation
+90324,Pontoon Wedge Foundation
+90325,Reinforced Pontoon Foundation
+90326,Reinforced Wedge Pontoon Foundation
+90984,Iron Earrings
+90985,Iron Anklet
+90986,Iron Circlet
+90987,Iron Bracelet
+90988,Iron Cirlet and Earrings
+91000,Light Turban
+91001,Light Chestpiece
+91002,Light Gauntlets
+91003,Light Wrap
+91004,Light Boots
+91005,Medium Cap
+91006,Medium Harness
+91007,Medium Gauntlets
+91008,Medium Tasset
+91009,Medium Boots
+91010,Heavy Helmet
+91011,Heavy Pauldron
+91012,Heavy Gauntlets
+91013,Heavy Tasset
+91014,Heavy Sabatons
+91015,Darfari Watcher Mask
+91016,Darfari Skin Chestpiece
+91017,Darfari Skin Bracers
+91018,Darfari Skin Skirt
+91019,Darfari Skin Greaves
+91020,Shemite Turban
+91021,Shemite Tunic
+91022,Shemite Gloves
+91023,Shemite Leggings
+91024,Shemite Shoes
+91025,Vanir Settler Jewelry
+91026,Vanir Settler Vest
+91027,Vanir Settler Gloves
+91028,Vanir Settler Breechclout
+91029,Vanir Settler Boots
+91030,Zamorian Thief Hood
+91031,Zamorian Thief Chest
+91032,Zamorian Thief Gauntlets
+91033,Zamorian Thief Breeches
+91034,Zamorian Thief Boots
+91035,Zingaran Freebooter Headscarf
+91036,Zingaran Freebooter Vest
+91037,Zingaran Freebooter Gloves
+91038,Zingaran Freebooter Pants
+91039,Zingaran Freebooter Boots
+91040,Relic Hunter Turban
+91041,Relic Hunter Shirt
+91042,Relic Hunter Gloves
+91043,Relic Hunter Trousers
+91044,Relic Hunter Boots
+91045,Kambujan Shaman Helm
+91046,Kambujan Shaman Chestpiece
+91047,Kambujan Shaman Gloves
+91048,Kambujan Shaman Wrap
+91049,Kambujan Shaman Boots
+91050,Stygian Raider Mask
+91051,Stygian Raider Chestpiece
+91052,Stygian Raider Bracers
+91053,Stygian Raider Greaves
+91054,Stygian Raider Sandals
+91055,Vanir Fur Cap
+91056,Vanir Fur Harness
+91057,Vanir Fur Gauntlets
+91058,Vanir Fur Tasset
+91059,Vanir Fur Boots
+91060,Aquilonian Helmet
+91061,Aquilonian Chestplate
+91062,Aquilonian Bracers
+91063,Aquilonian Tasset
+91064,Aquilonian Sandals
+91070,Hyperborean Slaver Helmet
+91071,Hyperborean Slaver Waistguard
+91072,Hyperborean Slaver Bracers
+91073,Hyperborean Slaver Loincloth
+91074,Hyperborean Slaver Boots
+91075,Hyrkanian Raider Helm
+91076,Hyrkanian Raider Brigandine
+91077,Hyrkanian Raider Gauntlets
+91078,Hyrkanian Raider Tasset
+91079,Hyrkanian Raider Boots
+91080,Vanir Heavy Helmet
+91081,Vanir Heavy Pauldron
+91082,Vanir Heavy Gauntlets
+91083,Vanir Heavy Tasset
+91084,Vanir Heavy Boots
+91085,Stygian Soldier Helm
+91086,Stygian Soldier Mail
+91087,Stygian Soldier Bracers
+91088,Stygian Soldier Tasset
+91089,Stygian Soldier Sandals
+91095,Exceptional Light Turban
+91096,Exceptional Light Chestpiece
+91097,Exceptional Light Gauntlets
+91098,Exceptional Light Wrap
+91099,Exceptional Light Boots
+91100,Exceptional Medium Cap
+91101,Exceptional Medium Harness
+91102,Exceptional Medium Gauntlets
+91103,Exceptional Medium Tasset
+91104,Exceptional Medium Boots
+91105,Exceptional Heavy Helmet
+91106,Exceptional Heavy Pauldron
+91107,Exceptional Heavy Gauntlets
+91108,Exceptional Heavy Tasset
+91109,Exceptional Heavy Sabatons
+91110,Exceptional Darfari Watcher Mask
+91111,Exceptional Darfari Skin Chestpiece
+91112,Exceptional Darfari Skin Bracers
+91113,Exceptional Darfari Skin Skirt
+91114,Exceptional Darfari Skin Greaves
+91115,Exceptional Shemite Turban
+91116,Exceptional Shemite Tunic
+91117,Exceptional Shemite Gloves
+91118,Exceptional Shemite Leggings
+91119,Exceptional Shemite Shoes
+91120,Exceptional Vanir Settler Jewelry
+91121,Exceptional Vanir Settler Vest
+91122,Exceptional Vanir Settler Gloves
+91123,Exceptional Vanir Settler Breechclout
+91124,Exceptional Vanir Settler Boots
+91125,Exceptional Zamorian Thief Hood
+91126,Exceptional Zamorian Thief Chest
+91127,Exceptional Zamorian Thief Gauntlets
+91128,Exceptional Zamorian Thief Breeches
+91129,Exceptional Zamorian Thief Boots
+91130,Exceptional Zingaran Freebooter Headscarf
+91131,Exceptional Zingaran Freebooter Vest
+91132,Exceptional Zingaran Freebooter Gloves
+91133,Exceptional Zingaran Freebooter Pants
+91134,Exceptional Zingaran Freebooter Boots
+91135,Exceptional Relic Hunter Turban
+91136,Exceptional Relic Hunter Shirt
+91137,Exceptional Relic Hunter Gloves
+91138,Exceptional Relic Hunter Trousers
+91139,Exceptional Relic Hunter Boots
+91140,Exceptional Kambujan Shaman Helm
+91141,Exceptional Kambujan Shaman Chestpiece
+91142,Exceptional Kambujan Shaman Gloves
+91143,Exceptional Kambujan Shaman Wrap
+91144,Exceptional Kambujan Shaman Boots
+91145,Exceptional Stygian Raider Mask
+91146,Exceptional Stygian Raider Chestpiece
+91147,Exceptional Stygian Raider Bracers
+91148,Exceptional Stygian Raider Greaves
+91149,Exceptional Stygian Raider Sandals
+91150,Exceptional Vanir Fur Cap
+91151,Exceptional Vanir Fur Harness
+91152,Exceptional Vanir Fur Gauntlets
+91153,Exceptional Vanir Fur Tasset
+91154,Exceptional Vanir Fur Boots
+91155,Exceptional Aquilonian Helmet
+91156,Exceptional Aquilonian Chestplate
+91157,Exceptional Aquilonian Bracers
+91158,Exceptional Aquilonian Tasset
+91159,Exceptional Aquilonian Sandals
+91165,Exceptional Hyperborean Slaver Helmet
+91166,Exceptional Hyperborean Slaver Waistguard
+91167,Exceptional Hyperborean Slaver Bracers
+91168,Exceptional Hyperborean Slaver Loincloth
+91169,Exceptional Hyperborean Slaver Boots
+91170,Exceptional Hyrkanian Raider Helm
+91171,Exceptional Hyrkanian Raider Brigandine
+91172,Exceptional Hyrkanian Raider Gauntlets
+91173,Exceptional Hyrkanian Raider Tasset
+91174,Exceptional Hyrkanian Raider Boots
+91175,Exceptional Vanir Heavy Helmet
+91176,Exceptional Vanir Heavy Pauldron
+91177,Exceptional Vanir Heavy Gauntlets
+91178,Exceptional Vanir Heavy Tasset
+91179,Exceptional Vanir Heavy Boots
+91180,Exceptional Stygian Soldier Helm
+91181,Exceptional Stygian Soldier Mail
+91182,Exceptional Stygian Soldier Bracers
+91183,Exceptional Stygian Soldier Tasset
+91184,Exceptional Stygian Soldier Sandals
+91190,Flawless Light Turban
+91191,Flawless Light Chestpiece
+91192,Flawless Light Gauntlets
+91193,Flawless Light Wrap
+91194,Flawless Light Boots
+91195,Flawless Medium Cap
+91196,Flawless Medium Harness
+91197,Flawless Medium Gauntlets
+91198,Flawless Medium Tasset
+91199,Flawless Medium Boots
+91200,Flawless Heavy Helmet
+91201,Flawless Heavy Pauldron
+91202,Flawless Heavy Gauntlets
+91203,Flawless Heavy Tasset
+91204,Flawless Heavy Sabatons
+91205,Flawless Darfari Watcher Mask
+91206,Flawless Darfari Skin Chestpiece
+91207,Flawless Darfari Skin Bracers
+91208,Flawless Darfari Skin Skirt
+91209,Flawless Darfari Skin Greaves
+91210,Flawless Shemite Turban
+91211,Flawless Shemite Tunic
+91212,Flawless Shemite Gloves
+91213,Flawless Shemite Leggings
+91214,Flawless Shemite Shoes
+91215,Flawless Vanir Settler Jewelry
+91216,Flawless Vanir Settler Vest
+91217,Flawless Vanir Settler Gloves
+91218,Flawless Vanir Settler Breechclout
+91219,Flawless Vanir Settler Boots
+91220,Flawless Zamorian Thief Hood
+91221,Flawless Zamorian Thief Chest
+91222,Flawless Zamorian Thief Gauntlets
+91223,Flawless Zamorian Thief Breeches
+91224,Flawless Zamorian Thief Boots
+91225,Flawless Zingaran Freebooter Headscarf
+91226,Flawless Zingaran Freebooter Vest
+91227,Flawless Zingaran Freebooter Gloves
+91228,Flawless Zingaran Freebooter Pants
+91229,Flawless Zingaran Freebooter Boots
+91230,Flawless Relic Hunter Turban
+91231,Flawless Relic Hunter Shirt
+91232,Flawless Relic Hunter Gloves
+91233,Flawless Relic Hunter Trousers
+91234,Flawless Relic Hunter Boots
+91235,Flawless Kambujan Shaman Helm
+91236,Flawless Kambujan Shaman Chestpiece
+91237,Flawless Kambujan Shaman Gloves
+91238,Flawless Kambujan Shaman Wrap
+91239,Flawless Kambujan Shaman Boots
+91240,Flawless Stygian Raider Mask
+91241,Flawless Stygian Raider Chestpiece
+91242,Flawless Stygian Raider Bracers
+91243,Flawless Stygian Raider Greaves
+91244,Flawless Stygian Raider Sandals
+91245,Flawless Vanir Fur Cap
+91246,Flawless Vanir Fur Harness
+91247,Flawless Vanir Fur Gauntlets
+91248,Flawless Vanir Fur Tasset
+91249,Flawless Vanir Fur Boots
+91250,Flawless Aquilonian Helmet
+91251,Flawless Aquilonian Chestplate
+91252,Flawless Aquilonian Bracers
+91253,Flawless Aquilonian Tasset
+91254,Flawless Aquilonian Sandals
+91260,Flawless Hyperborean Slaver Helmet
+91261,Flawless Hyperborean Slaver Waistguard
+91262,Flawless Hyperborean Slaver Bracers
+91263,Flawless Hyperborean Slaver Loincloth
+91264,Flawless Hyperborean Slaver Boots
+91265,Flawless Hyrkanian Raider Helm
+91266,Flawless Hyrkanian Raider Brigandine
+91267,Flawless Hyrkanian Raider Gauntlets
+91268,Flawless Hyrkanian Raider Tasset
+91269,Flawless Hyrkanian Raider Boots
+91270,Flawless Vanir Heavy Helmet
+91271,Flawless Vanir Heavy Pauldron
+91272,Flawless Vanir Heavy Gauntlets
+91273,Flawless Vanir Heavy Tasset
+91274,Flawless Vanir Heavy Boots
+91275,Flawless Stygian Soldier Helm
+91276,Flawless Stygian Soldier Mail
+91277,Flawless Stygian Soldier Bracers
+91278,Flawless Stygian Soldier Tasset
+91279,Flawless Stygian Soldier Sandals
+91280,Reptilian Helm
+91281,Reptilian Gauntlets
+91282,Reptilian Chestpiece
+91283,Reptilian Tasset
+91284,Reptilian Boots
+91285,Exceptional Reptilian Helm
+91286,Exceptional Reptilian Gauntlets
+91287,Exceptional Reptilian Chestpiece
+91288,Exceptional Reptilian Tasset
+91289,Exceptional Reptilian Boots
+91290,Flawless Reptilian Helm
+91291,Flawless Reptilian Gauntlets
+91292,Flawless Reptilian Chestpiece
+91293,Flawless Reptilian Tasset
+91294,Flawless Reptilian Boots
+91295,Hyena Skull Helmet
+91296,Hyena-fur Chestpiece
+91297,Hyena-fur Gloves
+91298,Hyena-fur Wrap
+91299,Hyena-fur Boots
+91300,Exceptional Hyena Skull Helmet
+91301,Exceptional Hyena-fur Chestpiece
+91302,Exceptional Hyena-fur Gloves
+91303,Exceptional Hyena-fur Wrap
+91304,Exceptional Hyena-fur Boots
+91305,Flawless Hyena Skull Helmet
+91306,Flawless Hyena-fur Chestpiece
+91307,Flawless Hyena-fur Gloves
+91308,Flawless Hyena-fur Wrap
+91309,Flawless Hyena-fur Boots
+91310,Champion\'s Helmet
+91311,Champion\'s Chestguard
+91312,Champion\'s Gauntlets
+91313,Champion\'s Leggings
+91314,Champion\'s Boots
+92000,Exceptional Reptilian Helm
+92001,Exceptional Reptilian Gauntlets
+92002,Exceptional Reptilian Chestpiece
+92003,Exceptional Reptilian Tasset
+92004,Exceptional Reptilian Boots
+92005,Flawless Reptilian Helm
+92006,Flawless Reptilian Gauntlets
+92007,Flawless Reptilian Chestpiece
+92008,Flawless Reptilian Tasset
+92009,Flawless Reptilian Boots
+92010,Helm of Sobek
+92011,Gauntlets of Sobek
+92012,Chestguard of Sobek
+92013,Tasset of Sobek
+92014,Boots of Sobek
+92015,Hood of Asura
+92016,Chestguard of Asura
+92017,Gloves of Asura
+92018,Leggings of Asura
+92019,Boots of Asura
+92088,The Nemedian
+92089,Boon of the Black Yeti
+92090,Boon of the Gorilla
+92091,Boon of the Grey Ape
+92092,Boon of the Silverback
+92093,Boon of the Yeti
+92094,Goat-Horn Bow
+92095,Act of Violence
+92096,Unwelcome Gift
+92097,XX_Thrown Axe
+92098,Hollowbone Bow
+92099,Hollowbone Arrow
+92100,Night-Stalkers Mask
+92101,War-Dancer Chest
+92102,Exquisite Silk Shirt
+92103,Exquisite Silk Leggings
+92104,Vermin Hide Pants
+92105,Vermin Hide Boots
+92106,God Eye
+92107,The Horned Helmet
+92108,Scorpion Helm
+92109,Scorpion Harness
+92110,Commander\'s Helmet
+92111,Commander\'s Chestplate
+92112,Legacy of the Nordheimers
+92113,War Mammoth Boots
+92114,Helm of the Brute
+92115,Gauntlets of the Brute
+92116,Dragonscale Helm
+92117,Black Feather Helm
+92119,Heart of a Nordheimer
+92124,Horn Of The North
+92127,Specter Coating
+92133,Thorgar\'s Recipe Fragment
+92134,Thorgar\'s Notes
+92135,Thorgar\'s Crest
+92136,Pride of Aesir Helmet
+92137,Pride of Aesir Chestpiece
+92138,Pride of Aesir Leggings
+92139,Pride of Aesir Gauntlets
+92140,Pride of Aesir Boots
+92141,Scroll Pride of Aesir
+92142,Spiced Fowl
+92144,Underwater Breathing Mask
+92145,Blackcove Rum
+92147,Argossean Dream Dust
+92149,Broken Glass
+92150,Sword of N\'Ruka
+92151,Shield of Zabweth
+92159,Pearl
+92160,Gorilla Infant
+92161,Black Corsair Bandana
+92162,Black Corsair Gauntlets
+92163,Black Corsair Chestguard
+92164,Black Corsair Tasset
+92165,Black Corsair Boots
+92166,Chef\'s Trusted Cleaver
+92167,Seasalt Cutlass
+92168,Ebony Silk
+92169,Fiery-Hot Imperial Tea
+92170,Fiery-Hot Sea-Fish Feast
+92171,Fiery-Hot Bread
+92172,Fiery-Hot Meat Soup
+92173,Fiery-Hot Grubs
+92174,Rare Spice
+92175,Scroll Vehemence Elixir
+92176,Black Corsair Sword
+92178,Oil of Agony
+92179,Oil of Penetration
+92180,Oil of Balance
+92181,Oil of Concussion
+92182,Oil of Bounty
+92186,Gliding Joints
+92187,Master Armor Plating
+92188,Master Weapon Fitting
+92189,Fencer Weapon Fitting
+92190,Master Reinforcement Kit
+92191,Bulked Plating
+92192,A Memory of Oils
+92200,xx_noname
+92201,xx_noname
+92202,xx_noname
+92203,xx_noname
+92204,xx_noname
+92205,Khari Raider Helm
+92206,Khari Raider Chest 
+92207,Khari Raider Bracers 
+92208,Khari Raider Tasset
+92209,Khari Raider Sandals
+92210,Khari Soldier Helm
+92211,Khari Soldier Mail 
+92212,Khari Soldier Bracers 
+92213,Khari Soldier Tasset 
+92214,Khari Soldier Boots 
+92215,Khari Daggers
+92216,Khari War-Axe
+92217,Khari Great-Sword
+92218,Khari Hammer
+92219,Khari Bow
+92220,Khari Pike
+92221,Mace of Thag
+92222,Scythe of Thag
+899195,Berserker Draught
+899196,Vehemence Elixir
+9000006,XX_Offhand Dagger
+9000007,XX_Skinning Knife
+9000010,xx_purgewalltest
+9000011,xx_purgetarget

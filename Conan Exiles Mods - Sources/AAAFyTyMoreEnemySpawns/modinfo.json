@@ -1,0 +1,16 @@
+{
+	"name": "FiftyTifty - More Enemy Spawns",
+	"description": "Increases the number of human enemies in large camps. The lower tier enemies have much more than the other factions, since they'd obviously be more centered around numbers rather than individual might.",
+	"changeNote": "",
+	"author": "FiftyTifty",
+	"authorUrl": "https://steamcommunity.com/id/Aigfachteraunble",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 2,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1906746801",
+	"steamVisibility": 1,
+	"folderName": "AAAFyTyMoreEnemySpawns",
+	"revisionNumber": 149648,
+	"snapshotId": 22316
+}

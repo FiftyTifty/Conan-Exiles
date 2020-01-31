@@ -1,0 +1,16 @@
+{
+	"name": "FiftyTifty - No Healthbars, Nameplates",
+	"description": "Sets nameplates and health bars of actors to not be visible",
+	"changeNote": "",
+	"author": "FiftyTifty ",
+	"authorUrl": "https://steamcommunity.com/id/Aigfachteraunble/",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1906647460",
+	"steamVisibility": 0,
+	"folderName": "AAAFyTyNo_HealthBars_NamePlates",
+	"revisionNumber": 149648,
+	"snapshotId": 22316
+}

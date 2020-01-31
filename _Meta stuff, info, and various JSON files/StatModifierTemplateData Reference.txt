@@ -1,0 +1,46 @@
+float 0 = ThrallCraftingSpeed
+
+float 1 = ThrallCraftingCost
+
+float 2 = ThrallCraftingFuel
+
+float 3 = ThrallEntertainerPotency
+
+float 4 = DamageModifierMelee
+
+float 5 = DamageModifierRanged
+
+float 6 = NaturalArmor
+
+float 7 = ThrallCorruptionCleansePotency
+
+float 11 = Killed XP Modifier
+
+int 0 = HealthMax
+
+int 8 = ConsciousnessMax
+
+int 12 = KnockbackDefense
+
+int 13 = Faction
+
+
+
+
+=Heirs Of The North=
+
+Int 8 = 2.0 - ConsciousnessMax
+
+Float 4 = 1.5 - DamageModifierMelee
+
+Float 5 = 1.4 - DamageModifierRanged
+
+Int 13 = 6.0 - Faction
+
+Int 0 = 30.0 - HealthMax
+
+Float 11 = 4000 - Killed XP Modifier
+
+Int 12 = 0 - KnockbackDefense
+
+Float 6 = 26 - NaturalArmor

@@ -1,0 +1,16 @@
+{
+	"name": "FiftyTifty - Steel Makes Sense",
+	"description": "Steel crafting now makes sense, and is necessary.\n\nSteel is now made from 5 iron bars and 1 coal. Steel is just iron and carbon. Iron and brimstone would make iron sulfide, which is worthless for weapons. You still require steelfire for making steel reinforcements, but now it's not a huge grind to actually make them.\n\nHardened steel is just tempered steel that's been further hammered. You now need two steel bars, and one water-filled flask. Black Ice has no reason to be used for making tempered steel.\n\nThe following have been removed from NPC loot tables, so now you can't just grind NPCs with your mates to get resources 10x faster than crafting them:\n\n- Steel bars, steel tools, steel reinforcements, hardened bricks\n- Hardened steel bars, hardened steel tools\n- Star metal ore, star metal bars, star metal tools, star metal weapons\n- Composite obsidian, obsidian tools, obsidian weapons\n\nNow you actually have to go make steel. Coal is now used for crafting, and is important. Glass is now used for more than just making meals. The best way to get steel now is to craft it rather than grind mobs whenever your sword is a bit dull. Star metal is now rare. Composite Obsidian is now rare.\n\nAll is as it should be.",
+	"changeNote": "",
+	"author": "FiftyTifty",
+	"authorUrl": "https://steamcommunity.com/id/Aigfachteraunble/",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1905894818",
+	"steamVisibility": 0,
+	"folderName": "AAAFyTySteelCraftingMakesSense",
+	"revisionNumber": 149648,
+	"snapshotId": 22316
+}

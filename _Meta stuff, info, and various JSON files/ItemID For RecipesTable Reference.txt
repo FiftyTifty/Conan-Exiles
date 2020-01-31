@@ -1,0 +1,126 @@
+52916 - Heavy Helmet Padding
+52917 - Heavy Chest Padding
+52918 - Heavy Gauntlet Lining
+52919 - Heavy Legging Lining
+52920 - Heavy Boot Lining
+
+52901 - Perfected Heavy Helmet Padding
+52902 - Perfected Heavy Chest Padding
+52903 - Perfected Heavy Gauntlet Lining
+52904 - Perfected Heavy Legging Lining
+52095 - Perfected Heavy Boot Lining
+
+52911 - Medium Helmet Padding
+52912 - Medium Chest Padding
+52913 - Medium Gauntlet Lining
+52914 - Medium Legging Lining
+52915 - Medium Boot Lining
+
+52896 - Perfected Medium Helmet Padding
+52897 - Perfected Medium Chest Padding
+52898 - Perfected Medium Gauntlet Lining
+52899 - Perfected Medium Legging Lining
+52900 - Perfected Medium Boot Lining
+
+52001 - Light Turban
+52002 - Light Chestpiece
+52003 - Light Gauntlets
+52004 - Light Wrap
+52005 - Light Boots
+
+52906 - Perfected Light Helmet Padding
+52907 - Perfected Light Chest Padding
+52908 - Perfected Light Gloves Lining
+52909 - Perfected Light Legging Lining
+52910 - Perfected Light Boot Lining
+
+10012 - Branch
+10001 - Stone
+16011 - Brick
+16012 - Hardened Brick
+10011 - Wood
+11108 - Insulated Wood
+16021 - Shaped Wood
+16002 - Iron Reinforcement
+16003 - Steel Reinforcement
+
+11501 - Iron Bar
+11502 - Steel Bar
+11055 - Silver Bar
+11054 - Gold Bar
+18062 - Hardened Steel Bar
+14176 - Composite Obsidian
+18061 - Star Metal Bar
+
+11057 - Rhino Hide
+11058 - Hyena Pelt
+11059 - Elephant Hide
+11060 - Feline Pelt
+11061 - Bear Pelt
+11063 - Bat Skin
+11069 - Wolf Pelt
+12011 - Hide
+12012 - Thick Hide
+12013 - Reptile Hide
+18052 - Fur
+18054 - Layered Fur
+
+12001 - Plant Fiber
+14174 - Twine
+
+12003 - Gossamer
+12513 - Silk
+12515 - Layered Silk
+
+11056 - Feather
+11071 - Ivory
+10021 - Bone
+10022 - Dragonbone
+88890 - Weathered Skull
+18050 - Fangs
+18053 - Tusks
+18051 - Horn
+10023 - Dragonhorn
+
+11079 - Blood
+11021 - Black Blood
+14182 - Demon Blood
+11127 - Albino Bat Demon Blood
+15004 - Sacred Blood
+
+14101 - Serpent Venom Gland
+14102 - Sand Reaper Toxin Gland
+14103 - Scorpion Queen Venom Gland
+14196 - Sandbeast Bile Gland
+18188 - Volatile Gland
+
+11051 - Crystal
+14171 - Brimstone
+14172 - Tar
+12514 - Ichor
+18030 - Resin
+14173 - Steelfire
+11070 - Alchemical Base
+14183 - Dragonpowder
+
+15001 - Human Heart
+15501 - Heart of a Hero
+15504 - Heart of the Kinscourge
+
+12511 - Leather
+12512 - Thick Leather
+12516 - Hardened Leather
+
+10024 - Ice Shard
+18040 - Ice
+18041 - Black Ice
+
+11114 - Short Handle
+11115 - Long Handle
+11118 - Dagger Handle
+11119 - Spear Handle
+11120 - Throwing Axe Handle
+
+11116 - Shield Frame
+
+11117 - Sturdy String

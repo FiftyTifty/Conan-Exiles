@@ -1,0 +1,9 @@
+ERROR: Memory: bad allocation size -434706704 bytes
+appMalloc:size=-434706704 (total=0 Mbytes) <- FArray::Empty:1851879023 x 16 <- TArray::Serialize:0/0 <- FPakEntry<< <- FPakVFS::ReadDirectory <- MountVFS <- appRegisterGameFile:./DLC_ConanArmor_DLC.pak <- ScanGameDirectory <- appSetRootDirectory:dir=. <- appSetRootDirectory2:DLC_ConanArmor_DLC.pak <- Main
+
+ERROR: Memory: bad allocation size -434706704 bytes
+appMalloc:size=-434706704 (total=0 Mbytes) <- FArray::Empty:1851879023 x 16 <- TArray::Serialize:0/0 <- FPakEntry<< <- FPakVFS::ReadDirectory <- MountVFS <- appRegisterGameFile:./DLC_ConanArmor_DLC.pak <- ScanGameDirectory <- appSetRootDirectory:dir=. <- appSetRootDirectory2:DLC_ConanArmor_DLC.pak <- Main
+
+ERROR: Memory: bad allocation size -434706704 bytes
+appMalloc:size=-434706704 (total=0 Mbytes) <- FArray::Empty:1851879023 x 16 <- TArray::Serialize:0/0 <- FPakEntry<< <- FPakVFS::ReadDirectory <- MountVFS <- appRegisterGameFile:./DLC_ConanArmor_DLC.pak <- ScanGameDirectory <- appSetRootDirectory:dir=. <- appSetRootDirectory2:DLC_ConanArmorDLC.pak <- Main
+

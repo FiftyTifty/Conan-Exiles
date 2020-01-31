@@ -1,0 +1,9 @@
+==Epic only armours==
+Lemurian Royal
+Lemurian Warrior
+Silent Legion
+Cimmerian Clan
+Cimmerian Warrior
+Zingarian Freebooter
+
+==Epic only weapons==

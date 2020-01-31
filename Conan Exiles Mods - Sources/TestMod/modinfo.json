@@ -1,0 +1,11 @@
+{
+    "Name": "Test Mod",
+    "Description": "This an empty test mod.  You can use it for experimenting with things, but you should create a new mod (and give it a good unique name) before you start working on something you want to distribute.",
+    "Author": "",
+    "AuthorUrl": "",
+    "VersionMajor": 0,
+    "VersionMinor": 0,
+    "VersionBuild": 1,
+    "LoadOnStartup": 0,
+    "RequiresLoadOnStartup": 0
+}

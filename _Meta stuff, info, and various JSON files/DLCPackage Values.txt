@@ -1,0 +1,11 @@
+DLC_Khitai - The Imperial East Pack
+DLC_Aquilonia - Jewel of the West Pack
+DLC_Pict - The Savage Frontier Pack
+DLC_Yamatai - Seekers of the Dawn Pack
+DLC_Turan - Treasures of Turan Pack
+DLC_Riddle - The Riddle of Steel
+DLC_BAS - Blood and Sand Pack
+DLC_RPpack - Debaucheries of Derketo Pack
+DLC_Riders - Riders of Hyboria Pack
+DLC_ConansArmor
+DLC_ConansSword

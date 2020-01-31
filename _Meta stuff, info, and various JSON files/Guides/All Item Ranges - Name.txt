@@ -1,0 +1,5239 @@
+Aquilonian Scout Saddle
+Savage Cavalry Saddle
+Warhorse Saddle Light
+Warhorse Saddle Medium
+Warhorse Saddle Heavy
+Lance
+Exceptional Lance
+Flawless Lance
+Strong Lance
+Exceptional Strong Lance
+Flawless Strong Lance
+Sign (Alchemist)
+Sign (Blacksmith)
+Sign (Armorsmith)
+Sign (Smeltery)
+Sign (Tannery)
+Sign (Prison)
+Sign (Farm)
+Sign (Cook)
+Sign (Tavern)
+Standing Sign (Alchemist)
+Standing Sign (Blacksmith)
+Standing Sign (Armorsmith)
+Standing Sign (Smeltery)
+Standing Sign (Tannery)
+Standing Sign (Prison)
+Standing Sign (Farm)
+Standing Sign (Cook)
+Standing Sign (Tavern)
+Standing Waymarker, Left
+Standing Waymarker, Right
+Petrified Egg
+Throne of Skelos
+Waymarker, Left
+Waymarker, Right
+The Glasser
+Reinforced Stool
+Battle Spatula
+Dead Leg
+Table Leg
+Practice Sword
+Gravedigger
+Practice Great Sword
+Four-Sided Die
+Six-Sided Die
+Eight-Sided Die
+Ten-Sided Die
+Twelve-Sided Die
+Twenty-Sided Die
+Painting
+Painting
+Painting
+Painting
+Painting
+Painting
+Painting
+Painting
+Painting
+Painting
+Stone
+Queen Bee
+Worker Bee
+Bark
+Corrupted Bone
+Wood
+Branch
+Khari Steel
+Bone
+Dragonbone
+Dragonhorn
+Ice Shard
+Ironstone
+Coal
+Tablet of Power
+Essence of Rot
+Inner Sanctum Key
+Key Fragment
+Key to the Arena
+The Warmaker's Key
+Bronze Coin
+Black Blood
+Red Crystal
+Blue Crystal
+Green Crystal
+Rare Spices
+Torn Rags
+Tablet of Knowledge
+Blue Feather
+Black Feather
+Obsidian Shard
+Obsidian Gem
+Pouch
+Inert Radium Gem
+Scales
+Volcanic Flower
+Rusted Key
+Key
+Golden Key
+Silver Key
+Glowing Gem
+Glowing Blue Gem
+Glowing Green Gem
+Glowing Red Gem
+Journal
+Insignia of Derketo
+Insignia of Jhebbal Sag
+Insignia of Mitra
+Insignia of Set
+Insignia of Ymir
+Insignia of Yog
+Crystal
+Silverstone
+Goldstone
+Gold Bar
+Silver Bar
+Feather
+Rhino Hide
+Hyena Pelt
+Elephant Hide
+Feline Pelt
+Bear Pelt
+Chitin
+Bat Skin
+Obsidian
+Silver Coin
+Gold Coin
+Silver Dust
+Gold Dust
+Wolf Pelt
+Alchemical Base
+Ivory
+Claws
+Skeleton Key
+Pontoon
+Coin Mold
+Compost
+Potent Compost
+Bonemeal
+Blood
+Frost Lotus Flower
+Frost Lotus Seeds
+Yellow Lotus Seeds
+Purple Lotus Flower
+Purple Lotus Powder
+Purple Lotus Seeds
+Black Lotus Flower
+Black Lotus Powder
+Black Lotus Seeds
+Golden Lotus Flower
+Golden Lotus Seeds
+Grey Lotus Flower
+Grey Lotus Powder
+Grey Lotus Seeds
+Desert Berry-Bush Seeds
+Highlands Berry-Bush Seeds
+Hops Seeds
+Leavening Plant Seeds
+Asura's Glory Seeds
+Midnight Blue Flower Seeds
+Orange Phykos Cutting
+Vines
+Raw Ash
+Fragment of Power
+Bracelet Mold
+Anklet Mold
+Circlet Mold
+Earring Mold
+Insulated Wood
+Lupin Seeds
+False Mandrake Seeds
+Sliver of the Unfulfilled 
+Armor Scraps
+Aloe Seeds
+Short Handle
+Long Handle
+Shield Frame
+Sturdy String
+Dagger Handle
+Spear Handle
+Throwing Axe Handle
+Frost Lotus Powder
+Yellow Lotus Powder
+Golden Lotus Powder
+Crimson Lotus Flower
+Crimson Lotus Powder
+Crimson Lotus Seeds
+Albino Bat Demon Blood
+True Indigo Seeds
+Lance Core
+Corrupted Stone
+Iron Bar
+Steel Bar
+Scorpion Queen Venom
+Glass
+Plant Fiber
+Gossamer
+Hide
+Thick Hide
+Reptile Hide
+Leather
+Thick Leather
+Silk
+Ichor
+Layered Silk
+Hardened Leather
+Feral Flesh
+Savoury Flesh
+Exotic Flesh
+Egg
+Fat Grub
+Handful of Insects
+Small Scorpion
+Seeds
+Human Flesh
+Eyes of Innocence
+Cooked Human Flesh
+Shredded Roast
+Grilled Steak
+Roasted Haunch
+Gruel
+Devil's Bonemeal
+Spoiled Gruel
+Rotten Devil's Bonemeal
+Putrid Meat
+Cooked Abysmal Meat
+Arena Ritual Offering
+Aloe Leaves
+Serpent Venom Gland
+Sand Reaper Toxin Gland
+Scorpion Queen Venom Gland
+Hanuman's Gift
+Potion of Lost Souls
+Yellow Lotus Blossom
+Composite Obsidian
+Supply Materials
+Supply Materials
+Supply Materials
+Supply Materials
+Brimstone
+Tar
+Steelfire
+Twine
+Dead Woman's Hair
+Tomb Dust
+Demon Blood
+Dragonpowder
+Powder of Corruption
+Abysmal Eye
+Abysmal Fang
+Abysmal Flesh
+Grey-flower Lupine
+True Indigo
+Orange Phykos
+Cochineal
+False Mandrake
+Glowing Goop
+Sandbeast Bile Gland
+Glowing Essence
+Asura's Glory
+Glass Flask
+Water-filled Glass Flask
+Glass Flask Mold
+Withered Heart
+Human Heart
+Unblemished Human Meat
+Lingering Essence
+Sacred Blood
+XX_Yog Favor
+XX_Set Favor
+XX_Mitra Favor
+xx_Ymir_Favor
+XX_Yog Tribute
+XX_Set Tribute
+Heart of a Hero
+Ancient Rhino Horn
+Ancient Key
+Heart of the Kinscourge
+Staff of the Triumvirate
+Awakened Staff of the Triumvirate
+Diadem of the Giant-kings
+Mask of the Witch Queen
+Tears of Two Races
+The Shining Trapezohedron
+Star of the Champion
+Heart of the Sands (Scourgestone)
+Essence of the Serpent Ring
+Jagged Scourgestone Piece
+Shattered Scourgestone Piece
+Broken Scourgestone Piece
+The Keystone
+Key to Razma's Quarters
+Stone Consolidant
+Iron Reinforcement
+Steel Reinforcement
+Brick
+Hardened Brick
+Shaped Wood
+Dark Dye Colorant
+Light Dye Colorant
+Brown Dye
+Light Brown Dye
+Dark Brown Dye
+Grey Dye
+Light Grey Dye
+Dark Grey Dye
+Cyan Dye
+Light Cyan Dye
+Dark Cyan Dye
+Red Dye
+Light Red Dye
+Dark Red Dye
+Blue Dye
+Light Blue Dye
+Dark Blue Dye
+Green Dye
+Light Green Dye
+Dark Green Dye
+Yellow Dye
+Light Yellow Dye
+Dark Yellow Dye
+Purple Dye
+Light Purple Dye
+Dark Purple Dye
+Orange Dye
+Light Orange Dye
+Dark Orange Dye
+Magenta Dye
+Light Magenta Dye
+Dark Magenta Dye
+Olive Green Dye
+Light Olive Green Dye
+Dark Olive Green Dye
+Ash Dye
+Light Ash Dye
+Dark Ash Dye
+Cimmerian Blue Dye
+Light Cimmerian Blue Dye
+Dark Cimmerian Blue Dye
+Muted Brown Dye
+Light Muted Brown Dye
+Dark Muted Brown Dye
+Tan Dye
+Light Tan Dye
+Dark Tan Dye
+Deep Red Dye
+Midnight Blue Dye
+Abyssal Violet Dye
+Cursed Green Dye
+White Dye
+Black Dye
+Hops
+Leavening Agent
+Honey
+Highland Berries
+Desert Berries
+Shroom Amanita
+Puffball Mushroom
+Unappetizing Fish
+Savory Fish
+Exotic Fish
+Dried Fish
+Dried Meat
+Spicy Dried Fish Combo
+Unappetizing Shellfish
+Savory Shellfish
+Exotic Shellfish
+Dry Wood
+Denizens of the Dark Well
+Resin
+Oil
+Highland Berry Pulp
+Desert Berry Pulp
+Prophecy of the Borne Witch
+The Mastodont's Tower
+Blood-stained Nails
+Prince of the Black shores
+The Daughter of Ymir
+Time of the Scaled Lizard
+Ice
+Black Ice
+Fangs
+Horn
+Fur
+Tusks
+Layered Fur
+Star Metal Ore
+Star Metal Bar
+Hardened Steel Bar
+Desert Grog
+Desert Rum
+Jungle Grog
+Jungle Rum
+Curative Mixture
+Rum Runner Vald's Secret Recipe
+Phykos Rum
+Absinthe
+Ale
+Highland Wine
+Cactus Wine
+Firewater
+Mead
+Resin Wine
+Wine
+Honeyed Wine
+Desert Wine
+Shroom Beer
+Volatile Gland
+Fish Strips
+Cooked Fish
+Cooked Savory Fish
+Cooked Exotic Fish
+Cooked Shellfish
+Cooked Savory Shellfish
+Cooked Exotic Shellfish
+Bread
+Exotic Feast
+Savory Feast
+Oyster Omelette
+Century Egg
+Purified Water
+Feast to Yog
+Feral Feast
+Bush Jerky
+Corrupting Brew
+Flavored Gruel
+Spiced Haunch
+Feast of Set 
+Spiced Oysters
+Cooked Oyster
+Berry Juice
+Feast of Mitra
+Meaty Mashup
+Soup
+Enhanced Gruel
+Cleansing Brew
+Spiced Tea
+Herbal Tea
+Trail Jerky
+Steak and Eggs
+Spiced Steak
+Savory Jerky
+Meat Strips
+Darfari Bug Soup
+Spiced Soup
+Aloe Soup
+Seed Soup
+Yellow Lotus Soup
+Mushroom Stew
+Roasted Mushrooms
+Mulled Brew
+Cimmerian Meal
+Mushroom Tea
+Hearty Stew
+Demon Blood-Sausage
+Rhino Head Soup
+Lasting Meal
+Spiced Slivers
+Exquisite Stew
+Chili Desert Style
+Hearty Meal
+Bone Broth
+Spiced and Shredded Roast
+Bug Kabob
+Spiced Egg
+Egg Surprise
+Cooked Eggs
+Dried Berries
+Salted Berries
+Feast of Ymir
+Oyster Flesh
+Salt
+Spice
+xx_maxfood
+xx_nofood
+xx_removebuffs
+Honeyglazed Roast
+Honeyed Eggs
+Mystery Meat Soup
+Honeyed Gruel
+Honey Jerky
+Honeybread
+Ice Tea
+Potion of Endowment
+Blood Sausage
+Cooked Pork Rinds
+Cooked Pork Strips
+Raw Pork
+Cooked Pork Dinner
+Lumpy Soup
+Mixed Meat Scraps
+Salted Pork
+Spiced Pork
+Cooked Exquisite Meat
+Exquisite Meat
+Salted Exquisite Meat
+Spiced Exquisite Meat
+Elixir of Sight
+Elixir of Grace
+Black Lotus Potion
+Elixir of Numbing
+Golden Lotus Potion
+Grey Lotus Potion
+Elixir of Enduring
+Purple Lotus Potion
+Elixir of Might
+Elixir of Ingestion
+Elixir of Vigor
+Frost Lotus Potion
+Fish Gill Potion
+Feast of Jhebbal Sag
+Feast of Derketo
+Elixir of Freedom
+Hunter's Potion
+Demonic Lure
+Reptile Lure
+Dragon Lure
+Elephant Lure
+Canine Lure
+Imp Lure
+Sand Reaper Lure
+Bird Lure
+Rhinoceros Lure
+Rocknose Lure
+Feline Lure
+Scorpion Lure
+Spider Lure
+Breath of Dagon
+The Sign of Jhebbal Sag
+Honey Whisky
+Pirate Rotgut
+Frenzywine
+Bitter Tea
+Stygian Liquor
+Healing Wraps
+Numbing Wraps
+Midnight Blue Flower
+Beehive
+Improved Beehive
+Fish Trap
+Shellfish Trap
+Fermentation Barrel
+Fluid Press
+Dryer
+Preservation Box
+Improved Preservation Box
+Stove
+Grinder
+Frost Temple Smithy
+Artisan Table
+Saddler's Worktable
+Torturer's Worktable
+Improved Stove
+Volcanic Forge
+Compost Heap
+Crude Planter
+Planter
+Improved Planter
+Improved Armorer's Bench
+Altar of the Bat
+Altar of Chaosmouth
+Sturdy Foal
+Swift Foal
+Foal
+Stables
+Scorpion Egg-sac
+Dismantling Bench
+Shadebloom
+Animal Pen
+Reinforced Animal Pen
+Armored Animal Pen
+Dung
+Feed Box
+Thrall Pot
+Scorpion Hatchling
+Elephant Calf
+Bear Cub
+Striped Hyena Whelp
+Spotted Hyena Whelp
+Crocodile Hatchling
+Ostrich Chick
+Rhino Calf
+Locust Spawn
+Boar Shoat
+Fawn
+Shaleback Hatchling
+Shaleback Egg
+Spider Egg-sac
+Ostrich Egg
+Shoebill Egg
+Sand Reaper Egg 
+Crocodile Egg
+Rocknose Egg
+Tiger Cub
+Jaguar Cub
+Panther Cub
+Sabretooth Kitten
+Wolf Cub
+Frostwolf Cub
+Spiderling
+Camel Calf
+Pebblenose
+Shoebill Chick
+Lion Cub
+Shadespiced Corrupted Flesh
+Shadespiced Raw Stringy Meat
+Shadespiced Human Flesh
+Shadespiced Raw Succulent Meat
+Shadespiced Fatty Meat
+Shadespiced Perfect Cut of Meat
+Shadespiced Raw Tough Meat
+Shadespiced Oily Fish
+Shadespiced Desert Berries
+Shadespiced Fish
+Shadespiced Highland Berries
+Shadespiced Succulent Fish
+Shadespiced Honey
+Shadespiced Insects
+Shadespiced Fat Grub
+Shadespiced Plant Fiber
+Shadespiced Vines
+Shadespiced Bark
+Shadespiced Rotten Meat
+Shadespiced Amanita Mushrooms
+Shadespiced Puffer Mushrooms
+Shadespiced Rotten Shellfish
+Shadespiced Shellfish
+Shadespiced Succulent Shellfish
+Shadespiced Demon Blood
+Shadespiced Stone
+Shadespiced Crystal
+Shadespiced Iron Ore
+Shadespiced Gold
+Shadespiced Gold Dust
+Shadespiced Silver
+Shadespiced Silver Dust
+Tamed Scorpion
+Tamed Scorpion
+Tamed Scorpion
+Tamed Scorpion
+Unstable Wretch
+Skeleton
+Skeleton Warrior
+Wight
+Legion Warrior
+Undead Kappa
+Undead Hyena
+Undead Monstrosity
+Tamed Lion
+Tamed Lion
+Tamed Elephant
+Tamed Bear
+Tamed Striped Hyena
+Tamed Spotted Hyena
+Crocodile
+Ostrich
+Shoebill
+Rhinoceros
+Sand Reaper
+Sand Reaper
+Sand Reaper
+Rocknose
+Boar
+Gazelle
+Camel
+Shaleback
+Shaleback
+Shaleback
+Shaleback
+Spider
+Spider
+Spider
+Spider
+Spider
+White Tiger
+Greater Sabretooth
+Greater Jaguar
+Greater Wolf
+Greater Bear
+Greater Hyena
+Greater Crocodile
+Ostrich
+Ostrich
+Shoebill
+Shoebill
+White rhinoceros
+Black Rhinoceros
+Greater Rhinoceros
+Sand Reaper Queen
+Greater Rocknose
+Gold-vein Rocknose
+Silver-vein Rocknose
+Greater Boar
+Greater Shaleback
+Demonic Spider
+Wolf
+Jaguar
+Tiger
+Sabretooth
+Panther
+Greater Panther
+Bear Carcass
+Hyena Carcass
+Crocodile Carcass
+Ostrich Carcass
+Shoebill Carcass
+Rhinoceros Carcass
+Sand Reaper Carcass
+Rocknose Carcass
+Boar Carcass
+Gazelle Carcass
+Camel Carcass
+Shaleback Carcass
+Spider Carcass
+Tiger Carcass
+Sabretooth Carcass
+Jaguar Carcass
+Wolf Carcass
+Gold-vein Rocknose Carcass
+Silver-vein Rocknose Carcass
+Panther Carcass
+Elephant Carcass
+Lion Carcass
+Scorpion Carcass
+Grey Ape Carcass
+Gorilla Carcass
+Yeti Carcass
+Horse Carcass
+Flesh of Remembrance
+Potion of Midnight
+Night-Eye Potion
+Potion of Bestial Memory
+Potion of Natural Learning 
+Hooked Sword
+Scales of Dagon
+Infused Aloe Extract
+Silken Wraps
+Ancient Lemurian Sword
+Ancient Lemurian Shield
+Ancient Lemurian Trident
+Improved Shellfish Trap
+Improved Fish Trap
+xx_dagon_trident
+Daggers of Dagon
+Tamed Elephant
+Tamed Mammoth
+XX_Generic Animal Weapon
+XX_Rocknose
+XX_Rhino, Grey
+XX_Hyena, Spotted
+XX_Locust, Green
+XX_Cobra
+XX_Scorpion, Tiny
+XX_Spider, Redmouth
+XX_Kappa
+XX_Bat Demon
+XX_Imp
+XX_Rocknose, King
+XX_Rhino, White
+XX_Rhino, Black
+XX_Rhino, King
+XX_Scorpion, Medium
+XX_Scorpion, Large
+XX_Scorpion, King
+XX_Kappa, King
+XX_Spider, Green
+XX_Spider, Brown
+XX_Spider, Widow
+XX_Skeleton, Serpent Man
+XX_Locust, Yellow
+XX_Rabbit
+XX_Antelope, Spiral Horns
+XX_Antelope, Straight Horns
+XX_Antelope, King
+XX_Camel
+XX_Kappa, Undead
+XX_Rocknose, Molten
+XX_Rocknose, King Molten
+XX_Pikefish
+XX_BigCat_Panther
+XX_BigCat_Sandbeast
+XX_Crocodile
+XX_Snake, Giant
+XX_Vulture
+XX_Hyena, Striped
+XX_Hyena, Undead
+XX_Kappa, Hatchling
+XX_Imp, Explosive
+XX_Ostrich
+XX_Piranha
+XX_Elephant
+XX_Locust_White
+XX_Komodo
+XX_Rocknose_White
+XX_WereHyena
+XX_Spider_Grey
+XX_Spider_Widow_Blue
+XX_Spider_Widow_Green
+XX_Spider_Widow_Yellow
+XX_Spider_Widow_Red
+XX_Spider_Giant
+XX_Dragon_Undead
+XX_Dragon
+XX_Dragon_Hatchling
+XX_Giant_King_Ghost
+XX_Crocodile_Giant
+XX_Bat_Demon_White
+XX_SewerAbomination
+XX_Wolf
+XX_Wolf_Dire
+XX_Deer
+XX_Elk
+XX_Elk_King
+XX_Mountain_Goat
+XX_Wild_Boar
+XX_Mammoth
+XX_Bear
+xx_giantkingboss
+XX_Sabretooth
+XX_Bear_Black
+XX_Rocknose_King_Boss_Moss
+XX_Rocknose_King_Ice
+XX_Wild_Boar_Boss
+XX_Frost_Giant
+XX_Death_Knight
+XX_Panther
+xx_alpha_snake
+xx_alpha_elephant
+XX_Skeleton_Armor
+XX_Undead_Wight
+XX_Skeleton
+XX_Frost_Giant_Boss
+XX_Frost_Giant_Smith
+XX_DeathKnightMinion
+XX_Frost_Giant_Tutorial
+XX_Elephant_Baby
+XX_Rhino_Baby
+XX_Skeleton_Dregs
+XX_Dragon_Green
+xx_horse_bc_2
+xx_horse_bc_1
+XX_Imp_bc_1
+XX_Imp_bc_2
+XX_Imp_bc_3
+XX_Imp_bc_4
+XX_Imp_t_1
+XX_ImpKing_bc_1
+XX_ImpKing_bc_2
+XX_ImpKing_bc_3
+XX_ImpKing_bc_4
+XX_Imp, Explosive_bc_1
+XX_Imp, Explosive_t_1
+XX_KappaUndead_bc_1
+XX_KappaUndead_bc_2
+XX_KappaUndead_bc_3
+XX_KappaUndead_bc_4
+XX_KappaUndead_charge_1
+XX_KappaUndead_bc_1
+XX_KappaUndead_bc_2
+XX_KappaUndead_bc_3
+XX_KappaUndead_bc_4
+XX_KappaUndead_charge_1
+XX_Hyena_bc_1
+XX_Hyena_bc_2
+XX_Hyena_charge_1
+XX_Hyena_bc_1
+XX_Hyena_bc_2
+XX_Hyena_charge_1
+XX_Hyena_t_1
+XX_HyenaUndead_bc_1
+XX_HyenaUndead_bc_2
+XX_HyenaUndead_charge_1
+XX_Crocodile_bc_1
+XX_Crocodile_bc_2
+XX_Crocodile_bc_3
+XX_Crocodile_bc_4
+XX_Komodo_bc_1
+XX_Komodo_bc_2
+XX_Komodo_bc_3
+XX_Komodo_bc_4
+XX_Crocodile_bc_1
+XX_Crocodile_bc_2
+XX_Crocodile_bc_3
+XX_Crocodile_bc_4
+XX_Crocodile_t_1
+XX_Crocodile_Giant_bc_1
+XX_Crocodile_Giant_bc_2
+XX_Crocodile_Giant_bc_3
+XX_Crocodile_Giant_bc_4
+XX_Crocodile_Giant_Tailswipe
+XX_Pikefish_bc_1
+XX_Piranha_bc_1
+XX_SwampKing_Jab_1
+XX_SwampKing_Jab_2
+XX_SwampKing_Slam
+XX_SwampKing_Spin
+XX_SwampKing_EntanglingRoots
+XX_Kappa_bc_1
+XX_Kappa_bc_2
+XX_Kappa_bc_3
+XX_Kappa_bc_4
+XX_Kappa_slam_slow
+XX_Kappa_bc_1
+XX_Kappa_bc_2
+XX_Kappa_bc_3
+XX_Kappa_bc_4
+XX_Kappa_t_1
+XX_Kappa_charge_1
+XX_Kappa_slam_slow
+XX_Kappa_King_bc_1
+XX_Kappa_King_bc_2
+XX_Kappa_King_bc_3
+XX_Kappa_King_bc_4
+XX_Kappa_King_charge_1
+XX_Kappa_King_bc_1
+XX_Kappa_King_bc_2
+XX_Kappa_King_bc_3
+XX_Kappa_King_bc_4
+XX_Kappa_King_charge_1
+XX_Locust_bc_1
+XX_Locust_bc_2
+XX_Locust_t_1
+XX_Locust_SprayLine
+XX_Locust_SprayCone
+XX_Locust_Green_bc_1
+XX_Locust_Green_bc_2
+XX_Locust_Green_SprayLine
+XX_Locust_Green_SprayCone
+XX_Locust_White_bc_1
+XX_Locust_White_bc_2
+XX_Locust_White_SprayLine
+XX_Locust_White_SprayCone
+XX_Locust_Queen_bc_1
+XX_Locust_Queen_bc_2
+XX_Locust_Queen_SprayLine
+XX_Locust_Queen_SprayCone
+XX_Locust_Queen_SpecialAttack
+XX_Bat_Demon_bc_1
+XX_Bat_Demon_bc_2
+XX_Bat_Demon_bc_3
+XX_Bat_Demon_t_1
+XX_Bat_Demon_White_bc_1
+XX_Bat_Demon_White_bc_2
+XX_Bat_Demon_White_bc_3
+XX_Bat_Demon_White_bc_4
+XX_Skeleton_Serpent_Man_bc_1
+XX_Skeleton_Serpent_Man_bc_2
+XX_Skeleton_Serpent_Man_charge_1
+XX_Skeleton_Serpent_Man_t_1
+XX_Dragon_bc_1
+XX_Dragon_bc_2
+XX_Dragon_bc_3
+XX_Dragon_Headswipe_Left
+XX_Dragon_Headswipe_Right
+XX_Dragon_Headbutt
+XX_Dragon_Firebreath_Line
+XX_Dragon_Firebreath_Cone
+XX_Dragon_Taunt
+XX_Dragon_Spin_360
+XX_Dragon_Undead_bc1
+XX_Dragon_Undead_bc2
+XX_Dragon_Undead_bc3
+XX_Dragon_Undead_bc4
+XX_Dragon_Undead_bc5
+XX_Dragon_Hatchling_bc1
+XX_Dragon_Hatchling_bc2
+XX_Dragon_Hatchling_bc3
+XX_Dragon_Hatchling_HeadDash
+XX_Dragon_Hatchling_Headswipe_Left
+XX_Dragon_Hatchling_Headswipe_Right
+XX_RocknoseWhite_bc_1
+XX_RocknoseWhite_bc_2
+XX_RocknoseWhite_bc_3
+XX_Rocknose_bc_1
+XX_Rocknose_bc_2
+XX_Rocknose_bc_3
+XX_Rocknose_t_1
+XX_RocknoseKing_bc_1
+XX_RocknoseKing_bc_2
+XX_RocknoseKing_bc_3
+XX_RocknoseKing_bc_4
+XX_RocknoseKing_t_1
+XX_Scorpion_bc_1
+XX_Scorpion_bc_2
+XX_Scorpion_bc_3
+XX_Scorpion_bc_1
+XX_Scorpion_bc_2
+XX_Scorpion_bc_3
+XX_Scorpion_tailspin
+XX_Scorpion_tailspin
+XX_ScorpionLarge_bc_1
+XX_ScorpionLarge_bc_2
+XX_ScorpionLarge_bc_3
+XX_ScorpionLarge_bc_1
+XX_ScorpionLarge_bc_2
+XX_ScorpionLarge_bc_3
+XX_ScorpionKing_bc_1
+XX_ScorpionKing_bc_2
+XX_ScorpionKing_bc_3
+XX_ScorpionKing_Spin
+XX_ScorpionKing_bc_1
+XX_ScorpionKing_bc_2
+XX_ScorpionKing_bc_3
+XX_ScorpionKing_Spin
+XX_Scorpion_burrow
+XX_Spider_bc_1
+XX_Spider_bc_2
+XX_Spider_bc_1
+XX_Spider_bc_2
+XX_SpiderGiant_bc_1
+XX_SpiderGiant_bc_2
+XX_Spider_VenomLauncher
+XX_Spider_VenomProjectile
+XX_Spider_Web
+XX_Spider_Web_Projectile
+XX_Spider_dash
+XX_SpiderGiant_pull
+XX_Cobra_bc_1
+XX_Cobra_bc_2
+XX_Rhino_CircleRun_L
+XX_Rhino_CircleRun_R
+XX_RhinoBlack_CircleRun_L
+XX_RhinoBlack_CircleRun_R
+XX_RhinoKing_CircleRun_L
+XX_RhinoKing_CircleRun_R
+XX_Rhino_ReptileBoss_CircleRun_L
+XX_Rhino_ReptileBoss_CircleRun_R
+XX_Rhino_Reptile_CircleRun_L
+XX_Rhino_Reptile_CircleRun_R
+XX_Rhino_ReptileBoss_bc_1
+XX_Rhino_ReptileBoss_bc_2
+XX_Rhino_ReptileBoss_bc_3
+XX_Rhino_ReptileBoss_charge_1
+XX_Rhino_Reptile_bc_1
+XX_Rhino_Reptile_bc_2
+XX_Rhino_Reptile_bc_3
+XX_Rhino_Reptile_charge_1
+XX_Rhino_bc_1
+XX_Rhino_bc_2
+XX_Rhino_bc_3
+XX_Rhino_charge_1
+XX_RhinoBlack_bc_1
+XX_RhinoBlack_bc_2
+XX_RhinoBlack_bc_3
+XX_RhinoBlack_charge_1
+XX_RhinoKing_bc_1
+XX_RhinoKing_bc_2
+XX_RhinoKing_bc_3
+XX_RhinoKing_charge_1
+XX_Ostrich_bc_1
+XX_Ostrich_bc_2
+XX_Ostrich_bc_3
+XX_Ostrich_charge_1
+XX_Ostrich_bc_1
+XX_Ostrich_bc_2
+XX_Ostrich_bc_3
+XX_Ostrich_charge_1
+XX_Ostrich_t_1
+XX_Bull_bc_1
+XX_Bull_bc_2
+XX_Bull_bc_3
+XX_Bull_charge_1
+XX_Bull_CircleDash_Left
+XX_Bull_CircleDash_Right
+XX_Bull_charge_2
+XX_Bull_charge_3
+XX_Elephant_bc_1
+XX_Elephant_bc_2
+XX_Elephant_bc_1
+XX_Elephant_bc_2
+xx_Alphaelephant_bc_1
+xx_Alphaelephant_bc_2
+XX_Elephant_charge
+XX_Alphaelephant_charge
+XX_Elephant_Stomp
+XX_Alphaelephant_Stomp
+XX_Werehyena_charge_1
+XX_Mammoth_bc_1
+XX_Mammoth_bc_2
+XX_Mammoth_charge
+XX_Mammoth_Stomp
+XX_Mammoth_Spin
+XX_Elephant_Stomp_Small
+XX_AlphaElephant_Stomp_Small
+XX_AlphaElephant_Stomp_Small_Left_Sweep
+XX_AlphaElephant_Stomp_Small_Right_Sweep
+XX_Werehyena_bc_1
+XX_Werehyena_bc_2
+XX_Werehyena_bc_1
+XX_Werehyena_bc_2
+XX_Werehyena_charge_1
+XX_Werehyena_t_1
+XX_SnakePeople_Brute_bc_1
+XX_SnakePeople_Brute_bc_2
+XX_SnakePeople_Brute_charge_1
+XX_SnakePeople_Brute_t_1
+XX_BigSnake_bc_1
+XX_GiantSnake_bc_1
+XX_GiantSnake_bc_2
+xx_AlphaGiantSnake_bc_1
+xx_AlphaGiantSnake_bc_2
+XX_Komodo_bc_1
+XX_Komodo_bc_2
+XX_Komodo_bc_3
+XX_Komodo_bc_4
+XX_Komodo_t_1
+XX_Wolf_bc_1
+XX_Wolf_bc_2
+XX_Wolf_bc_3
+XX_Wolf_charge_1
+XX_SewerAbomination_bc_1
+XX_SewerAbomination_bc_2
+XX_SewerAbomination_bc_3
+XX_SewerAbomination_bc_4
+XX_SewerAbomination_bc_5
+XX_SewerAbomination_bc_6
+XX_SewerAbomination_AcidProjectile
+XX_BigCatPanther_bc_1
+XX_BigCatPanther_bc_2
+XX_BigCatPanther_bc_3
+XX_BigCatPanther_bc_4
+XX_BigCatPanther_bc_5
+XX_BigCatPanther_bc_6
+XX_BigCatSandbeast_bc_1
+XX_BigCatSandbeast_bc_2
+XX_BigCatSandbeast_bc_3
+XX_BigCatSandbeast_bc_4
+XX_BigCatSandbeast_bc_5
+XX_BigCatSandbeast_bc_6
+XX_BigCatSandbeast_bc_7
+XX_BigCatPanther_t_1
+XX_BigCatPanther_Boss_Swipe_L
+XX_BigCatPanther_Boss_Swipe_R
+XX_BigCatPanther_Boss_Swipe_L
+XX_BigCatPanther_Boss_Swipe_R
+XX_Wolf_bc_1
+XX_Wolf_bc_2
+XX_Wolf_bc_3
+XX_Wolf_charge_1
+XX_Wolf_Dire_bc_1
+XX_Wolf_Dire_bc_2
+XX_Wolf_Dire_bc_3
+XX_Wolf_charge_1
+XX_Wolf_sidestep_left
+XX_Wolf_sidestep_right
+XX_Wolf_Bite_1
+XX_Wolf_Bite_2
+XX_Wolf_Dire_Bite_1
+XX_Wolf_Dire_Bite_2
+XX_Elk_bc_1
+XX_Elk_bc_2
+XX_Elk_bc_3
+XX_Elk_OverheadSmash
+XX_Elk_King_bc_1
+XX_Elk_King_bc_2
+XX_Elk_King_bc_3
+XX_Elk_King_OverheadSmash
+XX_Kudo_bc_1
+XX_Kudo_bc_2
+XX_Kudo_bc_3
+XX_Kudo_OverheadSmash
+XX_Mountain_Goat_bc_1
+XX_Mountain_Goat_OverheadSmash
+XX_Gazeller_Scared
+XX_Gazeller_bc_1
+XX_Gazeller_bc_2
+XX_Gazeller_bc_3
+XX_Wild_Boar_bc_1
+XX_Wild_Boar_bc_2
+XX_Wild_Boar_charge
+XX_Wild_Boar_Boss_bc_1
+XX_Wild_Boar_Boss_bc_2
+XX_Wild_Boar_Boss_charge
+XX_Wild_Boar_taunt
+XX_Wild_Boar_Boss_Special
+XX_Wild_Boar_Boss_taunt
+XX_Bear_bc_1
+XX_Bear_bc_2
+XX_Bear_medium_1
+XX_Bear_medium_2
+XX_Bear_taunt
+XX_Bear_Black_bc_1
+XX_Bear_Black_bc_2
+XX_Bear_Black_medium_1
+XX_Bear_Black_medium_2
+XX_Bear_Black_bc_1
+XX_Bear_Black_bc_2
+XX_Bear_Black_medium_1
+XX_Bear_Black_medium_2
+XX_Sabretooth_bc_1
+XX_Sabretooth_bc_2
+XX_Sabretooth_bc_3
+XX_Sabretooth_bc_4
+XX_Sabretooth_bc_5
+XX_Sabretooth_bc_6
+XX_Sabretooth_bc_1
+XX_Sabretooth_bc_2
+XX_Sabretooth_bc_3
+XX_Sabretooth_bc_4
+XX_Sabretooth_bc_5
+XX_Sabretooth_bc_6
+XX_Jaguar_Jab1
+XX_Jaguar_Jab2
+XX_Jaguar_Overhead
+XX_Jaguar_Sidedash_Left
+XX_Jaguar_Sidedash_Right
+XX_Jaguar_Charge
+XX_Rocknose_King_Boss_Moss_bc_1
+XX_Rocknose_King_Boss_Moss_bc_2
+XX_Rocknose_King_Boss_Moss_bc_3
+XX_Rocknose_King_Boss_Moss_bc_4
+XX_Rocknose_King_Boss_Moss_t_1
+XX_Rocknose_King_Ice_bc_1
+XX_Rocknose_King_Ice_bc_2
+XX_Rocknose_King_Ice_bc_3
+XX_Rocknose_King_Ice_bc_4
+XX_Rocknose_King_Ice_t_1
+XX_Frost_Giant_bc_1
+XX_Frost_Giant_bc_2
+XX_Frost_Giant_bc_3
+XX_Frost_Giant_bc_4
+XX_Frost_Giant_bc_5
+XX_Frost_Giant_bc_6
+XX_Frost_Giant_taunt
+XX_Witch_Queen_Statue_Slam
+XX_Witch_Queen_Statue_Stomp
+xx_IronKing_kick
+xx_IronKingKickToOverhand
+xx_IronKingLeap
+xx_IronKingOverhandSequence
+xx_IronKingSpin
+xx_IronKingShedRust
+XX_Death_Knight_bc_1
+XX_Death_Knight_bc_2
+XX_Death_Knight_bc_3
+XX_Death_Knight_bc_4
+XX_Death_Knight_bc_5
+XX_Death_Knight_bc_6
+XX_RavenousWolf_bc_1
+XX_RavenousWolf_bc_2
+XX_RavenousWolf_bc_3
+XX_RavenousWolf_charge_1
+XX_RavenousWolf_sidestep_left
+XX_RavenousWolf_sidestep_right
+XX_RavenousWolf_Bite_1
+XX_RavenousWolf_Bite_2
+XX_Vulture_FlyAway_1
+XX_SnakePeople_hordeling_light_1
+XX_SnakePeople_hordeling_special
+XX_SnakePeople_hordeling_bow
+XX_SnakePeople_light_1
+XX_SnakePeople_light_2
+XX_SnakePeople_special
+XX_SnakePeople_bow
+XX_SnakePeople_bow_projectile
+XX_SnakePeople_Illusion_light_1
+XX_SnakePeople_Illusion_light_2
+XX_SnakePeople_special
+XX_DemonSpider_left
+XX_DemonSpider_Right
+XX_DemonSpider_Mid
+XX_DemonSpider_Special_Buff
+XX_DemonSpider_Special_Poison
+XX_DemonSpider_Special_Web
+XX_DemonSpider_left_Short
+XX_DemonSpider_right_short
+XX_DemonSpider_mid_short
+XX_Yeti_Roar
+XX_Yeti_Smash
+XX_Yeti_Stomp
+XX_Yeti_Throw
+XX_Yeti_JumpSmash
+XX_Yeti_Throw_Projectile
+XX_Yeti_Taunt
+XX_Yeti_Smash_miniboss
+XX_Yeti_Stomp_miniboss
+XX_Yeti_JumpSmash_miniboss
+XX_GreyApe_Roar
+XX_GreyApe_Smash
+XX_GreyApe_Stomp
+XX_GreyApe_Throw
+XX_GreyApe_JumpSmash
+XX_Gorilla_Jab_1
+XX_Gorilla_Jab_2
+XX_Gorilla_Jab_3
+XX_Gorilla_Jab_4
+XX_Gorilla_Smash
+XX_Gorilla_Charge
+XX_Gorilla_taunt
+XX_JungleBird_light_1
+XX_JungleBird_light_2
+XX_JungleBird_light_3
+XX_JungleBird_charge
+XX_Children_of_Jhil_bc_1
+XX_Children_of_Jhil_bc_2
+XX_Salamander_left
+XX_Salamander_mid
+XX_Salamander_right
+XX_Salamander_dash
+XX_Salamander_spit
+XX_Salamander_poison
+XX_Salamander_spit_projectile
+XX_Children_of_Jhil_special_1
+XX_Children_of_Jhil_special_2
+XX_Children_of_Jhil_special_3
+XX_Children_of_Jhil_bc_1
+XX_Children_of_Jhil_bc_2
+XX_Children_of_Jhil_taunt
+XX_Children_of_Jhil_special_1
+XX_Children_of_Jhil_special_2
+XX_Children_of_Jhil_special_3
+XX_Tiger_White_Jab1
+XX_Tiger_White_Jab2
+XX_Tiger_White_Overhead
+XX_Tiger_White_Sidedash_Left
+XX_Tiger_White_Sidedash_Right
+XX_Tiger_White_Charge
+XX_Tiger_White_Jab1
+XX_Tiger_White_Jab2
+XX_Tiger_White_Overhead
+XX_Tiger_White_Sidedash_Left
+XX_Tiger_White_Sidedash_Right
+XX_Tiger_White_Charge
+XX_Tiger_White_Jab1
+XX_Tiger_White_Jab2
+XX_Tiger_White_Overhead
+XX_Tiger_White_Sidedash_Left
+XX_Tiger_White_Sidedash_Right
+XX_Tiger_White_Charge
+XX_LavaWorm_Bite
+XX_LavaWorm_LavaSpray
+XX_LavaWorm_Spit_1
+XX_LavaWorm_Spit_2
+XX_LavaWorm_Spit_3
+XX_LavaWorm_lavaProjectile
+XX_Ooze_Jab1
+XX_Ooze_Jab2
+XX_Ooze_Jab1
+XX_Ooze_Jab2
+XX_Ooze_SelfDestruct
+XX_Werewolf_Attack
+XX_Werewolf_Boss_Attack
+XX_GorillaBoss_Jab_1
+XX_GorillaBoss_Jab_2
+XX_GorillaBoss_Jab_3
+XX_GorillaBoss_Smash
+XX_GorillaBoss_Charge
+XX_GorillaBoss_GroundPound_Single
+XX_GorillaBoss_GroundPound_Multi
+XX_GorillaBoss_Throw
+XX_GorillaBoss_taunt
+xx_Yeti_Smash_Pet
+xx_Yeti_Stomp_Pet
+xx_Yeti_JumpSmash_Pet
+xx_Yeti_Smash_PetAlpha
+xx_Yeti_Stomp_PetAlpha
+xx_Yeti_JumpSmash_PetAlpha
+xx_GreyApe_Smash_Pet
+xx_GreyApe_Stomp_Pet
+xx_GreyApe_Throw_Pet
+xx_GreyApe_JumpSmash_Pet
+XX_DeepOne_Fishpeople_c0
+XX_DeepOne_Fishpeople_c1
+XX_DeepOne_Fishpeople_c2
+XX_DeepOne_Fishpeople_SonicScream
+XX_DeepOne_Fishpeople_PoisonBreath
+XX_DeepOne_Monstrosity_Swipe_c0
+XX_DeepOne_Monstrosity_Swipe_c1
+XX_DeepOne_Monstrosity_GroundPound
+XX_DeepOne_Monstrosity_PoisonBreath_Standing
+XX_DeepOne_Monstrosity_PoisonBreath_Ground
+XX_DeepOne_Monstrosity_Rake_Charge
+XX_DeepOne_Monstrosity_Rake_Standing
+XX_BigCatPanther_bc_1
+XX_BigCatPanther_bc_2
+XX_BigCatPanther_bc_3
+XX_BigCatPanther_bc_4
+XX_BigCatPanther_bc_5
+XX_BigCatPanther_bc_6
+XX_Jaguar_Jab1
+XX_Jaguar_Jab2
+XX_Jaguar_Overhead
+XX_Jaguar_Sidedash_Left
+XX_Jaguar_Sidedash_Right
+XX_Jaguar_Charge
+XX_RhinoKing_bc_1
+XX_RhinoKing_bc_2
+XX_RhinoKing_bc_3
+XX_RhinoKing_charge_1
+XX_Mammoth_bc_1
+XX_Mammoth_bc_2
+XX_Mammoth_charge
+XX_Mammoth_Stomp
+XX_Mammoth_Spin
+XX_Camel_Scared
+XX_Camel_Bite
+XX_Bear_bc_1
+XX_Bear_bc_2
+XX_Bear_medium_1
+XX_Bear_medium_2
+XX_Kappa_bc_1
+XX_Kappa_bc_2
+XX_Kappa_bc_3
+XX_Kappa_bc_4
+XX_GreyApe_Smash
+XX_GreyApe_JumpSmash
+XX_Hyena_bc_1
+XX_Hyena_bc_2
+XX_Hyena_charge_1
+XX_Jaguar_Jab1
+XX_Jaguar_Jab2
+XX_Jaguar_Overhead
+XX_Jaguar_Sidedash_Left
+XX_Jaguar_Sidedash_Right
+XX_Jaguar_Charge
+XX_Ostrich_bc_1
+XX_Ostrich_bc_2
+XX_Ostrich_bc_3
+XX_Ostrich_charge_1
+XX_Kappa_bc_1
+XX_Kappa_bc_2
+XX_Kappa_bc_3
+XX_Kappa_bc_4
+XX_Locust_bc_1
+XX_Locust_bc_2
+XX_Crocodile_bc_1
+XX_Crocodile_bc_2
+XX_Crocodile_bc_3
+XX_Crocodile_bc_4
+XX_Rocknose_bc_1
+XX_Rocknose_bc_2
+XX_Rocknose_bc_3
+XX_Sabretooth_bc_1
+XX_Sabretooth_bc_2
+XX_Sabretooth_bc_3
+XX_Sabretooth_bc_4
+XX_Sabretooth_bc_5
+XX_Sabretooth_bc_6
+XX_Tiger_White_Jab1
+XX_Tiger_White_Jab2
+XX_Tiger_White_Overhead
+XX_Tiger_White_Sidedash_Left
+XX_Tiger_White_Sidedash_Right
+XX_Tiger_White_Charge
+XX_Wolf_Dire_bc_1
+XX_Wolf_Dire_bc_2
+XX_Wolf_Dire_bc_3
+XX_Wolf_charge_1
+XX_Wolf_sidestep_left
+XX_Wolf_sidestep_right
+xx_Gorilla_Jab_1_Pet
+xx_Gorilla_Jab_2_Pet
+xx_Gorilla_Jab_3_Pet
+xx_Gorilla_Jab_4_Pet
+xx_Gorilla_Smash_Pet
+xx_Gorilla_Charge_Pet
+xx_Gorilla_Jab_1_PetAplha
+xx_Gorilla_Jab_2_PetAplha
+xx_Gorilla_Jab_3_PetAplha
+xx_Gorilla_Jab_4_PetAplha
+xx_Gorilla_Smash_PetAplha
+xx_Gorilla_Charge_PetAplha
+XX_Elephant_bc_1
+XX_Elephant_bc_2
+XX_Elephant_charge
+XX_Elephant_Stomp
+XX_SmokeDemon_bc_0
+XX_SmokeDemon_bc_1
+XX_SmokeDemon_bc_2
+XX_SmokeDemon_bc_3
+XX_SmokeDemon_Summon
+XX_SmokeDemon_Shadowbreath
+XX_SmokeDemon_Smash
+XX_SmokeDemon_Phaseshift_2_Smash_Sequence
+XX_SmokeDemon_Phaseshift_3_Summon
+XX_SmokeDemon_Phaseshift_4_Darkness
+XX_SmokeDemon_Threaten
+XX_SzethTheDrunk_Attack1
+XX_SzethTheDrunk_Attack2
+XX_SzethTheDrunk_Dash
+XX_SzethTheDrunk_Charge
+XX_SzethTheDrunk_Spin
+Spectral Sword
+Improved Climbing Boots Schematic
+Scroll (Kinscourge Statue)
+Scroll (Serpentmen Statues)
+Scroll (Kiln)
+Scroll (Waymarkers)
+Scroll (Merchant Signs)
+Scroll (Practice Swords)
+Scroll (The Glasser)
+Scroll (Reinforced Stool)
+Scroll (Battle Spatula)
+Scroll (Table Leg)
+Scroll (Gravedigger)
+Scroll (Dead Leg)
+Scroll (Petrified Egg)
+Scroll (Throne of Skelos)
+Scroll (Venom-Infused Sword)
+Scroll (Venom-Infused Two-Handed Sword)
+Scroll (Venom-Infused War-Axe)
+Scroll (Venom-Infused Daggers)
+Scroll (Venom-Infused Pike)
+Scroll (Tablet of Power)
+Scroll (Decorative Grindstone)
+Scroll (Bindings of the Dead)
+Scroll (Skelos Armor)
+Scroll (Essence Of Rot)
+Scroll (Faux Taxidermy)
+Scroll (Havoc and Malice)
+Scroll (Whirlwind Blades)
+Scroll (Yoggite Chosen Mask)
+Scroll (Specialist Ammunition IV)
+Scroll
+Scrawled Note
+Leather Journal
+Prayer to Hanuman
+Scribbled Note
+Torn Parchment
+Razma's Journal #1
+Razma's Journal #2
+Razma's Journal #3
+Razma's Journal #4
+Razma's Journal #5
+Razma's Journal #6
+Razma's Journal #7
+Razma's Journal #8
+Etched Note
+First Mate's Report
+Black Hand Shanty
+Salaceo's Instructions
+Priest's Journal
+Mercenary's Diary Page
+Waterstained Note
+XX_Placeholder_Lore_1
+XX_Placeholder_Lore_2
+XX_Placeholder_Lore_3
+XX_Placeholder_Lore_4
+XX_Placeholder_Lore_5
+XX_Placeholder_Lore_6
+XX_Placeholder_Lore_7
+XX_Placeholder_Lore_8
+XX_Placeholder_Lore_9
+XX_Placeholder_Lore_10
+XX_Placeholder_Lore_11
+XX_Placeholder_Lore_12
+XX_Placeholder_Lore_13
+XX_Placeholder_Lore_14
+XX_Placeholder_Lore_15
+XX_Placeholder_Lore_16
+XX_Placeholder_Lore_17
+XX_Placeholder_Lore_18
+XX_Placeholder_Lore_19
+XX_Placeholder_Lore_20
+Scroll (Khari Weaponry)
+Scroll (Khari Overseer Armor)
+Scroll (Khari Warrior Armor)
+Scroll (Khari Soldier Armor)
+Simple Armor Patch Kit
+Armor Patch Kit
+Advanced Armor Patch Kit
+Master Armor Patch Kit
+Simple Weapon Repair Kit
+Weapon Repair Kit
+Advanced Weapon Repair Kit
+Master Weapon Repair Kit
+Steel Cleaver
+Hardened Steel Cleaver
+Star Metal Cleaver
+Improvised Torch
+Sealed Waterskin
+Torch
+Stone Cleaver
+Glowing Stick
+Iron Cleaver
+Legendary Weapon Repair Kit
+Deep drink Waterskin
+Maw of the Hyena
+Legendary Armor Patch Kit
+Khari Waterskin
+Balanced Weapon Fitting
+Simple Weapon Damage Kit
+Weapon Damage Kit
+Advanced Weapon Damage Kit
+Simple Tool Upgrade Kit
+Tool Upgrade Kit
+Advanced Tool Upgrade Kit
+Simple Blunted Weapon Fitting
+Blunted Weapon Fitting
+Advanced Blunted Weapon Fitting
+Paring Blade
+Simple Reinforcement Kit
+Reinforcement Kit
+Advanced Reinforcement Kit
+Spiked Weapon Fitting
+Armor Reduction Kit
+Thin Armor Plating
+Armor Plating
+Thick Armor Plating
+Simple Armor Rebalance Kit
+Armor Rebalance Kit
+Advanced Armor Rebalance Kit
+Simple Armor Flexibility Kit
+Armor Flexibility Kit
+Advanced Armor Flexibility Kit
+Two-Handed Iron Great Axe
+Exceptional Two-Handed Iron Great Axe
+Flawless Two-Handed Iron Great Axe
+Star Metal Great Axe
+Exceptional Star Metal Great Axe
+Flawless Star Metal Great Axe
+Iron Short Sword
+Exceptional Iron Short Sword
+Flawless Iron Short Sword
+Star Metal Short Sword
+Exceptional Star Metal Short Sword
+Flawless Star Metal Short Sword
+The Shank
+The Predatory Blade
+Maelstrom
+Rage Hammer
+Lying Bastard Sword
+Sword of Crom
+Corrupted Axe
+The Festering One
+Blade of Seven Winds
+Lifeblood Spear
+Drunkard's Blade
+Wight Blade
+Quake
+Heated Argument
+Quivering Arrow
+Riptide
+xx_riptide_projectile
+Fangs of the Red Mother
+XX_Thrown Axe
+Final Breath of the Red Mother
+Ghast Sword
+Ghast Axe
+Reach of the Red Mother
+Havoc and Malice
+Whirlwind Blades
+Stone Pick
+Iron Pick
+Steel Pick
+Stone Hatchet
+Iron Hatchet
+Steel Hatchet
+Hardened Steel Hatchet
+Star Metal Hatchet
+Star Metal Pickaxe
+Pickaxe
+Hardened Steel Pick
+Star Metal Pick
+Repair Hammer
+Steel Sickle
+Hardened Steel Sickle
+Star Metal Sickle
+Two-Handed Stone Sword
+Two-Handed Iron Sword
+Exceptional Two-Handed Iron Sword
+Flawless Two-Handed Iron Sword
+Two-Handed Steel Sword
+Exceptional Two-Handed Steel Sword
+Flawless Two-Handed Steel Sword
+Hardened Steel Greatsword
+Exceptional Hardened Steel Greatsword
+Flawless Hardened Steel Greatsword
+Star Metal Great Sword
+Exceptional Star Metal Great Sword
+Flawless Star Metal Great Sword
+Telith's Lament
+Hoar-Frost Hatchet
+Glacier-Crack
+Star Metal Sword
+Exceptional Star Metal Sword
+Flawless Star Metal Sword
+Deathbringer Axe
+Spectral Sword
+Spectral Axe
+Telith's Sorrow
+Hardened Steel Mace
+Exceptional Hardened Steel Mace
+Flawless Hardened Steel Mace
+Star Metal Mace
+Exceptional Star Metal Mace
+Flawless Star Metal Mace
+Ancient Javelin
+Deathbringer Axe
+Telith's Lament
+Ancient Mace
+Sword of the Brood-Guard
+Ancient Pike
+Katana
+Exceptional Katana
+Flawless Katana
+Katana
+Exceptional Katana
+Flawless Katana
+Venom-Infused Sword
+Venom-Infused Two-Handed Sword
+Venom-Infused War-Axe
+Venom-Infused Daggers
+Venom-Infused Pike
+Blunted Javelin
+Blunted Arrow
+Blunted Bolts
+Iron Warhammer
+Stone Maul
+Steel Warhammer
+Ancient Warhammer
+Hardened Steel Hammer
+Exceptional Hardened Steel Hammer
+Flawless Hardened Steel Hammer
+Star Metal Hammer
+Exceptional Star Metal Hammer
+Flawless Star Metal Hammer
+Exceptional Iron Warhammer
+Flawless Iron Warhammer
+Exceptional Steel Warhammer
+Flawless Steel Warhammer
+Exceptional Iron Mace
+Flawless Iron Mace
+Exceptional Hunting Bow
+Flawless Hunting Bow
+Exceptional Heavy Crossbow
+Flawless Heavy Crossbow
+Exceptional Iron Pike
+Flawless Iron Pike
+Exceptional Steel Trident
+Flawless Steel Trident
+Exceptional Falcata
+Flawless Falcata
+Exceptional Cimmerian Battle-axe
+Flawless Cimmerian Battle-axe
+Exceptional Stygian Spear
+Flawless Stygian Spear
+Exceptional Steel Poniards
+Flawless Steel Poniards
+Bone Arrow
+Bone Bolts
+Flanged Iron Mace
+Exceptional Flanged Iron Mace
+Flawless Flanged Iron Mace
+Iron Corseque
+Exceptional Iron Corseque
+Flawless Iron Corseque
+Balanced Iron Javelin
+Exceptional Balanced Iron Javelin
+Flawless Balanced Iron Javelin
+Iron War Axe
+Exceptional Iron War Axe
+Flawless Iron War Axe
+Studded Iron Mace
+Exceptional Studded Iron Mace
+Flawless Studded Iron Mace
+Steel Throwing Axe
+Exceptional Steel Throwing Axe
+Flawless Steel Throwing Axe
+XX_Unarmed Right
+XX_Unarmed Left
+Steel Javelin
+Exceptional Steel Javelin
+Flawless Steel Javelin
+Steel Spear
+Exceptional Steel Spear
+Flawless Steel Spear
+Ancient Axe
+Broken Oar
+Ancient Throwing Axe
+Mandibles of Atlach-Nacha
+Akbitanan Throwing Knife
+XX_ThrowingKnifeAmmo
+Reinforced Steel Truncheon
+Bleached Bone Skinning Knife
+Stone Club
+Iron Mace
+Truncheon
+Mitraen Ankh
+Steel Mace
+Iron Truncheon
+Steel Truncheon
+Stone Skinning Knife
+Iron Skinning Knife
+Steel Skinning Knife
+Hardened Steel Skinning Knife
+Star Metal Skinning Knife
+Serpent-Man Skinning Knife
+Obsidian Skinning Knife
+Exceptional Steel Mace
+Flawless Steel Mace
+Szeth's Truncheon
+World Breaker
+Annihilator
+Ymir's Targe
+Derketo's Voice
+Crom's Hammer
+Set's Tongue
+Mitra's Justice
+Jhebbal Sag's Prowl
+Yog's Touch
+Mordlun
+Ranissan
+Nortis
+Balias
+Hunting Bow
+Hyrkanian Bow
+Exceptional Hyrkanian Bow
+Flawless Hyrkanian Bow
+Ancient Bow
+Light Hyrkanian Bow
+Exceptional Light Hyrkanian Bow
+Flawless Light Hyrkanian Bow
+Doom
+Staff of Hanuman
+Misha's Bite
+Daggers of a Thousand Bites
+Crossbow
+Exceptional Crossbow
+Flawless Crossbow
+Heavy Crossbow
+Blood Letter
+Derketo's Kiss
+Blessed Mitraen Ankh
+Blessed Yog Cleaver
+Blessed Setite Ritual Knife
+Blessed Hoar-Frost Hatchet
+Blessed Blood Letter
+Blessed Derketo's Kiss
+Foeshatter
+Lusttaker
+The Staff of Epemitreus
+The Tenderizer
+Snakebite
+Claws of Jhebbal Sag
+Star Metal Repair Hammer
+Steel Repair Hammer
+Ivory Arrow
+Ivory Bolts
+Bestial Claws
+Axe of the Gate Guardian
+Obsidian Hammer
+Exceptional Obsidian Hammer
+Flawless Obsidian Hammer
+Obsidian Great Sword
+Exceptional Obsidian Great Sword
+Flawless Obsidian Great Sword
+Obsidian Daggers
+Exceptional Obsidian Daggers
+Flawless Obsidian Daggers
+Obsidian Mace
+Exceptional Obsidian Mace
+Flawless Obsidian Mace
+Obsidian Shield
+Exceptional Obsidian Shield
+Flawless Obsidian Shield
+Obsidian Spear
+Exceptional Obsidian Spear
+Flawless Obsidian Spear
+Obsidian Sword
+Exceptional Obsidian Sword
+Flawless Obsidian Sword
+Carapace Shield
+Exceptional Carapace Shield
+Flawless Carapace Shield
+Shell Shield
+Exceptional Shell Shield
+Flawless Shell Shield
+Obsidian Arrow
+Obsidian Bolts
+xx_Serpentmen_crossbow
+xx_Exceptional_Serpentmen_crossbow
+xx_Flawless_Serpentmen_crossbow
+Serpent-man Shield
+Exceptional Serpent-man Shield
+Flawless Serpent-man Shield
+Serpent-man Daggers
+Exceptional Serpent-man Daggers
+Flawless Serpent-man Daggers
+Serpent-man War Spear
+Exceptional Serpent-man War Spear
+Flawless Serpent-man War Spear
+Serpent-man Sword
+Exceptional Serpent-man Sword
+Flawless Serpent-man Sword
+Serpent-man War-Axe
+Exceptional Serpent-man War-Axe
+Flawless Serpent-man War-Axe
+Serpent-man Warhammer
+Exceptional Serpent-man Warhammer
+Flawless Serpent-man Warhammer
+Serpent-man Mace
+Exceptional Serpent-man Mace
+Flawless Serpent-man Mace
+Serpent-man Arrow
+Serpent-man Bolts
+Tulwar of Amir Khurum
+El's Drinker
+The Wightblade
+Dueling Blade of the Hawk
+The Bane of Khosatral Khel
+The Grim
+Heartsblood
+Akbitanan Blades
+Daggers of Nameless Days
+Zhaibar Knives
+Baal-pteor's Razor
+Blade of the Adventurer
+The Papyrus Blade
+Jedias Greatsaber
+The Watchblade
+Momentum
+Lovetap
+Aja's Bane
+The Unintelligible
+The Brittle Bastard
+Forgelight
+Hanuman's Gada
+Bec-de-Corbin
+Baal-pteor's Lodestone
+Sledge of Tsotha-lanti
+Eye of the Khan
+Bessie's Bow
+Frostshot
+Splinter
+The Huntress
+xx_Legendary_Crossbow_01
+xx_Legendary_Crossbow_02
+xx_Legendary_Crossbow_03
+xx_Legendary_Crossbow_04
+xx_Legendary_Crossbow_05
+Black Bruargh's Fury
+Akbitanan Shield
+Shield of Kutamun
+Mistmourn
+Solspeil
+Warspear of the Black Circle
+Gavain's Rusty Pike
+Black Dragon Pike
+The Impaler
+Vaulting Pole
+Reaver's Axe
+Axe of the Lion
+Glimmermoon
+Battle-axe of the Berserkers
+Strangely Familiar Axe
+Obsidian Pick
+Obsidian Hatchet
+Obsidian Sickle
+Serpent-man Javelin
+Obsidian Javelin
+Star Metal Bow
+Exceptional Star Metal Bow
+Flawless Star Metal Bow
+Hardened Steel Bow
+Exceptional Hardened Steel Bow
+Flawless Hardened Steel Bow
+Lemurian Pike
+Lemurian Sword
+Stone Spear
+Hardened Steel Javelin
+Exceptional Hardened Steel Javelin
+Flawless Hardened Steel Javelin
+Black Ice Javelin
+Acheronian Two-Handed Sword
+Wooden Shield
+Bone Shield
+Wooden Targe
+Ancient Lemurian Axe
+The Wyrd
+Musashi's Black Blade
+Bulwark of Bone
+Scorpion Ward
+Hammer of the Whale
+Shark Bite
+Iron Targe
+Black Blood Pick
+Black Blood Hatchet
+Black Blood Sickle
+Black Blood Skinning Knife
+Steel Heater Shield
+Lantern Shield
+Ancient Shield
+Stygian Shield
+Setite Shield
+Exceptional Steel Heater Shield
+Flawless Steel Heater Shield
+Hardened Steel Shield
+Exceptional Hardened Steel Shield
+Flawless Hardened Steel Shield
+Star Metal Shield
+Exceptional Star Metal Shield
+Flawless Star Metal Shield
+Iron Pike
+Stone Pike
+Steel Trident
+Star Metal Spear
+Exceptional Star Metal Spear
+Flawless Star Metal Spear
+Hardened Steel Spear
+Exceptional Hardened Steel Spear
+Flawless Hardened Steel Spear
+Stone Sword
+Blackheart Blade
+Blackheart Hammer
+Stygian Khopesh
+Iron Broadsword
+Stygian Khopesh
+Ancient Khopesh
+Exceptional Iron Broadsword
+Flawless Iron Broadsword
+Phoenix-engraved Sword
+Serpent-stamped Khopesh
+Exceptional Stygian Khopesh
+Flawless Stygian Khopesh
+Falcata
+Cutlass
+Exceptional Cutlass
+Flawless Cutlass
+Carnage
+Destroyer
+Saw
+Adze
+Carpentry Hammer
+Drum
+Longsword
+Dry Scraper
+Darfari Axe
+Black Tusk Shield
+Exceptional Longsword
+Flawless Longsword
+Hardened Steel Sword
+Exceptional Hardened Steel Sword
+Flawless Hardened Steel Sword
+Hardened Steel War Axe
+Exceptional Hardened Steel War Axe
+Flawless Hardened Steel War Axe
+Darfari Cudgel
+Cimmerian Battle-axe
+Iron Axe
+Darfari Sword
+Yog Cleaver
+Yoggite Cudgel
+Giant's Fingerbone
+Executioner's Hood
+Setite Ritual Knife
+Reinforced Skelos Cultist Robe
+Reinforced Skelos Cultist Hood
+Reinforced Skelos Cultist Handwraps
+Reinforced Skelos Cultist Sandals
+Reinforced Skelos Cultist Skirt
+Javelin
+Throwing Axe
+Yoggite Bone Spear
+Stygian Spear
+Hardened Steel Throwing Axe
+Exceptional Hardened Steel Throwing Axe
+Flawless Hardened Steel Throwing Axe
+Star Metal Throwing Axe
+Exceptional Star Metal Throwing Axe
+Flawless Star Metal Throwing Axe
+Ancient Two-Handed Sword
+Ancient Daggers
+Black Ice Throwing Axe
+Obsidian Throwing Axe
+Serpent-man Throwing Axe
+Stone Throwing Axe
+Eye of the Watcher
+Bloodstone Sword
+Stone Daggers
+Iron Poniards
+Steel Poniards
+Exceptional Iron Poniards
+Flawless Iron Poniards
+Abysmal Daggers
+Abysmal Sword
+Hardened Steel Daggers
+Exceptional Hardened Steel Daggers
+Fiber Bindings
+Rawhide Bindings
+Leather Bindings
+Chain Bindings
+Bindings of the Dead
+Flawless Hardened Steel Daggers
+Star Metal Daggers
+Exceptional Star Metal Daggers
+Flawless Star Metal Daggers
+Acheronian Sickle
+Demon-fire Orb
+Grease Orb
+Water Orb
+Gaseous Orb
+Black Ice Longsword
+Black Ice Broadsword
+Black Ice Pick
+Acheronian Pick
+Acheronian Longsword
+Exceptional Acheronian Longsword
+Flawless Acheronian Longsword
+Acheronian Spear
+Exceptional Acheronian Spear
+Flawless Acheronian Spear
+Acheronian War-Axe
+Exceptional Acheronian War-Axe
+Flawless Acheronian War-Axe
+Acheronian Shield
+Exceptional Acheronian Shield
+Flawless Acheronian Shield
+Dragonbone Shield
+Headdress of Jhebbal Sag
+Derketo Acolyte Headpiece
+Derketo Acolyte Robe
+Derketo Acolyte Handwraps
+Derketo Acolyte Skirt
+Derketo Acolyte Sandals
+Light Turban
+Light Chestpiece
+Light Gauntlets
+Light Wrap
+Light Boots
+Skelos Cultist Robe
+Skelos Cultist Hood
+Skelos Cultist Handwraps
+Skelos Cultist Sandals
+Skelos Cultist Skirt
+Medium Cap
+Medium Harness
+Medium Gauntlets
+Medium Tasset
+Medium Boots
+Reptilian Helm
+Reptilian Gauntlets
+Reptilian Chestpiece
+Reptilian Tasset
+Reptilian Boots
+Heavy Helmet
+Heavy Pauldron
+Heavy Gauntlets
+Heavy Tasset
+Heavy Sabatons
+Exceptional Medium Cap
+Exceptional Medium Harness
+Exceptional Medium Gauntlets
+Exceptional Medium Tasset
+Exceptional Medium Boots
+XX_Light Faction Helmet
+XX_Light Faction Chestpiece
+XX_Light Faction Gauntlets
+XX_Light Faction Tasset
+XX_Light Faction Boots
+Exceptional Heavy Helmet
+Exceptional Heavy Pauldron
+Exceptional Heavy Gauntlets
+Exceptional Heavy Tasset
+Exceptional Heavy Sabatons
+XX_Medium Faction Helmet
+XX_Medium Faction Chestpiece
+XX_Medium Faction Gauntlets
+XX_Medium Faction Tasset
+XX_Medium Faction Boots
+Flawless Darfari Watcher Mask
+Flawless Darfari Skin Chestpiece
+Flawless Darfari Skin Bracers
+Flawless Darfari Skin Skirt
+Flawless Darfari Skin Greaves
+XX_Heavy Faction Helmet
+XX_Heavy Faction Chestpiece
+XX_Heavy Faction Gauntlets
+XX_Heavy Faction Tasset
+XX_Heavy Faction Boots
+Flawless Medium Cap
+Flawless Medium Harness
+Flawless Medium Gauntlets
+Flawless Medium Tasset
+Flawless Medium Boots
+Stygian Headdress
+Stygian Vest
+Stygian Shendyt
+Stygian Sandals
+Flawless Heavy Helmet
+Flawless Heavy Pauldron
+Flawless Heavy Gauntlets
+Flawless Heavy Tasset
+Flawless Heavy Sabatons
+Darfari Watcher Mask
+Darfari Skin Chestpiece
+Darfari Skin Bracers
+Darfari Skin Skirt
+Darfari Skin Greaves
+Darfari Speaker Mask
+Bearer Pack
+Sandstorm Breathing Mask
+Chest Wrap
+Loincloth
+Exceptional Darfari Watcher Mask
+Exceptional Darfari Skin Chestpiece
+Exceptional Darfari Skin Bracers
+Exceptional Darfari Skin Skirt
+Exceptional Darfari Skin Greaves
+Mask of the Witch Queen
+Zamorian Dancer Headdress
+Zamorian Dancer Blouse
+Zamorian Dancer Bracelets
+Zamorian Dancer Skirt
+Zamorian Dancer Anklets
+Derketo Dancer Headdress
+Derketo Dancer Blouse
+Derketo Dancer Bracelets
+Derketo Dancer Skirt
+Derketo Dancer Anklets
+Coarse Tunic
+Coarse Handwraps
+Coarse Leggings
+Coarse Footwraps
+Leather Apron
+Leather Workgloves
+Shemite Turban
+Shemite Tunic
+Shemite Leggings
+Shemite Shoes
+Shemite Gloves
+Climbing Gloves
+Climbing Boots
+Reinforced Climbing Gloves
+Reinforced Climbing Boots
+Exceptional Light Turban
+Exceptional Light Chestpiece
+Exceptional Light Gauntlets
+Exceptional Light Wrap
+Exceptional Light Boots
+Stygian Soldier Helm
+Stygian Soldier Mail
+Stygian Soldier Bracers
+Stygian Soldier Tasset
+Stygian Soldier Sandals
+Exceptional Stygian Soldier Helm
+Exceptional Stygian Soldier Mail
+Exceptional Stygian Soldier Bracers
+Exceptional Stygian Soldier Tasset
+Exceptional Stygian Soldier Sandals
+Flawless Stygian Soldier Helm
+Flawless Stygian Soldier Mail
+Flawless Stygian Soldier Bracers
+Flawless Stygian Soldier Tasset
+Flawless Stygian Soldier Sandals
+Flawless Light Turban
+Flawless Light Chestpiece
+Flawless Light Gauntlets
+Flawless Light Wrap
+Flawless Light Boots
+Hyrkanian Raider Helm
+Hyrkanian Raider Brigandine
+Hyrkanian Raider Gauntlets
+Hyrkanian Raider Tasset
+Hyrkanian Raider Boots
+Exceptional Hyrkanian Raider Helm
+Exceptional Hyrkanian Raider Brigandine
+Exceptional Hyrkanian Raider Gauntlets
+Exceptional Hyrkanian Raider Tasset
+Exceptional Hyrkanian Raider Boots
+Flawless Hyrkanian Raider Helm
+Flawless Hyrkanian Raider Brigandine
+Flawless Hyrkanian Raider Gauntlets
+Flawless Hyrkanian Raider Tasset
+Flawless Hyrkanian Raider Boots
+Stygian Raider Mask
+Stygian Raider Chestpiece
+Stygian Raider Bracers
+Stygian Raider Greaves
+Stygian Raider Sandals
+Exceptional Stygian Raider Mask
+Exceptional Stygian Raider Chestpiece
+Exceptional Stygian Raider Bracers
+Exceptional Stygian Raider Greaves
+Exceptional Stygian Raider Sandals
+Flawless Stygian Raider Mask
+Flawless Stygian Raider Chestpiece
+Flawless Stygian Raider Bracers
+Flawless Stygian Raider Greaves
+Flawless Stygian Raider Sandals
+Kambujan Shaman Helm
+Kambujan Shaman Chestpiece
+Kambujan Shaman Gloves
+Kambujan Shaman Wrap
+Kambujan Shaman Boots
+Exceptional Kambujan Shaman Helm
+Exceptional Kambujan Shaman Chestpiece
+Exceptional Kambujan Shaman Gloves
+Exceptional Kambujan Shaman Wrap
+Exceptional Kambujan Shaman Boots
+Flawless Kambujan Shaman Helm
+Flawless Kambujan Shaman Chestpiece
+Flawless Kambujan Shaman Gloves
+Flawless Kambujan Shaman Wrap
+Flawless Kambujan Shaman Boots
+Lemurian Warrior Mask
+Lemurian Warrior Chestpiece
+Lemurian Warrior Gauntlets
+Lemurian Warrior Tasset
+Lemurian Warrior Boots
+Exceptional Lemurian Warrior Mask
+Exceptional Lemurian Warrior Chestpiece
+Exceptional Lemurian Warrior Gauntlets
+Exceptional Lemurian Warrior Tasset
+Exceptional Lemurian Warrior Boots
+Flawless Lemurian Warrior Mask
+Flawless Lemurian Warrior Chestpiece
+Flawless Lemurian Warrior Gauntlets
+Flawless Lemurian Warrior Tasset
+Flawless Lemurian Warrior Boots
+Lemurian Royal Jewelry
+Lemurian Royal Gown
+Lemurian Royal Bracers
+Lemurian Royal Sarong
+Lemurian Royal Slippers
+Exceptional Lemurian Royal Jewelry
+Exceptional Lemurian Royal Gown
+Exceptional Lemurian Royal Bracers
+Exceptional Lemurian Royal Sarong
+Exceptional Lemurian Royal Slippers
+Flawless Lemurian Royal Jewelry
+Flawless Lemurian Royal Gown
+Flawless Lemurian Royal Bracers
+Flawless Lemurian Royal Sarong
+Flawless Lemurian Royal Slippers
+xx_snakerags_robe
+xx_snakerags_robe_cut
+xx_snakerags_robe_nohood
+xx_snakerags_robe_king
+Hook (Right Fitting)
+Buccaneer Peg Leg (Right Fitting)
+Black Hand Earrings
+Hook (Left Fitting)
+Buccaneer Peg Leg (Left Fitting)
+Black Hand Boots
+Eye Patch
+Setite Mask
+Setite Choker
+Setite Shendyt
+Setite Sandals
+Mask of the Witch Doctor
+Yoggite Chosen Mask
+Yoggite Watcher Mask
+Yoggite Skin Chestpiece 
+Yoggite Skin Bracers
+Yoggite Skin Skirt
+Yoggite Skin Greaves
+Flawless Hyena Skull Helmet
+Flawless Hyena-fur Chestpiece
+Flawless Hyena-fur Gloves
+Flawless Hyena-fur Wrap
+Flawless Hyena-fur Boots
+Mitraen Tunic
+Mitraen Gloves
+Mitraen Breeches
+Mitraen Shoes
+Flawless Relic Hunter Turban
+Flawless Relic Hunter Shirt
+Flawless Relic Hunter Gloves
+Flawless Relic Hunter Trousers
+Flawless Relic Hunter Boots
+Black Hand Vest
+Black Hand Trousers
+Exceptional Relic Hunter Turban
+Exceptional Relic Hunter Shirt
+Exceptional Relic Hunter Gloves
+Exceptional Relic Hunter Trousers
+Exceptional Relic Hunter Boots
+Relic Hunter Turban
+Relic Hunter Shirt
+Relic Hunter Gloves
+Relic Hunter Trousers
+Relic Hunter Boots
+Exceptional Hyena Skull Helmet
+Exceptional Hyena-fur Chestpiece
+Exceptional Hyena-fur Gloves
+Exceptional Hyena-fur Wrap
+Exceptional Hyena-fur Boots
+Hyena Skull Helmet
+Hyena-fur Chestpiece
+Hyena-fur Gloves
+Hyena-fur Wrap
+Hyena-fur Boots
+Vanir Heavy Helmet
+Vanir Heavy Pauldron
+Vanir Heavy Gauntlets
+Vanir Heavy Tasset
+Vanir Heavy Boots
+Cimmerian Steel Helmet
+Cimmerian Steel Pauldron
+Cimmerian Steel Gauntlets
+Cimmerian Steel Tasset
+Cimmerian Steel Boots
+Cimmerian Fur Helmet
+Cimmerian Fur Harness
+Cimmerian Fur Gauntlets
+Cimmerian Fur Tasset
+Cimmerian Fur Boots
+Exceptional Vanir Heavy Helmet
+Exceptional Vanir Heavy Pauldron
+Exceptional Vanir Heavy Gauntlets
+Exceptional Vanir Heavy Tasset
+Exceptional Vanir Heavy Boots
+Exceptional Cimmerian Steel Helmet
+Exceptional Cimmerian Steel Pauldron
+Exceptional Cimmerian Steel Gauntlets
+Exceptional Cimmerian Steel Tasset
+Exceptional Cimmerian Steel Boots
+Exceptional Cimmerian Fur Helmet
+Exceptional Cimmerian Fur Harness
+Exceptional Cimmerian Fur Gauntlets
+Exceptional Cimmerian Fur Tasset
+Exceptional Cimmerian Fur Boots
+Flawless Vanir Heavy Helmet
+Flawless Vanir Heavy Pauldron
+Flawless Vanir Heavy Gauntlets
+Flawless Vanir Heavy Tasset
+Flawless Vanir Heavy Boots
+Flawless Cimmerian Steel Helmet
+Flawless Cimmerian Steel Pauldron
+Flawless Cimmerian Steel Gauntlets
+Flawless Cimmerian Steel Tasset
+Flawless Cimmerian Steel Boots
+Flawless Cimmerian Fur Helmet
+Flawless Cimmerian Fur Harness
+Flawless Cimmerian Fur Gauntlets
+Flawless Cimmerian Fur Tasset
+Flawless Cimmerian Fur Boots
+Heavy Plated Helmet
+Horned Heavy Plated Helmet
+Silent Legion Helmet
+Silent Legion Pauldron
+Silent Legion Gauntlets
+Silent Legion Tasset
+Silent Legion Boots
+Heavy Leather Helmet
+Winter's Majesty
+Ymir's Aegis
+Ymir's Might
+Ymir's Shanks
+Ymir's Stride
+Vanir Fur Cap
+Vanir Fur Harness
+Vanir Fur Gauntlets
+Vanir Fur Tasset
+Vanir Fur Boots
+Exceptional Vanir Fur Cap
+Exceptional Vanir Fur Harness
+Exceptional Vanir Fur Gauntlets
+Exceptional Vanir Fur Tasset
+Exceptional Vanir Fur Boots
+Flawless Vanir Fur Cap
+Flawless Vanir Fur Harness
+Flawless Vanir Fur Gauntlets
+Flawless Vanir Fur Tasset
+Flawless Vanir Fur Boots
+Aquilonian Helmet
+Aquilonian Chestplate
+Aquilonian Bracers
+Aquilonian Tasset
+Aquilonian Sandals
+Exceptional Aquilonian Helmet
+Exceptional Aquilonian Chestplate
+Exceptional Aquilonian Bracers
+Exceptional Aquilonian Tasset
+Exceptional Aquilonian Sandals
+Flawless Aquilonian Helmet
+Flawless Aquilonian Chestplate
+Flawless Aquilonian Bracers
+Flawless Aquilonian Tasset
+Flawless Aquilonian Sandals
+Perfected Medium Helmet Padding
+Perfected Medium Chest Padding
+Perfected Medium Gauntlet Lining
+Perfected Medium Legging Lining
+Perfected Medium Boot Lining
+Perfected Heavy Helmet Padding
+Perfected Heavy Chest Padding
+Perfected Heavy Gauntlet Lining
+Perfected Heavy Legging Lining
+Perfected Heavy Boot Lining
+Perfected Light Helmet Padding
+Perfected Light Chest Padding
+Perfected Light Gloves Lining
+Perfected Light Legging Lining
+Perfected Light Boot Lining
+Medium Helmet Padding
+Medium Chest Padding
+Medium Gauntlet Lining
+Medium Legging Lining
+Medium Boot Lining
+Heavy Helmet Padding
+Heavy Chest Padding
+Heavy Gauntlet Lining
+Heavy Legging Lining
+Heavy Boot Lining
+Light Helmet Padding
+Light Chest Padding
+Light Gloves Lining
+Light Legging Lining
+Light Boot Lining
+Zamorian Thief Hood
+Zamorian Thief Chest
+Zamorian Thief Gauntlets
+Zamorian Thief Breeches
+Zamorian Thief Boots
+Exceptional Zamorian Thief Hood
+Exceptional Zamorian Thief Chest
+Exceptional Zamorian Thief Gauntlets
+Exceptional Zamorian Thief Breeches
+Exceptional Zamorian Thief Boots
+Flawless Zamorian Thief Hood
+Flawless Zamorian Thief Chest
+Flawless Zamorian Thief Gauntlets
+Flawless Zamorian Thief Breeches
+Flawless Zamorian Thief Boots
+Hyperborean Slaver Waistguard
+Hyperborean Slaver Bracers
+Exceptional Hyperborean Slaver Waistguard
+Exceptional Hyperborean Slaver Bracers
+Flawless Hyperborean Slaver Waistguard
+Flawless Hyperborean Slaver Bracers
+Hyperborean Slaver Loincloth
+Hyperborean Slaver Helmet
+Hyperborean Slaver Boots
+Exceptional Hyperborean Slaver Loincloth
+Exceptional Hyperborean Slaver Helmet
+Exceptional Hyperborean Slaver Boots
+Flawless Hyperborean Slaver Loincloth
+Flawless Hyperborean Slaver Helmet
+Flawless Hyperborean Slaver Boots
+Exceptional Shemite Turban
+Exceptional Shemite Tunic
+Exceptional Shemite Leggings
+Exceptional Shemite Shoes
+Exceptional Shemite Gloves
+Flawless Shemite Turban
+Flawless Shemite Tunic
+Flawless Shemite Leggings
+Flawless Shemite Shoes
+Flawless Shemite Gloves
+Vanir Settler Jewelry
+Vanir Settler Vest
+Vanir Settler Gloves
+Vanir Settler Breechclout
+Vanir Settler Boots
+Exceptional Vanir Settler Jewelry
+Exceptional Vanir Settler Vest
+Exceptional Vanir Settler Gloves
+Exceptional Vanir Settler Breechclout
+Exceptional Vanir Settler Boots
+Flawless Vanir Settler Jewelry
+Flawless Vanir Settler Vest
+Flawless Vanir Settler Gloves
+Flawless Vanir Settler Breechclout
+Flawless Vanir Settler Boots
+Rusted Helmet
+Rusted Chestpiece
+Rusted Gauntlets
+Rusted Leggings
+Rusted Boots
+Godbreaker Helmet
+Godbreaker Plate
+Godbreaker Grips
+Godbreaker Leggings
+Godbreaker Boots
+Aloe Extract
+Violet Curative
+Yellow Lotus Potion
+Breathing Potion
+Reaper Poison
+Demon's Bane
+Scorpion Queen Poison
+Purified Flesh
+Ambrosia 
+Set Antidote
+Flinthead Bolts
+Ironhead Bolts
+Razor Bolts
+Fire Bolts
+Warpaint - Black Hand
+Warpaint - Forgotten Clan
+Warpaint - Darfari Cannibals
+Warpaint - Dogs of the Desert
+Warpaint - Ymir's Children
+Warpaint - Relic Hunters
+Warpaint - Heirs of the North
+Warpaint - Strength
+Warpaint - Agility
+Warpaint - Vitality
+Warpaint - Accuracy
+Warpaint - Grit
+Warpaint - Support
+Warpaint - Determination
+Sloughing Fluid
+Inking Brush
+Warpaint - Lemurian Remnant
+Warpaint - Votaries of Skelos
+Flinthead Arrow
+Ironhead Arrow
+Razor Arrow
+Steel Arrow
+Healing Arrow
+Ancient Arrow
+Explosive Arrow
+Light Arrow
+Poison Arrow
+Oil Arrow
+Firespark Arrow
+Acid Arrow
+Smoke Arrow
+xx_SpecialAmmo_Bolt_Light
+xx_SpecialAmmo_Bolt_Poison
+xx_SpecialAmmo_Bolt_Tar
+Snake Arrow
+Abysmal Arrow
+Abysmal Bolts
+Hardened Steel Arrow
+Hardened Steel Bolts
+Star Metal Arrow
+Star Metal Bolts
+Ice Shard Arrow
+Ice Shard Bolts
+XX_Thrown Javelin
+XX_Thrown Spear
+XX_Thrown Axe
+XX_Thrown Spear
+XX_Orb_Fire_Projectile
+XX_Orb_Fire_Projectile_Held
+XX_Orb_Grease_Projectile
+XX_Orb_Grease_Projectile_Held
+XX_Orb_Water_Projectile
+XX_Orb_Water_Projectile_Held
+XX_Orb_Gas_Projectile
+XX_Orb_Gas_Projectile_Held
+Severed Arm
+Severed Leg
+xx_ancient_javelin_projectile
+xx_knockout_javelin_projectile
+xx_impr_iron_javelin_projectile
+xx_steel_javelin_projectile
+xx_serpentmen_javelin_projectile
+xx_obsidian_javelin_projectile
+XX_Thrown Axe
+XX_Thrown Axe
+XX_Thrown Axe
+XX_Thrown Axe
+XX_Thrown Axe
+XX_Thrown Axe
+XX_Thrown Axe
+XX_Thrown Axe
+xx_stone_javelin_projectile
+xx_hardenedsteel_javelin_projectile
+xx_exceptional_hardenedsteel_javelin_projectile
+xx_flawless_hardenedsteel_javelin_projectile
+xx_blackice_javelin_projectile
+xx_dragonbone_javelin_projectile
+XX_Thrown Axe
+Dragonbone Throwing Axe
+Dragonbone Javelin
+Brutish Daggers
+Dragonbone Daggers
+Dragonbone Two-Handed Sword
+Dragonbone War Axe
+Dragonbone Spear
+Dragonbone Maul
+Dragonbone Bow
+Dragonbone Arrow
+Dragonbone Sword
+Executioner's Axe
+Executioner's Blade
+True Name of Set
+True Name of Yog
+True Name of Mitra
+True Name of Ymir
+True Name of Derketo
+True Name of Jhebbal Sag
+Manifestation of Zeal
+Eyes of Hanuman
+Snake Idol
+Bed
+Bed - Folded
+Bed - Stygian
+Double bed
+Nordheimer Bed
+Rawhide Bedroll
+Fiber Bedroll
+Water Well
+Large Water Well
+Training Dummy
+Archery Target
+Spike
+Table
+Table - Round
+Rock Slab
+Table - Rectangle (Variation)
+Low Wooden Table
+Table - Rectangle (Variation)
+Table - Long
+Small Crate
+Small Crate
+Simple Palisade
+Wall Palisade
+Large Crate
+Cage
+Large Cage
+Darfari Cage
+Stygian Plate
+Wooden Fence
+Ancient Brazier
+Ancient Brazier
+Square Stool
+Round Stool
+Woven Stool
+Chair
+Wooden Chair
+Comfortable Chair 
+Log Bench
+Wooden Bench
+Stone Throne
+Wooden Signpost
+Wall Sign
+Battle Standard
+Papyrus Scroll
+Decorative Bowl
+Note
+Journal
+Note
+Note
+Decorative Planter (Frost Lotus)
+Decorative Planter (Yellow Lotus)
+Decorative Planter (Purple Lotus)
+Decorative Planter (Black Lotus)
+Decorative Planter (Golden Lotus)
+Decorative Planter (Grey Lotus)
+Decorative Planter (Desert Bush)
+Decorative Planter (Highland Bush)
+Decorative Planter (Hops)
+Decorative Planter (Leavening)
+Decorative Planter (Asura's Glory)
+Decorative Planter (Midnight Blue)
+Decorative Planter (Orange Phykos)
+Decorative Planter (Lupin)
+Decorative Planter (False Mandrake)
+Decorative Planter (Aloe)
+Standing Torch
+Protected Torch 
+Stygian Tripod Brazier
+Set Brazier
+Iron Brazier
+Wall Brazier
+Hanging Brazier
+Hanging Brazier
+Cimmerian Brazier
+Bracketed Torch
+Wall Lantern
+Candle Stub
+White Candle
+Black Candle
+Black Candle Stub
+Candleholder
+Radium Gem
+Witchfire Powder
+Radium Gem Standing Torch
+xx_Radium_Gem_Hanging_Torch
+Radium Wall Torch
+Witchfire Standing Torch
+xx_Witchfire_Hanging_Torch
+Witchfire Wall Torch
+Glowing Standing Torch
+Glowing Wall Torch
+Tapestry
+Tapestry
+Decorative Grindstone
+Awning
+Carpet
+Hide Rug
+Large Carpet
+Blue Stygian Carpet
+Green Stygian Carpet
+Orange Stygian Carpet
+Pillow
+Pillow
+Pillow
+Pillow
+Ceramic Jug
+Ceramic Jar
+Crude Wooden Bowl
+Wooden Bowl
+Flagon
+Ornate Ceramic Jug
+Iron Bowl
+Iron Jug
+Earthenware Jug
+Iron Pot
+Mortarium
+Iron Pan
+Large Earthenware Jug
+Large Earthenware Jug
+Large Earthenware Jug
+Iron Bowl
+Iron Bowl
+Iron Bowl
+Small Barrel
+Barrel
+Ale Keg
+Shelf
+Statuette of the Warmaker
+Statuette of the Archivist
+Statuette of the Priest King
+Iron Mug
+Stygian Flag
+Iron Tankard
+Iron Pitcher
+Iron Decanter
+Iron Plate
+Iron Plate
+Wooden Bowl
+Wooden Bowl
+Wooden Bowl
+Small Banner
+Medium Banner
+Large Banner
+Darfari Banner
+Darfari Banner
+Darfari Banner
+Dogs of the Desert Banner
+Black Hand Banner
+Relic Hunter Banner
+Darfari Banner
+Skeletal Decoration
+Fireplace and Hearth
+Cupboard
+Stygian Brazier
+Cauldron
+Tea Pot
+Stygian Earthenware Jug
+Stygian Metal Jug
+Stygian Drum
+Stygian Brazier
+Gong
+Horn
+Darfari Wind Chimes
+Drum 
+Large Darfari Wind Chimes
+Bed - Stygian
+Statue of Ymir
+Nordheimer Horn
+Incense
+Drinking Horn
+Ivory Drinking Horn
+Ivory Warhorn
+Crossed Weapons Display Rack
+Weapon Display Pedestal
+Simple Tent
+Black Hand Tent - Scallop
+Black Hand Tent - Mainsail
+Black Hand Tent - Lateen
+Black Hand Tent - Gaff Rig
+Large Red Shadecloth
+Small Red Shadecloth
+Awning, Blue
+Awning, Red
+Awning, Green
+Ladder
+Wooden Box
+Large Chest
+Vault
+Explosive Jar
+Iron Leg-hold Trap
+Spike Trap
+Wooden Leg-hold Trap
+Vapor Trap
+Exploding Trap
+Pleasure Place of Derketo
+Pleasure Dome of Derketo
+Pleasure Palace of Derketo
+Bower of Jhebbal Sag
+Retreat of Jhebbal Sag
+Grove of Jhebbal Sag
+Sepulcher of Set
+Altar of Set
+Sanctum of Set
+Pit of Yog
+Rift of Yog
+Abyss of Yog 
+Shrine of Mitra
+Sanctuary of Mitra
+Temple of Mitra
+Altar of Ymir
+Statue of Refreshment
+Statue of Guidance
+Blooded Altar of Ymir
+Exalted Altar of Ymir
+Cooked Anglerfish
+Cooked Catfish
+Cooked Dogfish
+Cooked Grouper
+Cooked Moray Eel
+Anglerfish
+Catfish
+Dogfish
+Grouper
+Moray Eel
+Anglerfish Trophy
+Catfish Trophy
+Dogfish Trophy
+Grouper Trophy
+Moray Eel Trophy
+White Rhino Head Trophy
+Black Rhino Head Trophy
+Rhino King Head Trophy
+Grey Rhino Head Trophy
+Gazelle Head Trophy
+Kudo Head Trophy
+Antelope Head Trophy
+Rocknose Head Trophy
+King Rocknose Head Trophy
+Shaleback Hatchling Decoration
+Bat Demon Head Trophy
+Crocodile Head Trophy
+Hyena Head Trophy
+Shaleback Head Trophy
+Shaleback King Head Trophy
+Demonic Shaleback Head Trophy
+Undead Hyena Head Trophy
+Skeletal Serpentman Head Trophy
+Kingslayer Polearm
+Kingslayer Daggers
+White Rhino Head
+Black Rhino Head
+Rhino King Head
+Grey Rhino Head
+Gazelle Head
+Kudo Head
+Antelope Head
+Rocknose Head
+King Rocknose Head
+Bat Demon Head
+Crocodile Head
+Hyena Head
+Shaleback Head
+Shaleback King Head
+Demonic Shaleback Head
+Undead Hyena Head
+Skeletal Serpentman Head
+Elk King Head
+Black Bear Trophy
+Black Bear Head
+Deer Trophy
+Deer Head
+Mammoth Trophy
+Mammoth Head
+Mountain Goat Trophy
+Mountain Goat Head
+Wild Boar Trophy
+Wild Boar Head
+Wolf Trophy
+Wolf Head
+Dire Wolf Trophy
+Dire Wolf Head
+Elk Trophy
+Elk Head
+Elk King Trophy
+Brown Bear Trophy
+Brown Bear Head
+Panther Head
+Panther Trophy
+Sabretooth Head
+Sabretooth Trophy
+Red Dragon Head
+Green Dragon Head
+Red Dragon Trophy
+Green Dragon Trophy
+Shoebill Head
+Demonic Spider Head
+Salamander Head
+Jaguar Head
+Tiger Head
+Gray Ape Head
+Shoebill Trophy
+Demon Spider Trophy
+Salamander Trophy
+Jaguar Trophy
+Tiger Trophy
+Gray Ape Trophy
+Ugly Fish Trophy
+Fish Trophy
+Rare Fish Trophy
+Shoebill Head
+Shoebill Head
+Shoebill Trophy
+Shoebill Trophy
+Taxidermied Yeti
+Iron Plinth Display
+Taxidermied Bat-demon
+Taxidermied Bear
+Taxidermied Boar
+Taxidermied Crocodile
+Taxidermied Deer
+Taxidermied Elk
+Taxidermied Elk King
+Taxidermied Gazelle
+Taxidermied Mountain Goat
+Taxidermied Gorilla
+Taxidermied Hyena
+Taxidermied Imp
+Taxidermied Jaguar
+Taxidermied Shoebill
+Taxidermied Shaleback
+Taxidermied Komodo
+Taxidermied Kudo
+Taxidermied Lion
+Taxidermied Sand Reaper
+Taxidermied Ostrich
+Taxidermied Panther
+Taxidermied Rocknose
+Taxidermied Sabretooth
+Taxidermied Scorpion
+Taxidermied Spider
+Taxidermied Salamander
+Taxidermied Tiger
+Taxidermied Wolf
+Decorative Metal skull
+Kinscourge Statue
+Serpentmen Statue
+Serpentmen Statue
+Serpentmen Statue
+Serpentmen Statue
+Serpentmen Statue
+Improved Furnace (Kiln)
+Bone Pile 1
+Bone Pile 2
+Impaled Skull
+Impaled Skull
+Impaled Skull
+Weathered Skull
+Shaleback Hatchling Shell
+Impaled Skull
+Vanir Totem
+Vanir Totem
+Vanir Totem
+Vanir Totem
+Stygian Earthenware Jug
+Stygian Earthenware Jug
+Folding Screen
+Stygian Table
+Round Stygian Table
+Triple-Slot Weapon Display Rack
+Single-Slot Weapon Display Rack
+Shield Display Rack
+Campfire
+Bonfire
+Large Campfire
+Furnace
+Improved Furnace
+Firebowl Cauldron
+Tannery
+Improved Tannery
+Improved Firebowl Cauldron
+Armorer's Bench
+Blacksmith's Bench
+Improved Blacksmith's Bench
+Carpenter's Bench
+Improved Carpenter's Bench
+Siege Foundation
+Trebuchet Base
+Trebuchet Frame
+Trebuchet
+Siege Boulder
+Demon-Fire Barrage
+XX_Rotting Corpse
+Lesser Wheel of Pain
+Wheel of Pain
+Greater Wheel of Pain
+XX_Wheel of Pain Instant DEV
+Map-Room
+Sandstone Foundation
+Sandstone Wall
+Sandstone Ceiling
+Sandstone Doorframe
+Sandstone Stairs
+Sandstone Wedge
+Sandstone Frame
+Simple Wooden Door
+Sandstone Pillar
+Sandstone Fence
+Sandstone Wedge Foundation
+Thatch Sloped Roof
+Thatch Wedge Sloped Roof
+Left-sloping Sandstone Wall
+Right-sloping Sandstone Wall
+Inverted Thatch Wedge Sloped Roof
+Sandstone Fence Foundation
+Thatch Sloped Roof Corner
+Wooden Sloped Roof Corner
+Reinforced Wooden Sloped Roof Corner
+Inverted Thatch Sloped Roof Corner
+Inverted Wooden Sloped Roof Corner
+Inverted Reinforced Wooden Sloped Roof Corner
+Thatch Rooftop End
+Wooden Rooftop End
+Reinforced Wooden Rooftop End
+Thatch Rooftop
+Wooden Rooftop
+Reinforced Wooden Rooftop
+Thatch Rooftop Corner
+Wooden Rooftop Corner
+Reinforced Wooden Rooftop Corner
+Thatch Rooftop Junction
+Wooden Rooftop Junction
+Reinforced Wooden Rooftop Junction
+Thatch Rooftop Intersection
+Wooden Rooftop Intersection
+Reinforced Wooden Rooftop Intersection
+Thatch Rooftop Cap
+Wooden Rooftop Cap
+Reinforced Wooden Rooftop Cap
+Thatched Awning
+Thatched Awning Corner
+Insulated Wooden Sloped Roof Corner
+Black Ice-Reinforced Sloped Roof Corner
+Inverted Insulated Wooden Sloped Roof Corner
+Inverted Black Ice-Reinforced Sloped Roof Corner
+Insulated Wood Rooftop End
+Black Ice-Reinforced Rooftop End
+Insulated Wood Rooftop
+Black Ice-Reinforced Rooftop
+Insulated Wood Rooftop Corner
+Black Ice-Reinforced Rooftop Corner
+Insulated Wood Rooftop Junction
+Black Ice-Reinforced Rooftop Junction
+Insulated Wood Rooftop Intersection
+Black Ice-Reinforced Rooftop Intersection
+Insulated Wood Rooftop Cap
+Black Ice-Reinforced Rooftop Cap
+Wooden Awning
+Wooden Awning Corner
+Reinforced Wooden Awning
+Reinforced Wooden Awning Corner
+Sandstone Stairs Corner
+Stonebrick Stairs Corner
+Reinforced Stone Stairs Corner
+Insulated Wooden Stairs Corner
+Black Ice-Reinforced Wooden Stairs Corner
+Insulated Wood Awning
+Insulated Wood Awning Corner
+Black Ice-Reinforced Awning
+Black Ice-Reinforced Awning Corner
+Stonebrick Stairs
+Reinforced Stone Stairs
+Insulated Wooden Stairs
+Black Ice-Reinforced Wooden Stairs
+Stonebrick Foundation
+Stonebrick Wall
+Stonebrick Ceiling
+Stonebrick Doorframe
+Stonebrick Stairs (rail)
+Stonebrick Wedge
+Stonebrick Frame
+Reinforced Wooden Door
+Stonebrick Pillar
+Stonebrick Fence
+Stonebrick Wedge Foundation
+Wooden Sloped Roof
+Wooden Wedge Sloped Roof
+Left-sloping Stonebrick Wall
+Right-sloping Stonebrick Wall
+Inverted Wooden Wedge Sloped Roof
+Stonebrick Fence Foundation
+Stonebrick Gateway
+Stonebrick Gate
+Reinforced Stone Foundation
+Reinforced Stone Wall
+Reinforced Stone Ceiling
+Reinforced Stone Doorframe
+Reinforced Stone Stairs (rail)
+Reinforced Stone Wedge
+Reinforced Stone Frame
+Heavy Reinforced Door
+Reinforced Stone Pillar
+Reinforced Stone Fence
+Reinforced Stone Wedge Foundation
+Tiled Sloped Roof
+Tiled Wedge Sloped Roof
+Left-sloping Reinforced Stone Wall
+Right-sloping Reinforced Stone Wall
+Inverted Tiled Wedge Sloped Roof
+Reinforced Stone Fence Foundation
+Reinforced Stone Gateway
+Reinforced Stone Gate
+Reinforced Stone Crenelated Wall
+Drawbridge
+Elevator Vertical
+Elevator Horizontal
+Siege Cauldron
+Heavy Reinforced Door
+Heavy Reinforced Door
+Reinforced Hatch Door
+Insulated Wooden Foundation
+Insulated Wooden Wall
+Insulated Wooden Ceiling
+Insulated Wooden Doorframe
+Insulated Wooden Stairs (rail)
+Insulated Wooden Wedge
+Insulated Wooden Frame
+Insulated Wooden Door
+Insulated Wooden Pillar
+Insulated Wooden Fence
+Insulated Wooden Wedge Foundation
+Tiled Sloped Insulated Wooden Roof
+Tiled Wedge Insulated Wooden Sloped Roof
+Left-sloping Insulated Wooden Wall
+Right-sloping Insulated Wooden Wall
+Inverted Tiled Wedge Insulated Wooden Sloped Roof
+Insulated Wooden Fence Foundation
+Insulated Wooden Gateway
+Insulated Wooden Gate
+Black Ice-Reinforced Wooden Foundation
+Black Ice-Reinforced Wooden Wall
+Black Ice-Reinforced Wooden Ceiling
+Black Ice-Reinforced Wooden Doorframe
+Black Ice-Reinforced Wooden Stairs (rail)
+Black Ice-Reinforced Wooden Wedge
+Black Ice-Reinforced Wooden Frame
+Black Ice-Reinforced Wooden Door
+Black Ice-Reinforced Wooden Pillar
+Black Ice-Reinforced Wooden Fence
+Black Ice-Reinforced Wooden Wedge Foundation
+Tiled Sloped Black Ice-Reinforced Wooden Roof
+Tiled Wedge Black Ice-Reinforced Wooden Sloped Roof
+Left-sloping Black Ice-Reinforced Wooden Wall
+Right-sloping Black Ice-Reinforced Wooden Wall
+Inverted Tiled Wedge Black Ice-Reinforced Wooden Sloped Roof
+Black Ice-Reinforced Wooden Fence Foundation
+Black Ice-Reinforced Wooden Gateway
+Black Ice-Reinforced Wooden Gate
+Black Ice-Reinforced Crenelated Wall
+Sandstone Hatch Frame
+Stonebrick Hatch Frame
+Reinforced Stone Hatch Frame
+Insulated Wood Hatch Frame
+Black Ice-Reinforced Hatch Frame
+Crude Hatch Door
+Hatch Door
+Reinforced Hatch Door
+Insulated Hatch Door
+Black Ice-Reinforced Hatch Door
+Left-sloping Inverted Sandstone Wall
+Left-sloping Inverted Stonebrick Wall
+Left-sloping Inverted Reinforced Stone Wall
+Left-sloping Inverted Insulated Wood Wall
+Left-sloping Inverted Black Ice-Reinforced Wall
+Right-sloping Inverted Sandstone Wall
+Right-sloping Inverted Stonebrick Wall
+Right-sloping Inverted Reinforced Stone Wall
+Right-sloping Inverted Insulated Wood Wall
+Right-sloping Inverted Black Ice-Reinforced Wall
+Vertical Decorative Beam
+Diagonal Decorative Beam
+Sandstone Ramp
+Sandstone Ramp Corner
+Stonebrick Ramp
+Stonebrick Ramp Corner
+Reinforced Stone Ramp
+Reinforced Stone Ramp Corner
+Insulated Wooden Ramp
+Insulated Wooden Ramp Corner
+Black Ice-Reinforced Ramp
+Black Ice-Reinforced Ramp Corner
+Sandstone Wall Cap
+Stonebrick Wall Cap
+Reinforced Stone Wall Cap
+Insulated Wood Wall Cap
+Black Ice-Reinforced Wall Cap
+Pontoon Foundation
+Pontoon Wedge Foundation
+Reinforced Pontoon Foundation
+Reinforced Wedge Pontoon Foundation
+Iron Earrings
+Iron Anklet
+Iron Circlet
+Iron Bracelet
+Iron Cirlet and Earrings
+Light Turban
+Light Chestpiece
+Light Gauntlets
+Light Wrap
+Light Boots
+Medium Cap
+Medium Harness
+Medium Gauntlets
+Medium Tasset
+Medium Boots
+Heavy Helmet
+Heavy Pauldron
+Heavy Gauntlets
+Heavy Tasset
+Heavy Sabatons
+Darfari Watcher Mask
+Darfari Skin Chestpiece
+Darfari Skin Bracers
+Darfari Skin Skirt
+Darfari Skin Greaves
+Shemite Turban
+Shemite Tunic
+Shemite Gloves
+Shemite Leggings
+Shemite Shoes
+Vanir Settler Jewelry
+Vanir Settler Vest
+Vanir Settler Gloves
+Vanir Settler Breechclout
+Vanir Settler Boots
+Zamorian Thief Hood
+Zamorian Thief Chest
+Zamorian Thief Gauntlets
+Zamorian Thief Breeches
+Zamorian Thief Boots
+Zingaran Freebooter Headscarf
+Zingaran Freebooter Vest
+Zingaran Freebooter Gloves
+Zingaran Freebooter Pants
+Zingaran Freebooter Boots
+Relic Hunter Turban
+Relic Hunter Shirt
+Relic Hunter Gloves
+Relic Hunter Trousers
+Relic Hunter Boots
+Kambujan Shaman Helm
+Kambujan Shaman Chestpiece
+Kambujan Shaman Gloves
+Kambujan Shaman Wrap
+Kambujan Shaman Boots
+Stygian Raider Mask
+Stygian Raider Chestpiece
+Stygian Raider Bracers
+Stygian Raider Greaves
+Stygian Raider Sandals
+Vanir Fur Cap
+Vanir Fur Harness
+Vanir Fur Gauntlets
+Vanir Fur Tasset
+Vanir Fur Boots
+Aquilonian Helmet
+Aquilonian Chestplate
+Aquilonian Bracers
+Aquilonian Tasset
+Aquilonian Sandals
+Hyperborean Slaver Helmet
+Hyperborean Slaver Waistguard
+Hyperborean Slaver Bracers
+Hyperborean Slaver Loincloth
+Hyperborean Slaver Boots
+Hyrkanian Raider Helm
+Hyrkanian Raider Brigandine
+Hyrkanian Raider Gauntlets
+Hyrkanian Raider Tasset
+Hyrkanian Raider Boots
+Vanir Heavy Helmet
+Vanir Heavy Pauldron
+Vanir Heavy Gauntlets
+Vanir Heavy Tasset
+Vanir Heavy Boots
+Stygian Soldier Helm
+Stygian Soldier Mail
+Stygian Soldier Bracers
+Stygian Soldier Tasset
+Stygian Soldier Sandals
+Exceptional Light Turban
+Exceptional Light Chestpiece
+Exceptional Light Gauntlets
+Exceptional Light Wrap
+Exceptional Light Boots
+Exceptional Medium Cap
+Exceptional Medium Harness
+Exceptional Medium Gauntlets
+Exceptional Medium Tasset
+Exceptional Medium Boots
+Exceptional Heavy Helmet
+Exceptional Heavy Pauldron
+Exceptional Heavy Gauntlets
+Exceptional Heavy Tasset
+Exceptional Heavy Sabatons
+Exceptional Darfari Watcher Mask
+Exceptional Darfari Skin Chestpiece
+Exceptional Darfari Skin Bracers
+Exceptional Darfari Skin Skirt
+Exceptional Darfari Skin Greaves
+Exceptional Shemite Turban
+Exceptional Shemite Tunic
+Exceptional Shemite Gloves
+Exceptional Shemite Leggings
+Exceptional Shemite Shoes
+Exceptional Vanir Settler Jewelry
+Exceptional Vanir Settler Vest
+Exceptional Vanir Settler Gloves
+Exceptional Vanir Settler Breechclout
+Exceptional Vanir Settler Boots
+Exceptional Zamorian Thief Hood
+Exceptional Zamorian Thief Chest
+Exceptional Zamorian Thief Gauntlets
+Exceptional Zamorian Thief Breeches
+Exceptional Zamorian Thief Boots
+Exceptional Zingaran Freebooter Headscarf
+Exceptional Zingaran Freebooter Vest
+Exceptional Zingaran Freebooter Gloves
+Exceptional Zingaran Freebooter Pants
+Exceptional Zingaran Freebooter Boots
+Exceptional Relic Hunter Turban
+Exceptional Relic Hunter Shirt
+Exceptional Relic Hunter Gloves
+Exceptional Relic Hunter Trousers
+Exceptional Relic Hunter Boots
+Exceptional Kambujan Shaman Helm
+Exceptional Kambujan Shaman Chestpiece
+Exceptional Kambujan Shaman Gloves
+Exceptional Kambujan Shaman Wrap
+Exceptional Kambujan Shaman Boots
+Exceptional Stygian Raider Mask
+Exceptional Stygian Raider Chestpiece
+Exceptional Stygian Raider Bracers
+Exceptional Stygian Raider Greaves
+Exceptional Stygian Raider Sandals
+Exceptional Vanir Fur Cap
+Exceptional Vanir Fur Harness
+Exceptional Vanir Fur Gauntlets
+Exceptional Vanir Fur Tasset
+Exceptional Vanir Fur Boots
+Exceptional Aquilonian Helmet
+Exceptional Aquilonian Chestplate
+Exceptional Aquilonian Bracers
+Exceptional Aquilonian Tasset
+Exceptional Aquilonian Sandals
+Exceptional Hyperborean Slaver Helmet
+Exceptional Hyperborean Slaver Waistguard
+Exceptional Hyperborean Slaver Bracers
+Exceptional Hyperborean Slaver Loincloth
+Exceptional Hyperborean Slaver Boots
+Exceptional Hyrkanian Raider Helm
+Exceptional Hyrkanian Raider Brigandine
+Exceptional Hyrkanian Raider Gauntlets
+Exceptional Hyrkanian Raider Tasset
+Exceptional Hyrkanian Raider Boots
+Exceptional Vanir Heavy Helmet
+Exceptional Vanir Heavy Pauldron
+Exceptional Vanir Heavy Gauntlets
+Exceptional Vanir Heavy Tasset
+Exceptional Vanir Heavy Boots
+Exceptional Stygian Soldier Helm
+Exceptional Stygian Soldier Mail
+Exceptional Stygian Soldier Bracers
+Exceptional Stygian Soldier Tasset
+Exceptional Stygian Soldier Sandals
+Flawless Light Turban
+Flawless Light Chestpiece
+Flawless Light Gauntlets
+Flawless Light Wrap
+Flawless Light Boots
+Flawless Medium Cap
+Flawless Medium Harness
+Flawless Medium Gauntlets
+Flawless Medium Tasset
+Flawless Medium Boots
+Flawless Heavy Helmet
+Flawless Heavy Pauldron
+Flawless Heavy Gauntlets
+Flawless Heavy Tasset
+Flawless Heavy Sabatons
+Flawless Darfari Watcher Mask
+Flawless Darfari Skin Chestpiece
+Flawless Darfari Skin Bracers
+Flawless Darfari Skin Skirt
+Flawless Darfari Skin Greaves
+Flawless Shemite Turban
+Flawless Shemite Tunic
+Flawless Shemite Gloves
+Flawless Shemite Leggings
+Flawless Shemite Shoes
+Flawless Vanir Settler Jewelry
+Flawless Vanir Settler Vest
+Flawless Vanir Settler Gloves
+Flawless Vanir Settler Breechclout
+Flawless Vanir Settler Boots
+Flawless Zamorian Thief Hood
+Flawless Zamorian Thief Chest
+Flawless Zamorian Thief Gauntlets
+Flawless Zamorian Thief Breeches
+Flawless Zamorian Thief Boots
+Flawless Zingaran Freebooter Headscarf
+Flawless Zingaran Freebooter Vest
+Flawless Zingaran Freebooter Gloves
+Flawless Zingaran Freebooter Pants
+Flawless Zingaran Freebooter Boots
+Flawless Relic Hunter Turban
+Flawless Relic Hunter Shirt
+Flawless Relic Hunter Gloves
+Flawless Relic Hunter Trousers
+Flawless Relic Hunter Boots
+Flawless Kambujan Shaman Helm
+Flawless Kambujan Shaman Chestpiece
+Flawless Kambujan Shaman Gloves
+Flawless Kambujan Shaman Wrap
+Flawless Kambujan Shaman Boots
+Flawless Stygian Raider Mask
+Flawless Stygian Raider Chestpiece
+Flawless Stygian Raider Bracers
+Flawless Stygian Raider Greaves
+Flawless Stygian Raider Sandals
+Flawless Vanir Fur Cap
+Flawless Vanir Fur Harness
+Flawless Vanir Fur Gauntlets
+Flawless Vanir Fur Tasset
+Flawless Vanir Fur Boots
+Flawless Aquilonian Helmet
+Flawless Aquilonian Chestplate
+Flawless Aquilonian Bracers
+Flawless Aquilonian Tasset
+Flawless Aquilonian Sandals
+Flawless Hyperborean Slaver Helmet
+Flawless Hyperborean Slaver Waistguard
+Flawless Hyperborean Slaver Bracers
+Flawless Hyperborean Slaver Loincloth
+Flawless Hyperborean Slaver Boots
+Flawless Hyrkanian Raider Helm
+Flawless Hyrkanian Raider Brigandine
+Flawless Hyrkanian Raider Gauntlets
+Flawless Hyrkanian Raider Tasset
+Flawless Hyrkanian Raider Boots
+Flawless Vanir Heavy Helmet
+Flawless Vanir Heavy Pauldron
+Flawless Vanir Heavy Gauntlets
+Flawless Vanir Heavy Tasset
+Flawless Vanir Heavy Boots
+Flawless Stygian Soldier Helm
+Flawless Stygian Soldier Mail
+Flawless Stygian Soldier Bracers
+Flawless Stygian Soldier Tasset
+Flawless Stygian Soldier Sandals
+Reptilian Helm
+Reptilian Gauntlets
+Reptilian Chestpiece
+Reptilian Tasset
+Reptilian Boots
+Exceptional Reptilian Helm
+Exceptional Reptilian Gauntlets
+Exceptional Reptilian Chestpiece
+Exceptional Reptilian Tasset
+Exceptional Reptilian Boots
+Flawless Reptilian Helm
+Flawless Reptilian Gauntlets
+Flawless Reptilian Chestpiece
+Flawless Reptilian Tasset
+Flawless Reptilian Boots
+Hyena Skull Helmet
+Hyena-fur Chestpiece
+Hyena-fur Gloves
+Hyena-fur Wrap
+Hyena-fur Boots
+Exceptional Hyena Skull Helmet
+Exceptional Hyena-fur Chestpiece
+Exceptional Hyena-fur Gloves
+Exceptional Hyena-fur Wrap
+Exceptional Hyena-fur Boots
+Flawless Hyena Skull Helmet
+Flawless Hyena-fur Chestpiece
+Flawless Hyena-fur Gloves
+Flawless Hyena-fur Wrap
+Flawless Hyena-fur Boots
+Champion's Helmet
+Champion's Chestguard
+Champion's Gauntlets
+Champion's Leggings
+Champion's Boots
+Chilled Godbreaker Helmet
+Chilled Godbreaker Plate
+Chilled Godbreaker Grips
+Chilled Godbreaker Leggings
+Chilled Godbreaker Boots
+Redeemed Legion Helmet
+Redeemed Legion Pauldron
+Redeemed Legion Gauntlets
+Redeemed Legion Tasset
+Redeemed Legion Boots
+Exceptional Reptilian Helm
+Exceptional Reptilian Gauntlets
+Exceptional Reptilian Chestpiece
+Exceptional Reptilian Tasset
+Exceptional Reptilian Boots
+Flawless Reptilian Helm
+Flawless Reptilian Gauntlets
+Flawless Reptilian Chestpiece
+Flawless Reptilian Tasset
+Flawless Reptilian Boots
+Helm of Sobek
+Gauntlets of Sobek
+Chestguard of Sobek
+Tasset of Sobek
+Boots of Sobek
+Hood of Asura
+Chestguard of Asura
+Gloves of Asura
+Leggings of Asura
+Boots of Asura
+The Nemedian
+Boon of the Black Yeti
+Boon of the Gorilla
+Boon of the Grey Ape
+Boon of the Silverback
+Boon of the Yeti
+Goat-Horn Bow
+Act of Violence
+Unwelcome Gift
+XX_Thrown Axe
+Hollowbone Bow
+Hollowbone Arrow
+Night-Stalkers Mask
+War-Dancer Chest
+Exquisite Silk Shirt
+Exquisite Silk Leggings
+Vermin Hide Pants
+Vermin Hide Boots
+God Eye
+The Horned Helmet
+Scorpion Helm
+Scorpion Harness
+Commander's Helmet
+Commander's Chestplate
+Legacy of the Nordheimers
+War Mammoth Boots
+Helm of the Brute
+Gauntlets of the Brute
+Dragonscale Helm
+Black Feather Helm
+Heart of a Nordheimer
+Horn Of The North
+Specter Coating
+Thorgar's Recipe Fragment
+Thorgar's Notes
+Thorgar's Crest
+Pride of Aesir Helmet
+Pride of Aesir Chestpiece
+Pride of Aesir Leggings
+Pride of Aesir Gauntlets
+Pride of Aesir Boots
+Scroll (Pride of Aesir)
+Spiced Fowl
+Underwater Breathing Mask
+Blackcove Rum
+Argossean Dream Dust
+Broken Glass
+Sword of N'Ruka
+Shield of Zabweth
+Pearl
+Gorilla Infant
+Black Corsair Bandana
+Black Corsair Gauntlets
+Black Corsair Chestguard
+Black Corsair Tasset
+Black Corsair Boots
+Chef's Trusted Cleaver
+Seasalt Cutlass
+Ebony Silk
+Fiery-Hot Imperial Tea
+Fiery-Hot Sea-Fish Feast
+Fiery-Hot Bread
+Fiery-Hot Meat Soup
+Fiery-Hot Grubs
+Rare Spice
+Scroll (Vehemence Elixir)
+Black Corsair Sword
+Oil of Agony
+Oil of Penetration
+Oil of Balance
+Oil of Concussion
+Oil of Bounty
+Gliding Joints
+Master Armor Plating
+Master Weapon Fitting
+Fencer Weapon Fitting
+Master Reinforcement Kit
+Bulked Plating
+A Memory of Oils
+Khari Overseer Helm
+Khari Overseer Mantle
+Khari Overseer Bracers
+Khari Overseer Tasset
+Khari Overseer Sandals
+Khari Raider Helm
+Khari Raider Chest 
+Khari Raider Bracers 
+Khari Raider Tasset
+Khari Raider Sandals
+Khari Soldier Helm
+Khari Soldier Mail 
+Khari Soldier Bracers 
+Khari Soldier Tasset 
+Khari Soldier Boots 
+Khari Daggers
+Khari War-Axe
+Khari Great-Sword
+Khari Hammer
+Khari Bow
+Khari Pike
+Mace of Thag
+Scythe of Thag
+Horse
+Horse
+Horse
+Horse
+xx_horse_dev
+Hammer of Thag
+Pristine Khari Bow
+Pristine Khari Sword
+Pristine Khari Daggers
+Berserker Draught
+Vehemence Elixir
+XX_Offhand Dagger
+XX_Skinning Knife
+xx_purgewalltest
+xx_purgetarget
+--DLC--
+Warpaint - Blossom
+Warpaint - Tiger
+Warpaint - Moon
+Warpaint - Crane
+Warpaint - Dragon
+Yamatai Footsoldier Hat
+Yamatai Footsoldier Chestpiece
+Yamatai Footsoldier Gloves
+Yamatai Footsoldier Leggings
+Yamatai Footsoldier Sabatons
+Yamatai Demon Mask
+Yamatai Demon Chestpiece
+Yamatai Demon Gloves
+Yamatai Demon Leggings
+Yamatai Demon Sabatons
+Yamatai Warlord Helmet
+Yamatai Warlord Chestpiece
+Yamatai Warlord Gloves
+Yamatai Warlord Leggings
+Yamatai Warlord Sabatons
+Exceptional Yamatai Footsoldier Hat
+Exceptional Yamatai Footsoldier Chestpiece
+Exceptional Yamatai Footsoldier Gloves
+Exceptional Yamatai Footsoldier Leggings
+Exceptional Yamatai Footsoldier Sabatons
+Exceptional Yamatai Demon Mask
+Exceptional Yamatai Demon Chestpiece
+Exceptional Yamatai Demon Gloves
+Exceptional Yamatai Demon Leggings
+Exceptional Yamatai Demon Sabatons
+Exceptional Yamatai Warlord Helmet
+Exceptional Yamatai Warlord Chestpiece
+Exceptional Yamatai Warlord Gloves
+Exceptional Yamatai Warlord Leggings
+Exceptional Yamatai Warlord Sabatons
+Flawless Yamatai Footsoldier Hat
+Flawless Yamatai Footsoldier Chestpiece
+Flawless Yamatai Footsoldier Gloves
+Flawless Yamatai Footsoldier Leggings
+Flawless Yamatai Footsoldier Sabatons
+Flawless Yamatai Demon Mask
+Flawless Yamatai Demon Chestpiece
+Flawless Yamatai Demon Gloves
+Flawless Yamatai Demon Leggings
+Flawless Yamatai Demon Sabatons
+Flawless Yamatai Warlord Helmet
+Flawless Yamatai Warlord Chestpiece
+Flawless Yamatai Warlord Gloves
+Flawless Yamatai Warlord Leggings
+Flawless Yamatai Warlord Sabatons
+Yamatai Footsoldier Hat
+Yamatai Footsoldier Chestpiece
+Yamatai Footsoldier Gloves
+Yamatai Footsoldier Leggings
+Yamatai Footsoldier Sabatons
+Yamatai Demon Mask
+Yamatai Demon Chestpiece
+Yamatai Demon Gloves
+Yamatai Demon Leggings
+Yamatai Demon Sabatons
+Yamatai Warlord Helmet
+Yamatai Warlord Chestpiece
+Yamatai Warlord Gloves
+Yamatai Warlord Leggings
+Yamatai Warlord Sabatons
+Exceptional Yamatai Footsoldier Hat
+Exceptional Yamatai Footsoldier Chestpiece
+Exceptional Yamatai Footsoldier Gloves
+Exceptional Yamatai Footsoldier Leggings
+Exceptional Yamatai Footsoldier Sabatons
+Exceptional Yamatai Demon Mask
+Exceptional Yamatai Demon Chestpiece
+Exceptional Yamatai Demon Gloves
+Exceptional Yamatai Demon Leggings
+Exceptional Yamatai Demon Sabatons
+Exceptional Yamatai Warlord Helmet
+Exceptional Yamatai Warlord Chestpiece
+Exceptional Yamatai Warlord Gloves
+Exceptional Yamatai Warlord Leggings
+Exceptional Yamatai Warlord Sabatons
+Flawless Yamatai Footsoldier Hat
+Flawless Yamatai Footsoldier Chestpiece
+Flawless Yamatai Footsoldier Gloves
+Flawless Yamatai Footsoldier Leggings
+Flawless Yamatai Footsoldier Sabatons
+Flawless Yamatai Demon Mask
+Flawless Yamatai Demon Chestpiece
+Flawless Yamatai Demon Gloves
+Flawless Yamatai Demon Leggings
+Flawless Yamatai Demon Sabatons
+Flawless Yamatai Warlord Helmet
+Flawless Yamatai Warlord Chestpiece
+Flawless Yamatai Warlord Gloves
+Flawless Yamatai Warlord Leggings
+Flawless Yamatai Warlord Sabatons
+Yamatai Assassins Blade
+Yamatai Katana
+Yamatai Sai
+Yamatai Tetsubo
+Yamatai Warhammer
+Yamatai Bow
+Yamatai Naginata
+Yamatai Shield
+Exceptional Yamatai Assassins Blade
+Exceptional Yamatai Katana
+Exceptional Yamatai Sai
+Exceptional Yamatai Tetsubo
+Exceptional Yamatai Warhammer
+Exceptional Yamatai Bow
+Exceptional Yamatai Naginata
+Exceptional Yamatai Shield
+Flawless Yamatai Assassins Blade
+Flawless Yamatai Katana
+Flawless Yamatai Sai
+Flawless Yamatai Tetsubo
+Flawless Yamatai Warhammer
+Flawless Yamatai Bow
+Flawless Yamatai Naginata
+Flawless Yamatai Shield
+Yamatai Assassins Blade
+Yamatai Katana
+Yamatai Sai
+Yamatai Tetsubo
+Yamatai Warhammer
+Yamatai Bow
+Yamatai Naginata
+Yamatai Shield
+Exceptional Yamatai Assassins Blade
+Exceptional Yamatai Katana
+Exceptional Yamatai Sai
+Exceptional Yamatai Tetsubo
+Exceptional Yamatai Warhammer
+Exceptional Yamatai Bow
+Exceptional Yamatai Naginata
+Exceptional Yamatai Shield
+Flawless Yamatai Assassins Blade
+Flawless Yamatai Katana
+Flawless Yamatai Sai
+Flawless Yamatai Tetsubo
+Flawless Yamatai Warhammer
+Flawless Yamatai Bow
+Flawless Yamatai Naginata
+Flawless Yamatai Shield
+Yamatai War-Axe
+Exceptional Yamatai War-Axe
+Flawless Yamatai War-Axe
+Yamatai War-Axe
+Exceptional Yamatai War-Axe
+Flawless Yamatai War-Axe
+Yamatai Katana
+Yamatai Katana
+Yamatai Katana
+Yamatai Katana
+Yamatai Katana
+Yamatai Katana
+Exceptional Yamatai Katana
+Exceptional Yamatai Katana
+Exceptional Yamatai Katana
+Flawless Yamatai Katana
+Flawless Yamatai Katana
+Flawless Yamatai Katana
+Exceptional Yamatai Katana
+Exceptional Yamatai Katana
+Exceptional Yamatai Katana
+Flawless Yamatai Katana
+Flawless Yamatai Katana
+Flawless Yamatai Katana
+Yamatai Foundation
+Yamatai Wall
+Yamatai Left-Sloping Wall
+Yamatai Right-Sloping Wall
+Yamatai Left-Sloping Inverted Wall
+Yamatai Right-Sloping Inverted Wall
+Yamatai Ceiling
+Yamatai Doorframe
+Yamatai Stairs
+Yamatai Stairs (rail)
+Yamatai Stairs Corner
+Yamatai Ramp
+Yamatai Ramp Corner
+Yamatai Wedge
+Yamatai Wedge Foundation
+Yamatai Frame
+Yamatai Door
+Yamatai Pillar
+Yamatai Fence
+Yamatai Fence Foundation
+Yamatai Sloped Roof
+Yamatai Inverted Wedge Sloped Roof
+Yamatai Wedged Sloped Roof
+Yamatai Sloped Roof Corner
+Yamatai Inverted Sloped Roof Corner
+Yamatai Rooftop End
+Yamatai Rooftop
+Yamatai Rooftop Corner
+Yamatai Rooftop Junction
+Yamatai Rooftop Intersection
+Yamatai Rooftop Cap
+Yamatai Wall Cap
+Yamatai Crenelated Wall
+Yamatai Gate Frame
+Yamatai Gate Door
+Yamatai Hatch Frame
+Yamatai Hatch Door
+Yamatai Awning
+Yamatai Awning Corner
+Tiger
+Sabretooth
+Crocodile
+Tamed Spotted Hyena
+Rocknose
+Yamatai Fodder
+Silver-vein Rocknose
+Gold-vein Rocknose
+Greater Tiger
+Greater Sabretooth
+Greater Crocodile
+Greater Hyena
+Tamed Striped Hyena
+Warpaint - Passion
+Warpaint - Innocence
+Warpaint - Emptiness
+Warpaint - Lust
+Warpaint - Jealousy
+Bejewelled Circlet
+Bejewelled Chains
+Bejewelled Bracelets
+Bejewelled Loin-Cloth
+Bejewelled Anklets
+Inn-Keepers Vestments
+Inn-Keepers Pants
+Nobles Chestpiece
+Artisans Pants
+Nobles Skirt
+Gold Circlet
+Gold Earrings
+Gold Bracelet
+Gold Circlet and Earrings
+Gold Anklet
+Silver Circlet
+Silver Earrings
+Silver Bracelet
+Silver Circlet and Earrings
+Silver Anklet
+Tavern Counter Straight
+Tavern Counter Corner
+Tavern Counter Small
+Hanging Bridge (Short)
+Hanging Bridge
+Hanging Bridge (Long)
+Rope Bridge (Short)
+Rope Bridge
+Rope Bridge (Long)
+Barrel
+Basket
+Barrel Lid
+Luxurious Bed
+Curtains
+Curtains
+Curtains
+Stage Corner (Round)
+Stage Corner (Straight)
+Stage  Steps
+Tavern Counter Straight (Panels)
+Tavern Counter Corner (Panels)
+Tavern Counter Small (Panels)
+Stage
+Barrel Rack
+Barrel Table
+Curtains
+Curtains
+Bench
+Small Bench
+Stool
+Barrel Stool
+Barrel Stool
+Barrel Table
+Barrel Table
+Wine Basket
+Wine Rack
+Wine Shelf
+Treehouse Foundation
+King's Board
+King's Board
+Dark Priest
+White Priest
+Dark King
+White King
+Dark Cavalry
+White Cavalry
+Dark Horde
+White Infantry
+Dark Queen
+White Queen
+Dark Outsider
+White Outsider
+Dark Templar Helmet
+Dark Templar Chestguard
+Dark Templar Gauntlets
+Dark Templar Legplates
+Dark Templar Sabatons
+Guardian Helmet
+Guardian Chestguard
+Guardian Gauntlets
+Guardian Legplates
+Guardian Sabatons
+Exceptional Dark Templar Helmet
+Exceptional Dark Templar Chestguard
+Exceptional Dark Templar Gauntlets
+Exceptional Dark Templar Legplates
+Exceptional Dark Templar Sabatons
+Exceptional Guardian Helmet
+Exceptional Guardian Chestguard
+Exceptional Guardian Gauntlets
+Exceptional Guardian Legplates
+Exceptional Guardian Sabatons
+Flawless Dark Templar Helmet
+Flawless Dark Templar Chestguard
+Flawless Dark Templar Gauntlets
+Flawless Dark Templar Legplates
+Flawless Dark Templar Sabatons
+Flawless Guardian Helmet
+Flawless Guardian Chestguard
+Flawless Guardian Gauntlets
+Flawless Guardian Legplates
+Flawless Guardian Sabatons
+Dark Templar Helmet
+Dark Templar Chestguard
+Dark Templar Gauntlets
+Dark Templar Legplates
+Dark Templar Sabatons
+Guardian Helmet
+Guardian Chestguard
+Guardian Gauntlets
+Guardian Legplates
+Guardian Sabatons
+Exceptional Dark Templar Helmet
+Exceptional Dark Templar Chestguard
+Exceptional Dark Templar Gauntlets
+Exceptional Dark Templar Legplates
+Exceptional Dark Templar Sabatons
+Exceptional Guardian Helmet
+Exceptional Guardian Chestguard
+Exceptional Guardian Gauntlets
+Exceptional Guardian Legplates
+Exceptional Guardian Sabatons
+Flawless Dark Templar Helmet
+Flawless Dark Templar Chestguard
+Flawless Dark Templar Gauntlets
+Flawless Dark Templar Legplates
+Flawless Dark Templar Sabatons
+Flawless Guardian Helmet
+Flawless Guardian Chestguard
+Flawless Guardian Gauntlets
+Flawless Guardian Legplates
+Flawless Guardian Sabatons
+Sign (Alchemist)
+Sign (Blacksmith)
+Sign (Armorsmith)
+Sign (Smeltery)
+Sign (Tannery)
+Sign (Prison)
+Sign (Farm)
+Sign (Cook)
+Sign (Tavern)
+Standing Sign (Alchemist)
+Standing Sign (Blacksmith)
+Standing Sign (Armorsmith)
+Standing Sign (Smeltery)
+Standing Sign (Tannery)
+Standing Sign (Prison)
+Standing Sign (Farm)
+Standing Sign (Cook)
+Standing Sign (Tavern)
+Standing Waymarker, Left
+Standing Waymarker, Right
+Petrified Egg
+Throne of Skelos
+Waymarker, Left
+Waymarker, Right
+The Glasser
+Reinforced Stool
+Battle Spatula
+Dead Leg
+Table Leg
+Practice Sword
+Gravedigger
+Practice Great Sword
+Four-Sided Die
+Six-Sided Die
+Eight-Sided Die
+Ten-Sided Die
+Twelve-Sided Die
+Twenty-Sided Die
+Red Blossom Fireworks Display
+Red Rain Fireworks Display
+Red Snake Fireworks Display
+Blue Blossom Fireworks Display
+Blue Rain Fireworks Display
+Blue Snake Fireworks Display
+Green Blossom Fireworks Display
+Green Rain Fireworks Display
+Green Snake Fireworks Display
+Warpaint - Dreams of Shanpur
+Warpaint - Wanderer
+Warpaint - Opulence
+Warpaint - Glory
+Warpaint - Virtue
+Turanian Scout Helmet
+Turanian Scout Chestpiece
+Turanian Scout Gloves
+Turanian Scout Leggings
+Turanian Scout Boots
+Turanian Mercenary Headgear
+Turanian Mercenary Chestguard
+Turanian Mercenary Gauntlets
+Turanian Mercenary Leg-guards
+Turanian Mercenary Boots
+Turanian Phalanx Helm
+Turanian Phalanx Chestguard
+Turanian Phalanx Gauntlets
+Turanian Phalanx Leg-guards
+Turanian Phalanx Boots
+Exceptional Turanian Scout Helmet
+Exceptional Turanian Scout Chestpiece
+Exceptional Turanian Scout Gloves
+Exceptional Turanian Scout Leggings
+Exceptional Turanian Scout Boots
+Exceptional Turanian Mercenary Headgear
+Exceptional Turanian Mercenary Chestguard
+Exceptional Turanian Mercenary Gauntlets
+Exceptional Turanian Mercenary Leg-guards
+Exceptional Turanian Mercenary Boots
+Exceptional Turanian Phalanx Helm
+Exceptional Turanian Phalanx Chestguard
+Exceptional Turanian Phalanx Gauntlets
+Exceptional Turanian Phalanx Leg-guards
+Exceptional Turanian Phalanx Boots
+Flawless Turanian Scout Helmet
+Flawless Turanian Scout Chestpiece
+Flawless Turanian Scout Gloves
+Flawless Turanian Scout Leggings
+Flawless Turanian Scout Boots
+Flawless Turanian Mercenary Headgear
+Flawless Turanian Mercenary Chestguard
+Flawless Turanian Mercenary Gauntlets
+Flawless Turanian Mercenary Leg-guards
+Flawless Turanian Mercenary Boots
+Flawless Turanian Phalanx Helm
+Flawless Turanian Phalanx Chestguard
+Flawless Turanian Phalanx Gauntlets
+Flawless Turanian Phalanx Leg-guards
+Flawless Turanian Phalanx Boots
+Turanian Scout Helmet
+Turanian Scout Chestpiece
+Turanian Scout Gloves
+Turanian Scout Leggings
+Turanian Scout Boots
+Turanian Mercenary Headgear
+Turanian Mercenary Chestguard
+Turanian Mercenary Gauntlets
+Turanian Mercenary Leg-guards
+Turanian Mercenary Boots
+Turanian Phalanx Helm
+Turanian Phalanx Chestguard
+Turanian Phalanx Gauntlets
+Turanian Phalanx Leg-guards
+Turanian Phalanx Boots
+Exceptional Turanian Scout Helmet
+Exceptional Turanian Scout Chestpiece
+Exceptional Turanian Scout Gloves
+Exceptional Turanian Scout Leggings
+Exceptional Turanian Scout Boots
+Exceptional Turanian Mercenary Headgear
+Exceptional Turanian Mercenary Chestguard
+Exceptional Turanian Mercenary Gauntlets
+Exceptional Turanian Mercenary Leg-guards
+Exceptional Turanian Mercenary Boots
+Exceptional Turanian Phalanx Helm
+Exceptional Turanian Phalanx Chestguard
+Exceptional Turanian Phalanx Gauntlets
+Exceptional Turanian Phalanx Leg-guards
+Exceptional Turanian Phalanx Boots
+Flawless Turanian Scout Helmet
+Flawless Turanian Scout Chestpiece
+Flawless Turanian Scout Gloves
+Flawless Turanian Scout Leggings
+Flawless Turanian Scout Boots
+Flawless Turanian Mercenary Headgear
+Flawless Turanian Mercenary Chestguard
+Flawless Turanian Mercenary Gauntlets
+Flawless Turanian Mercenary Leg-guards
+Flawless Turanian Mercenary Boots
+Flawless Turanian Phalanx Helm
+Flawless Turanian Phalanx Chestguard
+Flawless Turanian Phalanx Gauntlets
+Flawless Turanian Phalanx Leg-guards
+Flawless Turanian Phalanx Boots
+Turanian Sword
+Turanian Great Sword
+Turanian Daggers
+Turanian Mace
+Turanian Warhammer
+Turanian Bow
+Turanian Pike
+Turanian Shield
+Exceptional Turanian Sword
+Exceptional Turanian Great Sword
+Exceptional Turanian Daggers
+Exceptional Turanian Mace
+Exceptional Turanian Warhammer
+Exceptional Turanian Bow
+Exceptional Turanian Pike
+Exceptional Turanian Shield
+Flawless Turanian Sword
+Flawless Turanian Great Sword
+Flawless Turanian Daggers
+Flawless Turanian Mace
+Flawless Turanian Warhammer
+Flawless Turanian Bow
+Flawless Turanian Pike
+Flawless Turanian Shield
+Turanian Sword
+Turanian Great Sword
+Turanian Daggers
+Turanian Mace
+Turanian Warhammer
+Turanian Bow
+Turanian Pike
+Turanian Shield
+Exceptional Turanian Sword
+Exceptional Turanian Great Sword
+Exceptional Turanian Daggers
+Exceptional Turanian Mace
+Exceptional Turanian Warhammer
+Exceptional Turanian Bow
+Exceptional Turanian Pike
+Exceptional Turanian Shield
+Flawless Turanian Sword
+Flawless Turanian Great Sword
+Flawless Turanian Daggers
+Flawless Turanian Mace
+Flawless Turanian Warhammer
+Flawless Turanian Bow
+Flawless Turanian Pike
+Flawless Turanian Shield
+Turanian War-Axe
+Exceptional Turanian War-Axe
+Flawless Turanian War-Axe
+Turanian War-Axe
+Exceptional Turanian War-Axe
+Flawless Turanian War-Axe
+Turanian Artisan Table
+Turanian Foundation
+Turanian Wall
+Turanian Left-Sloping Wall
+Turanian Right-Sloping Wall
+Turanian Left-Sloping Inverted Wall
+Turanian Right-Sloping Inverted Wall
+Turanian Ceiling
+Turanian Doorframe
+Turanian Stairs
+Turanian Stairs (rail)
+Turanian Stairs Corner
+Turanian Ramp
+Turanian Ramp Corner
+Turanian Wedge
+Turanian Wedge Foundation
+Turanian Frame
+Turanian Door
+Turanian Pillar
+Turanian Fence
+Turanian Fence Foundation
+Turanian Sloped Roof
+Turanian Inverted Wedge Sloped Roof
+Turanian Wedged Sloped Roof
+Turanian Sloped Roof Corner
+Turanian Inverted Sloped Roof Corner
+Turanian Rooftop End
+Turanian Rooftop
+Turanian Rooftop Corner
+Turanian Rooftop Junction
+Turanian Rooftop Intersection
+Turanian Rooftop Cap
+Turanian Wall Cap
+Turanian Crenelated Wall
+Turanian Gate Frame
+Turanian Gate Door
+Turanian Hatch Frame
+Turanian Hatch Door
+Turanian Awning
+Turanian Awning Corner
+Turanian Statue
+Turanian Statue
+Turanian Statue
+Turanian Brazier
+Turanian Standing Lamp
+Turanian Cup
+Turanian Jar
+Turanian Hanging Lamp
+Turanian Stool
+Turanian Fodder
+Turanian Caravan Rhino
+Turanian Caravan Elephant
+Warpaint - Snake
+Warpaint - Otter
+Warpaint - Turtle
+Warpaint - Crocodile
+Warpaint - Raven
+Pictish Wizard Mask
+Pictish Wizard Robe
+Pictish Wizard Wraps
+Pictish Wizard Skirt
+Pictish Wizard Moccasins
+Pictish Brave Headgear
+Pictish Brave Tunic
+Pictish Brave Wristwraps
+Pictish Brave Breechclout
+Pictish Brave Moccasins
+Pictish Warchief Headdress
+Pictish Warchief Chestpiece
+Pictish Warchief Gauntlets
+Pictish Warchief Leggings
+Pictish Warchief Boots
+Exceptional Pictish Wizard Mask
+Exceptional Pictish Wizard Robe
+Exceptional Pictish Wizard Wraps
+Exceptional Pictish Wizard Skirt
+Exceptional Pictish Wizard Moccasins
+Exceptional Pictish Brave Headgear
+Exceptional Pictish Brave Tunic
+Exceptional Pictish Brave Wristwraps
+Exceptional Pictish Brave Breechclout
+Exceptional Pictish Brave Moccasins
+Exceptional Pictish Warchief Headdress
+Exceptional Pictish Warchief Chestpiece
+Exceptional Pictish Warchief Gauntlets
+Exceptional Pictish Warchief Leggings
+Exceptional Pictish Warchief Boots
+Flawless Pictish Wizard Mask
+Flawless Pictish Wizard Robe
+Flawless Pictish Wizard Wraps
+Flawless Pictish Wizard Skirt
+Flawless Pictish Wizard Moccasins
+Flawless Pictish Brave Headgear
+Flawless Pictish Brave Tunic
+Flawless Pictish Brave Wristwraps
+Flawless Pictish Brave Breechclout
+Flawless Pictish Brave Moccasins
+Flawless Pictish Warchief Headdress
+Flawless Pictish Warchief Chestpiece
+Flawless Pictish Warchief Gauntlets
+Flawless Pictish Warchief Leggings
+Flawless Pictish Warchief Boots
+Pictish Wizard Mask
+Pictish Wizard Robe
+Pictish Wizard Wraps
+Pictish Wizard Skirt
+Pictish Wizard Moccasins
+Pictish Brave Headgear
+Pictish Brave Tunic
+Pictish Brave Wristwraps
+Pictish Brave Breechclout
+Pictish Brave Moccasins
+Pictish Warchief Headdress
+Pictish Warchief Chestpiece
+Pictish Warchief Gauntlets
+Pictish Warchief Leggings
+Pictish Warchief Boots
+Exceptional Pictish Wizard Mask
+Exceptional Pictish Wizard Robe
+Exceptional Pictish Wizard Wraps
+Exceptional Pictish Wizard Skirt
+Exceptional Pictish Wizard Moccasins
+Exceptional Pictish Brave Headgear
+Exceptional Pictish Brave Tunic
+Exceptional Pictish Brave Wristwraps
+Exceptional Pictish Brave Breechclout
+Exceptional Pictish Brave Moccasins
+Exceptional Pictish Warchief Headdress
+Exceptional Pictish Warchief Chestpiece
+Exceptional Pictish Warchief Gauntlets
+Exceptional Pictish Warchief Leggings
+Exceptional Pictish Warchief Boots
+Flawless Pictish Wizard Mask
+Flawless Pictish Wizard Robe
+Flawless Pictish Wizard Wraps
+Flawless Pictish Wizard Skirt
+Flawless Pictish Wizard Moccasins
+Flawless Pictish Brave Headgear
+Flawless Pictish Brave Tunic
+Flawless Pictish Brave Wristwraps
+Flawless Pictish Brave Breechclout
+Flawless Pictish Brave Moccasins
+Flawless Pictish Warchief Headdress
+Flawless Pictish Warchief Chestpiece
+Flawless Pictish Warchief Gauntlets
+Flawless Pictish Warchief Leggings
+Flawless Pictish Warchief Boots
+Pictish Longsword
+Pictish Greatsword
+Pictish Daggers
+Pictish Club
+Pictish Warhammer
+Pictish Bow
+Pictish Longspear
+Pictish Shield
+Pictish Javelin
+xx_Pict_Spear_Projectile
+Pictish Axe
+xx_Pict_ThrowingAxe_Projectile
+Exceptional Pictish Longsword
+Exceptional Pictish Greatsword
+Exceptional Pictish Daggers
+Exceptional Pictish Club
+Exceptional Pictish Warhammer
+Exceptional Pictish Bow
+Exceptional Pictish Longspear
+Exceptional Pictish Shield
+Exceptional Pictish Javelin
+xx_Pict_Spear_Projectile
+Exceptional Pictish Axe
+xx_Exceptional_Pict_ThrowingAxe_Projectile
+Flawless Pictish Longsword
+Flawless Pictish Greatsword
+Flawless Pictish Daggers
+Flawless Pictish Club
+Flawless Pictish Warhammer
+Flawless Pictish Bow
+Flawless Pictish Longspear
+Flawless Pictish Shield
+Flawless Pictish Javelin
+xx_Pict_Spear_Projectile
+Flawless Pictish Axe
+xx_Flawless_Pict_ThrowingAxe_Projectile
+Pictish Longsword
+Pictish Greatsword
+Pictish Daggers
+Pictish Club
+Pictish Warhammer
+Pictish Bow
+Pictish Longspear
+Pictish Shield
+Pictish Javelin
+xx_Pict_Spear_Projectile
+Pictish Axe
+xx_Pict_ThrowingAxe_Projectile
+Exceptional Pictish Longsword
+Exceptional Pictish Greatsword
+Exceptional Pictish Daggers
+Exceptional Pictish Club
+Exceptional Pictish Warhammer
+Exceptional Pictish Bow
+Exceptional Pictish Longspear
+Exceptional Pictish Shield
+Exceptional Pictish Javelin
+xx_Pict_Spear_Projectile
+Exceptional Pictish Axe
+xx_Exceptional_Pict_ThrowingAxe_Projectile
+Flawless Pictish Longsword
+Flawless Pictish Greatsword
+Flawless Pictish Daggers
+Flawless Pictish Club
+Flawless Pictish Warhammer
+Flawless Pictish Bow
+Flawless Pictish Longspear
+Flawless Pictish Shield
+Flawless Pictish Javelin
+xx_Pict_Spear_Projectile
+Flawless Pictish Axe
+xx_Endgame_Flawless_Pict_ThrowingAxe_Projectile
+Pictish War-Axe
+Exceptional Pictish War-Axe
+Flawless Pictish War-Axe
+Pictish War-Axe
+Exceptional Pictish War-Axe
+Flawless Pictish War-Axe
+Frontier Foundation
+Frontier Wall
+Frontier Left-Sloping Wall
+Frontier Right-Sloping Wall
+Frontier Left-Sloping Inverted Wall
+Frontier Right-Sloping Inverted Wall
+Frontier Ceiling
+Frontier Doorframe
+Frontier Stairs
+Frontier Stairs (rail)
+Frontier Stairs Corner
+Frontier Ramp
+Frontier Ramp Corner
+Frontier Wedge
+Frontier Wedge Foundation
+Frontier Frame
+Frontier Door
+Frontier Pillar
+Frontier Fence
+Frontier Fence Foundation
+Frontier Sloped Roof
+Frontier Inverted Wedge Sloped Roof
+Frontier Wedged Sloped Roof
+Frontier Sloped Roof Corner
+Frontier Inverted Sloped Roof Corner
+Frontier Rooftop End
+Frontier Rooftop
+Frontier Rooftop Corner
+Frontier Rooftop Junction
+Frontier Rooftop Intersection
+Frontier Rooftop Cap
+Frontier Wall Cap
+Frontier Crenelated Wall
+Frontier Gate Frame
+Frontier Gate Door
+Frontier Hatch Frame
+Frontier Hatch Door
+Frontier Awning
+Frontier Awning Corner
+Shoebill
+Bear
+Panther
+Shaleback
+Wolf
+Totemic Fodder
+Shoebill
+Shoebill
+Greater Bear
+Greater Panther
+Greater Wolf
+Shaleback
+Shaleback
+Shaleback
+Warpaint - Sky Watch
+Warpaint - Aegis
+Warpaint - Blessed
+Warpaint - Bravery
+Warpaint - Rule
+Aquilonian Scout Headgear
+Aquilonian Scout Vest
+Aquilonian Scout Wraps
+Aquilonian Scout Pteruges
+Aquilonian Scout Sandals
+Aquilonian Infantry Helm
+Aquilonian Infantry Cuirass
+Aquilonian Infantry Bracers
+Aquilonian Infantry Pteruges
+Aquilonian Infantry Sandals
+Black Dragon Helm
+Black Dragon Cuirass
+Black Dragon Gauntlets
+Black Dragon Pteruges
+Black Dragon Sandals
+Exceptional Aquilonian Scout Headgear
+Exceptional Aquilonian Scout Vest
+Exceptional Aquilonian Scout Wraps
+Exceptional Aquilonian Scout Pteruges
+Exceptional Aquilonian Scout Sandals
+Exceptional Aquilonian Infantry Helm
+Exceptional Aquilonian Infantry Cuirass
+Exceptional Aquilonian Infantry Bracers
+Exceptional Aquilonian Infantry Pteruges
+Exceptional Aquilonian Infantry Sandals
+Exceptional Black Dragon Helm
+Exceptional Black Dragon Cuirass
+Exceptional Black Dragon Gauntlets
+Exceptional Black Dragon Pteruges
+Exceptional Black Dragon Sandals
+Flawless Aquilonian Scout Headgear
+Flawless Aquilonian Scout Vest
+Flawless Aquilonian Scout Wraps
+Flawless Aquilonian Scout Pteruges
+Flawless Aquilonian Scout Sandals
+Flawless Aquilonian Infantry Helm
+Flawless Aquilonian Infantry Cuirass
+Flawless Aquilonian Infantry Bracers
+Flawless Aquilonian Infantry Pteruges
+Flawless Aquilonian Infantry Sandals
+Flawless Black Dragon Helm
+Flawless Black Dragon Cuirass
+Flawless Black Dragon Gauntlets
+Flawless Black Dragon Pteruges
+Flawless Black Dragon Sandals
+Aquilonian Scout Headgear
+Aquilonian Scout Vest
+Aquilonian Scout Wraps
+Aquilonian Scout Pteruges
+Aquilonian Scout Sandals
+Aquilonian Infantry Helm
+Aquilonian Infantry Cuirass
+Aquilonian Infantry Bracers
+Aquilonian Infantry Pteruges
+Aquilonian Infantry Sandals
+Black Dragon Helm
+Black Dragon Cuirass
+Black Dragon Gauntlets
+Black Dragon Pteruges
+Black Dragon Sandals
+Exceptional Aquilonian Scout Headgear
+Exceptional Aquilonian Scout Vest
+Exceptional Aquilonian Scout Wraps
+Exceptional Aquilonian Scout Pteruges
+Exceptional Aquilonian Scout Sandals
+Exceptional Aquilonian Infantry Helm
+Exceptional Aquilonian Infantry Cuirass
+Exceptional Aquilonian Infantry Bracers
+Exceptional Aquilonian Infantry Pteruges
+Exceptional Aquilonian Infantry Sandals
+Exceptional Black Dragon Helm
+Exceptional Black Dragon Cuirass
+Exceptional Black Dragon Gauntlets
+Exceptional Black Dragon Pteruges
+Exceptional Black Dragon Sandals
+Flawless Aquilonian Scout Headgear
+Flawless Aquilonian Scout Vest
+Flawless Aquilonian Scout Wraps
+Flawless Aquilonian Scout Pteruges
+Flawless Aquilonian Scout Sandals
+Flawless Aquilonian Infantry Helm
+Flawless Aquilonian Infantry Cuirass
+Flawless Aquilonian Infantry Bracers
+Flawless Aquilonian Infantry Pteruges
+Flawless Aquilonian Infantry Sandals
+Flawless Black Dragon Helm
+Flawless Black Dragon Cuirass
+Flawless Black Dragon Gauntlets
+Flawless Black Dragon Pteruges
+Flawless Black Dragon Sandals
+Aquilonian Longsword
+Aquilonian Greatsword
+Aquilonian Poniards
+Aquilonian Mace
+Aquilonian Warhammer
+Bossonian Bow
+Aquilonian Pike
+Aquilonian Shield
+Aquilonian Javelin
+Aquilonian Javelin
+Aquilonian Throwing Axe
+Aquilonian Throwing Axe
+Exceptional Aquilonian Longsword
+Exceptional Aquilonian Greatsword
+Exceptional Aquilonian Poniards
+Exceptional Aquilonian Mace
+Exceptional Aquilonian Warhammer
+Exceptional Bossonian Bow
+Exceptional Aquilonian Pike
+Exceptional Aquilonian Shield
+Exceptional Aquilonian Javelin
+Exceptional Aquilonian Javelin
+Exceptional Aquilonian Throwing Axe
+Exceptional Aquilonian Throwing Axe
+Flawless Aquilonian Longsword
+Flawless Aquilonian Greatsword
+Flawless Aquilonian Poniards
+Flawless Aquilonian Mace
+Flawless Aquilonian Warhammer
+Flawless Bossonian Bow
+Flawless Aquilonian Pike
+Flawless Aquilonian Shield
+Flawless Aquilonian Javelin
+Flawless Aquilonian Javelin
+Flawless Aquilonian Throwing Axe
+Flawless Aquilonian Throwing Axe
+Aquilonian Longsword
+Aquilonian Greatsword
+Aquilonian Poniards
+Aquilonian Mace
+Aquilonian Warhammer
+Bossonian Bow
+Aquilonian Pike
+Aquilonian Shield
+Aquilonian Javelin
+Aquilonian Javelin
+Aquilonian Throwing Axe
+Aquilonian Throwing Axe
+Exceptional Aquilonian Longsword
+Exceptional Aquilonian Greatsword
+Exceptional Aquilonian Poniards
+Exceptional Aquilonian Mace
+Exceptional Aquilonian Warhammer
+Exceptional Bossonian Bow
+Exceptional Aquilonian Pike
+Exceptional Aquilonian Shield
+Exceptional Aquilonian Javelin
+Exceptional Aquilonian Javelin
+Exceptional Aquilonian Throwing Axe
+Exceptional Aquilonian Throwing Axe
+Flawless Aquilonian Longsword
+Flawless Aquilonian Greatsword
+Flawless Aquilonian Poniards
+Flawless Aquilonian Mace
+Flawless Aquilonian Warhammer
+Flawless Bossonian Bow
+Flawless Aquilonian Pike
+Flawless Aquilonian Shield
+Flawless Aquilonian Javelin
+Flawless Aquilonian Javelin
+Flawless Aquilonian Throwing Axe
+Flawless Aquilonian Throwing Axe
+Aquilonian War-Axe
+Exceptional Aquilonian War-Axe
+Flawless Aquilonian War-Axe
+Aquilonian War-Axe
+Exceptional Aquilonian War-Axe
+Flawless Aquilonian War-Axe
+Aquilonian Artisan Table
+Aquilonian Foundation
+Aquilonian Wall
+Aquilonian Left-Sloping Wall
+Aquilonian Right-Sloping Wall
+Aquilonian Left-Sloping Inverted Wall
+Aquilonian Right-Sloping Inverted Wall
+Aquilonian Ceiling
+Aquilonian Doorframe
+Aquilonian Stairs
+Aquilonian Stairs (rail)
+Aquilonian Stairs Corner
+Aquilonian Ramp
+Aquilonian Ramp Corner
+Aquilonian Wedge
+Aquilonian Wedge Foundation
+Aquilonian Frame
+Aquilonian Door
+Aquilonian Pillar
+Aquilonian Fence
+Aquilonian Fence Foundation
+Aquilonian Sloped Roof
+Aquilonian Inverted Wedge Sloped Roof
+Aquilonian Wedge Sloped Roof
+Aquilonian Sloped Roof Corner
+Aquilonian Inverted Sloped Roof Corner
+Aquilonian Rooftop End
+Aquilonian Rooftop
+Aquilonian Rooftop Corner
+Aquilonian Rooftop Junction
+Aquilonian Rooftop Intersection
+Aquilonian Rooftop Cap
+Aquilonian Wall Cap
+Aquilonian Crenelated Wall
+Aquilonian Gate Frame
+Aquilonian Gate Door
+Aquilonian Hatch Frame
+Aquilonian Hatch Door
+Aquilonian Awning
+Aquilonian Awning Corner
+Aquilonian Folding Screen
+Ornate Single Bed
+Aquilonian Vanity Table
+Aquilonian Brazier
+Aquilonian Brazier
+Aquilonian Brazier
+Aquilonian Councillor Chair
+Aquilonian Chair
+Aquilonian Chair
+Aquilonian Divan
+Writing Desk 
+Aquilonian Flag
+Aquilonian Flag
+Harp
+Aquilonian Jar
+Aquilonian Jar
+Aquilonian Jar
+Aquilonian Statue
+Aquilonian Statue
+Aquilonian Statue
+Aquilonian Statue
+Aquilonian Table
+Aquilonian Wall Torch
+Aquilonian Carpet
+Warpaint - Dreams of the East
+Warpaint - The Silken Path
+Warpaint - Scent of the Lotus
+Warpaint - The Purple Towers
+Warpaint - Godslayer's Tears
+Khitan Mercenary Headband
+Khitan Mercenary Cuirass
+Khitan Mercenary Bracers
+Khitan Mercenary Tasset
+Khitan Mercenary Footgear
+Khitan Captain Helm
+Khitan Captain Dingjia
+Khitan Captain Bracers
+Khitan Captain Tasset
+Khitan Captain Boots
+Khitan Imperial Helm
+Khitan Imperial Breastplate
+Khitan Imperial Bracers
+Khitan Imperial Tasset
+Khitan Imperial Boots
+Exceptional Khitan Mercenary Headband
+Exceptional Khitan Mercenary Cuirass
+Exceptional Khitan Mercenary Bracers
+Exceptional Khitan Mercenary Tasset
+Exceptional Khitan Mercenary Footgear
+Exceptional Khitan Captain Helm
+Exceptional Khitan Captain Dingjia
+Exceptional Khitan Captain Bracers
+Exceptional Khitan Captain Tasset
+Exceptional Khitan Captain Boots
+Exceptional Khitan Imperial Helm
+Exceptional Khitan Imperial Breastplate
+Exceptional Khitan Imperial Bracers
+Exceptional Khitan Imperial Tasset
+Exceptional Khitan Imperial Boots
+Flawless Khitan Mercenary Headband
+Flawless Khitan Mercenary Cuirass
+Flawless Khitan Mercenary Bracers
+Flawless Khitan Mercenary Tasset
+Flawless Khitan Mercenary Footgear
+Flawless Khitan Captain Helm
+Flawless Khitan Captain Dingjia
+Flawless Khitan Captain Bracers
+Flawless Khitan Captain Tasset
+Flawless Khitan Captain Boots
+Flawless Khitan Imperial Helm
+Flawless Khitan Imperial Breastplate
+Flawless Khitan Imperial Bracers
+Flawless Khitan Imperial Tasset
+Flawless Khitan Imperial Boots
+Khitan Mercenary Headband
+Khitan Mercenary Cuirass
+Khitan Mercenary Bracers
+Khitan Mercenary Tasset
+Khitan Mercenary Footgear
+Khitan Captain Helm
+Khitan Officer Dingjia
+Khitan Captain Bracers
+Khitan Captain Tasset
+Khitan Captain Boots
+Khitan Imperial Helm
+Khitan Imperial Breastplate
+Khitan Imperial Bracers
+Khitan Imperial Tasset
+Khitan Imperial Boots
+Exceptional Khitan Mercenary Headband
+Exceptional Khitan Mercenary Cuirass
+Exceptional Khitan Mercenary Bracers
+Exceptional Khitan Mercenary Tasset
+Exceptional Khitan Mercenary Footgear
+Exceptional Khitan Captain Helm
+Exceptional Khitan Captain Dingjia
+Exceptional Khitan Captain Bracers
+Exceptional Khitan Captain Tasset
+Exceptional Khitan Captain Boots
+Exceptional Khitan Imperial Helm
+Exceptional Khitan Imperial Breastplate
+Exceptional Khitan Imperial Bracers
+Exceptional Khitan Imperial Tasset
+Exceptional Khitan Imperial Boots
+Flawless Khitan Mercenary Headband
+Flawless Khitan Mercenary Cuirass
+Flawless Khitan Mercenary Bracers
+Flawless Khitan Mercenary Tasset
+Flawless Khitan Mercenary Footgear
+Flawless Khitan Captain Helm
+Flawless Khitan Captain Dingjia
+Flawless Khitan Captain Bracers
+Flawless Khitan Captain Tasset
+Flawless Khitan Captain Boots
+Flawless Khitan Imperial Helm
+Flawless Khitan Imperial Breastplate
+Flawless Khitan Imperial Bracers
+Flawless Khitan Imperial Tasset
+Flawless Khitan Imperial Boots
+Khitan Jian
+Khitan Great Jian
+Khitan Dual-dao
+Khitan Mace
+Khitan Warclub
+Khitan Bow
+Khitan Quiang
+Khitan Shield
+Khitan Javelin
+Khitan Javelin
+Khitan Throwing Axe
+Khitan Throwing Axe
+Exceptional Khitan Jian
+Exceptional Khitan Great Jian
+Exceptional Khitan Dual-dao
+Exceptional Khitan Mace
+Exceptional Khitan Warclub
+Exceptional Khitan Bow
+Exceptional Khitan Quiang
+Exceptional Khitan Shield
+Exceptional Khitan Javelin
+Exceptional Khitan Javelin
+Exceptional Khitan Throwing Axe
+Exceptional Khitan Throwing Axe
+Flawless Khitan Jian
+Flawless Khitan Great Jian
+Flawless Khitan Dual-dao
+Flawless Khitan Mace
+Flawless Khitan Warclub
+Flawless Khitan Bow
+Flawless Khitan Quiang
+Flawless Khitan Shield
+Flawless Khitan Javelin
+Flawless Khitan Javelin
+Flawless Khitan Throwing Axe
+Flawless Khitan Throwing Axe
+Khitan Jian
+Khitan Great Jian
+Khitan Dual-dao
+Khitan Mace
+Khitan Warclub
+Khitan Bow
+Khitan Quiang
+Khitan Shield
+Khitan Javelin
+Khitan Javelin
+Khitan Throwing Axe
+Khitan Throwing Axe
+Exceptional Khitan Jian
+Exceptional Khitan Great Jian
+Exceptional Khitan Dual-dao
+Exceptional Khitan Mace
+Exceptional Khitan Warclub
+Exceptional Khitan Bow
+Exceptional Khitan Quiang
+Exceptional Khitan Shield
+Exceptional Khitan Javelin
+Exceptional Khitan Javelin
+Exceptional Khitan Throwing Axe
+Exceptional Khitan Throwing Axe
+Flawless Khitan Jian
+Flawless Khitan Great Jian
+Flawless Khitan Dual-dao
+Flawless Khitan Mace
+Flawless Khitan Warclub
+Flawless Khitan Bow
+Flawless Khitan Quiang
+Flawless Khitan Shield
+Flawless Khitan Javelin
+Flawless Khitan Javelin
+Flawless Khitan Throwing Axe
+Flawless Khitan Throwing Axe
+Khitan War-axe
+Exceptional Khitan War-axe
+Flawless Khitan War-axe
+Khitan War-axe
+Exceptional Khitan War-axe
+Flawless Khitan War-axe
+Khitan Artisan Table
+Khitan Foundation
+Khitan Wall
+Khitan Left-Sloping Wall
+Khitan Right-Sloping Wall
+Khitan Left-Sloping Inverted Wall
+Khitan Right-Sloping Inverted Wall
+Khitan Ceiling
+Khitan Doorframe
+Khitan Stairs
+Khitan Stairs (rail)
+Khitan Stairs Corner
+Khitan Ramp
+Khitan Ramp Corner
+Khitan Wedge
+Khitan Wedge Foundation
+Khitan Frame
+Khitan Door
+Khitan Pillar
+Khitan Fence
+Khitan Fence Foundation
+Khitan Sloped Roof
+Khitan Inverted Wedge Sloped Roof
+Khitan Wedge Sloped Roof
+Khitan Sloped Roof Corner
+Khitan Inverted Sloped Roof Corner
+Khitan Rooftop End
+Khitan Rooftop
+Khitan Rooftop Corner
+Khitan Rooftop Junction
+Khitan Rooftop Intersection
+Khitan Rooftop Cap
+Khitan Wall Cap
+Khitan Crenelated Wall
+Khitan Gate Frame
+Khitan Gate Door
+Khitan Hatch Frame
+Khitan Hatch Door
+Khitan Awning
+Khitan Awning Corner
+Khitan Brazier
+Khitan Brazier
+Jade Cat Idol
+Iron Cauldron
+Iron Cauldron
+Iron Cauldron
+Iron Cauldron
+Khitan Wooden Seat
+Khitan Pot
+Khitan Zheng
+Khitan Table
+Khitan Table
+Khitan Folding Screen
+Khitan Dragon Idol
+Khitan Foot-rest
+Khitan Tapestry
+Khitan Legionary Statue
+Khitan Lamp
+Khitan Lamp
+Khitan Drum
+Khitan Carpet
+Khitan Carpet
+Khitan Chair
+Khitan Jar
+Poitain Footman Helm
+Poitain Footman Chestplate
+Poitain Footman Bracers
+Poitain Footman Tasset
+Poitain Footman Boots
+Poitain Campaign Helm
+Poitain Campaign Chestplate
+Poitain Campaign Gauntlets
+Poitain Campaign Greaves
+Poitain Campaign Boots
+Poitain Cavalier Helm
+Poitain Cavalier Chestplate
+Poitain Cavalier Gauntlets
+Poitain Cavalier Greaves
+Poitain Cavalier Boots
+Exceptional Poitain Footman Helm
+Exceptional Poitain Footman Chestplate
+Exceptional Poitain Footman Bracers
+Exceptional Poitain Footman Tasset
+Exceptional Poitain Footman Boots
+Exceptional Poitain Campaign Helm
+Exceptional Poitain Campaign Chestplate
+Exceptional Poitain Campaign Gauntlets
+Exceptional Poitain Campaign Greaves
+Exceptional Poitain Campaign Boots
+Exceptional Poitain Cavalier Helm
+Exceptional Poitain Cavalier Chestplate
+Exceptional Poitain Cavalier Gauntlets
+Exceptional Poitain Cavalier Greaves
+Exceptional Poitain Cavalier Boots
+Flawless Poitain Footman Helm
+Flawless Poitain Footman Chestplate
+Flawless Poitain Footman Bracers
+Flawless Poitain Footman Tasset
+Flawless Poitain Footman Boots
+Flawless Poitain Campaign Helm
+Flawless Poitain Campaign Chestplate
+Flawless Poitain Campaign Gauntlets
+Flawless Poitain Campaign Greaves
+Flawless Poitain Campaign Boots
+Flawless Poitain Cavalier Helm
+Flawless Poitain Cavalier Chestplate
+Flawless Poitain Cavalier Gauntlets
+Flawless Poitain Cavalier Greaves
+Flawless Poitain Cavalier Boots
+Poitain Footman Helm (Epic)
+Poitain Footman Chestplate (Epic)
+Poitain Footman Bracers (Epic)
+Poitain Footman Tasset (Epic)
+Poitain Footman Boots (Epic)
+Poitain Campaign Helm (Epic)
+Poitain Campaign Chestplate (Epic)
+Poitain Campaign Gauntlets (Epic)
+Poitain Campaign Greaves (Epic)
+Poitain Campaign Boots (Epic)
+Poitain Cavalier Helm (Epic)
+Poitain Cavalier Chestplate (Epic)
+Poitain Cavalier Gauntlets (Epic)
+Poitain Cavalier Greaves (Epic)
+Poitain Cavalier Boots (Epic)
+Exceptional Poitain Footman Helm (Epic)
+Exceptional Poitain Footman Chestplate (Epic)
+Exceptional Poitain Footman Bracers (Epic)
+Exceptional Poitain Footman Tasset (Epic)
+Exceptional Poitain Footman Boots (Epic)
+Exceptional Poitain Campaign Helm (Epic)
+Exceptional Poitain Campaign Chestplate (Epic)
+Exceptional Poitain Campaign Gauntlets (Epic)
+Exceptional Poitain Campaign Greaves (Epic)
+Exceptional Poitain Campaign Boots (Epic)
+Exceptional Poitain Cavalier Helm (Epic)
+Exceptional Poitain Cavalier Chestplate (Epic)
+Exceptional Poitain Cavalier Gauntlets (Epic)
+Exceptional Poitain Cavalier Greaves (Epic)
+Exceptional Poitain Cavalier Boots (Epic)
+Flawless Poitain Footman Helm (Epic)
+Flawless Poitain Footman Chestplate (Epic)
+Flawless Poitain Footman Bracers (Epic)
+Flawless Poitain Footman Tasset (Epic)
+Flawless Poitain Footman Boots (Epic)
+Flawless Poitain Campaign Helm (Epic)
+Flawless Poitain Campaign Chestplate (Epic)
+Flawless Poitain Campaign Gauntlets (Epic)
+Flawless Poitain Campaign Greaves (Epic)
+Flawless Poitain Campaign Boots (Epic)
+Flawless Poitain Cavalier Helm (Epic)
+Flawless Poitain Cavalier Chestplate (Epic)
+Flawless Poitain Cavalier Gauntlets (Epic)
+Flawless Poitain Cavalier Greaves (Epic)
+Flawless Poitain Cavalier Boots (Epic)
+Poitain Sword
+Poitain Greatsword
+Poitain Mace
+Poitain Warhammer
+Poitain Bow
+Poitain Pike
+Poitain Great Axe
+Poitain Katana
+Poitain War-Axe
+Exceptional Poitain Sword
+Exceptional Poitain Greatsword
+Exceptional Poitain Mace
+Exceptional Poitain Warhammer
+Exceptional Poitain Bow
+Exceptional Poitain Pike
+Exceptional Poitain Great Axe
+Exceptional Poitain Katana
+Exceptional Poitain War-Axe
+Flawless Poitain Sword
+Flawless Poitain Greatsword
+Flawless Poitain Mace
+Flawless Poitain Warhammer
+Flawless Poitain Bow
+Flawless Poitain Pike
+Flawless Poitain Great Axe
+Flawless Poitain Katana
+Flawless Poitain War-Axe
+Poitain Sword (Epic)
+Poitain Greatsword (Epic)
+Poitain Mace (Epic)
+Poitain Warhammer (Epic)
+Poitain Bow (Epic)
+Poitain Pike (Epic)
+Poitain Great Axe (Epic)
+Poitain Katana (Epic)
+Poitain War-Axe (Epic)
+Exceptional Poitain Sword (Epic)
+Exceptional Poitain Greatsword (Epic)
+Exceptional Poitain Mace (Epic)
+Exceptional Poitain Warhammer (Epic)
+Exceptional Poitain Bow (Epic)
+Exceptional Poitain Pike (Epic)
+Exceptional Poitain Great Axe (Epic)
+Exceptional Poitain Katana (Epic)
+Exceptional Poitain War-Axe (Epic)
+Flawless Poitain Sword (Epic)
+Flawless Poitain Greatsword (Epic)
+Flawless Poitain Mace (Epic)
+Flawless Poitain Warhammer (Epic)
+Flawless Poitain Bow (Epic)
+Flawless Poitain Pike (Epic)
+Flawless Poitain Great Axe (Epic)
+Flawless Poitain Katana (Epic)
+Flawless Poitain War-Axe (Epic)
+Stable Foundation
+Hay-Covered Stable Foundation (Variant A)
+Wedge Foundation
+Hay-Covered Stable Foundation (Variant B)
+Stable Ceiling
+Hay-Covered Stable Ceiling
+Stable Ceiling Wedge
+Hay-Covered Stable Ceiling Wedge
+Lattice Wall
+Lattice Wall (Half height)
+Lattice Door Frame
+Lattice Door
+Stable Fence
+Stable Fence Gate Frame
+Stable Fence Gate Frame (Pillars)
+Stable Fence Gate
+Large Stable Fence Gate Frame
+Large Stable Fence Gate Frame (Pillars)
+Large Stable Fence Gate
+Wooden Support Strut
+Stable Fence (Pillars)
+Stable Pillars
+Stable Wall
+Stable Fence Foundation
+Haystack
+Cart
+Cart with barrels
+Cart Wheel
+Food Trough
+Water Trough
+Log Pile
+Weather Vane - Dragon
+Weather Vane - Wolf
+Weather Vane - Sword
+Paved Stone Walkway (Variant A)
+Wheelbarrow
+Small Haystack
+Paved Stone Walkway (Variant B)
+Poitain Warhorse Saddle
+Silent Legion Warhorse Saddle
+Noble Scout Saddle
+Khitai Scout Saddle
+Yamatai Cavalry Saddle
+Turan Cavalry Saddle
+Aquilonian Scout Saddle
+Savage Cavalry Saddle
+Warhorse Saddle Light
+Warhorse Saddle Medium
+Warhorse Saddle Heavy
+Black Horse (Pet)
+White Horse (Pet)
+Tainted Fodder
+Poitain Light Lance
+Exceptional Poitain Light Lance
+Flawless Poitain Light Lance
+Poitain Heavy Lance
+Exceptional Poitain Heavy Lance
+Flawless Poitain Heavy Lance
+Poitain Light Lance (Epic)
+Exceptional Poitain Light Lance (Epic)
+Flawless Poitain Light Lance (Epic)
+Poitain Heavy Lance (Epic)
+Exceptional Poitain Heavy Lance (Epic)
+Flawless Poitain Heavy Lance (Epic)
+Lance
+Exceptional Lance
+Flawless Lance
+Strong Lance
+Exceptional Strong Lance
+Flawless Strong Lance

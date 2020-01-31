@@ -1,0 +1,29 @@
+=NPC_Wolf=
+MonsterHealth - 988
+MonsterArmor - 65
+KBDefense - 40
+
+=NPC_WolfDire=
+MonsterHealth - 4722
+MonsterArmor - 65
+KBDefense - 40
+
+=NPC_Bear=
+MonsterHealth - 1544
+MonsterArmor - 78
+KBDefense - 70
+
+=NPC_BearMiniBoss=
+MonsterArmor - 4474
+MonsterArmor - 72
+KBDefense - 70
+
+=NPC_Tiger=
+MonsterHealth - 3000
+MonsterArmor - 59
+KBDefense - 80
+
+=NPC_TigerMiniboss=
+MonsterHealth - 4500
+MonsterArmor - 72
+KBDefense - 50

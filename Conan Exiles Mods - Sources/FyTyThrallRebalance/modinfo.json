@@ -1,0 +1,16 @@
+{
+	"name": "FiftyTifty - Thrall Rebalance",
+	"description": "-Lifts all human enemies up to level 50\n-Buffs tier 1, 2, & 3 thralls\n-Reduces the thralls' health to that of the unconverted thralls\n-Also applies to animals, monsters, pets, and bosses :D",
+	"changeNote": "Lost everything in a reinstall of Windows, so I went ahead and rebuilt it from the ground up, balanced everything added in the updates, and broadened the scope to animals, monsters, and bosses.\n\nThis took about an hour and a half to make. You're bloody welcome like.",
+	"author": "FiftyTifty",
+	"authorUrl": "https://steamcommunity.com/id/Aigfachteraunble/",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1905001293",
+	"steamVisibility": 0,
+	"folderName": "FyTyThrallRebalance",
+	"revisionNumber": 149648,
+	"snapshotId": 22316
+}

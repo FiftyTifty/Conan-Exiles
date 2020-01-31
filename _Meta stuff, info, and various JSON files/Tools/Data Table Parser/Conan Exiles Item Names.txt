@@ -1,0 +1,107 @@
+_None
+Heavy Helmet Padding
+Heavy Chest Padding
+Heavy Gauntlet Lining
+Heavy Legging Lining
+Heavy Boot Lining
+Perfected Heavy Helmet Padding
+Perfected Heavy Chest Padding
+Perfected Heavy Gauntlet Lining
+Perfected Heavy Legging Lining
+Perfected Heavy Boot Lining
+Medium Helmet Padding
+Medium Chest Padding
+Medium Gauntlet Lining
+Medium Legging Lining
+Medium Boot Lining
+Perfected Medium Helmet Padding
+Perfected Medium Chest Padding
+Perfected Medium Gauntlet Lining
+Perfected Medium Legging Lining
+Perfected Medium Boot Lining
+Light Turban
+Light Chestpiece
+Light Gauntlets
+Light Wrap
+Light Boots
+Perfected Light Helmet Padding
+Perfected Light Chest Padding
+Perfected Light Gloves Lining
+Perfected Light Legging Lining
+Perfected Light Boot Lining
+Branch
+Stone
+Brick
+Hardened Brick
+Wood
+Insulated Wood
+Shaped Wood
+Iron Reinforcement
+Steel Reinforcement
+Iron Bar
+Steel Bar
+Silver Bar
+Gold Bar
+Hardened Steel Bar
+Composite Obsidian
+Star Metal Bar
+Rhino Hide
+Hyena Pelt
+Elephant Hide
+Feline Pelt
+Bear Pelt
+Bat Skin
+Wolf Pelt
+Hide
+Thick Hide
+Reptile Hide
+Fur
+Layered Fur
+Plant Fiber
+Twine
+Gossamer
+Silk
+Layered Silk
+Feather
+Ivory
+Bone
+Dragonbone
+Weathered Skull
+Fangs
+Tusks
+Horn
+Dragonhorn
+Blood
+Black Blood
+Demon Blood
+Albino Bat Demon Blood
+Sacred Blood
+Serpent Venom Gland
+Sand Reaper Toxin Gland
+Scorpion Queen Venom Gland
+Sandbeast Bile Gland
+Volatile Gland
+Crystal
+Brimstone
+Tar
+Ichor
+Resin
+Steelfire
+Alchemical Base
+Dragonpowder
+Human Heart
+Heart of a Hero
+Heart of the Kinscourge
+Leather
+Thick Leather
+Hardened Leather
+Ice Shard
+Ice
+Black Ice
+Short Handle
+Long Handle
+Dagger Handle
+Spear Handle
+Throwing Axe Handle
+Shield Frame
+Sturdy String

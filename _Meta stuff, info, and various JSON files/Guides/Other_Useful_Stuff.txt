@@ -1,0 +1,101 @@
+----------------------------------------------------------------------
+Conan Exiles Wiki
+----------------------------------------------------------------------
+	https://conanexiles.gamepedia.com/Conan_Exiles_Wiki
+
+	https://forums.funcom.com/t/purge-101-how-it-works-and-other-things-you-should-know/40524
+
+----------------------------------------------------------------------
+Updating your Conan Mod Tags on Steam (many thanks to EZee_AP)
+----------------------------------------------------------------------
+https://www.dropbox.com/s/vg0fqw5y1ke1r3e/CETagUpdator.zip?dl=0
+
+Other tools by EZee_AP:
+Heightmap splitting tool: 
+https://cdn.discordapp.com/attachments/273869365353644032/536502886780370954/HM_Split.zip
+
+Temperature Heat Map color calc: 
+https://cdn.discordapp.com/attachments/273869365353644032/536498268293562368/TempCalc.zip
+
+Thrall spawn finder
+https://conanexiles.gamepedia.com/User:Testerle?debug=true&wid=BlackHandPirArcher_Random
+
+----------------------------------------------------------------------
+All Conan books available online
+----------------------------------------------------------------------
+https://ebooks.adelaide.edu.au/h/howard/robert_e/index.html
+
+----------------------------------------------------------------------
+Unreal Engine resources
+----------------------------------------------------------------------
+	https://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html
+	https://www.blaenkdenum.com/notes/unreal-engine/
+	http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf
+	https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ
+	https://academy.unrealengine.com/Browse/game-development
+	https://www.youtube.com/user/UnrealDevelopmentKit/search?query=tutorial
+
+Unreal Marketplace
+	https://www.unrealengine.com/marketplace/store
+	https://www.unrealengine.com/marketplace/free
+
+----------------------------------------------------------------------
+Tools
+----------------------------------------------------------------------
+An excellent sharing of blueprint utility for UE:
+https://blueprintue.com
+
+A spreadsheet tool for easy editing of the ItemTable and RecipesTable:
+https://www.dropbox.com/s/ybqywh43gd2jq1o/DataTableExporter.zip?dl=0
+
+The Blood .PNG file used internally to apply blood to weapons:
+https://www.dropbox.com/s/bbzg8q0soj27wvc/blood_for_substance_heightmap_2.png?dl=0
+
+By CORINTIO: (An empty Warpaint Icon)
+https://www.dropbox.com/s/xgfmsnw2tlv0dg5/Null_Warpaint_Icon.rar?dl=0
+
+By EZEE_AP: (A way to load new maps on a dedicated server)
+https://cdn.discordapp.com/attachments/273869365353644032/534831885424263168/MapPatch.zip
+or here: https://steamcommunity.com/sharedfiles/filedetails/?id=1625854669
+
+----------------------------------------------------------------------
+Guides by modders
+----------------------------------------------------------------------
+By SHADOWCMD:
+https://www.dropbox.com/s/4c5yyr5j4umwllj/HowToSetupTheModController.pdf?dl=0
+
+By SNOWHUNTER:
+https://cdn.discordapp.com/attachments/273869365353644032/486617511643840512/SnowHunters_Conan_Exiles_Heightmap_Map_Modding_Guide.pdf
+
+By BUMBLE:  
+https://cdn.discordapp.com/attachments/280392515625025537/402225370763493377/Setting_up_UE4_Conan_DevKit_to_use_Git_on_Win10_v1.pdf
+
+By DR.NASH:
+https://cdn.discordapp.com/attachments/280392515625025537/458628637957292042/CE_Dev_Kit_Tutorial_-_Mask_Layers.pdf
+
+By DARMOK: (Clothing)
+https://docs.google.com/document/d/19BdgQW4_qvIpYi5qyB-MGA5OBrQy-y_6atPMmP-TD2g/edit?usp=sharing
+
+By DEATH2MONGO:
+https://www.youtube.com/watch?v=w5586KVcc9w
+https://www.youtube.com/watch?v=hFKYATpF_KI
+https://www.youtube.com/watch?v=grfvYJPuAhU
+https://www.youtube.com/watch?v=-rHTkYt6RMs
+
+By HELLSBREATH:
+https://www.youtube.com/watch?v=VK2LUtZi_gY
+https://www.youtube.com/watch?v=FHcFzoTausc
+https://www.youtube.com/watch?v=_NosOuxE3AQ
+https://www.youtube.com/watch?v=HODtfrQgjF0
+https://www.youtube.com/watch?v=HODtfrQgjF0
+https://www.youtube.com/watch?v=LUjJgZFRFuU
+https://www.youtube.com/watch?v=1M6wpZwDJpE
+https://www.youtube.com/watch?v=rpuL1zRFuBs
+https://www.youtube.com/watch?v=fJH35qFmHN0
+https://www.youtube.com/watch?v=Jcn5KQi13lc
+
+----------------------------------------------------------------------
+Tips n' Tricks
+----------------------------------------------------------------------
+- You can use the console command "SetServerSetting LogoutCharactersRemainInTheWorld 0" to start from wherever you do "play from here" (in case you always start in the last-logout place when running the game from the editor)
+

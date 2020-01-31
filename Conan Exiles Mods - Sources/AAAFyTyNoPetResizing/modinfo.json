@@ -1,0 +1,16 @@
+{
+	"name": "FiftyTifty - Elephant Pets Aren't Small",
+	"description": "Sets pet elephants to be as large as their wild counterparts.",
+	"changeNote": "",
+	"author": "FiftyTifty",
+	"authorUrl": "https://steamcommunity.com/id/Aigfachteraunble/",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1905833753",
+	"steamVisibility": 0,
+	"folderName": "AAAFyTyNoPetResizing",
+	"revisionNumber": 149648,
+	"snapshotId": 22316
+}

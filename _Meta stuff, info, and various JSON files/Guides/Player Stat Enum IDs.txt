@@ -1,0 +1,43 @@
+INT STATS
+
+ HealthMax = 0,
+ HealthCurrent = 1,
+ FeatPointsUsed = 2,
+ FeatPointsTotal = 3,
+ Level = 4,
+ StaminaCurrent = 5,
+ StaminaMax = 6,
+ ConsciousnessCurrent = 7,
+ ConsciousnessMax = 8,
+ ThrallID = 9,
+ ThrallTier = 10,
+ Gender = 11,
+ KnockbackDefense = 12,
+ Faction = 13,
+ AttributeHealth = 14,
+ AttributeStamina = 15,
+ AttributeEncumbrance = 16,
+ AttributeMight = 17,
+ AttributeAccuracy = 18,
+ AttributeAthleticism = 19,
+ AttributeMetabolism = 20,
+ AttributeResilience = 21,
+ CarryInventory = 22,
+
+FLOAT STATS
+
+ ThrallCraftingSpeed = 0,
+ ThrallCraftingCost = 1,
+ ThrallCraftingFuel = 2,
+ ThrallEntertainerPotency = 3,
+ DamageModifierMelee = 4,
+ DamageModifierRanged = 5,
+ NaturalArmor = 6,
+ ThrallCorruptionCleansePotency = 7,
+ ThrallCorruptionCleanseLimit = 8,
+ Armor = 9,
+ EncumbranceWeight = 10, // used to set thrall item weight
+ KilledXPModifier = 11,
+ CurrentEncumbrance = 12,
+ TemperatureModification = 13,
+ PenisScaleModifier = 14

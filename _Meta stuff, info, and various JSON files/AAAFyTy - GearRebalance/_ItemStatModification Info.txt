@@ -1,0 +1,48 @@
+=Int=
+0 - HealthMax
+1 - HealthCurrent
+2 - FeatPointsUsed
+3 - FeatPointsTotal
+4 - Level
+5 - StaminaCurrent
+6 - StaminaMax
+7 - ConscioussnessCurrent
+8 - ConsciousnessMax
+9 - ThrallID
+10 - ThallTier
+11 - Gender
+14 - AttributeHealth
+15 - AttributeStamina
+16 - AttributeEncumbrance
+17 - AttributeMight (Strength)
+18 - AttributeAccuracy
+19 - AttributeAthleticism (Grit)
+20 - AttributeMetabolism (Survival)
+21 - AttributeResilience (Agility)
+22 - InventorySpace
+=Int=
+=Float=
+0 - ThrallCraftingSpeed
+1 - ThrallCraftingCost
+2 - ThrallCraftingFuel
+3 - ThrallEntertainerPotency
+4 - DamageModifierMelee
+5 - DamageModifierRanged
+6 - NaturalArmor
+7 - ThrallCorruptionCleansePotency
+8 - ThrallCorruptionCleanseLimit
+9 - Armor
+10 - EncumbranceWeight
+11 - KilledXPModifier
+12 - CurrentEncumbrance
+13 - Temperature Modification
+14 - PenisScaleModifier
+=Float=
+
+Hat +/- 1
+Chest +/- 2
+Hands +/- 1
+Legs +/- 2
+Feet +/- 1
+
+All Jewellery -1
