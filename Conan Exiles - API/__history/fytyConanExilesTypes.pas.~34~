@@ -3,7 +3,7 @@ unit fytyConanExilesTypes;
 interface
 
 uses
-  REST.Json.Types, Classes;
+  REST.Json.Types, Classes, Dialogs;
 
 type
 
@@ -291,14 +291,14 @@ type
   end;
 
   CEItemStatModification = class
-    private
+    public
     [JsonName('RowName')]
     RowName : string;
     [JsonName('Modifications')]
     Modifications : TStringList;
-    public
-    class constructor Create;
-    class destructor Destroy;
+    published
+    constructor Create;
+    destructor Destroy;
   end;
 
   ptrCEItemStatModification = ^CEItemStatModification;
@@ -312,8 +312,8 @@ implementation
 
   destructor CEItemStatModification.Destroy;
   begin
+    ShowMessage('Destroyed object!');
     Modifications.Free;
-    inherited.Destroy;
   end;
 
 end.

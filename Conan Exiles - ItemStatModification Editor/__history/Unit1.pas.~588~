@@ -90,13 +90,13 @@ begin
     //ShowMessage('Iteration number: '+ iCounter.ToString);
 
     ceismToAdd := CEItemStatModification.Create;
-    ceismToAdd.Modifications := TStringList.Create;
 
     //ShowMessage('Created CEItemStatModification!');
 
-    for djsonISMod in djsonEntry['Modifications'] do
-      ceismToAdd.Modifications.Add(djsonISMod.AsString);
-
+    for djsonISMod in djsonEntry['Modifications'] do begin
+      //ShowMessage(djsonISMod.AsString);
+      //ceismToAdd.Modifications.Add(djsonISMod.AsString);
+    end;
 
     //ShowMessage('Added modifications to string array');
 
@@ -117,7 +117,7 @@ begin
 
   end;
 
-  ShowMessage('Finished loop');
+  //ShowMessage('Finished loop');
 
 end;
 
@@ -187,10 +187,10 @@ var
 begin
 
 
-  //ShowMessage('Loading TTreeNode');
+  ShowMessage('Loading TTreeNode');
 
   ResetAllEntries();
-  ceismFromNode := formTree.Selected.Data;
+  ceismFromNode := Node.Data;
   //ShowMessage(ceismFromNode.RowName);
 
   //ShowMessage('Getting number of Item Stat Modifications!');
@@ -210,7 +210,7 @@ begin
     //ShowMessage('Looping through every entry!');
 
     formEntry := listEntries[iCounter];
-    //ShowMessage(ceismFromNode.Modifications[iCounter]);
+    ShowMessage(ceismFromNode.Modifications[iCounter]);
 
     ParseItemStatModificationString(ceismFromNode.Modifications[iCounter], tstrlistParsedModification);
 
@@ -221,9 +221,9 @@ begin
     formEntry.formGroup.Enabled := true;
     formEntry.formGroup.Visible := true;
 
-    //ShowMessage(tstrlistParsedModification[0]);
-    //ShowMessage(tstrlistParsedModification[1]);
-    //ShowMessage(tstrlistParsedModification[2]);
+    ShowMessage(tstrlistParsedModification[0]);
+    ShowMessage(tstrlistParsedModification[1]);
+    ShowMessage(tstrlistParsedModification[2]);
 
     if tstrlistParsedModification[0] = 'True' then begin
 

@@ -94,9 +94,10 @@ begin
 
     //ShowMessage('Created CEItemStatModification!');
 
-    for djsonISMod in djsonEntry['Modifications'] do
-      ceismToAdd.Modifications.Add(djsonISMod.AsString);
-
+    for djsonISMod in djsonEntry['Modifications'] do begin
+      ShowMessage(djsonISMod.AsString);
+      //ceismToAdd.Modifications.Add(djsonISMod.AsString);
+    end;
 
     //ShowMessage('Added modifications to string array');
 
@@ -190,7 +191,7 @@ begin
   //ShowMessage('Loading TTreeNode');
 
   ResetAllEntries();
-  ceismFromNode := formTree.Selected.Data;
+  ceismFromNode := Node.Data;
   //ShowMessage(ceismFromNode.RowName);
 
   //ShowMessage('Getting number of Item Stat Modifications!');

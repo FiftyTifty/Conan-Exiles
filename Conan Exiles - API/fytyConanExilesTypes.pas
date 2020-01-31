@@ -307,6 +307,7 @@ implementation
 
   constructor CEItemStatModification.Create;
   begin
+    //ShowMessage('Created TStringList!');
     Modifications := TStringList.Create;
   end;
 
