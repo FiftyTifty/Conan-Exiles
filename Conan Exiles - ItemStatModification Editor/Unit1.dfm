@@ -260,6 +260,7 @@ object formWindow: TformWindow
       Top = 16
       Width = 339
       Height = 421
+      ScrollBars = ssVertical
       TabOrder = 0
     end
   end
@@ -275,6 +276,7 @@ object formWindow: TformWindow
       Top = 16
       Width = 339
       Height = 421
+      ScrollBars = ssVertical
       TabOrder = 0
     end
   end
