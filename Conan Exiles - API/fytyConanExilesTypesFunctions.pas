@@ -156,7 +156,7 @@ implementation
 
     end;
 
-    Result := strIsFloat + strStatID + strValue;
+    Result := strIsFloat + strStatID + strValue + ')",';
 
   end;
 

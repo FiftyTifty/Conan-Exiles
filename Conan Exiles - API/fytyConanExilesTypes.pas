@@ -308,13 +308,15 @@ implementation
   constructor CEItemStatModification.Create;
   begin
     //ShowMessage('Created TStringList!');
+    inherited Create;
     Modifications := TStringList.Create;
   end;
 
   destructor CEItemStatModification.Destroy;
   begin
-    ShowMessage('Destroyed object!');
+    //ShowMessage('Destroyed object!');
     Modifications.Free;
+    inherited Destroy;
   end;
 
 end.

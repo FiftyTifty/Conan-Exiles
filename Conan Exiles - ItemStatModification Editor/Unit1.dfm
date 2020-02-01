@@ -78,6 +78,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -107,6 +108,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -137,6 +139,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -168,6 +171,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -199,6 +203,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -229,6 +234,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -276,6 +282,7 @@ object formWindow: TformWindow
       Top = 16
       Width = 339
       Height = 421
+      ReadOnly = True
       ScrollBars = ssVertical
       TabOrder = 0
     end
@@ -295,7 +302,10 @@ object formWindow: TformWindow
     Width = 75
     Height = 25
     Caption = 'Save'
+    Enabled = False
     TabOrder = 5
+    Visible = False
+    OnClick = buttonSaveClick
   end
   object buttonApply: TButton
     Left = 1094
@@ -303,6 +313,8 @@ object formWindow: TformWindow
     Width = 75
     Height = 25
     Caption = 'Apply'
+    Enabled = False
     TabOrder = 6
+    OnClick = buttonApplyClick
   end
 end

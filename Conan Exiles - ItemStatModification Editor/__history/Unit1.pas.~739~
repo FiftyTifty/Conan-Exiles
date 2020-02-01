@@ -4,7 +4,8 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Generics.Collections,
-  Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs, System.JSON, rest.JSON,
+  CommCtrl,
   djson, Vcl.ComCtrls, Vcl.StdCtrls, fytyConanExilesTypes, fytyConanExilesTypesFunctions,
   Form_ConanExiles_ItemStatModification_Entry;
 
@@ -35,6 +36,8 @@ type
     procedure formTreeChange(Sender: TObject; Node: TTreeNode);
     procedure IsEnabledClick(
       Sender: TObject);
+    procedure buttonApplyClick(Sender: TObject);
+    procedure buttonSaveClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -64,24 +67,104 @@ begin
    tstringsOutput.DelimitedText   := Str;
 end;
 
+procedure SetNodeBold(Node: TTreeNode; bMakeBold: boolean);
+var
+  TVItem: TTVItem;
+begin
+  if not Assigned(Node) then
+    exit;
+  fillchar(TVItem, sizeof(TVItem), 0);
+  with TVItem do
+  begin
+    mask := TVIF_STATE or TVIF_HANDLE;
+    hitem := Node.ItemId;
+    StateMask := TVIS_BOLD;
+    if bMakeBold then
+      State := TVIS_BOLD;
+    TreeView_SetItem(Node.Handle, TVItem);
+  end;
+end;
+
+
+procedure TformWindow.buttonApplyClick(Sender: TObject);
+var
+  formEntry: TForm_ConanExiles_ItemStatModification_Entry;
+  ceismToChange: CEItemStatModification;
+  bIsFloat: boolean;
+  strStatID, strValue, strOutput, strLastMod: string;
+  iCounter, iNumMods: integer;
+begin
+
+  SetNodeBold(formTree.Selected, true);
+
+  ceismToChange := formTree.Selected.Data;
+  //ShowMessage(IntToStr(ceismToChange.Modifications.Count));
+  ceismToChange.Modifications.Clear;
+
+  for formEntry in listEntries do begin
+
+    if (formEntry.formEnabled.Checked = true) then begin
+      //ShowMessage('Entry is enabled!');
+      bIsFloat := formEntry.formIsFloat.Checked;
+
+      if bIsFloat then
+        strStatID := tstrlistFloatIDs[formEntry.formFloatStats.ItemIndex]
+      else
+        strStatID := tstrlistIntIDs[formEntry.formIntStats.ItemIndex];
+
+      strValue := formEntry.formValue.Text;
+
+      strOutput := CreateItemStatModificationString(bIsFloat, strStatID, strValue);
+
+      //formResult.Lines.Add(strOutput);
+      ceismToChange.Modifications.Add(strOutput);
+
+    end;
+
+  end;
+
+  iNumMods := ceismToChange.Modifications.Count;
+
+  if iNumMods > 0 then begin
+
+    strLastMod := ceismToChange.Modifications[iNumMods - 1];
+
+    SetLength(strLastMod,strLastMod.Length - 1);
+
+    ceismToChange.Modifications[iNumMods - 1] := strLastMod;
+
+  end;
+
+  //ShowMessage(IntToStr(ceismToChange.Modifications.Count));
+
+
+end;
 
 procedure TformWindow.buttonLoadClick(Sender: TObject);
 var
   iCounter, iNumModifications, iCounterModifications,
   iAddedIndex: integer;
   treeEntry: TTreeNode;
-  ceismToAdd: CEItemStatModification;
+  ceismToAdd, ceismToFree: CEItemStatModification;
   djsonEntry, djsonISMod: TDJSON;
 begin
 
-  djsonDataTable := TdJSON.Parse(formWindow.formSource.Lines.Text);
+  buttonApply.Enabled := false;
+  buttonApply.Visible := false;
 
-  iCounter := 0;
+  djsonDataTable := TdJSON.Parse(formWindow.formSource.Lines.Text);
 
   //ShowMessage('Starting loop!');
 
-  if listCEItemStatModification.Count > 0 then
+  if listCEItemStatModification.Count > 0 then begin
+
+    for ceismToFree in listCEItemStatModification do begin
+      ceismToFree.Free;
+    end;
+
     listCEItemStatModification.Clear;
+
+  end;
 
   //ShowMessage('Cleared pre-existing modifications!');
 
@@ -90,12 +173,13 @@ begin
     //ShowMessage('Iteration number: '+ iCounter.ToString);
 
     ceismToAdd := CEItemStatModification.Create;
+    ceismToAdd.Modifications := TStringList.Create;
 
     //ShowMessage('Created CEItemStatModification!');
 
     for djsonISMod in djsonEntry['Modifications'] do begin
       //ShowMessage(djsonISMod.AsString);
-      //ceismToAdd.Modifications.Add(djsonISMod.AsString);
+      ceismToAdd.Modifications.Add(djsonISMod.AsString);
     end;
 
     //ShowMessage('Added modifications to string array');
@@ -104,13 +188,14 @@ begin
     //ShowMessage('Added RowName to entry! '+ ceismToAdd.RowName);
 
     listCEItemStatModification.Add(ceismToAdd);
-    //ShowMessage('Added ItemStatModification to master list! ' + listCEItemStatModification[0].RowName);
+    //ShowMessage('Added ItemStatModification to master list! ' + ceismToAdd.RowName);
+    //ShowMessage(IntToStr(iCounter));
 
     treeEntry := formTree.Items.AddChildObject(nil, djsonEntry['RowName'].AsString, listCEItemStatModification.Items[iCounter]);
     //ShowMessage('Added tree node!');
     if tstrlistItemIDs.IndexOf(treeEntry.Text) >= 0 then
-      treeEntry.Text := treeEntry.Text + ' - ' + tstrlistItemNames[(tstrlistItemIDs.IndexOf(treeEntry.Text))]
-    else
+      treeEntry.Text := treeEntry.Text + ' - ' + tstrlistItemNames[(tstrlistItemIDs.IndexOf(treeEntry.Text))];
+    //else
     //ShowMessage(treeEntry.text);
 
     Inc(iCounter);
@@ -118,6 +203,23 @@ begin
   end;
 
   //ShowMessage('Finished loop');
+
+end;
+
+procedure TformWindow.buttonSaveClick(Sender: TObject);
+var
+  ceismToConvert: CEItemStatModification;
+  arrayjsonOutput: TJSONArray;
+begin
+
+  arrayjsonOutput := TJSONArray.Create;
+
+  for ceismToConvert in listCEItemStatModification do
+    arrayjsonOutput.Add(TJson.ObjectToJsonObject(ceismToConvert));
+
+  formResult.Lines.Text := arrayjsonOutput.Format(4);
+
+  arrayjsonOutput.Free;
 
 end;
 
@@ -187,7 +289,7 @@ var
 begin
 
 
-  ShowMessage('Loading TTreeNode');
+  //ShowMessage('Loading TTreeNode');
 
   ResetAllEntries();
   ceismFromNode := Node.Data;
@@ -205,12 +307,11 @@ begin
   tstrlistParsedModification := TStringList.Create;
 
   //ShowMessage('Now iterating through ' + IntToStr(iNumModifications) + ' form entries!');
-  //for iCounter := 0 to iNumControls - 1 do begin
   for iCounter := 0 to iNumModifications - 1 do begin
     //ShowMessage('Looping through every entry!');
 
     formEntry := listEntries[iCounter];
-    ShowMessage(ceismFromNode.Modifications[iCounter]);
+    //ShowMessage(ceismFromNode.Modifications[iCounter]);
 
     ParseItemStatModificationString(ceismFromNode.Modifications[iCounter], tstrlistParsedModification);
 
@@ -221,9 +322,9 @@ begin
     formEntry.formGroup.Enabled := true;
     formEntry.formGroup.Visible := true;
 
-    ShowMessage(tstrlistParsedModification[0]);
-    ShowMessage(tstrlistParsedModification[1]);
-    ShowMessage(tstrlistParsedModification[2]);
+    //ShowMessage(tstrlistParsedModification[0]);
+    //ShowMessage(tstrlistParsedModification[1]);
+    //ShowMessage(tstrlistParsedModification[2]);
 
     if tstrlistParsedModification[0] = 'True' then begin
 
@@ -262,6 +363,9 @@ begin
 
   tstrlistParsedModification.Free;
   //ShowMessage('Finished looping through every entry!');
+
+  buttonApply.Enabled := true;
+  buttonApply.Visible := true;
 
 end;
 
@@ -333,9 +437,28 @@ end;
 
 procedure TformWindow.CEValueOnKeyPress(
   Sender: TObject; var Key: Char);
+var
+  formEdit: TEdit;
 begin
-  if not (Key in ['0'..'9', Char(VK_OEM_PERIOD), Char(VK_BACK), Char(VK_DELETE)])
-  then Key := #0;
+  //We only want to allow numbers, a single period, and a single minus as a prefix
+  //Everything else is an invalid character, so we'll just intercept each keypress
+  //So if they ain't what we want, we just straight up ignore it
+
+  formEdit := Sender as TEdit;
+
+  if not (Key in ['0'..'9', '.', '-', Char(VK_BACK), Char(VK_DELETE)]) then
+    Key := #0;
+
+  if (Key = '.') and (Pos('.', formEdit.Text) > 0) then
+    Key := #0;
+
+  if (Key = '-') and (Pos('-', formEdit.Text) > 0) then
+    Key := #0
+  else if (Key = '-') and (Pos('-', formEdit.Text) = 0) then begin
+    Key := #0;
+    formEdit.Text := '-' + formEdit.Text;
+  end;
+
 end;
 
 end.

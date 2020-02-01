@@ -34,6 +34,7 @@ object formWindow: TformWindow
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -65,6 +66,7 @@ object formWindow: TformWindow
       end
       inherited formGroup: TGroupBox
         Left = -3
+        Visible = False
         ExplicitLeft = -3
         inherited formIntStats: TComboBox
           ItemIndex = 0
@@ -76,6 +78,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -94,6 +97,7 @@ object formWindow: TformWindow
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -104,6 +108,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -123,6 +128,7 @@ object formWindow: TformWindow
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -133,6 +139,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -153,6 +160,7 @@ object formWindow: TformWindow
         ExplicitTop = 0
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -163,6 +171,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -183,6 +192,7 @@ object formWindow: TformWindow
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
+        Visible = False
         inherited formIntStats: TComboBox
           ItemIndex = 0
           Text = 'Health Max'
@@ -193,6 +203,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -209,7 +220,6 @@ object formWindow: TformWindow
       ExplicitLeft = 3
       ExplicitTop = 713
       inherited formEnabled: TCheckBox
-        Visible = False
         OnClick = IsEnabledClick
       end
       inherited formGroup: TGroupBox
@@ -224,6 +234,7 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
         end
         inherited formIsFloat: TCheckBox
@@ -255,6 +266,7 @@ object formWindow: TformWindow
       Top = 16
       Width = 339
       Height = 421
+      ScrollBars = ssVertical
       TabOrder = 0
     end
   end
@@ -270,6 +282,8 @@ object formWindow: TformWindow
       Top = 16
       Width = 339
       Height = 421
+      ReadOnly = True
+      ScrollBars = ssVertical
       TabOrder = 0
     end
   end
@@ -296,6 +310,8 @@ object formWindow: TformWindow
     Width = 75
     Height = 25
     Caption = 'Apply'
+    Enabled = False
     TabOrder = 6
+    OnClick = buttonApplyClick
   end
 end

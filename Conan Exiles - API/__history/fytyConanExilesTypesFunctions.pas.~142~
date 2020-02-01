@@ -21,7 +21,7 @@ const
 
     strItemModOperatorID = ',OperatorID=Add,StatID=';
     strItemModValue = ',ModificationValue=';
-    strItemModEndOfString = ')"';
+    strItemModEndOfString = ')';
 
 function InitializeCEItem(ceitemInput: CEItem; strRowName, strName, strShortDesc, strLongDesc: string): CEItem;
 
@@ -110,23 +110,26 @@ implementation
     iPosStatID, iPosStatIDEnd, iPosValue, iPosValueEnd: integer;
   begin
 
-    if Pos('True', strSource) > 0 then
+    //ShowMessage(IntToStr(Pos('True', strSource)));
+    if (Pos('True', strSource) > 0) then
       tstrlistDest.Add('True')
     else
       tstrlistDest.Add('False');
 
+    //ShowMessage(tstrlistDest[0]);
+
     iPosStatID := Length(strItemModOperatorID) + Pos(strItemModOperatorID, strSource);
     iPosStatIDEnd := Pos(strItemModValue, strSource);
-    ShowMessage('StatID position in string is: ' + IntToStr(iPosStatID));
-    ShowMessage('StatID end position in string is: ' + IntToStr(iPosStatIDEnd));
+    //ShowMessage('StatID position in string is: ' + IntToStr(iPosStatID));
+    //ShowMessage('StatID end position in string is: ' + IntToStr(iPosStatIDEnd));
 
     tstrlistDest.Add(Copy(strSource, iPosStatID, (iPosStatIDEnd - iPosStatID)));
 
     iPosValue := Length(strItemModValue) + Pos(strItemModValue, strSource);
     iPosValueEnd := Pos(strItemModEndOfString, strSource);
 
-    ShowMessage('Value position in string is: ' + IntToStr(iPosValue));
-    ShowMessage('Value end position in string is: ' + IntToStr(iPosValueEnd));
+    //ShowMessage('Value position in string is: ' + IntToStr(iPosValue));
+    //ShowMessage('Value end position in string is: ' + IntToStr(iPosValueEnd));
 
     tstrlistDest.Add(Copy(strSource, iPosValue, (iPosValueEnd - iPosValue)));
 
@@ -153,7 +156,7 @@ implementation
 
     end;
 
-    Result := strIsFloat + strStatID + strValue;
+    Result := strIsFloat + strStatID + strValue + '';
 
   end;
 
