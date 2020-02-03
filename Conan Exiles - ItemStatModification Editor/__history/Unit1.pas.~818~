@@ -132,6 +132,7 @@ begin
     SetLength(strLastMod,strLastMod.Length - 1);
 
     ceismToChange.Modifications[iNumMods - 1] := strLastMod;
+    //formResult.Lines.Add(strLastMod);
 
   end;
 
@@ -151,6 +152,9 @@ begin
 
   buttonApply.Enabled := false;
   buttonApply.Visible := false;
+
+  buttonSave.Enabled := false;
+  buttonSave.Visible := false;
 
   djsonDataTable := TdJSON.Parse(formWindow.formSource.Lines.Text);
 
@@ -200,6 +204,9 @@ begin
 
     Inc(iCounter);
 
+    buttonSave.Enabled := true;
+    buttonSave.Visible := true;
+
   end;
 
   //ShowMessage('Finished loop');
@@ -209,17 +216,32 @@ end;
 procedure TformWindow.buttonSaveClick(Sender: TObject);
 var
   ceismToConvert: CEItemStatModification;
+  jsonCEISMConverted: TJSONObject;
   arrayjsonOutput: TJSONArray;
+  iCounter: integer;
 begin
 
-  arrayjsonOutput := TJSONArray.Create;
+  try
+    arrayjsonOutput := TJSONArray.Create;
 
-  for ceismToConvert in listCEItemStatModification do
-    arrayjsonOutput.Add(TJson.ObjectToJsonObject(ceismToConvert));
+    for ceismToConvert in listCEItemStatModification do begin
 
-  formResult.Lines.Text := arrayjsonOutput.Format(4);
+      jsonCEISMConverted := TJSONObject.Create;
+      ConvertCEISMToJSON(ceismToConvert, jsonCEISMConverted);
+      arrayjsonOutput.Add(jsonCEISMConverted);
 
-  arrayjsonOutput.Free;
+    end;
+
+    //ShowMessage('Converted all to JSON!');
+    formResult.Lines.Text := arrayjsonOutput.Format(4);
+    //ShowMessage('Wrote to memo!');
+
+    //jsonCEISMConverted.Free;
+  finally
+    //Memory leak! Freeing jsonCEISMConverted throws exception for some reason
+    arrayjsonOutput.Free;
+    ShowMessage('Wrote JSON to formResult!');
+  end;
 
 end;
 
@@ -283,7 +305,7 @@ end;
 procedure TformWindow.formTreeChange(Sender: TObject; Node: TTreeNode);
 var
   ceismFromNode: CEItemStatModification;
-  iNumControls, iCounter, iNumEntries, iNumModifications: integer;
+  iNumControls, iCounter, iNumModifications: integer;
   tstrlistParsedModification: TStringList;
   formEntry: TForm_ConanExiles_ItemStatModification_Entry;
 begin
@@ -317,7 +339,6 @@ begin
 
     formEntry.formEnabled.Checked := true;
 
-    formEntry.Enabled := true;
     formEntry.Visible := true;
     formEntry.formGroup.Enabled := true;
     formEntry.formGroup.Visible := true;

@@ -2,8 +2,9 @@ unit fytyConanExilesTypesFunctions;
 
 interface
 
-uses Vcl.Dialogs, System.Classes, VCL.Forms, Generics.Collections, sysutils, fytyConanExilesTypes,
-  Form_ConanExiles_ItemStatModification_Entry;
+uses Vcl.Dialogs, System.Classes, VCL.Forms, Generics.Collections, sysutils,
+     System.JSON, rest.JSON,
+    fytyConanExilesTypes, Form_ConanExiles_ItemStatModification_Entry;
 
 const
     //NSLOCTEXT(\"\", \"ItemTable_4150_Name\", \"Sign (Alchemist)\")
@@ -25,7 +26,7 @@ const
 
 function InitializeCEItem(ceitemInput: CEItem; strRowName, strName, strShortDesc, strLongDesc: string): CEItem;
 
-function InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string): CERecipe;
+procedure InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string);
 
   /// <summary> [0] = 'True' if float, 'False' if integer
   /// [1] = The StatID
@@ -34,6 +35,11 @@ function InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string
 procedure ParseItemStatModificationString(strSource: string; tstrlistDest: TStringList);
 
 function CreateItemStatModificationString(bIsFloat: boolean; strStatID, strValue: string): string;
+
+  /// <summary> [0] = The CEItemStatModification that will be converted to JSON
+  /// [1] = The resultant JSON data
+  /// </summary>
+procedure ConvertCEISMToJSON(ceismToConvert: CEItemStatModification; tjsonConverted: TJSONObject);
 
 procedure InitializeForm_ItemStatModificationEntry(formEntry: TForm_ConanExiles_ItemStatModification_Entry;
   tstrlistValuesToSet: TStringList; tstrlistFloatIDs: TStringList);
@@ -88,7 +94,7 @@ implementation
 
   end;
 
-  function InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string): CERecipe;
+  procedure InitializeCERecipe(cerecipeInput: CERecipe; strRowName, strName: string);
   begin
 
     cerecipeInput.RowName := strRowName;
@@ -142,7 +148,7 @@ implementation
 
     if bIsFloat then begin
 
-      strIsFloat := '"(IsFloatStatModification=True,OperatorID=Add,';
+      strIsFloat := '(IsFloatStatModification=True,OperatorID=Add,';
       strStatID := 'StatID=' + strStatID + ',';
       strValue := 'ModificationValue=' + strValue;
 
@@ -150,13 +156,36 @@ implementation
 
     else begin
 
-      strIsFloat := '"(IsFloatStatModification=False,OperatorID=Add,';
+      strIsFloat := '(IsFloatStatModification=False,OperatorID=Add,';
       strStatID := 'StatID=' + strStatID + ',';
       strValue := 'ModificationValue=' + strValue;
 
     end;
 
-    Result := strIsFloat + strStatID + strValue + ')",';
+    Result := strIsFloat + strStatID + strValue + '),';
+
+  end;
+
+  procedure ConvertCEISMToJSON(ceismToConvert: CEItemStatModification; tjsonConverted: TJSONObject);
+  var
+    arrayjsonMods: TJSONArray;
+    strMod: string;
+    strjsonMod: TJSONString;
+  begin
+
+    arrayjsonMods := TJSONArray.Create;
+
+    tjsonConverted.AddPair('RowName', ceismToConvert.RowName);
+
+    for strMod in ceismToConvert.Modifications do begin
+
+      strjsonMod := TJSONString.Create(strMod);
+      //ShowMessage(strjsonMod.ToString);
+      arrayjsonMods.Add(strjsonMod.ToString);
+
+    end;
+    //ShowMessage('Adding Modifications!');
+    tjsonConverted.AddPair('Modifications', arrayjsonMods);
 
   end;
 
