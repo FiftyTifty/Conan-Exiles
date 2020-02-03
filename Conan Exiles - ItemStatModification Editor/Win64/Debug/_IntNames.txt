@@ -1,0 +1,21 @@
+Health Max
+Health Current
+Feat Points Used
+Feat Points Total
+Level
+Stamina Current
+Stamina Max
+Conscioussness Current
+Consciousness Max
+Thrall ID
+Thall Tier
+Gender
+Att. Health
+Att. Stamina
+Att. Encumbrance
+Att. Strength
+Att. Accuracy
+Att. Grit
+Att. Survival
+Att. Agility
+Inventory Space
