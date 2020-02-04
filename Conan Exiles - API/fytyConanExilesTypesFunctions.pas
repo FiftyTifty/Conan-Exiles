@@ -178,10 +178,8 @@ implementation
     tjsonConverted.AddPair('RowName', ceismToConvert.RowName);
 
     for strMod in ceismToConvert.Modifications do begin
-
-      strjsonMod := TJSONString.Create(strMod);
       //ShowMessage(strjsonMod.ToString);
-      arrayjsonMods.Add(strjsonMod.ToString);
+      arrayjsonMods.Add(strMod);
 
     end;
     //ShowMessage('Adding Modifications!');
