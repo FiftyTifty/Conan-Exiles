@@ -174,6 +174,7 @@ implementation
   begin
 
     arrayjsonMods := TJSONArray.Create;
+    arrayjsonMods.Owned := true;
 
     tjsonConverted.AddPair('RowName', ceismToConvert.RowName);
 
@@ -182,8 +183,9 @@ implementation
       arrayjsonMods.Add(strMod);
 
     end;
+
     //ShowMessage('Adding Modifications!');
-    tjsonConverted.AddPair('Modifications', arrayjsonMods);
+    tjsonConverted.AddPair('Modifications', arrayjsonMods).Owned := true;
 
   end;
 

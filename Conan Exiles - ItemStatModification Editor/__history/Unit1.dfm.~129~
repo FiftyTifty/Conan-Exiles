@@ -11,6 +11,7 @@ object formWindow: TformWindow
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
+  Position = poDesktopCenter
   OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
@@ -108,8 +109,12 @@ object formWindow: TformWindow
           Text = 'Thrall Crafting Speed'
         end
         inherited formValue: TEdit
+          Left = 151
+          Top = 360
           NumbersOnly = False
           OnKeyPress = CEValueOnKeyPress
+          ExplicitLeft = 151
+          ExplicitTop = 360
         end
         inherited formIsFloat: TCheckBox
           OnClick = IsFloatClick
@@ -317,13 +322,15 @@ object formWindow: TformWindow
     TabOrder = 6
     OnClick = buttonApplyClick
   end
-  object Button1: TButton
+  object buttonFilter: TButton
     Left = 144
     Top = 473
     Width = 75
     Height = 25
     Caption = 'Filter...'
+    Enabled = False
     TabOrder = 7
     Visible = False
+    OnClick = buttonFilterClick
   end
 end

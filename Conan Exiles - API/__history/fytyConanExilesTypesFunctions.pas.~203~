@@ -148,7 +148,7 @@ implementation
 
     if bIsFloat then begin
 
-      strIsFloat := '"(IsFloatStatModification=True,OperatorID=Add,';
+      strIsFloat := '(IsFloatStatModification=True,OperatorID=Add,';
       strStatID := 'StatID=' + strStatID + ',';
       strValue := 'ModificationValue=' + strValue;
 
@@ -156,13 +156,13 @@ implementation
 
     else begin
 
-      strIsFloat := '"(IsFloatStatModification=False,OperatorID=Add,';
+      strIsFloat := '(IsFloatStatModification=False,OperatorID=Add,';
       strStatID := 'StatID=' + strStatID + ',';
       strValue := 'ModificationValue=' + strValue;
 
     end;
 
-    Result := strIsFloat + strStatID + strValue + ')",';
+    Result := strIsFloat + strStatID + strValue + '),';
 
   end;
 
@@ -174,16 +174,16 @@ implementation
   begin
 
     arrayjsonMods := TJSONArray.Create;
+    arrayjsonMods.Owned := true;
 
     tjsonConverted.AddPair('RowName', ceismToConvert.RowName);
 
     for strMod in ceismToConvert.Modifications do begin
-
-      strjsonMod := TJSONString.Create(strMod);
       //ShowMessage(strjsonMod.ToString);
-      arrayjsonMods.Add(strjsonMod.ToString);
+      arrayjsonMods.Add(strMod);
 
     end;
+
     //ShowMessage('Adding Modifications!');
     tjsonConverted.AddPair('Modifications', arrayjsonMods);
 

@@ -43,6 +43,7 @@ type
     procedure buttonApplyClick(Sender: TObject);
     procedure buttonSaveClick(Sender: TObject);
     procedure buttonFilterClick(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
   private
     { Private declarations }
   public
@@ -58,7 +59,7 @@ var
   tstrlistFloatIDs, tstrlistFloatNames, tstrlistIntIDs, tstrlistIntNames,
   tstrlistItemIDs, tstrlistItemNames: TStringList;
   djsonDataTable: TDJSON;
-  listCEItemStatModification: TList<CEItemStatModification>;
+  listCEItemStatModification: TObjectList<CEItemStatModification>;
 
 implementation
 
@@ -159,10 +160,19 @@ end;
 procedure TformWindow.buttonLoadClick(Sender: TObject);
 var
   iCounter: integer;
-  treeEntry: TTreeNode;
-  ceismToAdd, ceismToFree: CEItemStatModification;
+  treeEntry, nodeToRemove: TTreeNode;
+  ceismToAdd: CEItemStatModification;
   djsonEntry, djsonISMod: TDJSON;
 begin
+
+  if formTree.Items.Count > 0 then begin
+    ShowMessage('Cleaning tree!');
+
+    for nodeToRemove in formTree.Items do
+      nodeToRemove.Free;
+
+    formTree.Items.Clear;
+  end;
 
   buttonApply.Enabled := false;
   buttonApply.Visible := false;
@@ -172,26 +182,32 @@ begin
 
   djsonDataTable := TdJSON.Parse(formWindow.formSource.Lines.Text);
 
-  //ShowMessage('Starting loop!');
+  ShowMessage('Starting loop!');
 
+  try
   if listCEItemStatModification.Count > 0 then begin
 
-    for ceismToFree in listCEItemStatModification do begin
-      ceismToFree.Free;
-    end;
-
-    listCEItemStatModification.Clear;
+    listCEItemStatModification.Free;
+    //listCEItemStatModification.Clear;
+    listCEItemStatModification := TObjectList<CEItemStatModification>.Create;
 
   end;
+  except
+    ShowMessage('Cleanup of listCEItemStatModification failed!');
+  end;
 
-  //ShowMessage('Cleared pre-existing modifications!');
+  ShowMessage('Cleared pre-existing modifications!');
 
   for djsonEntry in djsonDataTable do begin
 
     //ShowMessage('Iteration number: '+ iCounter.ToString);
-
+    try
     ceismToAdd := CEItemStatModification.Create;
+    ceismToAdd.Owned := true;
     ceismToAdd.Modifications := TStringList.Create;
+    except
+      ShowMessage('Failed creating CEItemStatModification object!');
+    end;
 
     //ShowMessage('Created CEItemStatModification!');
 
@@ -204,9 +220,11 @@ begin
 
     ceismToAdd.RowName := djsonEntry['RowName'].AsString;
     //ShowMessage('Added RowName to entry! '+ ceismToAdd.RowName);
-
-    listCEItemStatModification.Add(ceismToAdd);
-    //ShowMessage('Added ItemStatModification to master list! ' + ceismToAdd.RowName);
+    try
+      listCEItemStatModification.Add(ceismToAdd);
+    except
+      ShowMessage('Failed to add ItemStatModification to master list! ' + ceismToAdd.RowName);
+    end;
     //ShowMessage(IntToStr(iCounter));
 
     treeEntry := formTree.Items.AddChildObject(nil, djsonEntry['RowName'].AsString, listCEItemStatModification.Items[iCounter]);
@@ -229,6 +247,12 @@ begin
 
   //ShowMessage('Finished loop');
 
+  try
+    djsonDataTable.Free;
+  except
+    ShowMessage('Failed to free djsonDataTable after loading!');
+  end;
+
 end;
 
 procedure TformWindow.buttonSaveClick(Sender: TObject);
@@ -236,16 +260,19 @@ var
   ceismToConvert: CEItemStatModification;
   jsonCEISMConverted: TJSONObject;
   arrayjsonOutput: TJSONArray;
+  iCounter: integer;
 begin
 
   arrayjsonOutput := TJSONArray.Create;
+
   try
 
     for ceismToConvert in listCEItemStatModification do begin
 
       jsonCEISMConverted := TJSONObject.Create;
+      jsonCEISMConverted.Owned := true;
       ConvertCEISMToJSON(ceismToConvert, jsonCEISMConverted);
-      arrayjsonOutput.Add(jsonCEISMConverted);
+      arrayjsonOutput.Add(jsonCEISMConverted).Owned := true;
 
     end;
 
@@ -255,11 +282,36 @@ begin
 
     //jsonCEISMConverted.Free;
   finally
-    //Memory leak! Freeing jsonCEISMConverted throws exception for some reason
-    //for jsonCEISMConverted in arrayjsonOutput do
-    //  jsonCEISMConverted.Free;
-    arrayjsonOutput.Free;
+
     ShowMessage('Wrote JSON to formResult!');
+  end;
+
+  arrayjsonOutput.free;
+
+end;
+
+procedure TformWindow.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+
+  tstrlistFloatIDs.Free;
+  tstrlistFloatNames.Free;
+
+  tstrlistIntIDs.Free;
+  tstrlistIntNames.Free;
+
+  tstrlistItemIDs.Free;
+  tstrlistItemNames.Free;
+
+  try
+   listCEItemStatModification.Free;
+  except
+    ShowMessage('Failed to free listCEItemStatModification!');
+  end;
+
+  try
+    listEntries.Free;
+  except
+    ShowMessage('Failed to free listEntries!');
   end;
 
 end;
@@ -289,7 +341,8 @@ begin
   tstrlistItemIDs.LoadFromFile(strCurrentDir + '_AllItemIDs.txt');
   tstrlistItemNames.LoadFromFile(strCurrentDir + '_AllItemNames.txt');
 
-  listCEItemStatModification := TList<CEItemStatModification>.Create;
+  listCEItemStatModification := TObjectList<CEItemStatModification>.Create;
+  listCEItemStatModification.OwnsObjects := true;
 
   listEntries := TList<TForm_ConanExiles_ItemStatModification_Entry>.Create;
   listEntries.Add(Form_ConanExiles_ItemStatModification_Entry0);
@@ -401,6 +454,7 @@ begin
 
   end;
 
+  tstrlistParsedModification.Clear;
   tstrlistParsedModification.Free;
   //ShowMessage('Finished looping through every entry!');
 

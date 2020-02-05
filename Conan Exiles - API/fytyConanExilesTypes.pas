@@ -296,9 +296,10 @@ type
     RowName : string;
     [JsonName('Modifications')]
     Modifications : TStringList;
+    Owned : Boolean;
     published
     constructor Create;
-    destructor Destroy;
+    destructor Destroy; override;
   end;
 
   ptrCEItemStatModification = ^CEItemStatModification;
