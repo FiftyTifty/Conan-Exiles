@@ -1,0 +1,31 @@
+unit Unit2;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, Vcl.StdCtrls;
+
+type
+  TformWindowSelectIncludeExclude = class(TForm)
+    formListFilter: TListView;
+    formDoFilter: TCheckBox;
+    formGroupFilter: TGroupBox;
+    Memo1: TMemo;
+    GroupBox1: TGroupBox;
+    formDoIncludeExclude: TCheckBox;
+    Memo2: TMemo;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  formWindowSelectIncludeExclude: TformWindowSelectIncludeExclude;
+
+implementation
+
+{$R *.dfm}
+
+end.

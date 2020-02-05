@@ -7,7 +7,10 @@ uses
   Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs, System.JSON, rest.JSON,
   CommCtrl,
   djson, Vcl.ComCtrls, Vcl.StdCtrls, fytyConanExilesTypes, fytyConanExilesTypesFunctions,
-  Form_ConanExiles_ItemStatModification_Entry;
+  Form_ConanExiles_ItemStatModification_Entry,
+  Unit2;
+
+  //Unit2 Is the filter window
 
 type
   TformWindow = class(TForm)
@@ -27,6 +30,7 @@ type
     formSource: TMemo;
     formResult: TMemo;
     buttonApply: TButton;
+    buttonFilter: TButton;
     procedure buttonLoadClick(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure CEValueOnKeyPress(
@@ -38,6 +42,7 @@ type
       Sender: TObject);
     procedure buttonApplyClick(Sender: TObject);
     procedure buttonSaveClick(Sender: TObject);
+    procedure buttonFilterClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -141,6 +146,16 @@ begin
 
 end;
 
+procedure TformWindow.buttonFilterClick(Sender: TObject);
+begin
+
+  if formWindowSelectIncludeExclude.Showing then
+    formWindowSelectIncludeExclude.Hide
+  else
+    formWindowSelectIncludeExclude.Show;
+
+end;
+
 procedure TformWindow.buttonLoadClick(Sender: TObject);
 var
   iCounter: integer;
@@ -201,8 +216,12 @@ begin
     //else
     //ShowMessage(treeEntry.text);
 
+    Unit2.formWindowSelectIncludeExclude.formListFilter.Items.Append(treeEntry.Text);
+
     Inc(iCounter);
 
+    buttonFilter.Enabled := true;
+    buttonFilter.Visible := true;
     buttonSave.Enabled := true;
     buttonSave.Visible := true;
 
@@ -219,8 +238,8 @@ var
   arrayjsonOutput: TJSONArray;
 begin
 
+  arrayjsonOutput := TJSONArray.Create;
   try
-    arrayjsonOutput := TJSONArray.Create;
 
     for ceismToConvert in listCEItemStatModification do begin
 
@@ -237,6 +256,8 @@ begin
     //jsonCEISMConverted.Free;
   finally
     //Memory leak! Freeing jsonCEISMConverted throws exception for some reason
+    //for jsonCEISMConverted in arrayjsonOutput do
+    //  jsonCEISMConverted.Free;
     arrayjsonOutput.Free;
     ShowMessage('Wrote JSON to formResult!');
   end;

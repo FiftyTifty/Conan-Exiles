@@ -2,9 +2,9 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2019/10/28 21:47:31.000.918,=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/10/28 21:48:00.000.693,H:\Documents\Embarcadero\Studio\Projects\Unit1.pas=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Unit1.pas</Transaction>
-    <Transaction>2019/10/28 21:48:00.000.693,H:\Documents\Embarcadero\Studio\Projects\Unit1.dfm=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Unit1.dfm</Transaction>
-    <Transaction>2019/10/28 21:48:10.000.887,H:\Documents\Embarcadero\Studio\Projects\Project1.dproj=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\ConanExilesItemStatModificationEditor.dproj</Transaction>
+    <Transaction>2019/10/28 21:48:00.000.693,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Unit1.pas=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 21:48:00.000.693,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Unit1.dfm=H:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/28 21:48:10.000.887,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\ConanExilesItemStatModificationEditor.dproj=H:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2019/10/28 21:52:39.000.843,=H:\Documents\Embarcadero\Studio\Projects\_Library - delphi-json-master\djson.pas</Transaction>
     <Transaction>2019/10/28 22:54:49.000.623,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Unit2.pas</Transaction>
     <Transaction>2019/10/29 00:48:48.000.800,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - ItemStatModification Editor\Form_ConanExiles_ItemStatModification_Entry.pas</Transaction>
@@ -17,6 +17,7 @@
     <Transaction>2019/11/01 21:11:34.000.119,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles - API\fytyConanExilesTypesFunctions.pas</Transaction>
     <Transaction>2020/01/24 00:36:20.000.238,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\_Library - delphi-json-master\djson.pas=</Transaction>
     <Transaction>2020/01/24 00:36:33.000.385,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\_Library - delphi-json-master\djson.pas</Transaction>
+    <Transaction>2020/02/04 04:43:04.000.022,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - ItemStatModification Editor\Unit2.pas</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="..\..\Conan Exiles"/>
@@ -30,5 +31,8 @@
     <File Path="..\_Library - delphi-json-master\djson.pas"/>
     <File Path="Unit1.pas"/>
     <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
   </ProjectSortOrder>
+	<BT_BuildType>Debug</BT_BuildType>
 </BorlandProject>
