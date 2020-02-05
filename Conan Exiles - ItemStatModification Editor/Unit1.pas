@@ -181,7 +181,6 @@ begin
   buttonSave.Visible := false;
 
   djsonDataTable := TdJSON.Parse(formWindow.formSource.Lines.Text);
-
   ShowMessage('Starting loop!');
 
   try
@@ -260,19 +259,43 @@ var
   ceismToConvert: CEItemStatModification;
   jsonCEISMConverted: TJSONObject;
   arrayjsonOutput: TJSONArray;
-  iCounter: integer;
+  iIndex: integer;
+  bDoFilter, bDoFilterExclude, bDoSkip, bEntryChecked: Boolean;
 begin
 
   arrayjsonOutput := TJSONArray.Create;
+
+  bDoFilter := formWindowSelectIncludeExclude.formDoFilter.Checked;
+  bDoFilterExclude := formWindowSelectIncludeExclude.formDoIncludeExclude.Checked;
 
   try
 
     for ceismToConvert in listCEItemStatModification do begin
 
-      jsonCEISMConverted := TJSONObject.Create;
-      jsonCEISMConverted.Owned := true;
-      ConvertCEISMToJSON(ceismToConvert, jsonCEISMConverted);
-      arrayjsonOutput.Add(jsonCEISMConverted).Owned := true;
+      bDoSkip := false;
+
+      iIndex := listCEItemStatModification.IndexOf(ceismToConvert);
+
+      if (bDoFilter = true) then
+        bEntryChecked := formWindowSelectIncludeExclude.formListFilter.Checked[iIndex];
+
+      if (bDoFilterExclude = true) and (bEntryChecked = true) then
+        bDoSkip := true
+
+      else if (bDoFilterExclude = false) and (bEntryChecked = true) then
+        bDoSkip := false
+
+      else if (bDoFilterExclude = false) and (bEntryChecked = false) then
+        bDoSkip := true;
+
+      if (bDoSkip = false) or (bDoFilter = false) then begin
+
+        jsonCEISMConverted := TJSONObject.Create;
+        jsonCEISMConverted.Owned := true;
+        ConvertCEISMToJSON(ceismToConvert, jsonCEISMConverted);
+        arrayjsonOutput.Add(jsonCEISMConverted).Owned := true;
+
+      end;
 
     end;
 

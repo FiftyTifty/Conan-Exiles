@@ -12,6 +12,7 @@ object formWindowSelectIncludeExclude: TformWindowSelectIncludeExclude
   Font.Style = []
   OldCreateOrder = False
   Position = poDesktopCenter
+  OnShow = FormShow
   PixelsPerInch = 96
   TextHeight = 13
   object formGroupFilter: TGroupBox
@@ -27,6 +28,7 @@ object formWindowSelectIncludeExclude: TformWindowSelectIncludeExclude
       Height = 17
       Caption = 'Not Currently Filtering Output'
       TabOrder = 0
+      OnClick = formDoFilterClick
     end
     object Memo1: TMemo
       Left = 16
@@ -57,6 +59,7 @@ object formWindowSelectIncludeExclude: TformWindowSelectIncludeExclude
       Height = 17
       Caption = 'Only Including Ticked ItemStatMods'
       TabOrder = 0
+      OnClick = formDoIncludeExcludeClick
     end
     object Memo2: TMemo
       Left = 16
