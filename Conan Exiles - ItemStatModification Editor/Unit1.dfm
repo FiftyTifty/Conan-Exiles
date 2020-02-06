@@ -288,7 +288,6 @@ object formWindow: TformWindow
       Top = 16
       Width = 339
       Height = 421
-      ReadOnly = True
       ScrollBars = ssVertical
       TabOrder = 0
     end
@@ -333,5 +332,59 @@ object formWindow: TformWindow
     TabOrder = 7
     Visible = False
     OnClick = buttonFilterClick
+  end
+  object ActionList1: TActionList
+    Left = 360
+    Top = 8
+    object actionTree_Alt_Up: TAction
+      Caption = 'actionTree_Alt_Up'
+      ShortCut = 32806
+      OnExecute = actionTree_Alt_UpExecute
+    end
+    object actionTree_Alt_Down: TAction
+      Caption = 'actionTree_Alt_Down'
+      ShortCut = 32808
+      OnExecute = actionTree_Alt_DownExecute
+    end
+    object actionEntries_Alt_1: TAction
+      Caption = 'actionEntries_Alt_1'
+      ShortCut = 32817
+      OnExecute = actionEntries_Alt_1Execute
+    end
+    object actionEntries_Alt_2: TAction
+      Caption = 'actionEntries_Alt_2'
+      ShortCut = 32818
+      OnExecute = actionEntries_Alt_2Execute
+    end
+    object actionEntries_Alt_3: TAction
+      Caption = 'actionEntries_Alt_3'
+      ShortCut = 32819
+      OnExecute = actionEntries_Alt_3Execute
+    end
+    object actionEntries_Alt_4: TAction
+      Caption = 'actionEntries_Alt_4'
+      ShortCut = 32820
+      OnExecute = actionEntries_Alt_4Execute
+    end
+    object actionEntries_Alt_5: TAction
+      Caption = 'actionEntries_Alt_5'
+      ShortCut = 32821
+      OnExecute = actionEntries_Alt_5Execute
+    end
+    object actionEntries_Alt_6: TAction
+      Caption = 'actionEntries_Alt_6'
+      ShortCut = 32822
+      OnExecute = actionEntries_Alt_6Execute
+    end
+    object actionEntries_Alt_7: TAction
+      Caption = 'actionEntries_Alt_7'
+      ShortCut = 32823
+      OnExecute = actionEntries_Alt_7Execute
+    end
+    object actionEntries_Alt_Space: TAction
+      Caption = 'actionEntries_Space'
+      ShortCut = 32800
+      OnExecute = actionEntries_Alt_SpaceExecute
+    end
   end
 end

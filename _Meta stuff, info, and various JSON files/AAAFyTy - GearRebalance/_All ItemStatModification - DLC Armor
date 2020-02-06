@@ -1,0 +1,1017 @@
+[
+    {
+        "RowName": "2545",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2546",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2547",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2548",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2549",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2550",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2551",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2552",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2553",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2554",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2555",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2556",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2557",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2558",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "2559",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3155",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3156",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3157",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3158",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3159",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3160",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3161",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3162",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3163",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3164",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3165",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3166",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3167",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3168",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "3169",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4110",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4111",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4112",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4113",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4114",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4116",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4118",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4121",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4122",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4123",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4124",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4125",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4126",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4127",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4128",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4129",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4130",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4131",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4132",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4133",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-2.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=2.000000)"
+        ]
+    },
+    {
+        "RowName": "4480",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4481",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4482",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4483",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4484",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4485",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4486",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4487",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4488",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "4489",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5155",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5156",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5157",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5158",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5159",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5160",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5161",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5162",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5163",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5164",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5165",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5166",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5167",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5168",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5169",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5695",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5696",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5697",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5698",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5699",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5700",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5701",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5702",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5703",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5704",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5705",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5706",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5707",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5708",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "5709",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6155",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6156",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6157",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6158",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6159",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6160",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6161",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6162",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6163",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6164",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=20,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6165",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6166",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6167",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6168",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "6169",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7155",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7156",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7157",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7158",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7159",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7160",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7161",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7162",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7163",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7164",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=14,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7165",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7166",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7167",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7168",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "7169",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8006",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-1.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8007",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-1.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8008",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-1.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8009",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-1.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8010",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-1.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8155",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8156",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8157",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8158",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8159",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8160",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8161",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8162",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8163",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8164",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8165",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8166",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8167",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8168",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8169",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8415",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=15,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8416",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=17,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8417",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=19,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8418",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=16,ModificationValue=1.000000)"
+        ]
+    },
+    {
+        "RowName": "8419",
+        "Modifications": [
+            "(IsFloatStatModification=True,OperatorID=Add,StatID=13,ModificationValue=-4.000000)",
+            "(IsFloatStatModification=False,OperatorID=Add,StatID=18,ModificationValue=1.000000)"
+        ]
+    }
+]

@@ -8,7 +8,7 @@ uses
   CommCtrl,
   djson, Vcl.ComCtrls, Vcl.StdCtrls, fytyConanExilesTypes, fytyConanExilesTypesFunctions,
   Form_ConanExiles_ItemStatModification_Entry,
-  Unit2;
+  Unit2, System.Actions, Vcl.ActnList;
 
   //Unit2 Is the filter window
 
@@ -31,6 +31,17 @@ type
     formResult: TMemo;
     buttonApply: TButton;
     buttonFilter: TButton;
+    ActionList1: TActionList;
+    actionTree_Alt_Up: TAction;
+    actionTree_Alt_Down: TAction;
+    actionEntries_Alt_1: TAction;
+    actionEntries_Alt_2: TAction;
+    actionEntries_Alt_3: TAction;
+    actionEntries_Alt_4: TAction;
+    actionEntries_Alt_5: TAction;
+    actionEntries_Alt_6: TAction;
+    actionEntries_Alt_7: TAction;
+    actionEntries_Alt_Space: TAction;
     procedure buttonLoadClick(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure CEValueOnKeyPress(
@@ -44,6 +55,16 @@ type
     procedure buttonSaveClick(Sender: TObject);
     procedure buttonFilterClick(Sender: TObject);
     procedure FormClose(Sender: TObject; var Action: TCloseAction);
+    procedure actionTree_Alt_UpExecute(Sender: TObject);
+    procedure actionTree_Alt_DownExecute(Sender: TObject);
+    procedure actionEntries_Alt_1Execute(Sender: TObject);
+    procedure actionEntries_Alt_2Execute(Sender: TObject);
+    procedure actionEntries_Alt_3Execute(Sender: TObject);
+    procedure actionEntries_Alt_4Execute(Sender: TObject);
+    procedure actionEntries_Alt_5Execute(Sender: TObject);
+    procedure actionEntries_Alt_6Execute(Sender: TObject);
+    procedure actionEntries_Alt_7Execute(Sender: TObject);
+    procedure actionEntries_Alt_SpaceExecute(Sender: TObject);
   private
     { Private declarations }
   public
@@ -57,7 +78,7 @@ var
   formWindow: TformWindow;
   listEntries: TList<TForm_ConanExiles_ItemStatModification_Entry>;
   tstrlistFloatIDs, tstrlistFloatNames, tstrlistIntIDs, tstrlistIntNames,
-  tstrlistItemIDs, tstrlistItemNames: TStringList;
+  tstrlistItemIDs, tstrlistItemNames, tstrlistKeysEntries: TStringList;
   djsonDataTable: TDJSON;
   listCEItemStatModification: TObjectList<CEItemStatModification>;
 
@@ -91,6 +112,141 @@ begin
   end;
 end;
 
+
+procedure TformWindow.actionEntries_Alt_1Execute(Sender: TObject);
+begin
+  
+  if formTree.Selected <> nil then begin
+  
+    if listEntries[0].formEnabled.Checked then
+      listEntries[0].formEnabled.Checked := false
+    else
+      listEntries[0].formEnabled.Checked := true;
+  end;
+  
+end;
+
+procedure TformWindow.actionEntries_Alt_2Execute(Sender: TObject);
+begin
+  
+  if formTree.Selected <> nil then begin
+  
+    if listEntries[1].formEnabled.Checked then
+      listEntries[1].formEnabled.Checked := false
+    else
+      listEntries[1].formEnabled.Checked := true;
+  end;
+  
+end;
+
+procedure TformWindow.actionEntries_Alt_3Execute(Sender: TObject);
+begin
+  
+  if formTree.Selected <> nil then begin
+  
+    if listEntries[2].formEnabled.Checked then
+      listEntries[2].formEnabled.Checked := false
+    else
+      listEntries[2].formEnabled.Checked := true;
+  end;
+  
+end;
+
+procedure TformWindow.actionEntries_Alt_4Execute(Sender: TObject);
+begin
+  
+  if formTree.Selected <> nil then begin
+  
+    if listEntries[3].formEnabled.Checked then
+      listEntries[3].formEnabled.Checked := false
+    else
+      listEntries[3].formEnabled.Checked := true;
+  end;
+  
+end;
+
+
+
+procedure TformWindow.actionEntries_Alt_5Execute(Sender: TObject);
+begin
+  
+  if formTree.Selected <> nil then begin
+  
+    if listEntries[4].formEnabled.Checked then
+      listEntries[4].formEnabled.Checked := false
+    else
+      listEntries[4].formEnabled.Checked := true;
+  end;
+  
+end;
+
+procedure TformWindow.actionEntries_Alt_6Execute(Sender: TObject);
+begin
+  
+  if formTree.Selected <> nil then begin
+  
+    if listEntries[5].formEnabled.Checked then
+      listEntries[5].formEnabled.Checked := false
+    else
+      listEntries[5].formEnabled.Checked := true;
+  end;
+  
+end;
+
+procedure TformWindow.actionEntries_Alt_7Execute(Sender: TObject);
+begin
+  
+  if formTree.Selected <> nil then begin
+  
+    if listEntries[6].formEnabled.Checked then
+      listEntries[6].formEnabled.Checked := false
+    else
+      listEntries[6].formEnabled.Checked := true;
+  end;
+  
+end;
+
+procedure TformWindow.actionEntries_Alt_SpaceExecute(Sender: TObject);
+begin
+  if formTree.Selected <> nil then
+    buttonApply.Click;
+end;
+
+procedure TformWindow.actionTree_Alt_DownExecute(Sender: TObject);
+var
+  iNodeIndex: integer;
+begin
+  //ShowMessage('Alt+Down pressed!');
+
+  if formTree.Items.Count = 0 then
+    exit;
+
+  iNodeIndex := formTree.Selected.Index;
+
+  if (formTree.Selected = nil) then
+    formTree.Selected := formTree.Items[0]
+  else if formTree.Selected <> formTree.Items[formTree.Items.Count - 1] then
+    formTree.Selected := formTree.Items[iNodeIndex + 1];
+    
+end;
+
+procedure TformWindow.actionTree_Alt_UpExecute(Sender: TObject);
+var
+  iNodeIndex: integer;
+begin
+  //ShowMessage('Alt+Up pressed!');
+
+  if formTree.Items.Count = 0 then
+    exit;
+
+  iNodeIndex := formTree.Selected.Index;
+
+  if (formTree.Selected = nil) then
+    formTree.Selected := formTree.Items[formTree.Items.Count - 1]
+  else if formTree.Selected <> formTree.Items[0] then
+    formTree.Selected := formTree.Items[iNodeIndex - 1];
+    
+end;
 
 procedure TformWindow.buttonApplyClick(Sender: TObject);
 var
@@ -202,7 +358,6 @@ begin
     //ShowMessage('Iteration number: '+ iCounter.ToString);
     try
     ceismToAdd := CEItemStatModification.Create;
-    ceismToAdd.Owned := true;
     ceismToAdd.Modifications := TStringList.Create;
     except
       ShowMessage('Failed creating CEItemStatModification object!');
@@ -221,6 +376,7 @@ begin
     //ShowMessage('Added RowName to entry! '+ ceismToAdd.RowName);
     try
       listCEItemStatModification.Add(ceismToAdd);
+      ceismToAdd.Owned := true;
     except
       ShowMessage('Failed to add ItemStatModification to master list! ' + ceismToAdd.RowName);
     end;
@@ -260,13 +416,17 @@ var
   jsonCEISMConverted: TJSONObject;
   arrayjsonOutput: TJSONArray;
   iIndex: integer;
-  bDoFilter, bDoFilterExclude, bDoSkip, bEntryChecked: Boolean;
+  bDoFilter, bDoFilterInclude, bDoSkip, bEntryChecked: Boolean;
 begin
+
+  formResult.Lines.Clear;
 
   arrayjsonOutput := TJSONArray.Create;
 
-  bDoFilter := formWindowSelectIncludeExclude.formDoFilter.Checked;
-  bDoFilterExclude := formWindowSelectIncludeExclude.formDoIncludeExclude.Checked;
+  bDoFilter := Unit2.formWindowSelectIncludeExclude.formDoFilter.Checked;
+  ShowMessage(BoolToStr(bDoFilter, True));
+  bDoFilterInclude := Unit2.formWindowSelectIncludeExclude.formDoIncludeExclude.Checked;
+  ShowMessage(BoolToStr(bDoFilterInclude, True));
 
   try
 
@@ -276,24 +436,28 @@ begin
 
       iIndex := listCEItemStatModification.IndexOf(ceismToConvert);
 
-      if (bDoFilter = true) then
+      if (bDoFilter = true) then begin
+
         bEntryChecked := formWindowSelectIncludeExclude.formListFilter.Checked[iIndex];
 
-      if (bDoFilterExclude = true) and (bEntryChecked = true) then
-        bDoSkip := true
+        if (bDoFilterInclude = true) and (bEntryChecked = false) then
+          bDoSkip := true;
 
-      else if (bDoFilterExclude = false) and (bEntryChecked = true) then
-        bDoSkip := false
+        if (bDoFilterInclude = false) and (bEntryChecked = true) then
+          bDoSkip := true;
 
-      else if (bDoFilterExclude = false) and (bEntryChecked = false) then
-        bDoSkip := true;
+        if (bDoFilterInclude = true) and (bEntryChecked = true) then
+          bDoSkip := false;
 
-      if (bDoSkip = false) or (bDoFilter = false) then begin
+      end;
+
+
+      if (bDoSkip = false) then begin
 
         jsonCEISMConverted := TJSONObject.Create;
-        jsonCEISMConverted.Owned := true;
         ConvertCEISMToJSON(ceismToConvert, jsonCEISMConverted);
-        arrayjsonOutput.Add(jsonCEISMConverted).Owned := true;
+        arrayjsonOutput.Add(jsonCEISMConverted);
+        jsonCEISMConverted.Owned := true;
 
       end;
 
@@ -324,6 +488,8 @@ begin
 
   tstrlistItemIDs.Free;
   tstrlistItemNames.Free;
+
+  tstrlistKeysEntries.Free;
 
   try
    listCEItemStatModification.Free;
@@ -376,8 +542,55 @@ begin
   listEntries.Add(Form_ConanExiles_ItemStatModification_Entry5);
   listEntries.Add(Form_ConanExiles_ItemStatModification_Entry6);
 
+  tstrlistKeysEntries := TStringList.Create;
+  tstrlistKeysEntries.Add('1');
+  tstrlistKeysEntries.Add('2');
+  tstrlistKeysEntries.Add('3');
+  tstrlistKeysEntries.Add('4');
+  tstrlistKeysEntries.Add('5');
+  tstrlistKeysEntries.Add('6');
+  tstrlistKeysEntries.Add('7');
+
 
 end;
+
+{
+procedure TformWindow.FormKeyDown(Sender: TObject; var Key: Word;
+  Shift: TShiftState);
+var
+  iNodeIndex, iKey, iKeyIndex: integer;
+begin
+
+  if formTree.Items.Count = 0 then
+    exit;
+
+  if (formTree.Selected <> nil) then begin
+    //ShowMessage('formTree.Selected has a node!');
+
+    iKeyIndex := tstrlistKeysEntries.IndexOf(Key.ToString);
+
+    iNodeIndex := formTree.Selected.Index;
+
+    if (Key = vk_Up) and (Shift = [ssAlt]) then
+      if (formTree.Items[0] <> formTree.Selected) and (iNodeIndex > 0) then
+        formTree.Selected := formTree.Items[iNodeIndex - 1];
+
+    if (Key = vk_Down) and (Shift = [ssAlt]) then
+      if (formTree.Items[formTree.Items.Count - 1] <> formTree.Selected) then
+        formTree.Selected := formTree.Items[iNodeIndex + 1];
+
+    if (iKeyIndex >= 0) and (Shift = [SSAlt]) then
+      if (listEntries[iKeyIndex].formEnabled.Checked = false) then
+        listEntries[iKeyIndex].formEnabled.Checked := true
+      else
+        listEntries[iKeyIndex].formEnabled.Checked := false;
+
+  end
+  else if (Key = vk_up) and (Shift = [SSAlt]) then
+    formTree.Selected := formTree.Items[0];
+
+end;
+}
 
 procedure ResetAllEntries;
 var

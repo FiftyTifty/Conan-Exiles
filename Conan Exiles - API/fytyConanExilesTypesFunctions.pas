@@ -170,11 +170,9 @@ implementation
   var
     arrayjsonMods: TJSONArray;
     strMod: string;
-    strjsonMod: TJSONString;
   begin
 
     arrayjsonMods := TJSONArray.Create;
-    arrayjsonMods.Owned := true;
 
     tjsonConverted.AddPair('RowName', ceismToConvert.RowName);
 

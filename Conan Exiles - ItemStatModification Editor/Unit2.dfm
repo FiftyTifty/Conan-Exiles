@@ -26,7 +26,7 @@ object formWindowSelectIncludeExclude: TformWindowSelectIncludeExclude
       Top = 16
       Width = 193
       Height = 17
-      Caption = 'Not Currently Filtering Output'
+      Caption = 'Not filtering outpt'
       TabOrder = 0
       OnClick = formDoFilterClick
     end
@@ -57,7 +57,7 @@ object formWindowSelectIncludeExclude: TformWindowSelectIncludeExclude
       Top = 16
       Width = 193
       Height = 17
-      Caption = 'Only Including Ticked ItemStatMods'
+      Caption = 'Only excluding ticked entries'
       TabOrder = 0
       OnClick = formDoIncludeExcludeClick
     end
