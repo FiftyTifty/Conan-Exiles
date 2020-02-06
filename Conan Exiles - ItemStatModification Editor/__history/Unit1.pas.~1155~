@@ -423,10 +423,10 @@ begin
 
   arrayjsonOutput := TJSONArray.Create;
 
-  bDoFilter := formWindowSelectIncludeExclude.formDoFilter.Checked;
-  ShowMessage(bDoFilter);
-  bDoFilterInclude := formWindowSelectIncludeExclude.formDoIncludeExclude.Checked;
-  ShowMessage(bDoFilterInclude);
+  bDoFilter := Unit2.formWindowSelectIncludeExclude.formDoFilter.Checked;
+  ShowMessage(BoolToStr(bDoFilter, True));
+  bDoFilterInclude := Unit2.formWindowSelectIncludeExclude.formDoIncludeExclude.Checked;
+  ShowMessage(BoolToStr(bDoFilterInclude, True));
 
   try
 
@@ -436,14 +436,20 @@ begin
 
       iIndex := listCEItemStatModification.IndexOf(ceismToConvert);
 
-      if (bDoFilter = true) then
-        bEntryChecked := formWindowSelectIncludeExclude.formListFilter.Checked[iIndex]
-      else if (bDoFilterInclude = true) and (bEntryChecked = false) then
-        bDoSkip := true
-      else if (bDoFilterInclude = false) and (bEntryChecked = true) then
-        bDoSkip := true
-      else if (bDoFilterInclude = true) and (bEntryChecked = true) then
-        bDoSkip := false;
+      if (bDoFilter = true) then begin
+
+        bEntryChecked := formWindowSelectIncludeExclude.formListFilter.Checked[iIndex];
+
+        if (bDoFilterInclude = true) and (bEntryChecked = false) then
+          bDoSkip := true;
+
+        if (bDoFilterInclude = false) and (bEntryChecked = true) then
+          bDoSkip := true;
+
+        if (bDoFilterInclude = true) and (bEntryChecked = true) then
+          bDoSkip := false;
+
+      end;
 
 
       if (bDoSkip = false) then begin

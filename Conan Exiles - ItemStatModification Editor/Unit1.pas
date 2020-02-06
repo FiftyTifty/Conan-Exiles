@@ -337,7 +337,7 @@ begin
   buttonSave.Visible := false;
 
   djsonDataTable := TdJSON.Parse(formWindow.formSource.Lines.Text);
-  ShowMessage('Starting loop!');
+  //ShowMessage('Starting loop!');
 
   try
   if listCEItemStatModification.Count > 0 then begin
@@ -424,9 +424,9 @@ begin
   arrayjsonOutput := TJSONArray.Create;
 
   bDoFilter := Unit2.formWindowSelectIncludeExclude.formDoFilter.Checked;
-  ShowMessage(BoolToStr(bDoFilter, True));
+  //ShowMessage(BoolToStr(bDoFilter, True));
   bDoFilterInclude := Unit2.formWindowSelectIncludeExclude.formDoIncludeExclude.Checked;
-  ShowMessage(BoolToStr(bDoFilterInclude, True));
+  //ShowMessage(BoolToStr(bDoFilterInclude, True));
 
   try
 
@@ -470,7 +470,7 @@ begin
     //jsonCEISMConverted.Free;
   finally
 
-    ShowMessage('Wrote JSON to formResult!');
+    //ShowMessage('Wrote JSON to formResult!');
   end;
 
   arrayjsonOutput.free;
