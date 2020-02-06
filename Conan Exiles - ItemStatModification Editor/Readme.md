@@ -1,3 +1,33 @@
+Note: These hotkeys will work regardless of the current active part of the UI.
+
+Using these, you can control any part of the main window without losing focus of the part of the UI you're currently working.
+
+E.g, selecting filters using up, down, and spacebar, while at the same time editing ItemStatModification entries with the Alt hotkeys.
+
+=Hotkeys=
+
+Alt+Up: Go up 1 item in the tree list
+
+Alt+Down: Go down 1 item in the tree list
+
+Alt+1: Toggle on/off modification entry #1
+
+Alt+2: Toggle on/off modification entry #2
+
+Alt+3: Toggle on/off modification entry #3
+
+Alt+4: Toggle on/off modification entry #4
+
+Alt+5: Toggle on/off modification entry #5
+
+Alt+6: Toggle on/off modification entry #6
+
+Alt+7: Toggle on/off modification entry #7
+
+Alt+Space: Apply changes made to the modification entries
+
+
+=Instructions=
 Using this program is very simple.
 
 1. In the Devkit, open any table that uses the Item Stat Modification row type
