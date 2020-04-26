@@ -18,6 +18,8 @@ type
     procedure FormShow(Sender: TObject);
     procedure formDoFilterClick(Sender: TObject);
     procedure formDoIncludeExcludeClick(Sender: TObject);
+    procedure formListFilterKeyDown(Sender: TObject; var Key: Word;
+      Shift: TShiftState);
   private
     { Private declarations }
   public
@@ -54,6 +56,20 @@ begin
     formDoIncludeExclude.Caption := strIncludeTrue
   else
     formDoIncludeExclude.Caption := strIncludeFalse;
+end;
+
+procedure TformWindowSelectIncludeExclude.formListFilterKeyDown(Sender: TObject;
+  var Key: Word; Shift: TShiftState);
+var
+  iCounter: integer;
+begin
+
+  if (Key = vk_Space) and not (Shift = [ssAlt]) then
+    for iCounter := 0 to formListFilter.Count - 1 do begin
+      if (formListFilter.Selected[iCounter]) and (formListFilter.ItemIndex <> iCounter) then
+        formListFilter.Checked[iCounter] := not formListFilter.Checked[iCounter];
+    end;
+
 end;
 
 procedure TformWindowSelectIncludeExclude.FormShow(Sender: TObject);

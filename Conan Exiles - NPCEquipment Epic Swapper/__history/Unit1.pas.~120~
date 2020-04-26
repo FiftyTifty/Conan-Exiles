@@ -1,0 +1,184 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Generics.Collections,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, System.JSON, rest.JSON,
+  djson,
+  fytyConanExilesTypes;
+
+type
+  TformWindow = class(TForm)
+    formSource: TMemo;
+    formResult: TMemo;
+    formButton: TButton;
+    procedure formButtonClick(Sender: TObject);
+    procedure FormShow(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  formWindow: TformWindow;
+  listCEEquipmentTemplate: TObjectList<CEEquipmentTemplate>;
+  tstrlistItemIDs, tstrlistItemNames: tstringlist;
+
+implementation
+
+{$R *.dfm}
+
+procedure ConvertAllInListToEpic;
+var
+  ceetCurrent: CEEquipmentTemplate;
+  tstrlistEquipmentSlot: TStringList;
+  strItemID, strItemName, strItemNorm, strItemEpic, strNewItemID: string;
+  iCounter, iPosItem, iPosNorm, iPosEpic: integer;
+begin
+
+  for ceetCurrent in listCEEquipmentTemplate do begin
+
+    for tstrlistEquipmentSlot in ceetCurrent do begin
+
+      for strItemID in tstrlistEquipmentSlot do begin
+
+        iPosItem := tstrlistItemIDs.IndexOf(strItemID);
+
+        if iPosItem >= 0 then begin
+
+         //Begin actual work now
+
+          strItemName := tstrlistItemNames[iPosItem];
+
+          for iCounter := 0 to tstrlistItemNames.Count - 1 do begin
+
+            if tstrlistItemNames[iCounter] = strItemName then
+              iPosNorm := iCounter;
+
+            if strItemName = strItemNorm then
+              break;
+
+          end;
+
+          for iCounter := tstrlistItemNames.Count - 1 downto 0 do begin
+            if tstrlistItemNames[iCounter] = strItemName then
+
+              iPosEpic := iCounter;
+
+            if strItemName = strItemEpic then
+              break;
+
+          end;
+
+
+
+          //End actual work now
+
+        end;
+
+
+      end;
+
+    end;
+
+  end;
+
+end;
+
+procedure TformWindow.formButtonClick(Sender: TObject);
+var
+  djsonList, djsonEntry, djsonMainHand, djsonOffHand, djsonHelmet,
+  djsonTorso, djsonLegs, djsonHands, djsonFeet, djsonBackpack: TdJson;
+  strDurability: string;
+  ceetToAdd: CEEquipmentTemplate;
+begin
+
+  djsonList := TdJSON.Parse(formSource.Text);
+
+  try
+  if listCEEquipmentTemplate.Count > 0 then begin
+
+    listCEEquipmentTemplate.Free;
+    //listCEItemStatModification.Clear;
+    listCEEquipmentTemplate := TObjectList<CEEquipmentTemplate>.Create;
+
+  end;
+  except
+    ShowMessage('Cleanup of listCEItemStatModification failed!');
+  end;
+
+  //Cleared pre-existing shit
+
+  for djsonEntry in djsonList do begin
+
+    try
+      ceetToAdd := CEEquipmentTemplate.Create;
+    except
+      ShowMessage('Failed to create a CEEquipmentTemplate!');
+    end;
+
+    for djsonMainHand in djsonEntry['MainHand'] do begin
+      ceetToAdd.MainHand.Add(djsonMainHand.AsString);
+    end;
+
+    for djsonOffHand in djsonEntry['OffHand'] do begin
+      ceetToAdd.OffHand.Add(djsonOffHand.AsString);
+    end;
+
+    for djsonHelmet in djsonEntry['Helmet'] do begin
+      ceetToAdd.Helmet.Add(djsonOffHand.AsString);
+    end;
+
+    for djsonTorso in djsonEntry['Torso'] do begin
+      ceetToAdd.Torso.Add(djsonTorso.AsString);
+    end;
+
+    for djsonLegs in djsonEntry['Legs'] do begin
+      ceetToAdd.Legs.Add(djsonLegs.AsString);
+    end;
+
+    for djsonHands in djsonEntry['Hands'] do begin
+      ceetToAdd.Hands.Add(djsonHands.AsString);
+    end;
+
+    for djsonFeet in djsonEntry['Feet'] do begin
+      ceetToAdd.Feet.Add(djsonFeet.AsString);
+    end;
+
+    for djsonBackpack in djsonEntry['Backpack'] do begin
+      ceetToAdd.Backpack.Add(djsonBackpack.AsString);
+    end;
+
+    strDurability := djsonEntry['Durability'].AsString;
+
+    try
+      listCEEquipmentTemplate.Add(ceetToAdd);
+      ceetToAdd.Owned := true;
+    except
+      ShowMessage('Failed to add ItemStatModification to master list! ' + ceetToAdd.RowName);
+    end;
+
+  end;
+
+  djsonList.Free;
+
+
+end;
+
+procedure TformWindow.FormShow(Sender: TObject);
+begin
+
+  listCEEquipmentTemplate := TObjectList<CEEquipmentTemplate>.create;
+
+  tstrlistItemIDs := TStringList.Create;
+  tstrlistItemNames := TStringList.Create;
+
+  tstrlistItemIDs.LoadFromFile(IncludeTrailingPathDelimiter(GetCurrentDir) + '_All Item IDs.txt');
+  tstrlistItemNames.LoadFromFile(IncludeTrailingPathDelimiter(GetCurrentDir) + '_All Item Names.txt');
+
+end;
+
+end.

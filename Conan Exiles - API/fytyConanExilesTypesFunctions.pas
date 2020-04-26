@@ -240,4 +240,9 @@ begin
 
 end;
 
+  procedure ConvertCEETToJSON(ceetToConvert: CEEquipmentTemplate; tjsonConverted: TJSONObject);
+  begin
+
+  end;
+
 end.

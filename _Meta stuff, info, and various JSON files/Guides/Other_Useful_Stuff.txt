@@ -58,6 +58,9 @@ By EZEE_AP: (A way to load new maps on a dedicated server)
 https://cdn.discordapp.com/attachments/273869365353644032/534831885424263168/MapPatch.zip
 or here: https://steamcommunity.com/sharedfiles/filedetails/?id=1625854669
 
+By W0RP: (A calculator for building things)
+https://www.reddit.com/r/ConanExiles/comments/ej0hag/introducing_the_conan_conquering_calculator/
+
 ----------------------------------------------------------------------
 Guides by modders
 ----------------------------------------------------------------------

@@ -21,14 +21,5 @@ implementation
 
 {$R *.dfm}
 
-procedure TForm_ConanExiles_RecipeTree.TreeView1CustomDrawItem(
-  Sender: TCustomTreeView; nodeBeingDrawn: TTreeNode; State: TCustomDrawState;
-  var DefaultDraw: Boolean);
-begin
-
-  if nodeBeingDrawn. then
-
-
-end;
 
 end.

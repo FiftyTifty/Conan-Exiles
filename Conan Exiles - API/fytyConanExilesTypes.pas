@@ -301,6 +301,43 @@ type
     constructor Create;
     destructor Destroy; override;
   end;
+	
+	CEEquipmentTemplate = class
+		public
+    [JsonName('RowName')]
+    RowName : string;
+		public
+    [JsonName('MainHand')]
+    MainHand : TStringList;
+		public
+    [JsonName('OffHand')]
+    OffHand : TStringList;
+		public
+    [JsonName('Helmet')]
+    Helmet : TStringList;
+		public
+    [JsonName('Torso')]
+    Torso : TStringList;
+		public
+    [JsonName('Legs')]
+    Legs : TStringList;
+		public
+    [JsonName('Hands')]
+    Hands : TStringList;
+		public
+    [JsonName('Feet')]
+    Feet : TStringList;
+		public
+    [JsonName('Backpack')]
+    Backpack : TStringList;
+		public
+    [JsonName('Durability')]
+    Durability : string;
+    Owned : Boolean;
+		published
+    constructor Create;
+    destructor Destroy; override;
+	end;
 
   ptrCEItemStatModification = ^CEItemStatModification;
 
@@ -317,6 +354,34 @@ implementation
   begin
     //ShowMessage('Destroyed object!');
     Modifications.Free;
+    inherited Destroy;
+  end;
+	
+  constructor CEEquipmentTemplate.Create;
+  begin
+    //ShowMessage('Created TStringList!');
+    inherited Create;
+    MainHand := TStringList.Create;
+		OffHand := TStringList.Create;
+		Helmet := TStringList.Create;
+		Torso := TStringList.Create;
+		Legs := TStringList.Create;
+		Hands := TStringList.Create;
+		Feet := TStringList.Create;
+		Backpack := TStringList.Create;
+  end;
+
+  destructor CEEquipmentTemplate.Destroy;
+  begin
+    //ShowMessage('Destroyed object!');
+    MainHand.Free;
+		OffHand.Free;
+		Helmet.Free;
+		Torso.Free;
+		Legs.Free;
+		Hands.Free;
+		Feet.Free;
+		Backpack.Free;
     inherited Destroy;
   end;
 

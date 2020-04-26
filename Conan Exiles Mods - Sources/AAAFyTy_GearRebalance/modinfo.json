@@ -1,9 +1,9 @@
 {
-	"name": "AAAFyTy_GearRebalance",
-	"description": "",
+	"name": "Weapen And Armour Overhaul",
+	"description": "Completely overhauls the equipment in the game.\n\n- Axes apply bleed and cripple\n- Maces apply cripple and sunder\n- Temperature effects are now dependent on the appearance of the armour\n- Temperature stats are now only +/- 1, except for special items\n- Non-epic equipment is removed, replaced with their epic counterparts\n- Recipes have been completely overhauled, ingredients now depend on the visuals of the piece of equipment.",
 	"changeNote": "",
-	"author": "",
-	"authorUrl": "",
+	"author": "FifyTifty",
+	"authorUrl": "https://steamcommunity.com/profiles/76561198065531264/",
 	"versionMajor": 1,
 	"versionMinor": 0,
 	"versionBuild": 0,

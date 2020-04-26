@@ -27,3 +27,48 @@ KBDefense - 80
 MonsterHealth - 4500
 MonsterArmor - 72
 KBDefense - 50
+
+=NPC_Elephant=
+MosterHealth - 3610
+MonsterArmor - 59
+KBDefense - 250
+
+=NPC_AlphaElephant=
+MonsterHealth - 7220
+MonsterArmor - 84
+KBDefense - 450
+
+=NPC_RhinoBlack=
+MonsterHealth - 4890
+MonsterArmor - 100
+KBDefense - 250
+
+=NPC_Rocknose=
+MonsterHealth - 600
+MonsterArmor - 200
+KBDefense - 1000
+
+=NPC_Crocodile=
+MonsterHealth - 800
+MonsterArmor - 100
+KBDefense - 200
+
+==NPC_DeathKnightBoss=
+MonsterHealth - 11830
+MonsterArmor - 300
+KBDefense - 100
+
+==NPC_DeepOne==
+MonsterHealth - 3500
+MonsterArmor - 70
+KBDefense - 70
+
+=NPC_Kappa=
+MonsterHealth - 800
+MonsterArmor - 150
+KBDefense - 100
+
+=NPC_Spider=
+MonsterHealth - 300
+MonsterArmor - 22
+KBDefense - 0

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/24 00:53:40.000.980,=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/24 18:35:34.000.963,=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/24 18:37:49.000.428,H:\Documents\Embarcadero\Studio\Projects\Project1.dproj=H:\Documents\Embarcadero\Studio\Projects\ConanExilesNPCEquipmentEpicSwapper.dproj</Transaction>
+    <Transaction>2020/04/24 18:42:25.000.538,H:\Documents\Embarcadero\Studio\Projects\Unit1.pas=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - NPCEquipment Epic Swapper\Unit1.pas</Transaction>
+    <Transaction>2020/04/24 18:42:25.000.538,H:\Documents\Embarcadero\Studio\Projects\Unit1.dfm=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - NPCEquipment Epic Swapper\Unit1.dfm</Transaction>
+    <Transaction>2020/04/24 18:44:16.000.260,=H:\Documents\Embarcadero\Studio\Projects\_Library - delphi-json-master\djson.pas</Transaction>
+    <Transaction>2020/04/24 18:58:45.000.088,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - API\fytyConanExilesTypes.pas</Transaction>
+    <Transaction>2020/04/24 18:58:54.000.390,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - API\fytyConanExilesTypesFunctions.pas</Transaction>
+    <Transaction>2020/04/24 18:59:17.000.415,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - Delphi Forms\Form_ConanExiles_RecipeTree.pas</Transaction>
+    <Transaction>2020/04/24 18:59:17.000.380,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - Delphi Forms\Form_ConanExiles_ItemStatModification_Entry.pas</Transaction>
+    <Transaction>2020/04/24 18:59:17.000.318,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - Delphi Forms\Form_ConanExiles_EquipmentTemplate.pas</Transaction>
+    <Transaction>2020/04/24 19:14:19.000.891,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - API\fytyConanExilesTypes.pas=</Transaction>
+    <Transaction>2020/04/24 19:14:22.000.577,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - API\fytyConanExilesTypesFunctions.pas=</Transaction>
+    <Transaction>2020/04/24 19:14:27.000.980,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - Delphi Forms\Form_ConanExiles_EquipmentTemplate.pas=</Transaction>
+    <Transaction>2020/04/24 19:14:30.000.788,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - Delphi Forms\Form_ConanExiles_ItemStatModification_Entry.pas=</Transaction>
+    <Transaction>2020/04/24 19:14:34.000.403,H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - Delphi Forms\Form_ConanExiles_RecipeTree.pas=</Transaction>
+    <Transaction>2020/04/24 19:16:03.000.167,H:\Documents\Embarcadero\Studio\Projects\ConanExilesNPCEquipmentEpicSwapper.dproj=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - NPCEquipment Epic Swapper\ConanExilesNPCEquipmentEpicSwapper.dproj</Transaction>
+    <Transaction>2020/04/25 02:41:21.000.165,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - API\fytyConanExilesTypes.pas</Transaction>
+    <Transaction>2020/04/25 02:42:05.000.498,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - API\fytyConanExilesTypesFunctions.pas</Transaction>
+    <Transaction>2020/04/25 02:42:25.000.224,=H:\Documents\Embarcadero\Studio\Projects\Conan Exiles\Conan Exiles - Delphi Forms\Form_ConanExiles_ItemStatModification_Entry.pas</Transaction>
+  </Transactions>
+</BorlandProject>

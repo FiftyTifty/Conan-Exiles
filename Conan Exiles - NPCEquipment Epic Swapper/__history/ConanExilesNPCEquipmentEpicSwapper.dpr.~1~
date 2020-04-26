@@ -1,0 +1,15 @@
+program ConanExilesNPCEquipmentEpicSwapper;
+
+uses
+  Vcl.Forms,
+  Unit1 in 'Unit1.pas' {formWindow},
+  djson in '..\..\_Library - delphi-json-master\djson.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TformWindow, formWindow);
+  Application.Run;
+end.
